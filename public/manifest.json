@@ -1,0 +1,23 @@
+{
+  "name": "Eclavin - WSET Mastery",
+  "short_name": "Eclavin",
+  "description": "The Definitive WSET Level 1, 2, 3 Exam Preparation Platform. 500+ Practice Questions and Expert Theories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

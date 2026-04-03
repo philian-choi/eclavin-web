@@ -1,0 +1,174 @@
+'use client';
+
+import { motion, AnimatePresence } from 'framer-motion';
+import { Episode } from '@/lib/episodes';
+import Link from 'next/link';
+import { ArrowLeft, ArrowRight } from 'lucide-react';
+import { useStore } from '@/lib/store';
+import { useSearchParams } from 'next/navigation';
+import { getTranslations, Language } from '@/constants/translations';
+import { useEpisodeQuiz } from '@/hooks/useEpisodeQuiz';
+
+export default function EpisodeClient({ episode, initialLang }: { episode: Episode, initialLang?: string }) {
+  const { language: storedLang } = useStore();
+  const searchParams = useSearchParams();
+  const lang = (searchParams.get('lang') || initialLang || storedLang || 'ko') as Language;
+  const t = getTranslations(lang);
+
+  const {
+    selected,
+    isCorrect,
+    mounted,
+    showSwipeHint,
+    setShowSwipeHint,
+    explanationRef,
+    hasNext,
+    hasPrev,
+    getUrl,
+    handleSelect,
+    navigateNext,
+    navigatePrev
+  } = useEpisodeQuiz(episode, lang);
+
+  return (
+    <article className="episode-container">
+      <header className="episode-header">
+        <Link href={`/?lv=${episode.level}&lang=${lang}`}>
+           <button className="pill-btn" style={{ padding: '0.6rem 1.2rem', fontSize: '0.9rem', gap: '8px', border: 'none', backgroundColor: 'var(--bg-secondary)' }}>
+             <ArrowLeft size={16} /> {t.back}
+           </button>
+        </Link>
+        <span className="episode-badge">
+           L{episode.level} • Ep {episode.number}
+        </span>
+      </header>
+
+      <motion.div 
+        drag="x" 
+        dragConstraints={{ left: 0, right: 0 }} 
+        dragElastic={0.4} 
+        onDragEnd={(_, info) => {
+          if (info.offset.x < -50 && hasNext) navigateNext();
+          else if (info.offset.x > 50 && hasPrev) navigatePrev();
+        }} 
+        style={{ touchAction: 'pan-y' }}
+        whileTap={{ cursor: 'grabbing' }}
+      >
+        <section aria-labelledby="episode-question">
+          <h2 id="episode-question" className="font-heading question-text">
+            {episode.question}
+          </h2>
+
+          <div className="options-list">
+            {episode.options.map((option) => {
+              const isSelected = selected === option.label;
+              const isCorrectOption = episode.answer.startsWith(option.label);
+              let statusClass = '';
+              if (selected) {
+                if (isCorrectOption) statusClass = 'correct';
+                else if (isSelected && !isCorrect) statusClass = 'incorrect';
+              }
+              return (
+                <motion.button 
+                  key={option.label}
+                  onClick={() => handleSelect(option.label)}
+                  className={`quiz-option-btn ${statusClass}`}
+                  whileTap={{ scale: 0.99 }}
+                  animate={isSelected && !isCorrect ? { x: [-8, 8, -8, 8, 0] } : {}} 
+                  transition={{ duration: 0.4 }}
+                >
+                  <div style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>
+                     <span className="option-key">{option.label}.</span>
+                     <span style={{ flex: 1, lineHeight: '1.5', textAlign: 'left' }}>{option.text}</span>
+                  </div>
+                </motion.button>
+              );
+            })}
+          </div>
+
+          {mounted && !selected && <p className="keyboard-hint">{t.keyHint}</p>}
+        </section>
+
+        <AnimatePresence>
+          {selected && (
+            <section ref={explanationRef} className="explanation-area animate-slide-up">
+              <div className="quiz-explanation" style={{ borderLeft: isCorrect ? '4px solid var(--success-border)' : '4px solid var(--error-border)' }}>
+                 <h4 className="font-heading" style={{ color: isCorrect ? 'var(--success-color)' : 'var(--error-color)', fontSize: '1.4rem', marginBottom: '0.8rem' }}>
+                    {isCorrect ? t.correct : t.incorrect}
+                 </h4>
+                 <p>{episode.explanation}</p>
+              </div>
+
+              {episode.theory && (
+                <div className="quiz-explanation" style={{ backgroundColor: 'transparent', border: '1px solid var(--border-light)' }}>
+                   <h4 className="font-heading" style={{ color: 'var(--text-primary)', marginBottom: '0.8rem' }}>{t.expert}</h4>
+                   <p style={{ whiteSpace: 'pre-wrap', color: 'var(--text-secondary)' }}>{episode.theory}</p>
+                </div>
+              )}
+
+              {episode.tip && (
+                <aside className="quiz-explanation" style={{ backgroundColor: 'var(--text-primary)', color: 'var(--bg-primary)' }}>
+                   <h4 className="font-heading" style={{ color: 'var(--bg-primary)', marginBottom: '0.8rem' }}>{t.tip}</h4>
+                   <p style={{ opacity: 0.9 }}>{episode.tip}</p>
+                </aside>
+              )}
+            
+              <footer className="nav-footer-row">
+                 <Link href={hasPrev ? getUrl(episode.number - 1) : '#'}>
+                    <button className="pill-btn" style={{ padding: '0.8rem 1.8rem', opacity: hasPrev ? 1 : 0.3, pointerEvents: hasPrev ? 'auto' : 'none' }}>
+                       {t.prev}
+                    </button>
+                 </Link>
+                 {hasNext && (
+                   <Link href={getUrl(episode.number + 1)}>
+                      <button className="pill-btn active" style={{ padding: '0.8rem 2.2rem', gap: '8px' }}>
+                         {t.next} <ArrowRight size={18} />
+                      </button>
+                   </Link>
+                 )}
+              </footer>
+
+              <AppPromoCard t={t} />
+            </section>
+          )}
+        </AnimatePresence>
+      </motion.div>
+
+      <AnimatePresence>
+        {showSwipeHint && (
+          <motion.div 
+            className="swipe-hint" 
+            initial={{ opacity: 0 }} 
+            animate={{ opacity: 1 }} 
+            exit={{ opacity: 0 }} 
+            onClick={() => setShowSwipeHint(false)}
+            style={{ top: '50%', transform: 'translate(-50%, -50%)' }}
+          >
+            {t.swipeHint}
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </article>
+  );
+}
+
+function AppPromoCard({ t }: { t: any }) {
+  return (
+    <div className="app-promo-card">
+      <a 
+        href="https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{ display: 'inline-flex', alignItems: 'center', gap: '12px', color: 'var(--text-primary)', textDecoration: 'none', width: '100%', justifyContent: 'center' }}
+      >
+        <svg viewBox="0 0 384 512" width={24} height={24} fill="currentColor">
+          <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/>
+        </svg>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
+          <span style={{ fontSize: '0.7rem', fontWeight: 500, opacity: 0.7, marginBottom: '2px' }}>{t.promo_sub}</span>
+          <span style={{ fontSize: '1.05rem', fontWeight: 700 }}>{t.promo_main}</span>
+        </div>
+      </a>
+    </div>
+  );
+}
