@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 부르고뉴(Burgundy)의 '코트 도르(Côte d'Or)' 지역에서 생산되는 피노 누아(Pinot Noir) 와인의 가장 큰 특징으로, 얇은 껍질과 서늘한 기후 덕분에 형성되는 구조감은 무엇인가요?**
+Q. 프랑스 부르고뉴(Burgundy)의 '코트 도르(Côte d'Or)' 지역에서 생산되는 피노 누아(Pinot Noir) 와인의 가장 큰 특징으로, 얇은 껍질과 서늘한 기후 덕분에 형성되는 구조감은 무엇인가요?
 
 A. 낮은 산도와 매우 높은 타닌, 짙은 색상
 B. 높은 산도와 낮은 타닌, 딸기와 체리 같은 붉은 과실 풍미
@@ -13,9 +13,13 @@ D. 모든 우아한 레드를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 높은 산도와 낮은 타닌, 딸기와 체리 같은 붉은 과실 풍미**
+정답: B. 높은 산도와 낮은 타닌, 딸기와 체리 같은 붉은 과실 풍미
 
-**해설**: **피노 누아(Pinot Noir)**는 '변덕스러운 귀족'입니다. 얇은 껍질 때문에 타닌이 적고 산도가 높으며, 딸기와 레드 체리 같은 섬세한 풍미를 지닙니다. 반면 **메를로(Merlot)**는 보르도의 우안(Saint-Émilion)에서 자두(Plum)와 블랙 체리 풍미, 그리고 입안을 감싸는 **부드러운 타닌(Soft tannin)**으로 피노 누아와는 또 다른 벨벳 같은 매력을 선사합니다.
+해설: 피노 누아(Pinot Noir)는 '변덕스러운 귀족'입니다.
+
+얇은 껍질 때문에 타닌이 적고 산도가 높으며, 딸기와 레드 체리 같은 섬세한 풍미를 지닙니다.
+
+반면 메를로(Merlot)는 보르도의 우안(Saint-Émilion)에서 자두(Plum)와 블랙 체리 풍미, 그리고 입안을 감싸는 부드러운 타닌(Soft tannin)으로 피노 누아와는 또 다른 벨벳 같은 매력을 선사합니다.
 
 ---
 
@@ -23,18 +27,22 @@ D. 모든 우아한 레드를 한순간에 소금물로 바꾼다.
 
 두 부드러운 레드 품종의 딥 다이브 요약입니다.
 
-1.  **Pinot Noir (Cool/Moderate)**: 얇은 껍질(Thin skin), 낮은 타닌. (Strawberry, Cherry, Hibiscus). 숙성 시 버섯, 낙엽(Forest floor) 향이 발현됩니다.
-2.  **Merlot (Moderate/Warm)**: 중간 산도, 부드러운 타닌. (Plum, Black cherry, Fruit cake). 오크 숙성을 통해 초콜릿과 바닐라 풍미를 더합니다.
-3.  **Classic Regions**:
-    *   **Pinot Noir**: Burgundy(Côte d'Or), Martinborough, Central Otago, Oregon(Willamette Valley).
-    *   **Sauvignon Blanc**: Saint-Émilion, Pomerol, Chile(Central Valley), Napa Valley.
+1.  Pinot Noir (Cool/Moderate): 얇은 껍질(Thin skin), 낮은 타닌. (Strawberry, Cherry, Hibiscus). 숙성 시 버섯, 낙엽(Forest floor) 향이 발현됩니다.
+
+2.  Merlot (Moderate/Warm): 중간 산도, 부드러운 타닌. (Plum, Black cherry, Fruit cake). 오크 숙성을 통해 초콜릿과 바닐라 풍미를 더합니다.
+
+3.  Classic Regions:
+*   Pinot Noir: Burgundy(Côte d'Or), Martinborough, Central Otago, Oregon(Willamette Valley).
+*   Sauvignon Blanc: Saint-Émilion, Pomerol, Chile(Central Valley), Napa Valley.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "피노 누아는 색이 옅기 때문에 장기 숙성이 불가능하다"라고 하면 오답입니다. 타닌은 낮아도 높은 산도와 알코올 밸런스 덕분에 수십 년간 우아하게 숙성될 수 있음을 명심하세요.
-**[팁]**: 시험에서 **'Right Bank Bordeaux'** 혹은 **'Clay soil'**이 나오면 **'Merlot'**를 즉시 연결하세요.
+[함정]: "피노 누아는 색이 옅기 때문에 장기 숙성이 불가능하다"라고 하면 오답입니다.
+
+타닌은 낮아도 높은 산도와 알코올 밸런스 덕분에 수십 년간 우아하게 숙성될 수 있음을 명심하세요.
+[팁]: 시험에서 'Right Bank Bordeaux' 혹은 'Clay soil'이 나오면 'Merlot'를 즉시 연결하세요.
 
 ---
 
@@ -49,8 +57,11 @@ D. 모든 우아한 레드를 한순간에 소금물로 바꾼다.
 
 [Reason]
 레드 품종 딥 다이브 공식:
+
 1. 피노 누아: 서늘한 기후가 빚은 산도의 정점과 딸기향 (Pinot Noir)
+
 2. 메를로: 온화한 기후가 선사하는 자두의 달콤함과 부드러운 타닌 (Merlot)
+
 3. 포인트: 부르고뉴의 안개 vs 보르도 우안의 점토가 레드의 교과서임
 
 [Tip]

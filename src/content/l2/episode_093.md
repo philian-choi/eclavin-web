@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 부르고뉴(Burgundy)의 '샤블리(Chablis)' 지역에서 생산되는 샤르도네(Chardonnay) 와인의 가장 큰 특징으로, 서늘한 기후와 토양 덕분에 형성되는 풍미는 무엇인가요?**
+Q. 프랑스 부르고뉴(Burgundy)의 '샤블리(Chablis)' 지역에서 생산되는 샤르도네(Chardonnay) 와인의 가장 큰 특징으로, 서늘한 기후와 토양 덕분에 형성되는 풍미는 무엇인가요?
 
 A. 높은 산도와 레몬, 젖은 돌(Wet stone) 같은 미네랄리티
 B. 낮은 산도와 열대 과일(Pineapple), 짙은 오크 향
@@ -13,9 +13,13 @@ D. 모든 품격있는 화이트를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: A. 높은 산도와 레몬, 젖은 돌(Wet stone) 같은 미네랄리티**
+정답: A. 높은 산도와 레몬, 젖은 돌(Wet stone) 같은 미네랄리티
 
-**해설**: **샤블리(Chablis)**는 서늘한 기후에서 생산되는 샤르도네의 정석입니다. 대개 오크를 사용하지 않아 높은 산도와 날카로운 레몬, 미네랄리티를 강조합니다. 반면 **소비뇽 블랑(Sauvignon Blanc)**은 산세르(Sancerre)나 말보로(Marlborough)에서 강렬한 풀(Grass), 구즈베리, 열대 과일 향을 뽐내며 샤르도네와는 다른 매력을 보여줍니다.
+해설: 샤블리(Chablis)는 서늘한 기후에서 생산되는 샤르도네의 정석입니다.
+
+대개 오크를 사용하지 않아 높은 산도와 날카로운 레몬, 미네랄리티를 강조합니다.
+
+반면 소비뇽 블랑(Sauvignon Blanc)은 산세르(Sancerre)나 말보로(Marlborough)에서 강렬한 풀(Grass), 구즈베리, 열대 과일 향을 뽐내며 샤르도네와는 다른 매력을 보여줍니다.
 
 ---
 
@@ -23,18 +27,22 @@ D. 모든 품격있는 화이트를 한순간에 소금물로 바꾼다.
 
 두 거장 화이트 품종의 딥 다이브 요약입니다.
 
-1.  **Chardonnay (Cool/Moderate/Warm)**: 기후에 따라 Lemon -> Peach -> Pineapple로 다채롭게 변신합니다. 오크, MLF(Buttery), 리스 숙성(Creamy)의 영향을 가장 잘 받는 '도화지' 같은 품종입니다.
-2.  **Sauvignon Blanc (Cool/Moderate)**: 강렬한 아로마 품종입니다. 높은 산도와 Grass, Asparagus(Cool), Passion fruit(Warm)이 특징이며 대개 스테인리스 탱크에서 신선하게 양조합니다.
-3.  **Classic Regions**:
-    *   **Chardonnay**: Chablis, Meursault, Puligny-Montrachet, Napa Valley, Adelaide Hills.
-    *   **Sauvignon Blanc**: Sancerre, Pouilly-Fumé, Marlborough, Constantia.
+1.  Chardonnay (Cool/Moderate/Warm): 기후에 따라 Lemon -> Peach -> Pineapple로 다채롭게 변신합니다. 오크, MLF(Buttery), 리스 숙성(Creamy)의 영향을 가장 잘 받는 '도화지' 같은 품종입니다.
+
+2.  Sauvignon Blanc (Cool/Moderate): 강렬한 아로마 품종입니다. 높은 산도와 Grass, Asparagus(Cool), Passion fruit(Warm)이 특징이며 대개 스테인리스 탱크에서 신선하게 양조합니다.
+
+3.  Classic Regions:
+*   Chardonnay: Chablis, Meursault, Puligny-Montrachet, Napa Valley, Adelaide Hills.
+*   Sauvignon Blanc: Sancerre, Pouilly-Fumé, Marlborough, Constantia.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 샤르도네는 예외 없이 버터 향과 오크 향이 난다"라고 하면 오답입니다. 샤블리처럼 오크를 거치지 않은 순수한 샤르도네가 존재함을 명심하세요.
-**[팁]**: 시험에서 **'Sancerre'**가 나오면 **'High acid/Aromatic Sauvignon Blanc'**를 연결하세요.
+[함정]: "모든 샤르도네는 예외 없이 버터 향과 오크 향이 난다"라고 하면 오답입니다.
+
+샤블리처럼 오크를 거치지 않은 순수한 샤르도네가 존재함을 명심하세요.
+[팁]: 시험에서 'Sancerre'가 나오면 'High acid/Aromatic Sauvignon Blanc'를 연결하세요.
 
 ---
 
@@ -49,8 +57,11 @@ D. 모든 품격있는 화이트를 한순간에 소금물로 바꾼다.
 
 [Reason]
 화이트 품종 딥 다이브 공식:
+
 1. 샤르도네: 기후와 양조 기술이 빚는 무한한 변신의 도화지 (Chardonnay)
+
 2. 소비뇽 블랑: 고고한 산도와 아로마 향연의 주인공 (Sauvignon Blanc)
+
 3. 포인트: 샤블리 vs 말보로의 지리적 대비가 화이트의 교과서임
 
 [Tip]

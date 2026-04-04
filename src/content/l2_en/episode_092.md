@@ -2,9 +2,9 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. One of the most decisive differences between white and red winemaking is a process performed before and during fermentation to extract color and tannins from red wine. What is this process called?**
+Q. One of the most decisive differences between white and red winemaking is a process performed before and during fermentation to extract color and tannins from red wine. What is this process called?
 
-A. **Skin contact / Maceration (keeping skins and juice together)**
+A. Skin contact / Maceration (keeping skins and juice together)
 B. Immediate pressing (fermenting only the juice)
 C. Vine painting (painting grape skins)
 D. Instantly changes all winemaking into a shot of salt water.
@@ -13,9 +13,15 @@ D. Instantly changes all winemaking into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: A. Skin contact / Maceration (keeping skins and juice together)**
+Answer: A. Skin contact / Maceration (keeping skins and juice together)
 
-**Explanation**: **Red wine** is fermented with the skins to extract color and tannins. In contrast, **white wine** is typical of separating the skins before fermentation to maximize freshness. Rosé wine is made with short maceration to achieve a pale pink color. Fermentation temperature is also crucial: white wine is fermented at cool temperatures (12–22°C) to preserve fruity aromas, while red wine is fermented at warm temperatures (20–32°C) to better extract color and tannins.
+Explanation: Red wine is fermented with the skins to extract color and tannins.
+
+In contrast, white wine is typical of separating the skins before fermentation to maximize freshness.
+
+Rosé wine is made with short maceration to achieve a pale pink color.
+
+Fermentation temperature is also crucial: white wine is fermented at cool temperatures (12–22°C) to preserve fruity aromas, while red wine is fermented at warm temperatures (20–32°C) to better extract color and tannins.
 
 ---
 
@@ -23,18 +29,26 @@ D. Instantly changes all winemaking into a shot of salt water.
 
 A summary of the enological alchemy that determines style:
 
-1.  **Alcoholic Fermentation**: Yeast + Sugar -> Alcohol + CO2 + Heat.
-2.  **White Wine**: Pressing -> Fermentation (Cool). Maintaining freshness.
-3.  **Red Wine**: Crush -> Fermentation (Warm/Skin contact) -> Press. Ensuring structure.
-4.  **Maturation**: Stainless steel (Freshness) vs. Oak (Vanilla, Soft tannins).
-5.  **MLF (Malolactic Fermentation)**: Converting harsh malic acid into soft lactic acid. (Butter/Cream).
+1.  Alcoholic Fermentation: Yeast + Sugar -> Alcohol + CO2 + Heat.
+
+2.  White Wine: Pressing -> Fermentation (Cool). Maintaining freshness.
+
+3.  Red Wine: Crush -> Fermentation (Warm/Skin contact) -> Press. Ensuring structure.
+
+4.  Maturation: Stainless steel (Freshness) vs. Oak (Vanilla, Soft tannins).
+
+5.  MLF (Malolactic Fermentation): Converting harsh malic acid into soft lactic acid. (Butter/Cream).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all red wine must be aged only in 100% new oak. If the oak influence is too strong, it can mask the inherent flavors of the grape variety. Producers often use a mix of old oak or stainless steel tanks.
-**[Tip]**: In the exam, link **'Malolactic Fermentation'** immediately with **'Buttery/Creamy'** flavors.
+[Trap]: Do not assume all red wine must be aged only in 100% new oak.
+
+If the oak influence is too strong, it can mask the inherent flavors of the grape variety.
+
+Producers often use a mix of old oak or stainless steel tanks.
+[Tip]: In the exam, link 'Malolactic Fermentation' immediately with 'Buttery/Creamy' flavors.
 
 ---
 
@@ -49,8 +63,11 @@ Do you know the real reason red wine burns so brightly? The time of maceration, 
 
 [Reason]
 Winemaking Style Alchemy Formula:
+
 1. Red: Grand structure made by warm fermentation and skin contact (Structure).
+
 2. White: Purity of aroma protected by cool fermentation (Purity).
+
 3. Rosé: A short meeting that grants a pink tremor (Short Maceration).
 
 [Tip]

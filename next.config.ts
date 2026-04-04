@@ -30,11 +30,8 @@ const nextConfig: NextConfig = {
           },
           {
             key: 'Content-Security-Policy',
-            value: "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: via.placeholder.com; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; object-src 'none';",
+            value: "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' data:; img-src 'self' data: blob: via.placeholder.com https://cdn.jsdelivr.net; font-src 'self' data: https://cdn.jsdelivr.net https://fonts.gstatic.com; connect-src 'self'; frame-ancestors 'none'; object-src 'none';",
           },
-          { key: 'Cross-Origin-Opener-Policy', value: 'same-origin' },
-          { key: 'Cross-Origin-Embedder-Policy', value: 'require-corp' },
-          { key: 'Cross-Origin-Resource-Policy', value: 'same-origin' },
         ],
       },
     ];

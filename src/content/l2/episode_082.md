@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 포도나무가 건강하게 자라기 위해 필요한 5가지 주요 요소 중, '당분(Sugar)'을 형성하기 위해 햇빛과 이산화탄소를 이용하는 과정의 명칭은 무엇인가요?**
+Q. 포도나무가 건강하게 자라기 위해 필요한 5가지 주요 요소 중, '당분(Sugar)'을 형성하기 위해 햇빛과 이산화탄소를 이용하는 과정의 명칭은 무엇인가요?
 
 A. 알코올 발효 (Alcoholic Fermentation)
 B. 광합성 (Photosynthesis)
@@ -13,9 +13,13 @@ D. 모든 과정을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 광합성 (Photosynthesis)**
+정답: B. 광합성 (Photosynthesis)
 
-**해설**: **광합성(Photosynthesis)**은 포도나무가 햇빛을 에너지로 삼아 당분을 만드는 생명의 연금술입니다. **알코올 발효**는 수확된 포도즙 속의 당분을 효모가 알코올로 바꾸는 과정이며, **산화**는 와인이 공기와 접촉하여 변하는 현상입니다. 포도나무는 따뜻함, 햇빛, 물, 영양분, 이산화탄소라는 5가지 필수 요소가 균형을 이룰 때 최고의 결실을 맺습니다.
+해설: 광합성(Photosynthesis)은 포도나무가 햇빛을 에너지로 삼아 당분을 만드는 생명의 연금술입니다.
+
+알코올 발효는 수확된 포도즙 속의 당분을 효모가 알코올로 바꾸는 과정이며, 산화는 와인이 공기와 접촉하여 변하는 현상입니다.
+
+포도나무는 따뜻함, 햇빛, 물, 영양분, 이산화탄소라는 5가지 필수 요소가 균형을 이룰 때 최고의 결실을 맺습니다.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 과정을 한순간에 소금물로 바꾼다.
 
 포도 재배와 양조의 핵심 원리 요약입니다.
 
-1.  **Vitreous Essentials**: 열기, 햇빛, 수분, 영양분, CO2.
-2.  **Alcoholic Fermentation**: Sugar + Yeast → Alcohol + CO2 + Heat.
-3.  **Red Winemaking (Key)**: **껍질과 함께 발효**하여 색과 타닌을 추출(Extraction)하는 것이 핵심입니다.
-4.  **White Winemaking (Key)**: 발효 전 **즙을 먼저 짜내어(Pressing)** 껍질 없이 맑게 발효합니다.
-5.  **MLF (Malolactic Fermentation)**: 거친 사과산(Malic acid)을 부드러운 젖산(Lactic acid)으로 바꾸며 버터 향을 더합니다.
+1.  Vitreous Essentials: 열기, 햇빛, 수분, 영양분, CO2.
+
+2.  Alcoholic Fermentation: Sugar + Yeast → Alcohol + CO2 + Heat.
+
+3.  Red Winemaking (Key): 껍질과 함께 발효하여 색과 타닌을 추출(Extraction)하는 것이 핵심입니다.
+
+4.  White Winemaking (Key): 발효 전 즙을 먼저 짜내어(Pressing) 껍질 없이 맑게 발효합니다.
+
+5.  MLF (Malolactic Fermentation): 거친 사과산(Malic acid)을 부드러운 젖산(Lactic acid)으로 바꾸며 버터 향을 더합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 화이트 와인은 레드 포도로 만들 수 없다"라고 하면 오답입니다. 껍질을 즉시 제거하면 레드 포도로도 화이트 와인(Blanc de Noirs)을 만들 수 있음을 명심하세요.
-**[팁]**: 시험에서 **'Extraction of color and tannin'**이 나오면 반드시 레드 와인 양조 순서를 생각하세요.
+[함정]: "모든 화이트 와인은 레드 포도로 만들 수 없다"라고 하면 오답입니다.
+
+껍질을 즉시 제거하면 레드 포도로도 화이트 와인(Blanc de Noirs)을 만들 수 있음을 명심하세요.
+[팁]: 시험에서 'Extraction of color and tannin'이 나오면 반드시 레드 와인 양조 순서를 생각하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 과정을 한순간에 소금물로 바꾼다.
 
 [Reason]
 와인 연금술 공식:
+
 1. 광합성: 햇빛을 당분으로 바꾸는 자연의 시작 (Photosynthesis)
+
 2. 발효: 당분을 알코올과 열로 바꾸는 효모의 활동 (Fermentation)
+
 3. 추출: 레드 와인의 색과 타닌을 결정하는 껍질 접촉 (Extraction)
 
 [Tip]

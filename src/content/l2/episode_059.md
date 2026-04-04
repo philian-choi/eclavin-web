@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스의 '샴페인(Champagne)'을 만드는 '전통 방식(Traditional Method)'에서, 2차 발효 후 효모 찌꺼기(Lees)와 함께 숙성하며 얻어지는 시그니처 풍미는 무엇인가요?**
+Q. 프랑스의 '샴페인(Champagne)'을 만드는 '전통 방식(Traditional Method)'에서, 2차 발효 후 효모 찌꺼기(Lees)와 함께 숙성하며 얻어지는 시그니처 풍미는 무엇인가요?
 
 A. 신선한 녹색 사과와 레몬 (Green apple/Lemon)
 B. 비스킷(Biscuit), 빵(Bread), 브리오슈(Brioche), 그리고 구운 견과류 풍미
@@ -13,9 +13,13 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 비스킷(Biscuit), 빵(Bread), 브리오슈(Brioche), 그리고 구운 견과류 풍미**
+정답: B. 비스킷(Biscuit), 빵(Bread), 브리오슈(Brioche), 그리고 구운 견과류 풍미
 
-**해설**: **샴페인(Champagne)**은 병 안에서 2차 발효를 거치는 **전통 방식(Traditional Method)**의 정점입니다. 이 과정에서 효모가 자가분해(Autolysis)되며 **비스킷, 빵, 토스트** 같은 고소한 아로마가 생겨나죠. **샤르도네, 피노 누아, 피노 뮈니에** 세 품종의 환상적인 블렌딩과 기나긴 리 숙성(Lees Aging)이 샴페인의 독보적인 명성을 완성합니다.
+해설: 샴페인(Champagne)은 병 안에서 2차 발효를 거치는 전통 방식(Traditional Method)의 정점입니다.
+
+이 과정에서 효모가 자가분해(Autolysis)되며 비스킷, 빵, 토스트 같은 고소한 아로마가 생겨나죠.
+
+샤르도네, 피노 누아, 피노 뮈니에 세 품종의 환상적인 블렌딩과 기나긴 리 숙성(Lees Aging)이 샴페인의 독보적인 명성을 완성합니다.
 
 ---
 
@@ -23,17 +27,22 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 샴페인 양조의 핵심 요약입니다.
 
-1.  **Varieties**: Chardonnay(높은 산도), Pinot Noir(구조감), Pinot Meunier(풍부한 과실미).
-2.  **Traditional Method**: 베이스 와인 블렌딩 → 당분/효모 첨가(Tirage) → 병 내 2차 발효 → **Lees Aging (Autolysis)**.
-3.  **Riddling (리들링)**: 효모 찌꺼기를 병목으로 서서히 모으는 과정입니다.
-4.  **Disgorgement (데고르주망)**: 침전된 효모를 얼려 뽑아내고, 소량의 와인과 설탕(Dosage)을 채워 최종 당도를 결정합니다.
+1.  Varieties: Chardonnay(높은 산도), Pinot Noir(구조감), Pinot Meunier(풍부한 과실미).
+
+2.  Traditional Method: 베이스 와인 블렌딩 → 당분/효모 첨가(Tirage) → 병 내 2차 발효 → Lees Aging (Autolysis).
+
+3.  Riddling (리들링): 효모 찌꺼기를 병목으로 서서히 모으는 과정입니다.
+
+4.  Disgorgement (데고르주망): 침전된 효모를 얼려 뽑아내고, 소량의 와인과 설탕(Dosage)을 채워 최종 당도를 결정합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 스파클링 와인은 샴페인이라고 부를 수 있다"라고 단정하면 오답입니다. 오직 프랑스 **'Champagne'** 지역에서 **'Traditional Method'**로 만든 것만 샴페인임을 명심하세요.
-**[팁]**: 시험에서 **'Secondary fermentation in the bottle'** 혹은 **'Lees contact'**와 함께 **'Bread/Biscuit'**이 나오면 샴페인을 찾으세요.
+[함정]: "모든 스파클링 와인은 샴페인이라고 부를 수 있다"라고 단정하면 오답입니다.
+
+오직 프랑스 'Champagne' 지역에서 'Traditional Method'로 만든 것만 샴페인임을 명심하세요.
+[팁]: 시험에서 'Secondary fermentation in the bottle' 혹은 'Lees contact'와 함께 'Bread/Biscuit'이 나오면 샴페인을 찾으세요.
 
 ---
 
@@ -48,8 +57,11 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 샴페인 연금술 공식:
+
 1. 샴페인: 병 속 2차 발효라는 정성스러운 전통 방식 (Traditional Method)
+
 2. 특징: 효모 자가분해를 통한 고소한 풍미 (Autolysis)
+
 3. 포인트: 'Brut' 등급과 오랜 숙성 시간이 빚어낸 미세한 기포
 
 [Tip]

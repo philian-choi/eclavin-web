@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Which grape variety, used to produce 'Barolo' and 'Barbaresco' in Piedmont, Italy, is known for its pale color despite having very high tannins, high acidity, and flavors of tar and rose?**
+Q. Which grape variety, used to produce 'Barolo' and 'Barbaresco' in Piedmont, Italy, is known for its pale color despite having very high tannins, high acidity, and flavors of tar and rose?
 
 A. Tuscany's Sangiovese
-B. Piedmont's **Nebbiolo**
+B. Piedmont's Nebbiolo
 C. Veneto's Corvina
 D. Turns every glass of wine into a shot of soju instantly.
 
@@ -13,9 +13,15 @@ D. Turns every glass of wine into a shot of soju instantly.
 
 ## [Answer & Explanation]
 
-**Answer: B. Piedmont's Nebbiolo**
+Answer: B. Piedmont's Nebbiolo
 
-**Explanation**: **Nebbiolo** is often described as the 'muscular brother of Pinot Noir'. While its color is pale, its tannins and acidity are at the highest levels (**High**), and it boasts unique aromas of **Rose, Cherry, Tar, and Licorice**. Meanwhile, **Sangiovese** is the heart of Tuscany, exhibiting high acidity and tannins with notes of red cherry and dried herbs. **Corvina** is the key variety in Veneto for Valpolicella, offering a light body and fresh red fruit aromas.
+Explanation: Nebbiolo is often described as the 'muscular brother of Pinot Noir'.
+
+While its color is pale, its tannins and acidity are at the highest levels (High), and it boasts unique aromas of Rose, Cherry, Tar, and Licorice.
+
+Meanwhile, Sangiovese is the heart of Tuscany, exhibiting high acidity and tannins with notes of red cherry and dried herbs.
+
+Corvina is the key variety in Veneto for Valpolicella, offering a light body and fresh red fruit aromas.
 
 ---
 
@@ -23,16 +29,22 @@ D. Turns every glass of wine into a shot of soju instantly.
 
 A summary of the three Italian red kings:
 
-1.  **Nebbiolo (Piedmont - Barolo/Barbaresco)**: Very high tannin and acidity. Famous for its complex aromas of **Rose, Red Cherry, Tar, and Licorice**.
-2.  **Sangiovese (Tuscany - Chianti/Brunello)**: High acidity and tannin. Signatures include **Red Cherry, Plum, Dried herbs, and Earth**.
-3.  **Corvina (Veneto - Valpolicella)**: **Light to Medium body**, low tannin. Features red cherry notes. When grapes are dried to make **Amarone**, it transforms into a very heavy and powerful style.
+1.  Nebbiolo (Piedmont - Barolo/Barbaresco): Very high tannin and acidity. Famous for its complex aromas of Rose, Red Cherry, Tar, and Licorice.
+
+2.  Sangiovese (Tuscany - Chianti/Brunello): High acidity and tannin. Signatures include Red Cherry, Plum, Dried herbs, and Earth.
+
+3.  Corvina (Veneto - Valpolicella): Light to Medium body, low tannin. Features red cherry notes. When grapes are dried to make Amarone, it transforms into a very heavy and powerful style.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think that Nebbiolo should always be very deep, dark, and opaque in color. Its true charm lies in its pale hue contrasted by powerful, palate-gripping tannins.
-**[Tip]**: In the exam, if you see **'High Acid/High Tannin'** combined with **'Rose/Tar'**, look for Nebbiolo. If you see **'Chianti/Dried herbs'**, choose Sangiovese.
+[Trap]: Do not think that Nebbiolo should always be very deep, dark, and opaque in color.
+
+Its true charm lies in its pale hue contrasted by powerful, palate-gripping tannins.
+[Tip]: In the exam, if you see 'High Acid/High Tannin' combined with 'Rose/Tar', look for Nebbiolo.
+
+If you see 'Chianti/Dried herbs', choose Sangiovese.
 
 ---
 
@@ -47,8 +59,11 @@ Nebbiolo, nurtured in the mists of Piedmont, Italy, is a grand aria of the wine 
 
 [Reason]
 Italian Red Formula:
+
 1. Nebbiolo: Rose, Tar, Licorice (Piedmont)
+
 2. Sangiovese: Red Cherry, Dried Herbs (Tuscany)
+
 3. Feature: Both boast some of the highest levels of acidity among red wines globally.
 
 [Tip]

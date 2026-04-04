@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the most common latitude range in both the Northern and Southern Hemispheres where grape growing for high-quality wine production is possible?**
+Q. What is the most common latitude range in both the Northern and Southern Hemispheres where grape growing for high-quality wine production is possible?
 
 A. Directly above the Equator (0–10 degrees)
-B. **Between 30 and 50 degrees latitude**
+B. Between 30 and 50 degrees latitude
 C. Around the Arctic and Antarctic (70–80 degrees)
 D. Instantly changes any latitude into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any latitude into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Between 30 and 50 degrees latitude**
+Answer: B. Between 30 and 50 degrees latitude
 
-**Explanation**: The range of **30 to 50 degrees latitude** is known as the 'Goldilocks Zone' for grapevines. It is neither too hot nor too cold, allowing for the perfect balance of sugar and acidity. It is essential to understand that in **cool climates**, high acidity and green apple/citrus flavors dominate, while in **warm climates**, lower acidity and tropical fruit/blackberry flavors are more prominent.
+Explanation: The range of 30 to 50 degrees latitude is known as the 'Goldilocks Zone' for grapevines.
+
+It is neither too hot nor too cold, allowing for the perfect balance of sugar and acidity.
+
+It is essential to understand that in cool climates, high acidity and green apple/citrus flavors dominate, while in warm climates, lower acidity and tropical fruit/blackberry flavors are more prominent.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any latitude into a shot of salt water.
 
 A summary of how climate and latitude define wine style:
 
-1.  **Golden Latitude**: 30–50° in both hemispheres. The universal golden belt for viticulture.
-2.  **Cool Climate**: High acidity, light body. (Green apple, Citrus, Grass).
-3.  **Moderate Climate**: Medium acidity, medium body. (Peach, Plum, Cherry).
-4.  **Warm/Hot Climate**: Low acidity, full body, high alcohol. (Pineapple, Blackberry, Fig).
-5.  **Climate Modifiers**: Factors like **altitude** or nearby **cold ocean currents** can create cool-climate pockets even at low latitudes.
+1.  Golden Latitude: 30–50° in both hemispheres. The universal golden belt for viticulture.
+
+2.  Cool Climate: High acidity, light body. (Green apple, Citrus, Grass).
+
+3.  Moderate Climate: Medium acidity, medium body. (Peach, Plum, Cherry).
+
+4.  Warm/Hot Climate: Low acidity, full body, high alcohol. (Pineapple, Blackberry, Fig).
+
+5.  Climate Modifiers: Factors like altitude or nearby cold ocean currents can create cool-climate pockets even at low latitudes.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that areas near the Equator (0–10°) are best for wine grapes simply because they have intense sunlight. Excessive heat can cause over-ripening or unbalanced acidity.
-**[Tip]**: In the exam, link **'High altitude/Cooling influence'** to exceptions where cool climates are found at low latitudes, such as Cafayate in Argentina or coastal regions in Chile.
+[Trap]: Do not assume that areas near the Equator (0–10°) are best for wine grapes simply because they have intense sunlight.
+
+Excessive heat can cause over-ripening or unbalanced acidity.
+[Tip]: In the exam, link 'High altitude/Cooling influence' to exceptions where cool climates are found at low latitudes, such as Cafayate in Argentina or coastal regions in Chile.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the 'Golden Latitude' flowing across the Earth? Viticulture, which t
 
 [Reason]
 Latitude and Climate Alchemy Formula:
+
 1. Latitude: Generally, the best wine grapes grow between 30–50° latitude.
+
 2. Modifiers: Altitude and ocean breezes are crucial variables that regulate climate.
+
 3. Result: Climate differences ultimately determine the balance of acidity and alcohol in a wine.
 
 [Tip]

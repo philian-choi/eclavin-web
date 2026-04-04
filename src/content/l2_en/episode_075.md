@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the context of Food & Wine Pairing, how does a wine typically change when consumed with foods that are high in 'Salt' or 'Acid'?**
+Q. In the context of Food & Wine Pairing, how does a wine typically change when consumed with foods that are high in 'Salt' or 'Acid'?
 
 A. The wine tastes more bitter and tannic.
-B. **The wine tastes smoother, sweeter, and more fruit-forward (Softer)**.
+B. The wine tastes smoother, sweeter, and more fruit-forward (Softer).
 C. The wine's color suddenly transitions.
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. The wine tastes smoother, sweeter, and more fruit-forward (Softer).**
+Answer: B. The wine tastes smoother, sweeter, and more fruit-forward (Softer).
 
-**Explanation**: This question tests the core principles of **Food Pairing**. **Salt** and **Acid** in food help reduce the perception of a wine's acidity and tannins, making it taste smoother and more fruity (the wine appears **'softer'**). Conversely, **Sugar** and **Umami** make wine taste more bitter and tannic (the wine appears **'harder'**). For storage, remember to store cork-sealed wines **horizontally** to keep them moist, and for service, aim for chilled temperatures (7–10°C) for whites and room temperature (15–18°C) for reds.
+Explanation: This question tests the core principles of Food Pairing.
+
+Salt and Acid in food help reduce the perception of a wine's acidity and tannins, making it taste smoother and more fruity (the wine appears 'softer').
+
+Conversely, Sugar and Umami make wine taste more bitter and tannic (the wine appears 'harder').
+
+For storage, remember to store cork-sealed wines horizontally to keep them moist, and for service, aim for chilled temperatures (7–10°C) for whites and room temperature (15–18°C) for reds.
 
 ---
 
@@ -23,24 +29,29 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of Service, Storage, and Pairing (Review):
 
-1.  **Storage**: Constant 10–15°C temperature, dark space. Cork-sealed wines must be stored **horizontally**. (Position is everything).
-2.  **Service Temperature**: 
+1.  Storage: Constant 10–15°C temperature, dark space. Cork-sealed wines must be stored horizontally. (Position is everything).
+
+2.  Service Temperature: 
     - Sweet / Sparkling: 6–10°C. 
     - White / Rosé: 7–10°C. 
     - Full-bodied White: 10–13°C. 
     - Full-bodied Red: 15–18°C.
-3.  **Food & Wine Pairing**: 
-    - **Sugar/Umami**: Makes wine seem 'Harder' (Sharp/Tannic). 
-    - **Salt/Acid**: Makes wine seem 'Softer' (Fruity/Sweet). 
-    - **Chili**: Increases the burn of alcohol.
-4.  **Glassware**: Tulip-shaped is essential for concentrating aromas.
+
+3.  Food & Wine Pairing: 
+    - Sugar/Umami: Makes wine seem 'Harder' (Sharp/Tannic). 
+    - Salt/Acid: Makes wine seem 'Softer' (Fruity/Sweet). 
+    - Chili: Increases the burn of alcohol.
+
+4.  Glassware: Tulip-shaped is essential for concentrating aromas.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that even the most expensive white wines should be served at room temperature (18–20°C). All white wines need some level of chilling to balance their acidity.
-**[Tip]**: In the exam, link **'Sealing integrity'** with horizontal storage and **'Refresh acidity'** with chilled service.
+[Trap]: Do not assume that even the most expensive white wines should be served at room temperature (18–20°C).
+
+All white wines need some level of chilling to balance their acidity.
+[Tip]: In the exam, link 'Sealing integrity' with horizontal storage and 'Refresh acidity' with chilled service.
 
 ---
 
@@ -55,8 +66,11 @@ Do you know 'the final etiquette' breathing inside your wine glass? From the sil
 
 [Reason]
 Wine Service and Gourmet Alchemy Formula:
+
 1. Storage: Horizontal, constant temperature (Storage).
+
 2. Service: White (chilled) vs Red (room temperature).
+
 3. Pairing: Acidity and salt make wine smoother (Softer).
 
 [Tip]

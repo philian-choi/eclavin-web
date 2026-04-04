@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. When assessing the final quality of a wine according to the WSET Level 2 Systematic Approach to Tasting (SAT), what are the four key factors (BLIC) to consider?**
+Q. When assessing the final quality of a wine according to the WSET Level 2 Systematic Approach to Tasting (SAT), what are the four key factors (BLIC) to consider?
 
 A. Price, Bottle design, Marketing, Year of production
-B. **Balance, Length, Intensity, Complexity**
+B. Balance, Length, Intensity, Complexity
 C. Alcohol content, Glucose content, Yield, Oak aging period
 D. Instantly changes all assessments into a shot of salt water score.
 
@@ -13,9 +13,13 @@ D. Instantly changes all assessments into a shot of salt water score.
 
 ## [Answer & Explanation]
 
-**Answer: B. Balance, Length, Intensity, Complexity**
+Answer: B. Balance, Length, Intensity, Complexity
 
-**Explanation**: **BLIC** is the absolute standard for quality. We assess wine from 'Poor' to 'Outstanding' by synthesizing: the **Balance** of acidity, sugar, and tannins; the **Length** of the finish after swallowing; the **Intensity** of aromas and flavors; and the **Complexity** of how many different layers of aromas it possesses. This is the final gateway to looking at wine through the eyes of a professional.
+Explanation: BLIC is the absolute standard for quality.
+
+We assess wine from 'Poor' to 'Outstanding' by synthesizing: the Balance of acidity, sugar, and tannins; the Length of the finish after swallowing; the Intensity of aromas and flavors; and the Complexity of how many different layers of aromas it possesses.
+
+This is the final gateway to looking at wine through the eyes of a professional.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes all assessments into a shot of salt water score.
 
 A final summary cutting through the entire WSET L2 course:
 
-1.  **Climate & Variety**: Cool climates lead to high acidity (Chardonnay/Pinot Noir); warm climates lead to higher sugar and body (Cabernet/Shiraz).
-2.  **Viticulture**: Management of the vineyard determines 80% of the wine's quality. (Photosynthesis is key).
-3.  **Vinification**: Extraction, fermentation temperature, oak use, and MLF shape the final style.
-4.  **Global Regions**: The ability to match major geographical names with their key varieties 1:1 is essential.
-5.  **Service & Ethics**: Correct service temperatures and proposing responsible drinking cultures are the attitudes of a professional.
+1.  Climate & Variety: Cool climates lead to high acidity (Chardonnay/Pinot Noir); warm climates lead to higher sugar and body (Cabernet/Shiraz).
+
+2.  Viticulture: Management of the vineyard determines 80% of the wine's quality. (Photosynthesis is key).
+
+3.  Vinification: Extraction, fermentation temperature, oak use, and MLF shape the final style.
+
+4.  Global Regions: The ability to match major geographical names with their key varieties 1:1 is essential.
+
+5.  Service & Ethics: Correct service temperatures and proposing responsible drinking cultures are the attitudes of a professional.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that if an aroma is just very intense, the wine is automatically 'Outstanding'. Even with high intensity, if the balance is broken or the finish is short, it cannot receive a high-quality grade.
-**[Tip]**: Just before the exam, the most powerful final strategy is to organize the representative varieties and regions for each climate (**Cool/Moderate/Warm**) in your mind like a map.
+[Trap]: Do not assume that if an aroma is just very intense, the wine is automatically 'Outstanding'.
+
+Even with high intensity, if the balance is broken or the finish is short, it cannot receive a high-quality grade.
+[Tip]: Just before the exam, the most powerful final strategy is to organize the representative varieties and regions for each climate (Cool/Moderate/Warm) in your mind like a map.
 
 ---
 
@@ -49,8 +59,11 @@ As you conclude your long journey with WSET Level 2, I ask: Are you ready to dec
 
 [Reason]
 Professional Quality Alchemy Formula (BLIC):
+
 1. Balance: Perfect harmony of structure.
+
 2. Length: A long finish that never leaves your memory.
+
 3. Intensity & Complexity: Layers of rich aromas hidden in intensity.
 
 [Tip]

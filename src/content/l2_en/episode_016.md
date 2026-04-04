@@ -2,9 +2,9 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the production of a standard white wine, which combination of pre-fermentation stage and fermentation temperature is typically used to maximise the preservation of fresh 'Primary Aromas'?**
+Q. In the production of a standard white wine, which combination of pre-fermentation stage and fermentation temperature is typically used to maximise the preservation of fresh 'Primary Aromas'?
 
-A. **Pressing before fermentation – Fermentation at cool temperatures (12–22°C).**
+A. Pressing before fermentation – Fermentation at cool temperatures (12–22°C).
 B. Maceration (skin contact) before fermentation – Fermentation at warm temperatures (20–30°C).
 C. Pressing after fermentation – Fermentation at ambient room temperature.
 D. Fermentation after heating the oak barrels – Cold stabilization during fermentation.
@@ -13,9 +13,11 @@ D. Fermentation after heating the oak barrels – Cold stabilization during ferm
 
 ## [Answer & Explanation]
 
-**Answer: A. Pressing before fermentation – Fermentation at cool temperatures (12–22°C).**
+Answer: A. Pressing before fermentation – Fermentation at cool temperatures (12–22°C).
 
-**Explanation**: Because white wines do not require the extraction of tannin or deep colour from the skins, the grapes are typically **pressed** before fermentation begins to separate the clear juice from the solids. Subsequently, to protect the delicate floral and fruity characteristics (**Primary Aromas**) inherent to the grape variety, fermentation is conducted at **cool temperatures (12–22°C)**, usually in temperature-controlled stainless steel tanks.
+Explanation: Because white wines do not require the extraction of tannin or deep colour from the skins, the grapes are typically pressed before fermentation begins to separate the clear juice from the solids.
+
+Subsequently, to protect the delicate floral and fruity characteristics (Primary Aromas) inherent to the grape variety, fermentation is conducted at cool temperatures (12–22°C), usually in temperature-controlled stainless steel tanks.
 
 ---
 
@@ -23,17 +25,20 @@ D. Fermentation after heating the oak barrels – Cold stabilization during ferm
 
 White winemaking is an exercise in 'Purity' and 'Freshness':
 
-1.  **Pressing First**: Immediate removal of skins and seeds prevents the extraction of unwanted bitterness and colour. 
-2.  **Cool Fermentation**: Lower temperatures slow down the yeast's activity, ensuring that volatile aromatic compounds (like citrus, green fruit, and floral notes) do not dissipate. 
-3.  **Inert Vessels**: The use of stainless steel tanks or concrete vats (Inert Vessels) helps shield the wine from oxygen, maintaining the grape's natural vibrancy.
-4.  **Clarification**: Before fermentation, the juice is often chilled to allow any remaining solids to settle, ensuring a cleaner fermentation and a more precise final style.
+1.  Pressing First: Immediate removal of skins and seeds prevents the extraction of unwanted bitterness and colour. 
+
+2.  Cool Fermentation: Lower temperatures slow down the yeast's activity, ensuring that volatile aromatic compounds (like citrus, green fruit, and floral notes) do not dissipate. 
+
+3.  Inert Vessels: The use of stainless steel tanks or concrete vats (Inert Vessels) helps shield the wine from oxygen, maintaining the grape's natural vibrancy.
+
+4.  Clarification: Before fermentation, the juice is often chilled to allow any remaining solids to settle, ensuring a cleaner fermentation and a more precise final style.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that "White wines are fermented with their skins like red wines." Skin contact is generally avoided as it adds tannin and gold/orange hues (with the exception of specialized 'Orange' or 'Amber' wine styles).
-**[Tip]**: In the L2 exam, if you see the words **'White Wine'** or **'Aroma Preservation'**, immediately link them to **'Pressing Before Fermentation'** and **'Cool Temperature.'** Coolness is the pride and protection of white wine.
+[Trap]: Do not assume that "White wines are fermented with their skins like red wines." Skin contact is generally avoided as it adds tannin and gold/orange hues (with the exception of specialized 'Orange' or 'Amber' wine styles).
+[Tip]: In the L2 exam, if you see the words 'White Wine' or 'Aroma Preservation', immediately link them to 'Pressing Before Fermentation' and 'Cool Temperature.' Coolness is the pride and protection of white wine.
 
 ---
 
@@ -48,8 +53,11 @@ The secret lies in 'Speed' and 'Temperature.' Winemakers peel away the skins imm
 
 [Reason]
 WSET Level 2 White Winemaking Formula:
+
 1. Pre-Pressing: Securing the clear juice (Removing skins before fermentation).
+
 2. Cool Fermentation: Preserving the aromas (The aesthetics of 12–22°C).
+
 3. Primary Focus: Emphasizing the natural charm of the fruit.
 
 [Tip]
@@ -57,7 +65,7 @@ If a Chardonnay feels weightier than other whites, it's likely because it underw
 
 ### YouTube Shorts Script
 (0-3s) Why is white wine so refreshing? The secret is pressing before fermentation! 
-(3-15s) WSET Level 2 Masterclass! White Winemaking! We squeeze the juice first to make it clear, then ferment at **cool temperatures (12–22°C)** to lock in those precious floral notes! Purity is key! 
+(3-15s) WSET Level 2 Masterclass! White Winemaking! We squeeze the juice first to make it clear, then ferment at cool temperatures (12–22°C) to lock in those precious floral notes! Purity is key! 
 (15-25s) Question! Is white wine fermentation temperature higher or lower than red's? 1. Higher, 2. Lower, 3. The same. 
 (25-35s) The answer is 2! Lower! Cold temperatures fix the aroma in place. 
 (35-45s) A drop of pure essence, the secret of white wine! Subscribe and let's get that perfect score!

@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. When a wine exhibits unpleasant aromas of 'Wet cardboard' or 'Musty' basement and has a complete lack of fruitiness, which common wine fault is most likely present?**
+Q. When a wine exhibits unpleasant aromas of 'Wet cardboard' or 'Musty' basement and has a complete lack of fruitiness, which common wine fault is most likely present?
 
 A. Oxidation
-B. **TCA / Cork Taint**
+B. TCA / Cork Taint
 C. Reduction
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. TCA / Cork Taint**
+Answer: B. TCA / Cork Taint
 
-**Explanation**: **Wine Faults** are the silent killers that destroy the natural beauty of a wine. A wine contaminated with **TCA (2,4,6-Trichloroanisole)** emits an unpleasant **'musty'** or **'wet cardboard'** smell derived from the cork and completely strips away fresh fruit aromas (this is called **'Cork Taint'**). **Oxidation** occurs when excessive contact with air causes the wine to turn brown and lose its freshness. **Reduction** happens in low-oxygen environments, resulting in odors like rotten eggs or struck matches.
+Explanation: Wine Faults are the silent killers that destroy the natural beauty of a wine.
+
+A wine contaminated with TCA (2,4,6-Trichloroanisole) emits an unpleasant 'musty' or 'wet cardboard' smell derived from the cork and completely strips away fresh fruit aromas (this is called 'Cork Taint').
+
+Oxidation occurs when excessive contact with air causes the wine to turn brown and lose its freshness.
+
+Reduction happens in low-oxygen environments, resulting in odors like rotten eggs or struck matches.
 
 ---
 
@@ -23,17 +29,22 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of the three symptoms and causes of major wine faults:
 
-1.  **TCA (Cork Taint)**: Caused by chemical compounds (TCA) residing in the cork. (Musty, Wet cardboard, Lack of fruit).
-2.  **Oxidation**: Occurs when excessive air enters the bottle due to improper storage or cork failure. (Brown color, Toffee, Sherry-like, Flat fruit).
-3.  **Reduction**: Occurs when oxygen is extremely limited during production or storage. (Rotten eggs, Boiled cabbage, Struck match).
-4.  **Heat Damage**: When wine is stored in a location that is too warm and 'cooks' the wine. (Cooked fruit flavor, Seepage from the cork).
+1.  TCA (Cork Taint): Caused by chemical compounds (TCA) residing in the cork. (Musty, Wet cardboard, Lack of fruit).
+
+2.  Oxidation: Occurs when excessive air enters the bottle due to improper storage or cork failure. (Brown color, Toffee, Sherry-like, Flat fruit).
+
+3.  Reduction: Occurs when oxygen is extremely limited during production or storage. (Rotten eggs, Boiled cabbage, Struck match).
+
+4.  Heat Damage: When wine is stored in a location that is too warm and 'cooks' the wine. (Cooked fruit flavor, Seepage from the cork).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that musty odors in expensive wines are 'normal' complex aging characters. A wet cardboard or musty smell is a clear **'fault'**, not an aging aroma.
-**[Tip]**: In the exam, link **'Musty/Wet cardboard'** with TCA, and **'Brown color/Sherry-like'** with Oxidation.
+[Trap]: Do not assume that musty odors in expensive wines are 'normal' complex aging characters.
+
+A wet cardboard or musty smell is a clear 'fault', not an aging aroma.
+[Tip]: In the exam, link 'Musty/Wet cardboard' with TCA, and 'Brown color/Sherry-like' with Oxidation.
 
 ---
 
@@ -48,8 +59,11 @@ Do you know 'invisible contamination' inside a wine bottle? The moment the chemi
 
 [Reason]
 Wine Fault Alchemy Formula:
+
 1. TCA: Wet cardboard, musty smell (Cork Taint).
+
 2. Oxidation: Brown color evolution, sherry-like odor, lack of vitality.
+
 3. Reduction: Rotten egg odor, lack of oxygen (Reduced).
 
 [Tip]

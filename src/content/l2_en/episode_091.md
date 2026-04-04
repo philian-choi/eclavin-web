@@ -2,9 +2,9 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. One of the essential elements for the growth of a vine is sunlight. What is the vineyard activity performed to maximize sunlight exposure, aiding sugar synthesis and reducing the risk of fungal disease?**
+Q. One of the essential elements for the growth of a vine is sunlight. What is the vineyard activity performed to maximize sunlight exposure, aiding sugar synthesis and reducing the risk of fungal disease?
 
-A. **Vine pruning and canopy management**
+A. Vine pruning and canopy management
 B. Installation of artificial lighting (Giant mirrors)
 C. Putting sunglasses on vines (Vine sunglasses)
 D. Instantly changes all efforts into a shot of salt water.
@@ -13,9 +13,15 @@ D. Instantly changes all efforts into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: A. Vine pruning and canopy management**
+Answer: A. Vine pruning and canopy management
 
-**Explanation**: **Canopy management** is the architecture of the vineyard. By thinning out the leaves strategically, sunlight is allowed to reach the grapes to aid in sugar synthesis, and air circulation is improved to prevent fungal diseases. Remember the maxim that the quality of a wine is decided in the vineyard, not the winery. The harmony of poor soil and an appropriate climate (latitude 30–50°) is the beginning of a masterpiece.
+Explanation: Canopy management is the architecture of the vineyard.
+
+By thinning out the leaves strategically, sunlight is allowed to reach the grapes to aid in sugar synthesis, and air circulation is improved to prevent fungal diseases.
+
+Remember the maxim that the quality of a wine is decided in the vineyard, not the winery.
+
+The harmony of poor soil and an appropriate climate (latitude 30–50°) is the beginning of a masterpiece.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes all efforts into a shot of salt water.
 
 A summary of the core success factors in wine growing:
 
-1.  **Needs of the Vine**: Heat, Sunlight, Water, Nutrients, CO2.
-2.  **Latitude**: 30–50° (The golden range for wine growing).
-3.  **Climate Effect**: Cool (High acidity, Low sugar) vs. Warm (Low acidity, High sugar/alcohol).
-4.  **Weather Hazards**: Frost, Hail, Drought.
-5.  **Grape Development**: Veraison (color change), sugar upward trend (Sugar ripening), and acid downward trend (Acid dropping).
+1.  Needs of the Vine: Heat, Sunlight, Water, Nutrients, CO2.
+
+2.  Latitude: 30–50° (The golden range for wine growing).
+
+3.  Climate Effect: Cool (High acidity, Low sugar) vs. Warm (Low acidity, High sugar/alcohol).
+
+4.  Weather Hazards: Frost, Hail, Drought.
+
+5.  Grape Development: Veraison (color change), sugar upward trend (Sugar ripening), and acid downward trend (Acid dropping).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that vines produce the best quality wine grapes only in fertile soil with plenty of water and fertilizer. In fact, vines must struggle and sink their roots deep into poor soil under moderate water stress to produce concentrated, high-quality grapes.
-**[Tip]**: In the exam, **'Canopy management'** is always linked with **'Sunlight exposure'** or **'Airflow'**.
+[Trap]: Do not assume that vines produce the best quality wine grapes only in fertile soil with plenty of water and fertilizer.
+
+In fact, vines must struggle and sink their roots deep into poor soil under moderate water stress to produce concentrated, high-quality grapes.
+[Tip]: In the exam, 'Canopy management' is always linked with 'Sunlight exposure' or 'Airflow'.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know the forest scents awakened by 'canopy management' in your glass? Wit
 
 [Reason]
 Earth Cultivation Alchemy Formula:
+
 1. Management: Canopy Management is the absolute baseline of quality.
+
 2. Influence: Sufficient sunlight determines the sugar and complex aromas of the grapes.
+
 3. Point: Good wine is made in the vineyard, not the winery.
 
 [Tip]

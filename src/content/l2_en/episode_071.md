@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. During viticulture and winemaking, what is the primary chemical reaction where 'Yeast' converts sugar into alcohol and carbon dioxide?**
+Q. During viticulture and winemaking, what is the primary chemical reaction where 'Yeast' converts sugar into alcohol and carbon dioxide?
 
 A. Oxidation
-B. **Alcoholic Fermentation**
+B. Alcoholic Fermentation
 C. Photosynthesis
 D. Instantly changes any reaction into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any reaction into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Alcoholic Fermentation**
+Answer: B. Alcoholic Fermentation
 
-**Explanation**: The **creation of wine** is a science. The core process is **Alcoholic Fermentation**, where yeast consumes sugar to produce alcohol. **Photosynthesis** is the process by which grapevines create sugar using sunlight, and **Oxidation** is the phenomenon where wine is exposed to air, affecting its quality. It is essential to understand that red wines are fermented with their skins to extract color and tannin (**Extraction**), while white wines are pressed before fermentation to extract only the juice.
+Explanation: The creation of wine is a science.
+
+The core process is Alcoholic Fermentation, where yeast consumes sugar to produce alcohol.
+
+Photosynthesis is the process by which grapevines create sugar using sunlight, and Oxidation is the phenomenon where wine is exposed to air, affecting its quality.
+
+It is essential to understand that red wines are fermented with their skins to extract color and tannin (Extraction), while white wines are pressed before fermentation to extract only the juice.
 
 ---
 
@@ -23,18 +29,26 @@ D. Instantly changes any reaction into a shot of soju.
 
 A summary of the core engineering behind viticulture and winemaking:
 
-1.  **Viticulture**: Grapevines create sugar using sunlight, water, and carbon dioxide. (Sugar in grapes = Potential alcohol).
-2.  **Alcoholic Fermentation**: Sugar + Yeast → Alcohol + CO2 + Heat.
-3.  **Red Winemaking**: Crushing -> **Fermentation with skins** (Extraction) -> Pressing -> Maturation.
-4.  **White Winemaking**: Crushing -> **Pressing (Juice only)** -> Fermentation -> Maturation.
-5.  **Rosé Winemaking**: Produced via short maceration (skin contact) followed by juice fermentation. Exceptionally, blending red and white is permitted only in Champagne.
+1.  Viticulture: Grapevines create sugar using sunlight, water, and carbon dioxide. (Sugar in grapes = Potential alcohol).
+
+2.  Alcoholic Fermentation: Sugar + Yeast → Alcohol + CO2 + Heat.
+
+3.  Red Winemaking: Crushing -> Fermentation with skins (Extraction) -> Pressing -> Maturation.
+
+4.  White Winemaking: Crushing -> Pressing (Juice only) -> Fermentation -> Maturation.
+
+5.  Rosé Winemaking: Produced via short maceration (skin contact) followed by juice fermentation. Exceptionally, blending red and white is permitted only in Champagne.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that rosé wine is always made by blending red and white wines. According to EU regulations, blending is generally prohibited (except for Champagne).
-**[Tip]**: In the exam, memorize the red winemaking sequence along with **'Extract color and tannin'**. This production principle is the key to a perfect score.
+[Trap]: Do not assume that rosé wine is always made by blending red and white wines.
+
+According to EU regulations, blending is generally prohibited (except for Champagne).
+[Tip]: In the exam, memorize the red winemaking sequence along with 'Extract color and tannin'.
+
+This production principle is the key to a perfect score.
 
 ---
 
@@ -49,8 +63,11 @@ Do you know 'the magic of fermentation' breathing inside your wine glass? That f
 
 [Reason]
 Wine Winemaking Alchemy Formula:
+
 1. Fermentation: The miracle where yeast converts sugar into alcohol.
+
 2. Red vs White: Inclusion of skins determines color and tannins (Extraction).
+
 3. Feature: Temperature control and maturation vessels complete the final style.
 
 [Tip]

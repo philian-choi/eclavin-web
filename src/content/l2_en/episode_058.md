@@ -2,9 +2,9 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the quality hierarchy of German wines, which level within the 'Prädikatswein' classification is the first to be harvested, yielding a light and refreshing style?**
+Q. In the quality hierarchy of German wines, which level within the 'Prädikatswein' classification is the first to be harvested, yielding a light and refreshing style?
 
-A. **Kabinett**
+A. Kabinett
 B. Spätlese
 C. Auslese
 D. Changes any wine into a shot of soju instantly.
@@ -13,9 +13,15 @@ D. Changes any wine into a shot of soju instantly.
 
 ## [Answer & Explanation]
 
-**Answer: A. Kabinett**
+Answer: A. Kabinett
 
-**Explanation**: In **Germany**, quality is measured by the sugar content (must weight) of the grapes at harvest. **Kabinett** is harvested first, resulting in a light and refreshing style. **Spätlese** (Late Harvest) offers riper flavors, and **Auslese** (Selected Harvest) indicates even greater concentration. Note that these wines can be made in styles ranging from dry (**Trocken**) to sweet, depending on the producer's choice.
+Explanation: In Germany, quality is measured by the sugar content (must weight) of the grapes at harvest.
+
+Kabinett is harvested first, resulting in a light and refreshing style.
+
+Spätlese (Late Harvest) offers riper flavors, and Auslese (Selected Harvest) indicates even greater concentration.
+
+Note that these wines can be made in styles ranging from dry (Trocken) to sweet, depending on the producer's choice.
 
 ---
 
@@ -23,20 +29,25 @@ D. Changes any wine into a shot of soju instantly.
 
 A summary of the German quality pyramid:
 
-1.  **Deutscher Wein**: The most basic level of table wine.
-2.  **Qualitätswein (QbA)**: A quality status that allows chaptalisation (adding sugar to the must to increase alcohol).
-3.  **Prädikatswein**: A six-level system based on sugar content at harvest. Chaptalisation is strictly forbidden.
-    - **Kabinett**: Lightest and freshest.
-    - **Spätlese**: Riper flavors from a later harvest.
-    - **Auslese**: Greater concentration from selected harvest.
-4.  **Dryness Designations**: **Trocken** (Dry) and **Halbtrocken** (Off-dry).
+1.  Deutscher Wein: The most basic level of table wine.
+
+2.  Qualitätswein (QbA): A quality status that allows chaptalisation (adding sugar to the must to increase alcohol).
+
+3.  Prädikatswein: A six-level system based on sugar content at harvest. Chaptalisation is strictly forbidden.
+    - Kabinett: Lightest and freshest.
+    - Spätlese: Riper flavors from a later harvest.
+    - Auslese: Greater concentration from selected harvest.
+
+4.  Dryness Designations: Trocken (Dry) and Halbtrocken (Off-dry).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that a Kabinett wine is always sweet. If the label says 'Kabinett Trocken', it means the wine has been fermented until it is practically dry, offering a very clean and crisp finish.
-**[Tip]**: In the exam, if you see **'Sugar in the grapes at harvest'** or **'Prädikat levels'** combined with Germany, think of the hierarchy based on ripeness.
+[Trap]: Do not assume that a Kabinett wine is always sweet.
+
+If the label says 'Kabinett Trocken', it means the wine has been fermented until it is practically dry, offering a very clean and crisp finish.
+[Tip]: In the exam, if you see 'Sugar in the grapes at harvest' or 'Prädikat levels' combined with Germany, think of the hierarchy based on ripeness.
 
 ---
 
@@ -51,8 +62,11 @@ In the world of German Riesling, the 'Prädikat' system is an uncompromising sca
 
 [Reason]
 German Hierarchy Formula:
+
 1. Prädikatswein: A precise six-level system based on sugar at harvest.
+
 2. Qualitätswein (QbA): The widely produced quality level.
+
 3. Prädikat: Kabinett < Spätlese < Auslese (with increasing concentration).
 
 [Tip]

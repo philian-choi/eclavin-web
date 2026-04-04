@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Which style of Sherry, produced in 'Jerez', Spain, is aged under a layer of yeast known as 'Flor', resulting in a very fresh profile with almond and herbal notes?**
+Q. Which style of Sherry, produced in 'Jerez', Spain, is aged under a layer of yeast known as 'Flor', resulting in a very fresh profile with almond and herbal notes?
 
 A. Oloroso
-B. **Fino**
+B. Fino
 C. Pedro Ximénez (PX)
 D. Changes any wine into a shot of soju instantly.
 
@@ -13,9 +13,15 @@ D. Changes any wine into a shot of soju instantly.
 
 ## [Answer & Explanation]
 
-**Answer: B. Fino**
+Answer: B. Fino
 
-**Explanation**: **Sherry** is an art of maturation. **Fino** is aged under a protective layer of yeast called **'Flor'**, which prevents contact with air and maintains fresh aromas of almond, herbs, and apple (**Biological Aging**). Conversely, **Oloroso** is fortified to a higher alcohol level to kill the yeast and then aged in direct contact with air, gaining a brown color and notes of walnut and toffee (**Oxidative Aging**). **Amontillado** is an intermediate style that undergoes both types of aging.
+Explanation: Sherry is an art of maturation.
+
+Fino is aged under a protective layer of yeast called 'Flor', which prevents contact with air and maintains fresh aromas of almond, herbs, and apple (Biological Aging).
+
+Conversely, Oloroso is fortified to a higher alcohol level to kill the yeast and then aged in direct contact with air, gaining a brown color and notes of walnut and toffee (Oxidative Aging).
+
+Amontillado is an intermediate style that undergoes both types of aging.
 
 ---
 
@@ -23,18 +29,26 @@ D. Changes any wine into a shot of soju instantly.
 
 A summary of Sherry maturation types:
 
-1.  **Fino (Biological Aging)**: 15% ABV. Aged under **Flor**. (Pale color, Dry, Almond, Herbs).
-2.  **Oloroso (Oxidative Aging)**: 17% ABV or more. Aged in contact with air. (Brown color, Dry, Walnut, Toffee, Dried fruit).
-3.  **Amontillado (Intermediate)**: Starts as Fino and then undergoes oxidative aging. (Amber color, Dry, Nutty & Yeast notes).
-4.  **Pedro Ximénez (PX)**: Made from sun-dried grapes. Intensely sweet. (Black, Raisin, Prune).
-5.  **Solera System**: A unique system for blending wine from different vintages to ensure consistent quality.
+1.  Fino (Biological Aging): 15% ABV. Aged under Flor. (Pale color, Dry, Almond, Herbs).
+
+2.  Oloroso (Oxidative Aging): 17% ABV or more. Aged in contact with air. (Brown color, Dry, Walnut, Toffee, Dried fruit).
+
+3.  Amontillado (Intermediate): Starts as Fino and then undergoes oxidative aging. (Amber color, Dry, Nutty & Yeast notes).
+
+4.  Pedro Ximénez (PX): Made from sun-dried grapes. Intensely sweet. (Black, Raisin, Prune).
+
+5.  Solera System: A unique system for blending wine from different vintages to ensure consistent quality.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Sherry is sweet. Fino, Oloroso, and Amontillado are traditionally **'Dry'** wines. Only specific types like PX or sweetened blends are sweet.
-**[Tip]**: In the exam, link **'Biological aging/Flor'** with Fino, and **'Oxidative aging/Brown'** with Oloroso.
+[Trap]: Do not assume all Sherry is sweet.
+
+Fino, Oloroso, and Amontillado are traditionally 'Dry' wines.
+
+Only specific types like PX or sweetened blends are sweet.
+[Tip]: In the exam, link 'Biological aging/Flor' with Fino, and 'Oxidative aging/Brown' with Oloroso.
 
 ---
 
@@ -49,8 +63,11 @@ Sherry, born on the white 'Albariza' soils of Spain, is the magic of time crafte
 
 [Reason]
 Sherry Alchemy Formula:
+
 1. Fino: Biological maturation under Flor, almond, herb, dry.
+
 2. Oloroso: Oxidative maturation, walnut, toffee, brown.
+
 3. Solera: The wisdom of blending vintages to achieve consistent perfection.
 
 [Tip]

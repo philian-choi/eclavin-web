@@ -28,13 +28,6 @@ export function useEpisodeQuiz(episode: Episode, lang: string) {
 
   useEffect(() => {
     setMounted(true);
-    try {
-      if (!localStorage.getItem('wset_swipe_hint_shown')) {
-        setShowSwipeHint(true);
-        localStorage.setItem('wset_swipe_hint_shown', 'true');
-        setTimeout(() => setShowSwipeHint(false), 3000);
-      }
-    } catch (e) { }
   }, []);
 
   const handleSelect = useCallback((label: string) => {
@@ -60,36 +53,31 @@ export function useEpisodeQuiz(episode: Episode, lang: string) {
   }, [selected, episode]);
 
   // Keyboard shortcuts
-  useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
-      if (selected) {
-        if (e.key === 'ArrowRight') { e.preventDefault(); navigateNext(); }
-        else if (e.key === 'ArrowLeft') { e.preventDefault(); navigatePrev(); }
-      } else {
-        const idx = { '1': 0, '2': 1, '3': 2, '4': 3 }[e.key] as number | undefined;
-        if (idx !== undefined && episode.options[idx]) { 
-          e.preventDefault(); 
-          handleSelect(episode.options[idx].label); 
-        }
+  const onKey = useCallback((e: KeyboardEvent) => {
+    if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+    
+    if (!selected) {
+      const idx = { '1': 0, '2': 1, '3': 2, '4': 3 }[e.key] as number | undefined;
+      if (idx !== undefined && episode.options[idx]) { 
+        e.preventDefault(); 
+        handleSelect(episode.options[idx].label); 
       }
-    };
+    }
+  }, [selected, episode, handleSelect]);
+
+  useEffect(() => {
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [selected, episode, navigateNext, navigatePrev, handleSelect]);
+  }, [onKey]);
 
   return {
     selected,
     isCorrect,
     mounted,
-    showSwipeHint,
-    setShowSwipeHint,
     explanationRef,
     hasNext,
     hasPrev,
     getUrl,
-    handleSelect,
-    navigateNext,
-    navigatePrev
+    handleSelect
   };
 }

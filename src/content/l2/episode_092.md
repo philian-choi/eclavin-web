@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 화이트 와인과 레드 와인 양조 과정의 가장 결정적인 차이점 중 하나로, 레드 와인의 색상과 타닌(Tannin)을 추출하기 위해 발효 전과 발효 중에 수행하는 과정은 무엇인가요?**
+Q. 화이트 와인과 레드 와인 양조 과정의 가장 결정적인 차이점 중 하나로, 레드 와인의 색상과 타닌(Tannin)을 추출하기 위해 발효 전과 발효 중에 수행하는 과정은 무엇인가요?
 
 A. 포도 껍질과 즙을 함께 두는 접촉 과정 (Skin contact / Maceration)
 B. 포도 즙만 즉시 분리하여 발효 (Immediate pressing)
@@ -13,9 +13,15 @@ D. 모든 양조를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: A. 포도 껍질과 즙을 함께 두는 접촉 과정 (Skin contact / Maceration)**
+정답: A. 포도 껍질과 즙을 함께 두는 접촉 과정 (Skin contact / Maceration)
 
-**해설**: **레드 와인**은 껍질과 함께 발효하며 색상과 타닌을 추출합니다. 반면 **화이트 와인**은 발효 전 껍질을 분리하여 신선함을 극대화하죠. 또한 로제 와인은 짧은 시간(Short maceration) 동안만 껍질을 접촉시켜 옅은 핑크색을 얻습니다. 발효 온도 또한 중요한데, 화이트는 저온(12~22°C)에서 과일 향을 지키고, 레드는 고온(20~32°C)에서 색과 타닌을 더 잘 추출합니다.
+해설: 레드 와인은 껍질과 함께 발효하며 색상과 타닌을 추출합니다.
+
+반면 화이트 와인은 발효 전 껍질을 분리하여 신선함을 극대화하죠.
+
+또한 로제 와인은 짧은 시간(Short maceration) 동안만 껍질을 접촉시켜 옅은 핑크색을 얻습니다.
+
+발효 온도 또한 중요한데, 화이트는 저온(12~22°C)에서 과일 향을 지키고, 레드는 고온(20~32°C)에서 색과 타닌을 더 잘 추출합니다.
 
 ---
 
@@ -23,18 +29,24 @@ D. 모든 양조를 한순간에 소금물로 바꾼다.
 
 스타일을 결정짓는 양조학적 연금술 요약입니다.
 
-1.  **Alcoholic Fermentation**: Yeast + Sugar -> Alcohol + CO2 + Heat.
-2.  **White Wine**: Pressing -> Fermentation(Cool). 신선도 유지.
-3.  **Red Wine**: Crush -> Fermentation(Warm/Skin contact) -> Press. 구조감 확보.
-4.  **Maturation**: Stainless steel(신선) vs Oak(바닐라, 부드러운 타닌).
-5.  **MLF (Malolactic Fermentation)**: 가혹한 사과산(Malic)을 부드러운 젖산(Lactic)으로 변환. (Butter/Cream).
+1.  Alcoholic Fermentation: Yeast + Sugar -> Alcohol + CO2 + Heat.
+
+2.  White Wine: Pressing -> Fermentation(Cool). 신선도 유지.
+
+3.  Red Wine: Crush -> Fermentation(Warm/Skin contact) -> Press. 구조감 확보.
+
+4.  Maturation: Stainless steel(신선) vs Oak(바닐라, 부드러운 타닌).
+
+5.  MLF (Malolactic Fermentation): 가혹한 사과산(Malic)을 부드러운 젖산(Lactic)으로 변환. (Butter/Cream).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 레드 와인은 반드시 100% 새 오크통(New oak)에서만 숙성해야 한다"라고 하면 오답입니다. 오크의 영향이 너무 강하면 포도 품종 본연의 풍미가 가려질 수 있어 헌 오크나 스테인리스 탱크를 섞어 쓰는 경우가 많음을 명심하세요.
-**[팁]**: 시험에서 **'Malolactic Fermentation'**이 나오면 **'Buttery/Creamy'** 풍미를 즉시 연결하세요.
+[함정]: "모든 레드 와인은 반드시 100% 새 오크통(New oak)에서만 숙성해야 한다"라고 하면 오답입니다.
+
+오크의 영향이 너무 강하면 포도 품종 본연의 풍미가 가려질 수 있어 헌 오크나 스테인리스 탱크를 섞어 쓰는 경우가 많음을 명심하세요.
+[팁]: 시험에서 'Malolactic Fermentation'이 나오면 'Buttery/Creamy' 풍미를 즉시 연결하세요.
 
 ---
 
@@ -49,8 +61,11 @@ D. 모든 양조를 한순간에 소금물로 바꾼다.
 
 [Reason]
 양조 스타일 연금술 공식:
+
 1. 레드: 고온 발효와 껍질 접촉이 만드는 웅장한 구조 (Structure)
+
 2. 화이트: 저온 발효가 지켜내는 아로마의 순수성 (Purity)
+
 3. 로제: 짧은 만남이 선사하는 핑크빛 설렘 (Short Maceration)
 
 [Tip]

@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the quality hierarchy of Italian wines, which classification corresponds to the strictest production regulations and features an 'official government band' (Fascetta) around the neck of the bottle?**
+Q. In the quality hierarchy of Italian wines, which classification corresponds to the strictest production regulations and features an 'official government band' (Fascetta) around the neck of the bottle?
 
 A. Vino d'Italia (Table Wine)
-B. Denominazione di Origine Controllata e Garantita (**DOCG**)
+B. Denominazione di Origine Controllata e Garantita (DOCG)
 C. Indicazione Geografica Tipica (IGT)
 D. Changes any wine into a shot of soju instantly.
 
@@ -13,9 +13,15 @@ D. Changes any wine into a shot of soju instantly.
 
 ## [Answer & Explanation]
 
-**Answer: B. Denominazione di Origine Controllata e Garantita (DOCG)**
+Answer: B. Denominazione di Origine Controllata e Garantita (DOCG)
 
-**Explanation**: **Italy** protects its millennia-old wine traditions through legislation. Only regions with proven high quality within the 'DOC' status can be promoted to **DOCG** (Garantita/Guaranteed). The official hologram band around the bottle neck signifies that the government has officially 'guaranteed' the quality and taste. Meanwhile, **IGT** represents a broader regional level where producers often choose flexibility over tradition to create cutting-edge wines (e.g., Super Tuscans).
+Explanation: Italy protects its millennia-old wine traditions through legislation.
+
+Only regions with proven high quality within the 'DOC' status can be promoted to DOCG (Garantita/Guaranteed).
+
+The official hologram band around the bottle neck signifies that the government has officially 'guaranteed' the quality and taste.
+
+Meanwhile, IGT represents a broader regional level where producers often choose flexibility over tradition to create cutting-edge wines (e.g., Super Tuscans).
 
 ---
 
@@ -23,18 +29,24 @@ D. Changes any wine into a shot of soju instantly.
 
 A summary of the Italian quality pyramid:
 
-1.  **Vino (Table Wine)**: The most basic level, typically sold without a specific origin but may list a grape variety.
-2.  **IGT (Indicazione Geografica Tipica)**: A broad regional classification. Many innovative and premium wines made from non-traditional grapes (like Cabernet Sauvignon) opt for this status.
-3.  **DOC (Denominazione di Origine Controllata)**: A quality level that strictly controls the production zone, grape varieties, yields, and minimum alcohol levels.
-4.  **DOCG (e Garantita)**: The pinnacle of Italian wine. Famous examples include **Barolo, Barbaresco, and Brunello di Montalcino**.
-5.  **Key Terms**: **Classico** (The traditional heartland of a region) and **Riserva** (Wines aged for a longer specified period than the regular version).
+1.  Vino (Table Wine): The most basic level, typically sold without a specific origin but may list a grape variety.
+
+2.  IGT (Indicazione Geografica Tipica): A broad regional classification. Many innovative and premium wines made from non-traditional grapes (like Cabernet Sauvignon) opt for this status.
+
+3.  DOC (Denominazione di Origine Controllata): A quality level that strictly controls the production zone, grape varieties, yields, and minimum alcohol levels.
+
+4.  DOCG (e Garantita): The pinnacle of Italian wine. Famous examples include Barolo, Barbaresco, and Brunello di Montalcino.
+
+5.  Key Terms: Classico (The traditional heartland of a region) and Riserva (Wines aged for a longer specified period than the regular version).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that a DOCG wine is always more expensive or better than an IGT wine. Legendary IGTs like Sassicaia often command much higher prices than most DOCGs.
-**[Tip]**: In the exam, if you see **'Highest quality level/Government analysis'** combined with **'DOCG'**, look for Italy's ultimate guarantee system.
+[Trap]: Do not assume that a DOCG wine is always more expensive or better than an IGT wine.
+
+Legendary IGTs like Sassicaia often command much higher prices than most DOCGs.
+[Tip]: In the exam, if you see 'Highest quality level/Government analysis' combined with 'DOCG', look for Italy's ultimate guarantee system.
 
 ---
 
@@ -49,8 +61,11 @@ In the world of Italian fine wine, the ultimate honor is 'DOCG'. These four lett
 
 [Reason]
 Italian Hierarchy Formula:
+
 1. DOCG: The highest quality guarantee (Barolo, Barbaresco, etc.)
+
 2. DOC: Strictly controlled Appellation names.
+
 3. IGT: Broad regional classification (Experimental and innovative wines).
 
 [Tip]

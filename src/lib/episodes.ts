@@ -43,17 +43,21 @@ function sanitizeContent(str: string): string {
  */
 function extractSection(content: string, keywords: string[] | string): string {
   const keywordList = Array.isArray(keywords) ? keywords : [keywords];
-  const sections = content.split(/##\s+/);
-  const section = sections.find(s => keywordList.some(k => s.toLowerCase().includes(k.toLowerCase())));
+  const normalizedContent = content.normalize('NFC');
+  const sections = normalizedContent.split(/##\s*/);
+  
+  const section = sections.find(s => {
+    const firstLine = s.split('\n')[0].toLowerCase().trim().normalize('NFC');
+    return keywordList.some(k => firstLine.includes(k.normalize('NFC').toLowerCase()));
+  });
   
   if (!section) return "";
 
   // Clean strings: remove header lines and metadata tags like [Header]
-  const cleaned = section.split('\n')
-    .filter(line => !line.startsWith('##') && !/^\[.+\]$/.test(line.trim()))
+  const cleaned = section.split('\n').slice(1)
+    .filter(line => !line.startsWith('##') && !/^-{3,}$/.test(line.trim()))
     .join('\n')
-    .split('---')[0] // Stop at separators
-    .replace(/\*\*/g, '') // Remove bold markers
+    .replace(/\*\*/g, '')
     .trim();
 
   return sanitizeContent(cleaned);
@@ -67,12 +71,14 @@ function parseQuestionData(rawSection: string) {
   const questionMatch = rawSection.match(/(?:Q\.|Practice Question:)\s*(.+)/i) || 
                        rawSection.match(/\*\*(.+)\*\*/);
   
-  const question = sanitizeContent(questionMatch ? questionMatch[1].trim() : "Question not found");
+  const question = sanitizeContent(questionMatch ? questionMatch[1].replace(/\*/g, '').trim() : "Question not found");
 
   const getOption = (label: string) => {
     const regex = new RegExp(`${label}\\.\\s*(.+)`, 'i');
     const match = rawSection.match(regex);
-    return sanitizeContent(match?.[1]?.trim() || "");
+    if (!match) return "";
+    // Aggressively strip markdown asterisks and sanitize
+    return sanitizeContent(match[1].replace(/\*/g, '').trim());
   };
 
   return {

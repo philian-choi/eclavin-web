@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 보르도(Bordeaux) 지역에서 주로 재배되며, 높은 타닌(Tannin)과 높은 산도(Acidity), 블랙커런트와 삼나무(Cedar) 풍미를 지니는 대표적인 레드 품종은 무엇인가요?**
+Q. 프랑스 보르도(Bordeaux) 지역에서 주로 재배되며, 높은 타닌(Tannin)과 높은 산도(Acidity), 블랙커런트와 삼나무(Cedar) 풍미를 지니는 대표적인 레드 품종은 무엇인가요?
 
 A. 피노 누아 (Pinot Noir)
 B. 카베르네 소비뇽 (Cabernet Sauvignon)
@@ -13,9 +13,13 @@ D. 모든 품종을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 카베르네 소비뇽 (Cabernet Sauvignon)**
+정답: B. 카베르네 소비뇽 (Cabernet Sauvignon)
 
-**해설**: **카베르네 소비뇽(Cabernet Sauvignon)**은 레드 와인의 왕입니다. 두꺼운 껍질 덕분에 아주 높은 타닌과 짙은 색상을 가지며, 블랙커런트와 민트, 오크 숙성을 통한 삼나무 향이 시그니처입니다. 반면 **메를로(Merlot)**는 타닌이 더 부드럽고 붉은 과일 풍미가 강하며, **피노 누아(Pinot Noir)**는 얇은 껍질로 인해 옅은 색상과 높은 산도, 신선한 딸기/체리 향을 뽐내는 섬세한 품종임을 기억하세요.
+해설: 카베르네 소비뇽(Cabernet Sauvignon)은 레드 와인의 왕입니다.
+
+두꺼운 껍질 덕분에 아주 높은 타닌과 짙은 색상을 가지며, 블랙커런트와 민트, 오크 숙성을 통한 삼나무 향이 시그니처입니다.
+
+반면 메를로(Merlot)는 타닌이 더 부드럽고 붉은 과일 풍미가 강하며, 피노 누아(Pinot Noir)는 얇은 껍질로 인해 옅은 색상과 높은 산도, 신선한 딸기/체리 향을 뽐내는 섬세한 품종임을 기억하세요.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 품종을 한순간에 소주 맛으로 바꾼다.
 
 주요 레드 품종의 핵심 요약(Review)입니다.
 
-1.  **Cabernet Sauvignon**: 높은 타닌, 높은 산도, 오크 숙성 필수. (Blackcurrant, Mint, Cedar).
-2.  **Merlot**: 중간 타닌, 중간 산도, 부드러운 질감. (Plum, Cherry, Fruit cake). 보르도 우안이 유명합니다.
-3.  **Pinot Noir**: 낮은 타닌, 높은 산도, 얇은 껍질. (Strawberry, Cherry, Mushroom, Forest floor). 서늘한 기후가 필수입니다.
-4.  **Syrah / Shiraz**: 높은 타닌, 높은 산도, 향신료. (Black pepper, Blackberry, Meat). 프랑스 북부 론과 호주가 대표적입니다.
-5.  **Grenache / Garnacha**: 낮은 타닌, 낮은 산도, 높은 알코올. (Red fruit, Spices). 샤토네프 뒤 파프와 스페인에서 중요합니다.
+1.  Cabernet Sauvignon: 높은 타닌, 높은 산도, 오크 숙성 필수. (Blackcurrant, Mint, Cedar).
+
+2.  Merlot: 중간 타닌, 중간 산도, 부드러운 질감. (Plum, Cherry, Fruit cake). 보르도 우안이 유명합니다.
+
+3.  Pinot Noir: 낮은 타닌, 높은 산도, 얇은 껍질. (Strawberry, Cherry, Mushroom, Forest floor). 서늘한 기후가 필수입니다.
+
+4.  Syrah / Shiraz: 높은 타닌, 높은 산도, 향신료. (Black pepper, Blackberry, Meat). 프랑스 북부 론과 호주가 대표적입니다.
+
+5.  Grenache / Garnacha: 낮은 타닌, 낮은 산도, 높은 알코올. (Red fruit, Spices). 샤토네프 뒤 파프와 스페인에서 중요합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "피노 누아는 항상 진한 보라색을 띤다"라고 하면 오답입니다. 껍질이 얇아 색연 추출이 적기에 루비색이나 연한 붉은색을 띠는 것이 정상임을 명심하세요.
-**[팁]**: 시험에서 **'High tannin/High acid/Black fruit'**는 카베르네 소비뇽을, **'Low tannin/High acid/Red fruit'**는 피노 누아를 연결하세요.
+[함정]: "피노 누아는 항상 진한 보라색을 띤다"라고 하면 오답입니다.
+
+껍질이 얇아 색연 추출이 적기에 루비색이나 연한 붉은색을 띠는 것이 정상임을 명심하세요.
+[팁]: 시험에서 'High tannin/High acid/Black fruit'는 카베르네 소비뇽을, 'Low tannin/High acid/Red fruit'는 피노 누아를 연결하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 품종을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 레드 품종 연금술 공식:
+
 1. 카베르네 소비뇽: 높은 타닌의 권위와 블랙커런트 (Cabernet Sauvignon)
+
 2. 메를로: 부드러운 타닌의 포용과 자두의 유혹 (Merlot)
+
 3. 피노 누아: 높은 산도의 섬세함과 체리의 비밀 (Pinot Noir)
 
 [Tip]

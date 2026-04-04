@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 와인을 시음(Tasting)할 때, 잔을 흔드는 '스와일링(Swirling)' 과정을 거친 뒤 코로 향을 맡는 활동을 무엇이라고 부르며, 이것은 와인의 품질을 파악하는 데 어떤 도움을 주나요?**
+Q. 와인을 시음(Tasting)할 때, 잔을 흔드는 '스와일링(Swirling)' 과정을 거친 뒤 코로 향을 맡는 활동을 무엇이라고 부르며, 이것은 와인의 품질을 파악하는 데 어떤 도움을 주나요?
 
 A. 외관 보기 (Appearance) - 색상과 투명도 확인
 B. 향기 맡기 (Nose / Aroma assessment) - 품질, 복합성, 결함 파악
@@ -13,9 +13,13 @@ D. 모든 감각을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 향기 맡기 (Nose / Aroma assessment) - 품질, 복합성, 결함 파악**
+정답: B. 향기 맡기 (Nose / Aroma assessment) - 품질, 복합성, 결함 파악
 
-**해설**: **시음**은 단순한 마시기가 아닌 과학적인 분석입니다. **코(Nose)**를 통해 포도 품종의 1차 향, 양조 과정의 2차 향(오크, MLF), 숙성을 통한 3차 향(가죽, 버섯)을 구분하며, TCA(코르크 오염) 같은 결함 여부도 판단합니다. 서비스적으로는 깨끗한 잔과 정확한 온도, 그리고 코르크가 마르지 않도록 **눕혀서(Horizontal)** 보관하는 것이 기본 중의 기본입니다.
+해설: 시음은 단순한 마시기가 아닌 과학적인 분석입니다.
+
+코(Nose)를 통해 포도 품종의 1차 향, 양조 과정의 2차 향(오크, MLF), 숙성을 통한 3차 향(가죽, 버섯)을 구분하며, TCA(코르크 오염) 같은 결함 여부도 판단합니다.
+
+서비스적으로는 깨끗한 잔과 정확한 온도, 그리고 코르크가 마르지 않도록 눕혀서(Horizontal) 보관하는 것이 기본 중의 기본입니다.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 감각을 한순간에 소금물로 바꾼다.
 
 시음, 서비스, 보관의 핵심 체계 요약입니다.
 
-1.  **Appearance**: Clarity, Intensity, Color. (Ruby, Lemon, Gold, Garnet).
-2.  **Nose**: Condition(Clean?), Intensity, Aroma(Primary, Secondary, Tertiary).
-3.  **Palate**: Sweetness, Acidity, Tannin, Alcohol, Body, Flavor, Finish. (균형감이 핵심).
-4.  **Service Temperature**: Sparkling(6~10°C), White(7~10°C), Light Red(13°C), Full Red(15~18°C).
-5.  **Storage**: 10~15°C 일정한 온도, 어두운 공간, 눕혀서 보관. (Position matters).
+1.  Appearance: Clarity, Intensity, Color. (Ruby, Lemon, Gold, Garnet).
+
+2.  Nose: Condition(Clean?), Intensity, Aroma(Primary, Secondary, Tertiary).
+
+3.  Palate: Sweetness, Acidity, Tannin, Alcohol, Body, Flavor, Finish. (균형감이 핵심).
+
+4.  Service Temperature: Sparkling(6~10°C), White(7~10°C), Light Red(13°C), Full Red(15~18°C).
+
+5.  Storage: 10~15°C 일정한 온도, 어두운 공간, 눕혀서 보관. (Position matters).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "고가의 와인일수록 향의 강도(Intensity)가 무조건 강하다"라고 하면 오답입니다. 향이 은은하더라도 얼마나 복합적(Complex)이고 긴 여운(Finish)을 남기는지가 품질의 척도임을 명심하세요.
-**[팁]**: 시험에서 **'Secondary aroma'**가 나오면 오크(바닐라), MLF(버터), 효모 숙성(비스킷)을 즉시 떠올리세요.
+[함정]: "고가의 와인일수록 향의 강도(Intensity)가 무조건 강하다"라고 하면 오답입니다.
+
+향이 은은하더라도 얼마나 복합적(Complex)이고 긴 여운(Finish)을 남기는지가 품질의 척도임을 명심하세요.
+[팁]: 시험에서 'Secondary aroma'가 나오면 오크(바닐라), MLF(버터), 효모 숙성(비스킷)을 즉시 떠올리세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 감각을 한순간에 소금물로 바꾼다.
 
 [Reason]
 감각과 서비스 연금술 공식:
+
 1. 시음: 눈, 코, 입으로 이어지는 삼각 편대의 체계적인 조화 (SAT)
+
 2. 서비스: 온도 1도의 차이가 와인의 첫인상을 결정함
+
 3. 보관: 12도의 정온과 어둠 속의 침묵이 명작의 수명을 결정함
 
 [Tip]

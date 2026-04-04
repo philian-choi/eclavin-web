@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 와인에서 젖은 판지(Wet cardboard)나 곰팡이 핀 지하실(Musty) 같은 불쾌한 냄새가 나며 과실 향이 전혀 느껴지지 않을 때, 의심할 수 있는 가장 대표적인 와인의 결함(Fault)은 무엇인가요?**
+Q. 와인에서 젖은 판지(Wet cardboard)나 곰팡이 핀 지하실(Musty) 같은 불쾌한 냄새가 나며 과실 향이 전혀 느껴지지 않을 때, 의심할 수 있는 가장 대표적인 와인의 결함(Fault)은 무엇인가요?
 
 A. 산화 (Oxidation)
 B. 코르크 오염 (TCA / Cork Taint)
@@ -13,9 +13,13 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 코르크 오염 (TCA / Cork Taint)**
+정답: B. 코르크 오염 (TCA / Cork Taint)
 
-**해설**: **와인의 결함(Faults)**은 와인의 본연의 아름다움을 파괴하는 침묵의 살인자입니다. **TCA(2,4,6-Trichloroanisole)**에 오염된 와인은 코르크 마개에서 유래된 불쾌한 **'젖은 종이' 혹은 '곰팡이'** 냄새를 풍기며 신선한 과일 향을 완전히 앗아갑니다(Cork Taint). **산화(Oxidation)**는 공기 접촉으로 인해 와인이 갈색으로 변하고 신선함이 사라지는 현상이며, **환원(Reduction)**은 공기가 부족할 때 달걀 썩은 내나 성냥 타는 냄새가 나는 현상입니다.
+해설: 와인의 결함(Faults)은 와인의 본연의 아름다움을 파괴하는 침묵의 살인자입니다.
+
+TCA(2,4,6-Trichloroanisole)에 오염된 와인은 코르크 마개에서 유래된 불쾌한 '젖은 종이' 혹은 '곰팡이' 냄새를 풍기며 신선한 과일 향을 완전히 앗아갑니다(Cork Taint).
+
+산화(Oxidation)는 공기 접촉으로 인해 와인이 갈색으로 변하고 신선함이 사라지는 현상이며, 환원(Reduction)은 공기가 부족할 때 달걀 썩은 내나 성냥 타는 냄새가 나는 현상입니다.
 
 ---
 
@@ -23,17 +27,22 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 주요 와인 결함의 3대 증상과 원인입니다.
 
-1.  **TCA (Cork Taint)**: 코르크 마개에 서식하는 화학 물질(TCA)이 원인입니다. (Musty, Wet cardboard, Lack of fruit).
-2.  **Oxidation (산화)**: 잘못된 보관이나 코르크 결함으로 과도한 공기가 유입된 결과입니다. (Brown color, Toffee, Sherry-like, Flat fruit).
-3.  **Reduction (환원)**: 산소가 극도로 차단된 상태에서 발생합니다. (Rotten eggs, Boiled cabbage, Struck match).
-4.  **Heat Damage**: 너무 뜨거운 곳에 보관하여 와인이 익어버린 경우입니다. (Cooked fruit flavor, Seepage from cork).
+1.  TCA (Cork Taint): 코르크 마개에 서식하는 화학 물질(TCA)이 원인입니다. (Musty, Wet cardboard, Lack of fruit).
+
+2.  Oxidation (산화): 잘못된 보관이나 코르크 결함으로 과도한 공기가 유입된 결과입니다. (Brown color, Toffee, Sherry-like, Flat fruit).
+
+3.  Reduction (환원): 산소가 극도로 차단된 상태에서 발생합니다. (Rotten eggs, Boiled cabbage, Struck match).
+
+4.  Heat Damage: 너무 뜨거운 곳에 보관하여 와인이 익어버린 경우입니다. (Cooked fruit flavor, Seepage from cork).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "고가의 와인일수록 향기가 복잡하므로 곰팡이 냄새는 정상적인 숙성 향이다"라고 오해하면 오답입니다. 젖은 종이나 곰팡이 냄새는 숙성 향이 아닌 명백한 **'결함'**임을 명심하세요.
-**[팁]**: 시험에서 **'Musty/Wet cardboard'**는 TCA를, **'Brown color/Sherry-like'**는 산화를 연결하세요.
+[함정]: "고가의 와인일수록 향기가 복잡하므로 곰팡이 냄새는 정상적인 숙성 향이다"라고 오해하면 오답입니다.
+
+젖은 종이나 곰팡이 냄새는 숙성 향이 아닌 명백한 '결함'임을 명심하세요.
+[팁]: 시험에서 'Musty/Wet cardboard'는 TCA를, 'Brown color/Sherry-like'는 산화를 연결하세요.
 
 ---
 
@@ -48,8 +57,11 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 와인 결함 연금술 공식:
+
 1. TCA: 젖은 판지, 곰팡이 냄새 (Cork Taint)
+
 2. 산화: 갈색빛 진화, 쉐리 같은 냄새, 생기 부재 (Oxidized)
+
 3. 환원: 달걀 썩은 내, 산소 부족 (Reduced)
 
 [Tip]

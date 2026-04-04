@@ -1,43 +1,48 @@
-# Episode 033: Champagne (Sparkling Magic - Mastery)
+# Episode 033: Champagne (Sparkling Magic) - Regions
 
 ## [WSET L1 Practice Question]
 
-**Q. What is the most distinctive characteristic of sparkling wines produced in the 'Champagne' region of France?**
+Q. Which of the following is an accurate description of the most unique characteristic of sparkling wine produced in Champagne, France?
 
-A. They are always sweet red wines with very deep color.
-B. They undergo **secondary fermentation in the bottle**, resulting in savory notes of **biscuit or toast**.
-C. They are produced in warm climates by artificially injecting carbon dioxide into neutral white grapes.
-D. They are typical non-alcoholic beverages with low acidity and zero sugar.
+A. A very deep red, sweet red wine with added sugar.
+B. Undergoes a second fermentation in the bottle, with nutty/savory aromas like biscuit and toast.
+C. Produced in a warm climate, with artificially injected carbon dioxide gas.
+D. A typical non-alcoholic beverage with low acidity and low alcohol.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. They undergo secondary fermentation in the bottle, resulting in savory notes of biscuit or toast.**
+Answer: B. Undergoes a second fermentation in the bottle, with nutty/savory aromas like biscuit and toast.
 
-**Explanation**: **Champagne** is produced using the 'Traditional Method'. The key to its complexity is the secondary fermentation that happens *inside* the bottle, followed by a period of aging on the **lees** (dead yeast cells). This process, known as **autolysis**, creates sophisticated aromas of **freshly baked bread, biscuits, and brioche**, alongside primary fruit notes like **lemon and apple**.
+Explanation: Champagne is made using the 'Traditional Method.'
+
+It spends time with dead yeast (Lees) during the second fermentation and maturation period that takes place in the bottle, and this is the key to creating very savory flavors like biscuit or toast in addition to fresh lemon and apple aromas.
 
 ---
 
 ## [Expert Concept]
 
-Champagne is 'The Art of Patience.'
+The king of bubbles, Champagne, is the result of 'the art of waiting':
 
-1.  **Production Method**: The carbon dioxide is trapped naturally during the secondary fermentation in the same bottle you buy.
-2.  **Key Varieties**: Chardonnay (Elegance/Acid), Pinot Noir (Structure), and Meunier (Fruitiness).
-3.  **Aroma Profile**: 
-    - **Primary**: Green apple, lemon, peach.
-    - **Secondary**: Biscuit, brioche, toast (from Yeast Autolysis).
-4.  **Labeling Terms**: 
-    - **NV (Non-Vintage)**: A consistent house style blended from multiple years' harvests.
-    - **Brut**: The most common style, meaning 'dry' or very low sugar.
+1.  Production Method: Uses the 'Traditional Method' where carbon dioxide bubbles are created directly inside the bottle.
+
+2.  Varieties: The protagonists are Chardonnay, Pinot Noir, and Meunier.
+
+3.  Aroma Profile:
+    - Primary: Lemon, Apple, Peach (Refreshing fruit)
+    - Secondary: Biscuit, Brioche, Toast (Savory yeast notes)
+
+4.  Pairing: Shows a fantastic match with greasy fried food or salty cheeses.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think all Champagne is intensely sweet. Most Champagne is actually dry (**Brut**).
-**[Tip]**: In a L1 exam, **'Champagne'** is synonymous with **'Traditional Method'** and **'Biscuit/Toast'**. If you smell bread, think Champagne!
+[Trap]: Avoid thinking that "Champagne is a very sweet wine."
+Most Champagnes are produced in a dry style called 'Brut.'
+[Tip]: In an exam, 'Champagne' and 'Biscuit/Toast' keywords are a pair!
+Remember the smell of savory bread!
 
 ---
 
@@ -45,23 +50,26 @@ Champagne is 'The Art of Patience.'
 
 ### Threads Post
 [Hook]
-If every sip of bubbles brings a mix of 'fresh lemon' and 'warm toasted bread,' you're likely enjoying a glass of Champagne.
+If you feel 'freshly baked bread and refreshing lemon' aromas at the same time as the bubbles pop, you're drinking the blessed wine, 'Champagne'.
 
 [Twist]
-Why is Champagne so world-renowned? It's the 'magic in the bottle.' Unlike cheaper bubbles where carbonation is injected, Champagne creates its own bubbles slowly *inside* the bottle over years. This long rest with yeast creates a sophisticated profile—citrus brightness on the nose but nutty, savory brioche on the finish. It's the ultimate celebratory wine for life's golden moments. Is your fridge stocked for your next milestone?
+Why is Champagne expensive? It's because of the 'wait in the bottle.' It doesn't have artificial carbonation; it matures with yeast inside the bottle for years, creating very fine bubbles and savory biscuit aromas. A heavy savoriness hidden behind the freshness of lemon! In the most shining moments of life, a glass of Champagne will make your memories even more noble. How about a glass of Champagne for yourself today?
 
 [Reason]
-WSET L1 Champagne Formula:
-1. Region: Champagne (France) - Name is legally protected.
-2. Flavor profile: Biscuit, Toast, Lemon.
-3. Fine, persistent bubbles that dance on the palate.
+WSET Level 1 Champagne Formula:
+
+1. Limited to the Champagne region of France (Legal protection of name).
+
+2. Biscuit, Toast, Lemon aromas.
+
+3. Fine and long-lasting bubbles.
 
 [Tip]
-When you see **'Brut'** on the label, expect a crisp, refreshing, and dry finish! 
+If 'Brut' is written on the label, it means it's a very refreshing and dry taste!
 
 ### YouTube Shorts Script
-(0-3s) Baked bread in a wine glass? Meet the secret of Champagne! 
-(3-15s) WSET Level 1 cheat sheet! France's **Champagne**! Using the **Traditional Method**, it undergoes secondary fermentation in the bottle to create **biscuit and toast** aromas! 
-(15-25s) Question! Which secondary aroma is a signature of Champagne? 1. Grape Jam, 2. Biscuit/Bread, 3. Sea salt. 
-(25-35s) The answer is 2! Biscuit! It comes from the time spent with yeast cells (Lees)! 
-(35-45s) The king of bubbles, Champagne! Subscribe and get that perfect score!
+(0-3s) If Champagne smells like baking bread? The secret of luxury bubbles!
+(3-15s) WSET Level 1 essential concepts! Champagne! Perfect summary! Thanks to the traditional method of creating bubbles in the bottle, biscuit and toast aromas are the signatures!
+(15-25s) Question! Which of the following is NOT a typical yeast-matured flavor found in Champagne? 1. Biscuit, 2. Toasted bread, 3. Grape jam.
+(25-35s) The answer is 3! A savory bread scent is the protagonist!
+(35-45s) The symbol of celebration, Champagne! Subscribe and let's get that perfect score!

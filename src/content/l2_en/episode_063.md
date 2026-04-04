@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Which of the following still types is used in 'Continuous Distillation' to produce large volumes of spirits with very high alcohol levels (approx. 96%) and a 'Neutral' flavor profile?**
+Q. Which of the following still types is used in 'Continuous Distillation' to produce large volumes of spirits with very high alcohol levels (approx. 96%) and a 'Neutral' flavor profile?
 
 A. Pot Still
-B. **Column Still** (or Coffey Still)
+B. Column Still (or Coffey Still)
 C. Solar Still
 D. Instantly changes any spirit into a shot of soju.
 
@@ -13,9 +13,13 @@ D. Instantly changes any spirit into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Column Still (or Coffey Still)**
+Answer: B. Column Still (or Coffey Still)
 
-**Explanation**: **Distillation** is the alchemy of concentrating pure alcohol by using the difference in boiling points between alcohol (78°C) and water (100°C). The **Pot Still** leaves the identity of the base ingredients (malt, grapes, etc.) intact, creating full-bodied, flavorful spirits (Single Malt, Cognac). Conversely, the **Column Still** distills continuously to remove almost all impurities, making it ideal for creating high-purity neutral spirits used for Vodka or as a base for Gin.
+Explanation: Distillation is the alchemy of concentrating pure alcohol by using the difference in boiling points between alcohol (78°C) and water (100°C).
+
+The Pot Still leaves the identity of the base ingredients (malt, grapes, etc.) intact, creating full-bodied, flavorful spirits (Single Malt, Cognac).
+
+Conversely, the Column Still distills continuously to remove almost all impurities, making it ideal for creating high-purity neutral spirits used for Vodka or as a base for Gin.
 
 ---
 
@@ -23,17 +27,22 @@ D. Instantly changes any spirit into a shot of soju.
 
 A summary of distillation methods:
 
-1.  **Pot Still (Batch)**: A copper, bulbous vessel. Produced one batch at a time. ABV is lower, and congeners (flavor compounds) are rich. (Flavorful, Heavy).
-2.  **Column Still (Continuous)**: A giant tower structure. Can operate 24/7, producing nearly 96% pure alcohol. (Neutral, Light).
-3.  **Heads, Hearts, Tails**: In distillation, the first (Heads) and last (Tails) parts containing toxic or unpleasant compounds are discarded, keeping only the cleanest middle (Hearts).
-4.  **Maturation**: Spirits are colorless (Clear) immediately after distillation. They turn golden or brown and gain vanilla, spice, and butterscotch notes through oak aging.
+1.  Pot Still (Batch): A copper, bulbous vessel. Produced one batch at a time. ABV is lower, and congeners (flavor compounds) are rich. (Flavorful, Heavy).
+
+2.  Column Still (Continuous): A giant tower structure. Can operate 24/7, producing nearly 96% pure alcohol. (Neutral, Light).
+
+3.  Heads, Hearts, Tails: In distillation, the first (Heads) and last (Tails) parts containing toxic or unpleasant compounds are discarded, keeping only the cleanest middle (Hearts).
+
+4.  Maturation: Spirits are colorless (Clear) immediately after distillation. They turn golden or brown and gain vanilla, spice, and butterscotch notes through oak aging.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that Column Stills always produce 'lower quality' spirits compared to Pot Stills. This is not about quality, but about style—choosing between 'Neutral' (Vodka) and 'Flavorful' (Whisky).
-**[Tip]**: In the exam, link **'Highly rectified/Neutral'** with Column stills and **'Traditional/Batch/Flavorful'** with Pot stills.
+[Trap]: Do not assume that Column Stills always produce 'lower quality' spirits compared to Pot Stills.
+
+This is not about quality, but about style—choosing between 'Neutral' (Vodka) and 'Flavorful' (Whisky).
+[Tip]: In the exam, link 'Highly rectified/Neutral' with Column stills and 'Traditional/Batch/Flavorful' with Pot stills.
 
 ---
 
@@ -48,8 +57,11 @@ Distillation is the 'Soul of Fire' purifying the essence of alcohol. Did you kno
 
 [Reason]
 Distillation Alchemy Formula:
+
 1. Pot Still: Heavy, complex flavor, Single Malt & Cognac.
+
 2. Column Still: Clean, high purity, Vodka & Gin.
+
 3. Feature: Magical concentration using the difference between boiling points (78°C vs 100°C).
 
 [Tip]

@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the key characteristic of Pinot Noir produced in the 'Côte d'Or' region of Burgundy, France, formed by its thin skins and cool climate?**
+Q. What is the key characteristic of Pinot Noir produced in the 'Côte d'Or' region of Burgundy, France, formed by its thin skins and cool climate?
 
 A. Low acidity with very high tannins and dark color
-B. **High acidity with low tannins and red fruit flavors like strawberry and cherry**
+B. High acidity with low tannins and red fruit flavors like strawberry and cherry
 C. Full-bodied with heavy chocolate and licorice aromas
 D. Instantly changes all elegant reds into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes all elegant reds into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. High acidity with low tannins and red fruit flavors like strawberry and cherry**
+Answer: B. High acidity with low tannins and red fruit flavors like strawberry and cherry
 
-**Explanation**: **Pinot Noir** is the 'fickle aristocrat'. Because of its thin skin, it has low tannins and high acidity, with delicate notes of strawberry and red cherry. In contrast, **Merlot** – dominant on the Right Bank of Bordeaux (Saint-Émilion) – offers another kind of velvety charm with plum and black cherry flavors and mouth-filling **soft tannins**.
+Explanation: Pinot Noir is the 'fickle aristocrat'.
+
+Because of its thin skin, it has low tannins and high acidity, with delicate notes of strawberry and red cherry.
+
+In contrast, Merlot – dominant on the Right Bank of Bordeaux (Saint-Émilion) – offers another kind of velvety charm with plum and black cherry flavors and mouth-filling soft tannins.
 
 ---
 
@@ -23,18 +27,22 @@ D. Instantly changes all elegant reds into a shot of salt water.
 
 A deep dive summary into the two soft red wine varieties:
 
-1.  **Pinot Noir (Cool/Moderate)**: Thin skin, low tannins. (Strawberry, Cherry, Hibiscus). Develops mushroom and forest floor aromas as it ages.
-2.  **Merlot (Moderate/Warm)**: Medium acidity, soft tannins. (Plum, Black cherry, Fruit cake). Adds chocolate and vanilla flavors through oak aging.
-3.  **Classic Regions**:
-    *   **Pinot Noir**: Burgundy (Côte d'Or), Martinborough, Central Otago, Oregon (Willamette Valley).
-    *   **Merlot**: Saint-Émilion, Pomerol, Chile (Central Valley), Napa Valley.
+1.  Pinot Noir (Cool/Moderate): Thin skin, low tannins. (Strawberry, Cherry, Hibiscus). Develops mushroom and forest floor aromas as it ages.
+
+2.  Merlot (Moderate/Warm): Medium acidity, soft tannins. (Plum, Black cherry, Fruit cake). Adds chocolate and vanilla flavors through oak aging.
+
+3.  Classic Regions:
+    *   Pinot Noir: Burgundy (Côte d'Or), Martinborough, Central Otago, Oregon (Willamette Valley).
+    *   Merlot: Saint-Émilion, Pomerol, Chile (Central Valley), Napa Valley.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume Pinot Noir cannot age for a long time because of its pale color. Despite low tannins, its high acidity and alcohol balance allow it to age gracefully for decades.
-**[Tip]**: In the exam, link **'Right Bank Bordeaux'** or **'Clay soil'** immediately with **'Merlot'**.
+[Trap]: Do not assume Pinot Noir cannot age for a long time because of its pale color.
+
+Despite low tannins, its high acidity and alcohol balance allow it to age gracefully for decades.
+[Tip]: In the exam, link 'Right Bank Bordeaux' or 'Clay soil' immediately with 'Merlot'.
 
 ---
 
@@ -49,8 +57,11 @@ Do you know the deep dive into the two red masters that lead wine lovers everywh
 
 [Reason]
 Red Variety Deep Dive Formula:
+
 1. Pinot Noir: The peak of acidity and strawberry scents in a cool climate (Pinot Noir).
+
 2. Merlot: Plum sweetness and soft tannins in a moderate climate (Merlot).
+
 3. Point: The mist of Burgundy vs. the clay of the Right Bank is the textbook of red wines.
 
 [Tip]

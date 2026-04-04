@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 뉴질랜드 남섬의 '말보로(Marlborough)' 지역에서 생산되는 소비뇽 블랑(Sauvignon Blanc) 와인의 가장 큰 특징으로, 과일의 강렬함을 보여주는 핵심 풍미는 무엇인가요?**
+Q. 뉴질랜드 남섬의 '말보로(Marlborough)' 지역에서 생산되는 소비뇽 블랑(Sauvignon Blanc) 와인의 가장 큰 특징으로, 과일의 강렬함을 보여주는 핵심 풍미는 무엇인가요?
 
 A. 아주 부드러운 우유와 버터 향
 B. 높은 산도와 패션 프루트(Passion fruit), 구즈베리(Gooseberry) 향
@@ -13,9 +13,13 @@ D. 모든 신세계의 생동감을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 높은 산도와 패션 프루트(Passion fruit), 구즈베리(Gooseberry) 향**
+정답: B. 높은 산도와 패션 프루트(Passion fruit), 구즈베리(Gooseberry) 향
 
-**해설**: **신세계(New World)** 와인은 품종의 특성을 극대화합니다. 말보로의 소비뇽 블랑은 세계적인 기준이며, **나파 밸리(Napa Valley)**의 카베르네 소비뇽은 압도적인 바디감과 오크 풍미로 유명하죠. 또한, 귀부병을 이용해 만드는 프랑스 **소테른(Sauternes)**이나 헝가리의 **토카이(Tokaji)** 같은 스위트 와인은 당분과 산도의 경이로운 농축을 보여주는 신세계와 구세계의 달콤한 정점들입니다.
+해설: 신세계(New World) 와인은 품종의 특성을 극대화합니다.
+
+말보로의 소비뇽 블랑은 세계적인 기준이며, 나파 밸리(Napa Valley)의 카베르네 소비뇽은 압도적인 바디감과 오크 풍미로 유명하죠.
+
+또한, 귀부병을 이용해 만드는 프랑스 소테른(Sauternes)이나 헝가리의 토카이(Tokaji) 같은 스위트 와인은 당분과 산도의 경이로운 농축을 보여주는 신세계와 구세계의 달콤한 정점들입니다.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 신세계의 생동감을 한순간에 소금물로 바꾼다.
 
 신세계 산지와 스위트 와인의 딥 다이브 요약입니다.
 
-1.  **USA (California)**: 나파 밸리(Napa)의 카베르네, 소노마(Sonoma)의 샤르도네. (Bold & Oaky).
-2.  **Australia**: 바로사 밸리(Barossa)의 쉬라즈, 헌터 밸리(Hunter)의 세미용.
-3.  **New Zealand**: 말보로(Marlborough)의 소비뇽 블랑, 센트럴 오타고(Central Otago)의 피노 누아.
-4.  **South Africa**: 스텔렌보스(Stellenbosch)의 카베르네와 슈냉 블랑.
-5.  **Sweet Wines**: Sauternes(프랑스), Tokaji(헝가리), Icewine(캐나다/독일). (Nectar of Gods).
+1.  USA (California): 나파 밸리(Napa)의 카베르네, 소노마(Sonoma)의 샤르도네. (Bold & Oaky).
+
+2.  Australia: 바로사 밸리(Barossa)의 쉬라즈, 헌터 밸리(Hunter)의 세미용.
+
+3.  New Zealand: 말보로(Marlborough)의 소비뇽 블랑, 센트럴 오타고(Central Otago)의 피노 누아.
+
+4.  South Africa: 스텔렌보스(Stellenbosch)의 카베르네와 슈냉 블랑.
+
+5.  Sweet Wines: Sauternes(프랑스), Tokaji(헝가리), Icewine(캐나다/독일). (Nectar of Gods).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 신세계 와인은 오직 스테인리스 탱크에서만 양조한다"라고 하면 오답입니다. 호주나 미국의 고품질 와인들은 정교한 오크 숙성을 통해 복합성을 더한다는 사실을 명심하세요.
-**[팁]**: 시험에서 **'Coonawarra'**가 나오면 호주의 **'Minty Cabernet Sauvignon'**을 연결하세요.
+[함정]: "모든 신세계 와인은 오직 스테인리스 탱크에서만 양조한다"라고 하면 오답입니다.
+
+호주나 미국의 고품질 와인들은 정교한 오크 숙성을 통해 복합성을 더한다는 사실을 명심하세요.
+[팁]: 시험에서 'Coonawarra'가 나오면 호주의 'Minty Cabernet Sauvignon'을 연결하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 신세계의 생동감을 한순간에 소금물로 바꾼다.
 
 [Reason]
 신세계와 스위트 딥 다이브 공식:
+
 1. 말보로: 세계 소비자들을 매료시킨 산도와 과실의 정점 (Sauvignon Blanc)
+
 2. 나파 밸리: 기술과 자본이 빚은 완벽한 밸런스의 카베르네 (Cabernet Sauvignon)
+
 3. 소테른: 곰팡이가 만든 액체 보석, 귀부인의 미소 (Sauternes)
 
 [Tip]

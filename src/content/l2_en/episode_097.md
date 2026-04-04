@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the key characteristic of the wine produced from the Nebbiolo variety in 'Barolo DOCG', Piedmont, Italy, formed by its specific climate and terroir?**
+Q. What is the key characteristic of the wine produced from the Nebbiolo variety in 'Barolo DOCG', Piedmont, Italy, formed by its specific climate and terroir?
 
 A. Low acidity and soft plum flavors
-B. **High acidity and very high tannins with notes of tar and rose**
+B. High acidity and very high tannins with notes of tar and rose
 C. Medium tannins and sweet tropical fruit aromas
 D. Instantly changes all Piedmont pride into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes all Piedmont pride into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. High acidity and very high tannins with notes of tar and rose**
+Answer: B. High acidity and very high tannins with notes of tar and rose
 
-**Explanation**: **Nebbiolo** is the 'jewel of reds'. It has high acidity and powerful tannins, boasting complex flavors of roses and tar. Alongside **Italy**'s Barolo, **Spain's Rioja** with Tempranillo and **Germany's Mosel** with Riesling are the core pillars of European wine. Rioja is famous for oak-aged Tempranillo, while Mosel is renowned for its high-acidity Riesling grown on steep slopes.
+Explanation: Nebbiolo is the 'jewel of reds'.
+
+It has high acidity and powerful tannins, boasting complex flavors of roses and tar.
+
+Alongside Italy's Barolo, Spain's Rioja with Tempranillo and Germany's Mosel with Riesling are the core pillars of European wine.
+
+Rioja is famous for oak-aged Tempranillo, while Mosel is renowned for its high-acidity Riesling grown on steep slopes.
 
 ---
 
@@ -23,17 +29,22 @@ D. Instantly changes all Piedmont pride into a shot of salt water.
 
 A deep-dive summary of major European regions:
 
-1.  **Italy (Nebbiolo/Sangiovese)**: Barolo's Nebbiolo and Chianti Classico's Sangiovese are the national pride.
-2.  **Spain (Tempranillo)**: Rioja and Ribera del Duero. The aging hierarchy (Reserva, Gran Reserva) is the key to quality.
-3.  **Germany (Riesling)**: Mosel, Rheingau, Pfalz. Characterized by high acidity, minerality, and the Prädikat system.
-4.  **Key Terms**: Classico (traditional production area), Riserva (additional aging), DOCG (highest tier).
+1.  Italy (Nebbiolo/Sangiovese): Barolo's Nebbiolo and Chianti Classico's Sangiovese are the national pride.
+
+2.  Spain (Tempranillo): Rioja and Ribera del Duero. The aging hierarchy (Reserva, Gran Reserva) is the key to quality.
+
+3.  Germany (Riesling): Mosel, Rheingau, Pfalz. Characterized by high acidity, minerality, and the Prädikat system.
+
+4.  Key Terms: Classico (traditional production area), Riserva (additional aging), DOCG (highest tier).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Italian wines are dominated by soft tannins and sweet fruity aromas. Remember that varieties like Barolo's Nebbiolo possess extremely powerful tannins that grant them legendary status.
-**[Tip]**: In the exam, if **'Slate soil'** or **'Steep slopes'** appears, immediately link it with Germany's **'Mosel Riesling'**.
+[Trap]: Do not assume all Italian wines are dominated by soft tannins and sweet fruity aromas.
+
+Remember that varieties like Barolo's Nebbiolo possess extremely powerful tannins that grant them legendary status.
+[Tip]: In the exam, if 'Slate soil' or 'Steep slopes' appears, immediately link it with Germany's 'Mosel Riesling'.
 
 ---
 
@@ -48,8 +59,11 @@ Do you know the deep dive into the three major European powers (Italy, Spain, Ge
 
 [Reason]
 European Region Deep Dive Formula:
+
 1. Italy: Harmony of acidity and tannins crafted by Nebbiolo and Sangiovese (Nebbiolo).
+
 2. Spain: Peak Tempranillo determined by the oak aging hierarchy (Rioja).
+
 3. Germany: High-acidity Riesling completed by fighting against low temperatures (Mosel).
 
 [Tip]

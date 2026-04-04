@@ -1,36 +1,75 @@
-# Episode 017: Red Winemaking
+# Episode 017: Cabernet Sauvignon (The King of Reds) - Black Grape Variety
 
 ## [WSET L1 Practice Question]
 
-**Q. When producing red wine, what is the correct sequence to ensure the sufficient extraction of color and tannins from the grape skins?**
+Q. Which of the following is the most accurate description of the typical characteristics of the Cabernet Sauvignon grape?
 
-A. Press (Pressing) first, then ferment only the clear juice.
-B. Ferment (Fermentation) with the skins, then separate them by pressing.
-C. Add food coloring to white wine to create the red color.
-D. Skip both fermentation and pressing and bottle the juice immediately.
+A. Thin skins, low tannin, and fresh strawberry aromas.
+B. Thick skins, high tannin, high acidity, with blackcurrant and bell pepper aromas.
+C. Almost no aroma, and primarily produced as a light-bodied white wine.
+D. High sugar content, and always produced only as a sweet wine.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. Ferment (Fermentation) with the skins, then separate them by pressing.**
+Answer: B. Thick skins, high tannin, high acidity, with blackcurrant and bell pepper aromas.
 
-**Explanation**: To obtain color and tannins from the skins, red wine must be **fermented with the skins and juice together**. Only after fermentation is complete and the desired color and tannins have been sufficiently extracted is the wine separated from the solids through **Pressing**. This is the reverse order of white winemaking.
+Explanation: Cabernet Sauvignon is known as the 'King of Reds.'
+
+Thanks to its thick skins, it produces deep-colored wines with high tannins, and its naturally high acidity makes it suitable for long-term aging.
+
+Typical aromas include blackcurrants (a black fruit) and bell pepper or herbal notes, which are more pronounced in cooler climates.
 
 ---
 
 ## [Expert Concept]
 
-The standard sequence for red winemaking as defined by WSET Level 1:
+Cabernet Sauvignon is the symbol of a 'Strong Structure':
 
-1.  **Grape Selection and Crushing**: Red grapes are crushed to release the juice.
-2.  **Fermentation**: Yeast is added to the mixture of juice and **skins** to begin fermentation. This is typically carried out at warmer temperatures (20–32°C) to maximize the extraction of color and tannin.
-3.  **Pressing**: Once fermentation is finished and the color and tannins have been fully extracted into the wine, the liquid is drained, and the remaining skins are pressed to recover any leftover wine.
-4.  **Maturation and Bottling**: The wine is aged in oak barrels or stainless steel tanks before being bottled for distribution.
+1.  Thick Skin: Guarantees a high amount of tannin and deep color.
+
+2.  Aromatic Profile: Blackcurrant, Black cherry, Bell pepper, Mint, etc.
+
+3.  Oak Maturation: Often matured in oak to soften its strong tannins, which adds aromas of vanilla and cedar.
+
+4.  Major Regions: Bordeaux (France), Napa Valley (USA), Coonawarra (Australia), Chile, etc.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that "Red wine is also pressed before fermentation." That specific sequence is unique to white winemaking.
-**[Tip]**: Remember the red winemaking rule: **'Ferment first, Press later.'** If an exam question mentions 'Fermented with skins' or 'Pressing after fermentation', it is inherently describing red wine.
+[Trap]: Avoid the assumption that "Cabernet Sauvignon is a soft and light wine."
+This variety is characterized by its high tannin and its ability to create a 'Full Body.'
+[Tip]: If words like 'Blackcurrant' or 'High Tannin' appear in the exam, always choose 'Cabernet Sauvignon.'
+There is only one King of black fruits.
+
+---
+
+## [Threads & Shorts Scripts]
+
+### Threads Post
+[Hook]
+In the world of red wine, there's only one variety that claimed the title of 'King' – Cabernet Sauvignon.
+
+[Twist]
+This grape was born wearing armor. Its very thick skin gives it a powerful tannin that grips your mouth and a deep, intense color. You might be surprised by its strength at first, but once you discover the rich blackcurrant juice and the elegant cedar notes hidden behind it, you'll see why everyone is crazy about this variety. The King of wines that becomes softer and greater with time! How about a glass of 'Cab-Sauv' tonight?
+
+[Reason]
+WSET Level 1 Cab-Sauv Formula:
+
+1. Thick Skin = Deep color + High tannin + High acidity.
+
+2. Signature Aroma: Blackcurrant (The essence of black fruits).
+
+3. Perfect Pairing: Steak (The protein in the meat softens the tannins).
+
+[Tip]
+If the label says 'Cabernet Sauvignon,' you can expect a heavy and intense flavor.
+
+### YouTube Shorts Script
+(0-3s) The King of Red Wine! The secret of Cabernet Sauvignon!
+(3-15s) WSET Level 1 High-Score Formula! Cabernet Sauvignon (Cab-Sauv)! Its intense tannin and acidity from thick skins, and its deep blackcurrant aroma are the signatures! The standard of a classic that's astringent but charming!
+(15-25s) Question! What is the typical black fruit aroma found in Cabernet Sauvignon? 1. Strawberry, 2. Blackcurrant, 3. Peach.
+(25-35s) The answer is 2! Just remembering this aroma is half the battle!
+(35-45s) The unshakeable structure, the charm of Cab-Sauv! Subscribe and get that perfect score!

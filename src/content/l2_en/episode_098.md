@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the key characteristic of Sauvignon Blanc produced in the 'Marlborough' region of the South Island, New Zealand, showcasing intense fruit aromas?**
+Q. What is the key characteristic of Sauvignon Blanc produced in the 'Marlborough' region of the South Island, New Zealand, showcasing intense fruit aromas?
 
 A. Very soft milk and butter aromas
-B. **High acidity with notes of passion fruit and gooseberry**
+B. High acidity with notes of passion fruit and gooseberry
 C. Mature aromas of leather and dried plum
 D. Instantly changes all New World vitality into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes all New World vitality into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. High acidity with notes of passion fruit and gooseberry**
+Answer: B. High acidity with notes of passion fruit and gooseberry
 
-**Explanation**: **New World** wines emphasize the maximum expression of grape varieties. Marlborough's Sauvignon Blanc is a global benchmark, and **Napa Valley**'s Cabernet Sauvignon is famous for its overwhelming body and oak flavors. Furthermore, sweet wines like France's **Sauternes** (made using noble rot) and Hungary's **Tokaji** represent the sweet peaks of both New and Old Worlds, showing a miraculous concentration of sugar and acidity.
+Explanation: New World wines emphasize the maximum expression of grape varieties.
+
+Marlborough's Sauvignon Blanc is a global benchmark, and Napa Valley's Cabernet Sauvignon is famous for its overwhelming body and oak flavors.
+
+Furthermore, sweet wines like France's Sauternes (made using noble rot) and Hungary's Tokaji represent the sweet peaks of both New and Old Worlds, showing a miraculous concentration of sugar and acidity.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes all New World vitality into a shot of salt water.
 
 A deep-dive summary of New World regions and sweet wines:
 
-1.  **USA (California)**: Napa's Cabernet and Sonoma's Chardonnay. (Bold & Oaky).
-2.  **Australia**: Barossa Valley's Shiraz, Hunter Valley's Semillon.
-3.  **New Zealand**: Marlborough's Sauvignon Blanc, Central Otago's Pinot Noir.
-4.  **South Africa**: Stellenbosch's Cabernet and Chenin Blanc.
-5.  **Sweet Wines**: Sauternes (France), Tokaji (Hungary), Icewine (Canada/Germany). (Nectar of Gods).
+1.  USA (California): Napa's Cabernet and Sonoma's Chardonnay. (Bold & Oaky).
+
+2.  Australia: Barossa Valley's Shiraz, Hunter Valley's Semillon.
+
+3.  New Zealand: Marlborough's Sauvignon Blanc, Central Otago's Pinot Noir.
+
+4.  South Africa: Stellenbosch's Cabernet and Chenin Blanc.
+
+5.  Sweet Wines: Sauternes (France), Tokaji (Hungary), Icewine (Canada/Germany). (Nectar of Gods).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all New World wines are fermented only in stainless steel tanks. High-quality wines from Australia or the USA achieve complexity through precise oak aging.
-**[Tip]**: In the exam, if **'Coonawarra'** appears, link it with Australia's **'Minty Cabernet Sauvignon'**.
+[Trap]: Do not assume all New World wines are fermented only in stainless steel tanks.
+
+High-quality wines from Australia or the USA achieve complexity through precise oak aging.
+[Tip]: In the exam, if 'Coonawarra' appears, link it with Australia's 'Minty Cabernet Sauvignon'.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the bold vitality of the New World and the grand deep dive of sweet 
 
 [Reason]
 New World and Sweet Deep Dive Formula:
+
 1. Marlborough: The peak of acidity and fruit that has fascinated global consumers (Sauvignon Blanc).
+
 2. Napa Valley: Perfectly balanced Cabernet crafted by technology and capital (Cabernet Sauvignon).
+
 3. Sauternes: A liquid gem made by mold, the smile of a noble rot (Sauternes).
 
 [Tip]

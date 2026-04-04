@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. When tasting wine, what is the activity of smelling the wine after the 'Swirling' process called, and how does it help assess the wine's quality?**
+Q. When tasting wine, what is the activity of smelling the wine after the 'Swirling' process called, and how does it help assess the wine's quality?
 
 A. Appearance assessment - Checking color and clarity
-B. **Nose / Aroma assessment - Identifying quality, complexity, and faults**
+B. Nose / Aroma assessment - Identifying quality, complexity, and faults
 C. Palate assessment - Measuring acidity and tannins
 D. Instantly changes all senses into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes all senses into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Nose / Aroma assessment - Identifying quality, complexity, and faults**
+Answer: B. Nose / Aroma assessment - Identifying quality, complexity, and faults
 
-**Explanation**: **Tasting** is more than just drinking; it is a systematic analysis. Through the **Nose**, we distinguish primary aromas from grape varieties, secondary aromas from winemaking (oak, MLF), and tertiary aromas from aging (leather, mushroom). It is also used to identify faults like TCA (cork taint). For service, clean glassware, correct temperature, and **horizontal** storage to keep the cork moist are essential fundamentals.
+Explanation: Tasting is more than just drinking; it is a systematic analysis.
+
+Through the Nose, we distinguish primary aromas from grape varieties, secondary aromas from winemaking (oak, MLF), and tertiary aromas from aging (leather, mushroom).
+
+It is also used to identify faults like TCA (cork taint).
+
+For service, clean glassware, correct temperature, and horizontal storage to keep the cork moist are essential fundamentals.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes all senses into a shot of salt water.
 
 A summary of the core system for tasting, service, and storage:
 
-1.  **Appearance**: Clarity, Intensity, Color. (Ruby, Lemon, Gold, Garnet).
-2.  **Nose**: Condition (Clean?), Intensity, Aroma (Primary, Secondary, Tertiary).
-3.  **Palate**: Sweetness, Acidity, Tannin, Alcohol, Body, Flavor, Finish. (Balance is key).
-4.  **Service Temperature**: Sparkling (6–10°C), White (7–10°C), Light Red (13°C), Full Red (15–18°C).
-5.  **Storage**: Constant 10–15°C temperature, dark space, and horizontal storage. (Position matters).
+1.  Appearance: Clarity, Intensity, Color. (Ruby, Lemon, Gold, Garnet).
+
+2.  Nose: Condition (Clean?), Intensity, Aroma (Primary, Secondary, Tertiary).
+
+3.  Palate: Sweetness, Acidity, Tannin, Alcohol, Body, Flavor, Finish. (Balance is key).
+
+4.  Service Temperature: Sparkling (6–10°C), White (7–10°C), Light Red (13°C), Full Red (15–18°C).
+
+5.  Storage: Constant 10–15°C temperature, dark space, and horizontal storage. (Position matters).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that high-priced wines always have a high intensity of aroma. Quality is measured by how **complex** the aromas are and how long the **finish** lingers, regardless of whether the scent is subtle or intense.
-**[Tip]**: In the exam, if **'Secondary aroma'** appears, immediately think of oak (vanilla), MLF (butter), or lees aging (biscuit).
+[Trap]: Do not assume that high-priced wines always have a high intensity of aroma.
+
+Quality is measured by how complex the aromas are and how long the finish lingers, regardless of whether the scent is subtle or intense.
+[Tip]: In the exam, if 'Secondary aroma' appears, immediately think of oak (vanilla), MLF (butter), or lees aging (biscuit).
 
 ---
 
@@ -49,8 +61,11 @@ Do you know the thousands of years of wisdom awakened by a single 'swirl' in you
 
 [Reason]
 Sensory and Service Alchemy Formula:
+
 1. Tasting: Systematic harmony through Appearance, Nose, and Palate (SAT).
+
 2. Service: A difference of just 1 degree in temperature determines the first impression.
+
 3. Storage: 12-degree constant temperature and silent darkness determine the longevity of a masterpiece.
 
 [Tip]

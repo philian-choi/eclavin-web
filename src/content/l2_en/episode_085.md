@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Primarily grown to high quality in 'Hermitage' of the Northern Rhône, France, and 'Barossa Valley', Australia, which grape variety is characterized by high tannins and notes of blackberry and black pepper?**
+Q. Primarily grown to high quality in 'Hermitage' of the Northern Rhône, France, and 'Barossa Valley', Australia, which grape variety is characterized by high tannins and notes of blackberry and black pepper?
 
 A. Cabernet Sauvignon
-B. **Syrah / Shiraz**
+B. Syrah / Shiraz
 C. Pinot Noir
 D. Instantly changes any power into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any power into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Syrah / Shiraz**
+Answer: B. Syrah / Shiraz
 
-**Explanation**: **Syrah** (or **Shiraz** in Australia) is characterized by high tannins and high acidity, with signature notes of black pepper and dark fruit (blackberry). In contrast, **Cabernet Sauvignon** is known for its high tannins and acidity with notes of blackcurrant, mint, and cedar. Both are 'power-house' varieties that yield full bodies and intense structure.
+Explanation: Syrah (or Shiraz in Australia) is characterized by high tannins and high acidity, with signature notes of black pepper and dark fruit (blackberry).
+
+In contrast, Cabernet Sauvignon is known for its high tannins and acidity with notes of blackcurrant, mint, and cedar.
+
+Both are 'power-house' varieties that yield full bodies and intense structure.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any power into a shot of salt water.
 
 A summary of these grand and intense red wine icons:
 
-1.  **Cabernet Sauvignon**: High tannin, high acidity. (Blackcurrant, Mint, Cedar). Iconic on the Left Bank of Bordeaux and in Napa Valley.
-2.  **Syrah / Shiraz**: High tannin, high acidity. (Blackberry, Black pepper, Meat). Iconic in the Northern Rhône and Australia.
-3.  **Climate Control**: Both varieties require **moderate to warm** climates to reach their full potential.
-4.  **Oak Usage**: Oak aging is essential for both, helping to soften their intense tannins and add complexity.
-5.  **Structure**: Cabernet Sauvignon offers a firm skeleton, while Syrah yields a heavier, grand texture.
+1.  Cabernet Sauvignon: High tannin, high acidity. (Blackcurrant, Mint, Cedar). Iconic on the Left Bank of Bordeaux and in Napa Valley.
+
+2.  Syrah / Shiraz: High tannin, high acidity. (Blackberry, Black pepper, Meat). Iconic in the Northern Rhône and Australia.
+
+3.  Climate Control: Both varieties require moderate to warm climates to reach their full potential.
+
+4.  Oak Usage: Oak aging is essential for both, helping to soften their intense tannins and add complexity.
+
+5.  Structure: Cabernet Sauvignon offers a firm skeleton, while Syrah yields a heavier, grand texture.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume Shiraz always presents only black pepper aromas. In very hot regions like Australia's Barossa, the berry profile can ripen further into jammy notes, chocolate, or licorice.
-**[Tip]**: In the exam, link **'Blackcurrant/Mint'** with Cabernet Sauvignon, and **'Black pepper/Blackberry'** with Syrah.
+[Trap]: Do not assume Shiraz always presents only black pepper aromas.
+
+In very hot regions like Australia's Barossa, the berry profile can ripen further into jammy notes, chocolate, or licorice.
+[Tip]: In the exam, link 'Blackcurrant/Mint' with Cabernet Sauvignon, and 'Black pepper/Blackberry' with Syrah.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the power duel between the two giants of red wine, Cabernet Sauvigno
 
 [Reason]
 Red Variety Alchemy Formula:
+
 1. Cabernet Sauvignon: The nobility of high tannins and blackcurrant (Cabernet Sauvignon).
+
 2. Syrah/Shiraz: Spicy allure and the power of dark fruit (Syrah/Shiraz).
+
 3. Point: The structural duel between the Northern Rhône and the Left Bank is the peak of power.
 
 [Tip]

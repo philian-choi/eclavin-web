@@ -1,45 +1,51 @@
-# Episode 036: Service Temperatures (The Thermal Sweet Spot - Mastery)
+# Episode 036: Wine Service Temperatures (The Chill Factor - Mastery)
 
 ## [WSET L1 Practice Question]
 
-**Q. When serving a high-quality 'Sparkling Wine' or a 'Sweet Dessert Wine', what is the recommended service temperature to ensure its best flavor profile?**
+Q. What is the most appropriate temperature for tasting a full-bodied red wine like Cabernet Sauvignon?
 
-A. Room temperature (15°C – 18°C) to enhance fruit aromas.
-B. Warm (above 20°C) to make the alcohol feel stronger.
-C. **Well Chilled (6°C – 10°C) to keep the bubbles fresh and balance the sweetness**.
-D. Boiling hot (above 50°C) like a soup.
+A. Well chilled (6-10°C).
+B. Room temperature (15-18°C).
+C. Heated hot (above 40°C).
+D. With ice cubes (0°C).
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: C. Well Chilled (6°C – 10°C) to keep the bubbles fresh and balance the sweetness.**
+Answer: B. Room temperature (15-18°C).
 
-**Explanation**: 1. **Sparkling Wines** need to be 'Well Chilled' to maintain their refreshing carbonation and pressure. 2. **Sweet Wines** also benefit from colder temperatures because it prevents the high sugar from feeling 'cloying' or heavy on the palate. Proper temperature management is the final step in delivering professional-grade wine service.
+Explanation: Full-bodied red wines can feel unpleasantly tannic/astringent and their aromas become muted if they are served too cold.
+
+Therefore, when tasted at a light room temperature of around 15–18°C, the wine's rich aromas and structure are best expressed.
+
+In contrast, white wines or sparkling wines highlight their refreshing qualities at lower temperatures.
 
 ---
 
 ## [Expert Concept]
 
-Wine is a 'thermo-sensitive' experience.
+Wine temperature determines the 'perfection of taste':
 
-1.  **Red Wines**: 
-    - Full-bodied: Room Temperature (**15°C – 18°C**). *Note: Modern rooms are often too warm!*
-    - Light-bodied: Slightly Chilled (**12°C – 13°C**). (e.g., Beaujolais).
-2.  **White Wines**:
-    - Medium to Full-bodied (Oaked): Lightly Chilled (**10°C – 13°C**).
-    - Light to Medium-bodied: Chilled (**7°C – 10°C**).
-3.  **Sparkling & Sweet Wines**: Well Chilled (**6°C – 10°C**).
-4.  **Influence of Temperature**:
-    - **Too Cold**: Muffles aromas and makes tannins feel harsher.
-    - **Too Warm**: Makes the alcohol feel 'hot' or burning and suppresses fresh fruit notes.
+1.  Sparkling & Sweet Wines (6-10°C): Keep them well chilled to maintain the freshness of the carbonation and the balance of sweetness.
+
+2.  White Wines (7-13°C): 
+    - Light-bodied White: Chilled (7-10°C) to emphasize refreshing acidity.
+    - Oaked/Full-bodied White: Slightly less chilled (10-13°C) to bring out complex aromas.
+
+3.  Red Wines (13-18°C): 
+    - Light-bodied Red (Gamay, Pinot Noir): Slightly cool (13°C).
+    - Full-bodied Red (Cabernet Sauvignon, Syrah): Room temperature (15-18°C).
+
+4.  Important Rule: If the temperature is too high, the unpleasant heat of alcohol rises; if it's too low, the beautiful aromas of the wine remain hidden.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not serve red wines in a very hot environment (like outdoors in summer). If it feels too warm, putting it in an ice bucket for 5–10 minutes is a professional move.
-**[Tip]**: In a L1 exam, **'Well Chilled'** is the answer for **'Sparkling'** and **'Sweet'** wines.
+[Trap]: Avoid thinking that "all red wines must be served warm."
+High indoor temperatures in summer can ruin the taste of the wine, so even red wine is better when slightly cool.
+[Tip]: In an exam, connect 'Sparkling' with 'Well Chilled' and 'Full-bodied Red' with 'Room Temperature' keywords!
 
 ---
 
@@ -47,26 +53,27 @@ Wine is a 'thermo-sensitive' experience.
 
 ### Threads Post
 [Hook]
-Have you ever wondered why that expensive glass of red wine tasted 'bitter' or 'burning'? It might not be the wine—it might be the temperature.
+If you bought an expensive wine but it didn't taste good, could you have missed the 'temperature'?
 
 [Twist]
-Wine is a thermally sensitive creature.
-- **Sparkling & Sweet**: Think 'Cold.' They need to be well-chilled to keep the bubbles energetic and the sugar balanced.
-- **Whites**: Think 'Cool.' They want to stay refreshing without losing their delicate floral scents.
-- **Reds**: Think 'Cellar Temp.' Most people serve reds too warm in modern heated rooms, making the alcohol feel like a punch to the nose. A quick 10 minutes in the fridge can transform a 'hot' red into a balanced masterpiece. Are you serving your wine at its 'sweet spot'?
+Wine shows a completely different face depending on the temperature.
+- White/Sparkling: Chilled as if just taken out of the fridge (7-10 degrees)! The refreshing carbonation and crisp acidity explode.
+- Red Wine: It becomes bitter and astringent if it's too cold. A temperature around a pleasant autumn breeze (15-18 degrees) emits the most elegant fragrance.
+Summer room temperature is too hot for wine. Try putting your red wine in the fridge for 15 minutes before drinking. That subtle difference will completely change your wine life. How about a perfect glass at the optimal temperature tonight?
 
 [Reason]
-WSET L1 Temperature Guide:
-1. Well Chilled (6-10C) = Sparkling / Sweet. (Freshness is King)
-2. Chilled (7-12C) = White / Rosé. (Balance is Queen)
-3. Room Temp (15-18C) = Red. (Complexity is Crown)
+WSET Level 1 Service Temperature Formula:
+
+1. Refreshing White/Sparkling = Chilled.
+
+2. Heavy Red = Room Temperature (15-18 degrees).
 
 [Tip]
-If the bottle feels warm to the touch, it's definitely too warm for a red wine! 
+If red wine is too lukewarm, the alcohol scent becomes too strong and it doesn't taste good. Enjoy it slightly cool!
 
 ### YouTube Shorts Script
-(0-3s) Stop drinking warm wine! Service temperature mastery! 
-(3-15s) WSET Level 1 cheat sheet! Sparkling and Sweet wines? **Well Chilled** (6-10°C)! White and Rosé? **Chilled** (7-12°C)! Red wines? **Room Temp** (15-18°C), which is cooler than you think! 
-(15-25s) Question! Which wine category needs to be served 'Well Chilled'? 1. Full-bodied Red, 2. Sweet Wine, 3. Aged Port. 
-(25-35s) The answer is 2! Sweet Wine! Colder temps keep the sugar from being too cloying! 
-(35-45s) Serve it right, taste the difference! Subscribe and get that perfect score!
+(0-3s) Bad tasting wine? The answer is temperature!
+(3-15s) WSET Level 1 essential concepts! Perfect summary of wine tasting temperatures! Whites and bubbles should be cold like a fridge! Red wine tastes best at a breezy room temperature!
+(15-25s) Question! What is the optimal tasting temperature for full-bodied red wine? 1. 0°C, 2. 15-18°C, 3. 40°C.
+(25-35s) The answer is 2, 15-18°C! The right temperature wakes up the wine's aroma!
+(35-45s) The secret of taste, temperature magic! Subscribe and let's get that perfect score!

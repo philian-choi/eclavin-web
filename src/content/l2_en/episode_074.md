@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What winemaking method is commonly used to produce both French 'Champagne' and Spanish 'Cava', involving a second fermentation in the bottle?**
+Q. What winemaking method is commonly used to produce both French 'Champagne' and Spanish 'Cava', involving a second fermentation in the bottle?
 
 A. Tank Method (Charmat Method)
-B. **Traditional Method**
+B. Traditional Method
 C. Carbonation
 D. Instantly changes any bubble into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any bubble into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Traditional Method**
+Answer: B. Traditional Method
 
-**Explanation**: The **Traditional Method** is a sophisticated process where a second fermentation occurs inside the bottle to trap carbon dioxide. Both French **Champagne** and Spanish **Cava** follow this method. It results in flavors of biscuit, bread, and toast through 'Yeast Autolysis' (aging with dead yeast cells). Conversely, **Prosecco** and **Asti** typically use the **Tank Method**, where second fermentation takes place in large stainless steel tanks to preserve fresh fruit aromas.
+Explanation: The Traditional Method is a sophisticated process where a second fermentation occurs inside the bottle to trap carbon dioxide.
+
+Both French Champagne and Spanish Cava follow this method.
+
+It results in flavors of biscuit, bread, and toast through 'Yeast Autolysis' (aging with dead yeast cells).
+
+Conversely, Prosecco and Asti typically use the Tank Method, where second fermentation takes place in large stainless steel tanks to preserve fresh fruit aromas.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes any bubble into a shot of soju.
 
 A summary of sparkling and fortified wine styles (Review):
 
-1.  **Traditional Method**: Second fermentation in the bottle. (Champagne, Cava). **Lees aging** is the key to complexity.
-2.  **Tank Method**: Second fermentation in large tanks. (Prosecco, Asti). Best for maintaining fresh fruit flavors.
-3.  **Sherry**: Fortified **after** fermentation. (Fino: Flor/Biological vs Oloroso: Oxidative). Traditionally dry.
-4.  **Port**: Fortified **during** fermentation. (Ruby, LBV, Tawny, Vintage). Always sweet.
-5.  **Terminology**: Brut (Dry), Demi-sec (Half-sweet), Vintage (Grapes from a single specific year).
+1.  Traditional Method: Second fermentation in the bottle. (Champagne, Cava). Lees aging is the key to complexity.
+
+2.  Tank Method: Second fermentation in large tanks. (Prosecco, Asti). Best for maintaining fresh fruit flavors.
+
+3.  Sherry: Fortified after fermentation. (Fino: Flor/Biological vs Oloroso: Oxidative). Traditionally dry.
+
+4.  Port: Fortified during fermentation. (Ruby, LBV, Tawny, Vintage). Always sweet.
+
+5.  Terminology: Brut (Dry), Demi-sec (Half-sweet), Vintage (Grapes from a single specific year).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Port wines undergo significant oxidative aging. Ruby Port is styled to minimize oxygen contact and preserve fruitiness. (Tawny Port is the standard for oxidative style).
-**[Tip]**: In the exam, link **'Autolysis/Biscuit/Yeast'** with the traditional method, and **'Fresh fruit/Tank'** with the tank method.
+[Trap]: Do not assume all Port wines undergo significant oxidative aging.
+
+Ruby Port is styled to minimize oxygen contact and preserve fruitiness. (Tawny Port is the standard for oxidative style).
+[Tip]: In the exam, link 'Autolysis/Biscuit/Yeast' with the traditional method, and 'Fresh fruit/Tank' with the tank method.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know 'the magic of bubbles' breathing inside your wine glass? From the bi
 
 [Reason]
 Wine Bubbles and Fire Alchemy Formula:
+
 1. Traditional: Second fermentation in bottle, biscuit and bread aromas (Champagne, Cava).
+
 2. Tank: Fresh fruit aromas (Prosecco, Asti).
+
 3. Fortified: Sherry (dry) vs Port (always sweet).
 
 [Tip]

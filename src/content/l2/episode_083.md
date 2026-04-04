@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 루아르(Loire) 밸리의 '상세르(Sancerre)'와 뉴질랜드의 '말보로(Marlborough)'에서 가장 고품질로 생산되며, 높은 산도와 풀(Grass), 아스파라거스 풍미를 특징으로 하는 품종은 무엇인가요?**
+Q. 프랑스 루아르(Loire) 밸리의 '상세르(Sancerre)'와 뉴질랜드의 '말보로(Marlborough)'에서 가장 고품질로 생산되며, 높은 산도와 풀(Grass), 아스파라거스 풍미를 특징으로 하는 품종은 무엇인가요?
 
 A. 샤르도네 (Chardonnay)
 B. 소비뇽 블랑 (Sauvignon Blanc)
@@ -13,9 +13,13 @@ D. 모든 화이트를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 소비뇽 블랑 (Sauvignon Blanc)**
+정답: B. 소비뇽 블랑 (Sauvignon Blanc)
 
-**해설**: **소비뇽 블랑(Sauvignon Blanc)**은 강렬한 방향성(Aromatic) 품종으로, 높은 산도와 함께 잔디, 아스파라거스, 구스베리 풍미가 시그니처입니다. 반면 **샤르도네(Chardonnay)**는 기후와 양조 방식에 따라 무한 변신하는 '도화지' 같은 품종이며 오크 숙성이 흔합니다. **리슬링(Riesling)**은 높은 산도와 꽃 향기, 그리고 독특한 페트롤(Petroleum) 향이 특징임을 기억하세요.
+해설: 소비뇽 블랑(Sauvignon Blanc)은 강렬한 방향성(Aromatic) 품종으로, 높은 산도와 함께 잔디, 아스파라거스, 구스베리 풍미가 시그니처입니다.
+
+반면 샤르도네(Chardonnay)는 기후와 양조 방식에 따라 무한 변신하는 '도화지' 같은 품종이며 오크 숙성이 흔합니다.
+
+리슬링(Riesling)은 높은 산도와 꽃 향기, 그리고 독특한 페트롤(Petroleum) 향이 특징임을 기억하세요.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 화이트를 한순간에 소금물로 바꾼다.
 
 두 화이트 거장의 핵심 대비 요약입니다.
 
-1.  **Chardonnay**: Non-aromatic. 기후에 따라 풍미가 극적으로 변합니다. (Lemon -> Pineapple). 오크/MLF/Lees 숙성이 빈번합니다.
-2.  **Sauvignon Blanc**: Highly Aromatic. 높은 산도, 신선한 허브와 과실 향. (Grass, Passion fruit). 오크 숙성을 거의 하지 않습니다. (예외: Fumé Blanc).
-3.  **Regional Stars (Chardonnay)**: Chablis(Cool), Meursault(Body), Napa Valley(Full-bodied).
-4.  **Regional Stars (Sauvignon Blanc)**: Sancerre, Marlborough, Adelaide Hills.
-5.  **Pairing**: 소비뇽 블랑은 고소한 염소 치즈, 샤르도네는 버터 소스의 생선 요리와 명궁합입니다.
+1.  Chardonnay: Non-aromatic. 기후에 따라 풍미가 극적으로 변합니다. (Lemon -> Pineapple). 오크/MLF/Lees 숙성이 빈번합니다.
+
+2.  Sauvignon Blanc: Highly Aromatic. 높은 산도, 신선한 허브와 과실 향. (Grass, Passion fruit). 오크 숙성을 거의 하지 않습니다. (예외: Fumé Blanc).
+
+3.  Regional Stars (Chardonnay): Chablis(Cool), Meursault(Body), Napa Valley(Full-bodied).
+
+4.  Regional Stars (Sauvignon Blanc): Sancerre, Marlborough, Adelaide Hills.
+
+5.  Pairing: 소비뇽 블랑은 고소한 염소 치즈, 샤르도네는 버터 소스의 생선 요리와 명궁합입니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 상세르 와인은 오크 풍미가 강하다"라고 하면 오답입니다. 상세르 소비뇽 블랑은 신선한 과실과 산도를 지키기 위해 주로 스테인리스 탱크에서 발효함을 명심하세요.
-**[팁]**: 시험에서 **'High Acid/Aromatic/Grass'**가 나오면 소비뇽 블랑을, **'Versatile/Oak/Butter'**가 나오면 샤르도네를 연결하세요.
+[함정]: "모든 상세르 와인은 오크 풍미가 강하다"라고 하면 오답입니다.
+
+상세르 소비뇽 블랑은 신선한 과실과 산도를 지키기 위해 주로 스테인리스 탱크에서 발효함을 명심하세요.
+[팁]: 시험에서 'High Acid/Aromatic/Grass'가 나오면 소비뇽 블랑을, 'Versatile/Oak/Butter'가 나오면 샤르도네를 연결하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 화이트를 한순간에 소금물로 바꾼다.
 
 [Reason]
 화이트 품종 연금술 공식:
+
 1. 소비뇽 블랑: 지치지 않는 상큼함과 허브의 향연 (Sauvignon Blanc)
+
 2. 샤르도네: 기후와 양조에 따라 무한 변신하는 도화지 (Chardonnay)
+
 3. 포인트: 상세르 vs 샤블리의 산도 대결이 화이트의 정수
 
 [Tip]

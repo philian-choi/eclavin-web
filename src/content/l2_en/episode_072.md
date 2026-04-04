@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the characteristic flavor and acidity profile of Chardonnay produced in the 'Chablis' region of Burgundy, France?**
+Q. What is the characteristic flavor and acidity profile of Chardonnay produced in the 'Chablis' region of Burgundy, France?
 
 A. Low acidity and sweet peach flavors (Low acid/Sweet)
-B. **High acidity and notes of citrus and wet stone (Mineral)**
+B. High acidity and notes of citrus and wet stone (Mineral)
 C. Medium acidity and intense black fruit flavors (Medium acid/Black fruit)
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. High acidity and notes of citrus and wet stone (Mineral)**
+Answer: B. High acidity and notes of citrus and wet stone (Mineral)
 
-**Explanation**: **Chardonnay** is a chameleon-like variety. In the cool climate of **Chablis**, it develops high acidity and prominent notes of citrus and wet stone (mineral character). In warmer climates, it can take on tropical fruit flavors like pineapple, often complemented by vanilla and buttery notes from oak aging. Remember, **Sauvignon Blanc** is defined by intense herbal and grassy notes, while **Riesling** is characterized by high acidity and petroleum (Petroleum) aromas.
+Explanation: Chardonnay is a chameleon-like variety.
+
+In the cool climate of Chablis, it develops high acidity and prominent notes of citrus and wet stone (mineral character).
+
+In warmer climates, it can take on tropical fruit flavors like pineapple, often complemented by vanilla and buttery notes from oak aging.
+
+Remember, Sauvignon Blanc is defined by intense herbal and grassy notes, while Riesling is characterized by high acidity and petroleum (Petroleum) aromas.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of major white grape varieties (Review):
 
-1.  **Chardonnay**: Varies by climate. Cool (Lemon/Green apple) -> Warm (Pineapple/Melon). Oak aging (Vanilla/Butter) is common.
-2.  **Sauvignon Blanc**: High acidity, aromatic. (Grass, Asparagus, Passion fruit). Sancerre/Pouilly-Fumé and Marlborough are famous.
-3.  **Riesling**: High acidity, aromatic. (Green apple, Peach, Citrus, Petroleum). Noted for floral scents and minerals; oak is rarely used.
-4.  **Pinot Grigio / Gris**: Significant style difference between Italy (Neutral, High acid) and Alsace, France (Full-bodied, Peach/Ginger).
-5.  **Chenin Blanc / Semillon**: Play important roles in Loire whites and Bordeaux sweets (Sauternes), respectively.
+1.  Chardonnay: Varies by climate. Cool (Lemon/Green apple) -> Warm (Pineapple/Melon). Oak aging (Vanilla/Butter) is common.
+
+2.  Sauvignon Blanc: High acidity, aromatic. (Grass, Asparagus, Passion fruit). Sancerre/Pouilly-Fumé and Marlborough are famous.
+
+3.  Riesling: High acidity, aromatic. (Green apple, Peach, Citrus, Petroleum). Noted for floral scents and minerals; oak is rarely used.
+
+4.  Pinot Grigio / Gris: Significant style difference between Italy (Neutral, High acid) and Alsace, France (Full-bodied, Peach/Ginger).
+
+5.  Chenin Blanc / Semillon: Play important roles in Loire whites and Bordeaux sweets (Sauternes), respectively.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Chardonnay always has strong oak flavors. Many styles, such as Chablis, rarely use oak, emphasizing fresh acidity and minerals instead.
-**[Tip]**: In the exam, link **'High acid/Aromatic/No oak'** with Sauvignon Blanc or Riesling, and **'Non-aromatic/Oak choice'** with Chardonnay.
+[Trap]: Do not assume all Chardonnay always has strong oak flavors.
+
+Many styles, such as Chablis, rarely use oak, emphasizing fresh acidity and minerals instead.
+[Tip]: In the exam, link 'High acid/Aromatic/No oak' with Sauvignon Blanc or Riesling, and 'Non-aromatic/Oak choice' with Chardonnay.
 
 ---
 
@@ -49,8 +61,11 @@ Have you ever experienced 'the aesthetic of cold metal' and 'the embrace of warm
 
 [Reason]
 White Variety Alchemy Formula:
+
 1. Chardonnay: Infinite transformation depending on climate and oak.
+
 2. Sauvignon Blanc: Relentless feast of herbs and grass.
+
 3. Riesling: The pride of high acidity and the aura of petroleum.
 
 [Tip]

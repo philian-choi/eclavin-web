@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 유럽(EU)의 와인 법규에서 '지리적 표시 보호(PDO)' 등급에 해당하며, 특정 지역의 원산지와 엄격한 품질 규정을 준수했음을 증명하는 공통적인 라벨 용어는 무엇인가요?**
+Q. 유럽(EU)의 와인 법규에서 '지리적 표시 보호(PDO)' 등급에 해당하며, 특정 지역의 원산지와 엄격한 품질 규정을 준수했음을 증명하는 공통적인 라벨 용어는 무엇인가요?
 
 A. PGI (Protected Geographical Indication)
 B. PDO (Protected Designation of Origin)
@@ -13,9 +13,15 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. PDO (Protected Designation of Origin)**
+정답: B. PDO (Protected Designation of Origin)
 
-**해설**: **와인 라벨(Wine Label)**은 그 와인의 신분증이자 품질 보증서입니다. **PDO**는 가장 높은 등급으로, 특정 지리적 구역 내에서 생산되며 규정된 포도 품종과 양조 방식을 철저히 따랐음을 의미합니다. 프랑스의 **AOC**, 이탈리아의 **DOCG/DOC**, 스페인의 **DO/DOCa**가 모두 이 PDO 카테고리에 속합니다. 반면 **PGI**는 조금 더 완화된 규정을 적용받는 등급입니다.
+해설: 와인 라벨(Wine Label)은 그 와인의 신분증이자 품질 보증서입니다.
+
+PDO는 가장 높은 등급으로, 특정 지리적 구역 내에서 생산되며 규정된 포도 품종과 양조 방식을 철저히 따랐음을 의미합니다.
+
+프랑스의 AOC, 이탈리아의 DOCG/DOC, 스페인의 DO/DOCa가 모두 이 PDO 카테고리에 속합니다.
+
+반면 PGI는 조금 더 완화된 규정을 적용받는 등급입니다.
 
 ---
 
@@ -23,24 +29,29 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 국가별 주요 라벨 용어 총정리입니다.
 
-1.  **PDO (Protected Designation of Origin)**:
-    - France: **AOC** (Appellation d'Origine Contrôlée)
-    - Italy: **DOCG**, **DOC**
-    - Spain: **DOCa**, **DO**
-    - Germany: **Prädikatswein**, **Qualitätswein**
-2.  **PGI (Protected Geographical Indication)**:
-    - France: **VDP** (Vin de Pays) / **IGP** (Indication Géographique Protégée)
-    - Italy: **IGT** (Indicazione Geografica Tipica)
-    - Spain: **VT** (Vino de la Tierra)
-3.  **Aging Terms**: **Crianza, Reserva, Gran Reserva** (Spain), **Classico, Riserva** (Italy).
-4.  **Dry/Sweet Terms**: **Trocken/Halbtrocken** (Germany), **Sec/Demi-sec** (France), **Brut** (Champagne).
+1.  PDO (Protected Designation of Origin):
+    - France: AOC (Appellation d'Origine Contrôlée)
+    - Italy: DOCG, DOC
+    - Spain: DOCa, DO
+    - Germany: Prädikatswein, Qualitätswein
+
+2.  PGI (Protected Geographical Indication):
+    - France: VDP (Vin de Pays) / IGP (Indication Géographique Protégée)
+    - Italy: IGT (Indicazione Geografica Tipica)
+    - Spain: VT (Vino de la Tierra)
+
+3.  Aging Terms: Crianza, Reserva, Gran Reserva (Spain), Classico, Riserva (Italy).
+
+4.  Dry/Sweet Terms: Trocken/Halbtrocken (Germany), Sec/Demi-sec (France), Brut (Champagne).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "PGI 등급 와인은 항상 PDO보다 품질이 낮다"라고 단정하면 오답입니다. 규정이 완화되어 창의적인 시도를 할 수 있기에, 슈퍼 투스칸(Super Tuscan)처럼 매우 고가의 PGI 와인도 존재함을 명심하세요.
-**[팁]**: 시험에서 **'Strict regulations/Smaller areas'**는 PDO를, **'Flexible regulations/Larger areas'**는 PGI를 연결하세요.
+[함정]: "PGI 등급 와인은 항상 PDO보다 품질이 낮다"라고 단정하면 오답입니다.
+
+규정이 완화되어 창의적인 시도를 할 수 있기에, 슈퍼 투스칸(Super Tuscan)처럼 매우 고가의 PGI 와인도 존재함을 명심하세요.
+[팁]: 시험에서 'Strict regulations/Smaller areas'는 PDO를, 'Flexible regulations/Larger areas'는 PGI를 연결하세요.
 
 ---
 
@@ -55,8 +66,11 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 와인 라벨 연금술 공식:
+
 1. PDO: 엄격한 규칙, 좁은 지역, 최고 품질 (AOC, DOCG, DO)
+
 2. PGI: 완화된 규칙, 넓은 지역, 창의적 도전 (IGP, IGT, VT)
+
 3. 숙성: Crianza < Reserva < Gran Reserva (스페인 기준)
 
 [Tip]

@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the 'Sauternes' region of Bordeaux, France, what is the name of the fungus essential for high-quality sweet wine production, which punctures grape skins to evaporate water and concentrate sugars?**
+Q. In the 'Sauternes' region of Bordeaux, France, what is the name of the fungus essential for high-quality sweet wine production, which punctures grape skins to evaporate water and concentrate sugars?
 
 A. Oxidation
-B. **Noble Rot (Botrytis Cinerea)**
+B. Noble Rot (Botrytis Cinerea)
 C. Frost
 D. Instantly changes any fungus into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes any fungus into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Noble Rot (Botrytis Cinerea)**
+Answer: B. Noble Rot (Botrytis Cinerea)
 
-**Explanation**: **Noble Rot** is a desirable fungus that develops under specific climatic conditions with damp mornings followed by dry afternoons. It pierces the grape skins, allowing water to evaporate, which concentrates both sugar and acidity while adding complex notes of honey, apricot, and dried fruit. **Sauternes** and Hungary's **Tokaji** are legendary examples of this 'Liquid Gold'. Note that **Icewine** uses a different method by freezing grapes to remove water.
+Explanation: Noble Rot is a desirable fungus that develops under specific climatic conditions with damp mornings followed by dry afternoons.
+
+It pierces the grape skins, allowing water to evaporate, which concentrates both sugar and acidity while adding complex notes of honey, apricot, and dried fruit.
+
+Sauternes and Hungary's Tokaji are legendary examples of this 'Liquid Gold'.
+
+Note that Icewine uses a different method by freezing grapes to remove water.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes any fungus into a shot of salt water.
 
 A summary of sweet wines and variety characteristics (Review):
 
-1.  **Noble Rot (Botrytis)**: Flavors of honey, apricot, and dried fruit. (Sauternes, Tokaji, TBA).
-2.  **Frozen Grapes**: High acidity and pure fruit aromas. (Icewine / Eiswein).
-3.  **Late Harvest**: Delaying harvest until grapes shrivel to increase sugar. (Vendanges Tardives).
-4.  **Variety Recap (Aromatic)**: Riesling, Sauvignon Blanc, Gewürztraminer. (Intense aromas; oak use is generally avoided).
-5.  **Variety Recap (Non-Aromatic)**: Chardonnay, Pinot Noir, Merlot. (Complements oak aging).
+1.  Noble Rot (Botrytis): Flavors of honey, apricot, and dried fruit. (Sauternes, Tokaji, TBA).
+
+2.  Frozen Grapes: High acidity and pure fruit aromas. (Icewine / Eiswein).
+
+3.  Late Harvest: Delaying harvest until grapes shrivel to increase sugar. (Vendanges Tardives).
+
+4.  Variety Recap (Aromatic): Riesling, Sauvignon Blanc, Gewürztraminer. (Intense aromas; oak use is generally avoided).
+
+5.  Variety Recap (Non-Aromatic): Chardonnay, Pinot Noir, Merlot. (Complements oak aging).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all sweet wines are 'Fortified'. Sauternes and Tokaji achieve sweetness through natural concentration without added alcohol.
-**[Tip]**: In the exam, link **'Honey/Dried Apricot/Botrytis'** with Sauternes, and **'Consistent high acidity/Pure fruit'** with Icewine.
+[Trap]: Do not assume all sweet wines are 'Fortified'.
+
+Sauternes and Tokaji achieve sweetness through natural concentration without added alcohol.
+[Tip]: In the exam, link 'Honey/Dried Apricot/Botrytis' with Sauternes, and 'Consistent high acidity/Pure fruit' with Icewine.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know 'the magic of sweet' breathing inside your wine glass? From the hone
 
 [Reason]
 Sweet Wine Alchemy Formula:
+
 1. Noble Rot: The essence of concentration crafted by fungus (Sauternes, Tokaji).
+
 2. Icewine: Pure fruit crystals made by the cold (Icewine).
+
 3. Late Harvest: Natural sugar obtained through patience (Late Harvest).
 
 [Tip]

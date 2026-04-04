@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 포도나무(Vine)의 생장에 필수적인 요소 중 하나로, 포도알의 당분(Sugar) 합성을 돕고 곰팡이 질병(Fungal disease)의 위험을 낮추기 위해 햇빛 노출을 극대화하도록 포도밭에서 수행하는 작업은 무엇인가요?**
+Q. 포도나무(Vine)의 생장에 필수적인 요소 중 하나로, 포도알의 당분(Sugar) 합성을 돕고 곰팡이 질병(Fungal disease)의 위험을 낮추기 위해 햇빛 노출을 극대화하도록 포도밭에서 수행하는 작업은 무엇인가요?
 
 A. 포도나무 가지치기와 잎 관리 (Canopy management)
 B. 포도밭에 거대 조명 설치 (Artificial lighting)
@@ -13,9 +13,15 @@ D. 모든 노력을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: A. 포도나무 가지치기와 잎 관리 (Canopy management)**
+정답: A. 포도나무 가지치기와 잎 관리 (Canopy management)
 
-**해설**: **캐노피 매니지먼트(Canopy management)**는 포도밭의 건축학입니다. 잎을 적절히 솎아내어 햇빛(Sunlight)이 포도알에 닿게 하여 당분 합성을 돕고, 통풍(Air circulation)을 개선하여 곰팡이 질병을 예방합니다. 포도의 품질은 양조장이 아닌 포도밭에서 결정된다는 격언을 기억하세요. 척박한 토양과 적절한 기후(30~50도 위도)의 조화가 명작의 시작입니다.
+해설: 캐노피 매니지먼트(Canopy management)는 포도밭의 건축학입니다.
+
+잎을 적절히 솎아내어 햇빛(Sunlight)이 포도알에 닿게 하여 당분 합성을 돕고, 통풍(Air circulation)을 개선하여 곰팡이 질병을 예방합니다.
+
+포도의 품질은 양조장이 아닌 포도밭에서 결정된다는 격언을 기억하세요.
+
+척박한 토양과 적절한 기후(30~50도 위도)의 조화가 명작의 시작입니다.
 
 ---
 
@@ -23,18 +29,24 @@ D. 모든 노력을 한순간에 소금물로 바꾼다.
 
 포도 재배의 핵심 성공 요인 요약입니다.
 
-1.  **Needs of the Vine**: Heat, Sunlight, Water, Nutrients, CO2.
-2.  **Latitude**: 30~50° (Golden range for wine growing).
-3.  **Climate Effect**: Cool(높은 산도, 낮은 당도) vs Warm(낮은 산도, 높은 당도/알코올).
-4.  **Weather Hazards**: 서리(Frost), 우박(Hail), 가뭄(Drought).
-5.  **Grape Development**: Veraison(색 변화), 당분 상승(Sugar ripening), 산도 하강(Acid dropping).
+1.  Needs of the Vine: Heat, Sunlight, Water, Nutrients, CO2.
+
+2.  Latitude: 30~50° (Golden range for wine growing).
+
+3.  Climate Effect: Cool(높은 산도, 낮은 당도) vs Warm(낮은 산도, 높은 당도/알코올).
+
+4.  Weather Hazards: 서리(Frost), 우박(Hail), 가뭄(Drought).
+
+5.  Grape Development: Veraison(색 변화), 당분 상승(Sugar ripening), 산도 하강(Acid dropping).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "포도나무는 물과 비료가 아주 풍부한 땅에서만 최고의 와인용 포도를 생산한다"라고 하면 오답입니다. 오히려 약간의 수분 스트레스와 척박한 땅에서 뿌리를 깊게 내려야 농축된 고품질 포도가 만들어짐을 명심하세요.
-**[팁]**: 시험에서 **'Canopy management'**는 항상 **'Sunlight exposure'** 혹은 **'Airflow'**와 연결됩니다.
+[함정]: "포도나무는 물과 비료가 아주 풍부한 땅에서만 최고의 와인용 포도를 생산한다"라고 하면 오답입니다.
+
+오히려 약간의 수분 스트레스와 척박한 땅에서 뿌리를 깊게 내려야 농축된 고품질 포도가 만들어짐을 명심하세요.
+[팁]: 시험에서 'Canopy management'는 항상 'Sunlight exposure' 혹은 'Airflow'와 연결됩니다.
 
 ---
 
@@ -49,8 +61,11 @@ D. 모든 노력을 한순간에 소금물로 바꾼다.
 
 [Reason]
 대지 재배 연금술 공식:
+
 1. 관리: 캐노피 매니지먼트(Canopy Management)는 품질의 마지노선임
+
 2. 영향: 충분한 햇빛은 포도의 당분과 복합적인 아로마를 결정함
+
 3. 포인트: 좋은 와인은 양조장이 아니라 포도밭에서 만들어짐
 
 [Tip]

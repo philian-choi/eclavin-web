@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In EU wine regulations, what is the common labeling term that corresponds to the 'Protected Designation of Origin (PDO)' category, proving that a wine adheres to strict quality regulations and originates from a specific area?**
+Q. In EU wine regulations, what is the common labeling term that corresponds to the 'Protected Designation of Origin (PDO)' category, proving that a wine adheres to strict quality regulations and originates from a specific area?
 
 A. PGI (Protected Geographical Indication)
-B. **PDO (Protected Designation of Origin)**
+B. PDO (Protected Designation of Origin)
 C. Table Wine (Vino de Mesa)
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. PDO (Protected Designation of Origin)**
+Answer: B. PDO (Protected Designation of Origin)
 
-**Explanation**: A **Wine Label** is a wine's ID card and proof of quality. **PDO** is the highest category, meaning the wine is produced within a specific geographical area and strictly follows prescribed grape varieties and winemaking methods. France's **AOC**, Italy's **DOCG/DOC**, and Spain's **DO/DOCa** all fall into this PDO category. Conversely, **PGI** is a category subject to slightly more relaxed regulations.
+Explanation: A Wine Label is a wine's ID card and proof of quality.
+
+PDO is the highest category, meaning the wine is produced within a specific geographical area and strictly follows prescribed grape varieties and winemaking methods.
+
+France's AOC, Italy's DOCG/DOC, and Spain's DO/DOCa all fall into this PDO category.
+
+Conversely, PGI is a category subject to slightly more relaxed regulations.
 
 ---
 
@@ -23,24 +29,29 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of major labeling terms by country:
 
-1.  **PDO (Protected Designation of Origin)**:
-    - France: **AOC** (Appellation d'Origine Contrôlée)
-    - Italy: **DOCG**, **DOC**
-    - Spain: **DOCa**, **DO**
-    - Germany: **Prädikatswein**, **Qualitätswein**
-2.  **PGI (Protected Geographical Indication)**:
-    - France: **VDP** (Vin de Pays) / **IGP** (Indication Géographique Protégée)
-    - Italy: **IGT** (Indicazione Geografica Tipica)
-    - Spain: **VT** (Vino de la Tierra)
-3.  **Aging Terms**: **Crianza, Reserva, Gran Reserva** (Spain), **Classico, Riserva** (Italy).
-4.  **Dry/Sweet Terms**: **Trocken/Halbtrocken** (Germany), **Sec/Demi-sec** (France), **Brut** (Champagne).
+1.  PDO (Protected Designation of Origin):
+    - France: AOC (Appellation d'Origine Contrôlée)
+    - Italy: DOCG, DOC
+    - Spain: DOCa, DO
+    - Germany: Prädikatswein, Qualitätswein
+
+2.  PGI (Protected Geographical Indication):
+    - France: VDP (Vin de Pays) / IGP (Indication Géographique Protégée)
+    - Italy: IGT (Indicazione Geografica Tipica)
+    - Spain: VT (Vino de la Tierra)
+
+3.  Aging Terms: Crianza, Reserva, Gran Reserva (Spain), Classico, Riserva (Italy).
+
+4.  Dry/Sweet Terms: Trocken/Halbtrocken (Germany), Sec/Demi-sec (France), Brut (Champagne).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not blindly assume that PGI-category wines are always of lower quality than PDO. Because regulations are more flexible, creative and high-end wines like 'Super Tuscans' can exist within the PGI category.
-**[Tip]**: In the exam, link **'Strict regulations/Smaller areas'** with PDO and **'Flexible regulations/Larger areas'** with PGI.
+[Trap]: Do not blindly assume that PGI-category wines are always of lower quality than PDO.
+
+Because regulations are more flexible, creative and high-end wines like 'Super Tuscans' can exist within the PGI category.
+[Tip]: In the exam, link 'Strict regulations/Smaller areas' with PDO and 'Flexible regulations/Larger areas' with PGI.
 
 ---
 
@@ -55,8 +66,11 @@ Do you know 'the secret of class' hidden on a wine label? 'PDO', the origin-prot
 
 [Reason]
 Wine Label Alchemy Formula:
+
 1. PDO: Strict rules, small areas, top quality (AOC, DOCG, DO).
+
 2. PGI: Relaxed rules, larger areas, creative challenges (IGP, IGT, VT).
+
 3. Maturation: Crianza < Reserva < Gran Reserva (for Spain).
 
 [Tip]

@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 보르도(Bordeaux)의 '소테른(Sauternes)' 지역에서 고품질 스위트 와인을 생산하기 위해 필수적인 자연 현상으로, 포도 껍질을 뚫고 수분을 증발시켜 당분을 농축시키는 곰팡이의 명칭은 무엇인가요?**
+Q. 프랑스 보르도(Bordeaux)의 '소테른(Sauternes)' 지역에서 고품질 스위트 와인을 생산하기 위해 필수적인 자연 현상으로, 포도 껍질을 뚫고 수분을 증발시켜 당분을 농축시키는 곰팡이의 명칭은 무엇인가요?
 
 A. 산화 (Oxidation)
 B. 귀부병 (Noble Rot / Botrytis Cinerea)
@@ -13,9 +13,15 @@ D. 모든 곰팡이를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 귀부병 (Noble Rot / Botrytis Cinerea)**
+정답: B. 귀부병 (Noble Rot / Botrytis Cinerea)
 
-**해설**: **귀부병(Noble Rot)**은 '고귀한 부패'라는 뜻으로, 습한 아침과 건조한 오후가 반복되는 특수한 기후에서 발생합니다. 포도알의 수분을 빼앗아 당분과 산도를 농축시키고 꿀, 살구, 말린 과일 풍미를 더해줍니다. **소테른(Sauternes)**과 헝가리의 **토카이(Tokaji)**가 이 방식으로 만들어지는 전설적인 '액체 황금'입니다. 반면 **캐나다 아이스와인**은 포도를 얼려 수분을 제거하는 방식임을 기억하세요.
+해설: 귀부병(Noble Rot)은 '고귀한 부패'라는 뜻으로, 습한 아침과 건조한 오후가 반복되는 특수한 기후에서 발생합니다.
+
+포도알의 수분을 빼앗아 당분과 산도를 농축시키고 꿀, 살구, 말린 과일 풍미를 더해줍니다.
+
+소테른(Sauternes)과 헝가리의 토카이(Tokaji)가 이 방식으로 만들어지는 전설적인 '액체 황금'입니다.
+
+반면 캐나다 아이스와인은 포도를 얼려 수분을 제거하는 방식임을 기억하세요.
 
 ---
 
@@ -23,18 +29,24 @@ D. 모든 곰팡이를 한순간에 소금물로 바꾼다.
 
 스위트 와인 및 주요 특징 핵심 요약(Review)입니다.
 
-1.  **Noble Rot (Botrytis)**: 꿀, 살구, 마카롱 풍미. (Sauternes, Tokaji, TBA).
-2.  **Frozen Grapes**: 높은 산도와 순수한 과실 향. (Icewine / Eiswein).
-3.  **Late Harvest**: 포도가 마를 때까지 기다려 당분을 높임. (Vendanges Tardives).
-4.  **Variety Recap (Aromatic)**: Riesling, Sauvignon Blanc, Gewürztraminer. (향이 강해 오크 사용 지양).
-5.  **Variety Recap (Non-Aromatic)**: Chardonnay, Pinot Noir, Merlot. (오크 숙성과 잘 어울림).
+1.  Noble Rot (Botrytis): 꿀, 살구, 마카롱 풍미. (Sauternes, Tokaji, TBA).
+
+2.  Frozen Grapes: 높은 산도와 순수한 과실 향. (Icewine / Eiswein).
+
+3.  Late Harvest: 포도가 마를 때까지 기다려 당분을 높임. (Vendanges Tardives).
+
+4.  Variety Recap (Aromatic): Riesling, Sauvignon Blanc, Gewürztraminer. (향이 강해 오크 사용 지양).
+
+5.  Variety Recap (Non-Aromatic): Chardonnay, Pinot Noir, Merlot. (오크 숙성과 잘 어울림).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 스위트 와인은 주정 강화(Fortified) 와인이다"라고 하면 오답입니다. 소테른이나 토카이는 알코올 첨가 없이 자연적인 농축으로만 단맛을 냄을 명심하세요.
-**[팁]**: 시험에서 **'Honey/Dried Apricot/Botrytis'**는 소테른을, **'Consistent high acidity/Puri fruit'**는 아이스와인을 연결하세요.
+[함정]: "모든 스위트 와인은 주정 강화(Fortified) 와인이다"라고 하면 오답입니다.
+
+소테른이나 토카이는 알코올 첨가 없이 자연적인 농축으로만 단맛을 냄을 명심하세요.
+[팁]: 시험에서 'Honey/Dried Apricot/Botrytis'는 소테른을, 'Consistent high acidity/Puri fruit'는 아이스와인을 연결하세요.
 
 ---
 
@@ -49,8 +61,11 @@ D. 모든 곰팡이를 한순간에 소금물로 바꾼다.
 
 [Reason]
 스위트 와인 연금술 공식:
+
 1. 귀부 와인: 곰팡이가 만든 농축의 정수 (Sauternes, Tokaji)
+
 2. 아이스와인: 추위가 만든 순수한 과실의 결정체 (Icewine)
+
 3. 늦수확 와인: 기다림 끝에 얻은 자연의 당분 (Late Harvest)
 
 [Tip]

@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 화이트 와인(White Wine)이나 로제 와인(Rosé Wine)을 서비스할 때, 상큼한 산미와 과실 향을 가장 잘 살려주는 권장 온도 범위는 대략 어느 정도인가요?**
+Q. 화이트 와인(White Wine)이나 로제 와인(Rosé Wine)을 서비스할 때, 상큼한 산미와 과실 향을 가장 잘 살려주는 권장 온도 범위는 대략 어느 정도인가요?
 
 A. 실온 (Room temperature) 18~20°C
 B. 약간 차갑게 (Chilled) 7~10°C
@@ -13,9 +13,15 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 약간 차갑게 (Chilled) 7~10°C**
+정답: B. 약간 차갑게 (Chilled) 7~10°C
 
-**해설**: **와인 서비스(Service)**는 향기와 맛의 잠재력을 폭발시키는 마지막 예술입니다. **화이트와 로제 와인**은 7~10°C 정도로 차가워야 특유의 상쾌한 산도가 기분 좋게 살아납니다. 반면, **Full-bodied Red**는 15~18°C 정도의 '상온(Room temperature)'에서 마셔야 타닌이 부드러워지고 풍부한 아로마가 피어납니다. **와인 잔(Glassware)** 역시 향기를 모아주고 입술에 닿는 감촉을 결정짓는 중요한 요소임을 명심하세요.
+해설: 와인 서비스(Service)는 향기와 맛의 잠재력을 폭발시키는 마지막 예술입니다.
+
+화이트와 로제 와인은 7~10°C 정도로 차가워야 특유의 상쾌한 산도가 기분 좋게 살아납니다.
+
+반면, Full-bodied Red는 15~18°C 정도의 '상온(Room temperature)'에서 마셔야 타닌이 부드러워지고 풍부한 아로마가 피어납니다.
+
+와인 잔(Glassware) 역시 향기를 모아주고 입술에 닿는 감촉을 결정짓는 중요한 요소임을 명심하세요.
 
 ---
 
@@ -23,18 +29,24 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 와인 종류별 최적의 서비스 온도 공식입니다.
 
-1.  **Sweet / Sparkling**: 6~10°C. (Well chilled). 기포의 유지와 당도의 밸런스를 위해 가장 차갑게 서비스합니다.
-2.  **Light/Medium-bodied White & Rosé**: 7~10°C. (Chilled). 상큼한 산미를 강조합니다.
-3.  **Full-bodied White (Chardonnay)**: 10~13°C. (Lightly chilled). 오크 숙성에서 오는 묵직한 질감을 위해 살짝 덜 차갑게 마십니다.
-4.  **Light-bodied Red (Pinot Noir)**: 13°C. (Room temperature style, but slightly cool). 신선한 레드 과일 향을 위해 살짝 칠링합니다.
-5.  **Full-bodied Red**: 15~18°C. (Room temperature). 복합적인 아로마를 극대화합니다.
+1.  Sweet / Sparkling: 6~10°C. (Well chilled). 기포의 유지와 당도의 밸런스를 위해 가장 차갑게 서비스합니다.
+
+2.  Light/Medium-bodied White & Rosé: 7~10°C. (Chilled). 상큼한 산미를 강조합니다.
+
+3.  Full-bodied White (Chardonnay): 10~13°C. (Lightly chilled). 오크 숙성에서 오는 묵직한 질감을 위해 살짝 덜 차갑게 마십니다.
+
+4.  Light-bodied Red (Pinot Noir): 13°C. (Room temperature style, but slightly cool). 신선한 레드 과일 향을 위해 살짝 칠링합니다.
+
+5.  Full-bodied Red: 15~18°C. (Room temperature). 복합적인 아로마를 극대화합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "레드 와인은 여름철 실온(25~30°C) 그대로 서비스하는 것이 정석이다"라고 하면 오답입니다. 여름철 실온은 레드 와인에게도 너무 뜨거워 알코올이 튀고 벙벙한 맛이 나므로, 반드시 15~18°C로 맞춰야 함을 명심하세요.
-**[팁]**: 시험에서 **'Refresh acidity'**는 차갑게 마시는 화이트를, **'Complexity/Softening tannins'**는 레드 와인을 연결하세요.
+[함정]: "레드 와인은 여름철 실온(25~30°C) 그대로 서비스하는 것이 정석이다"라고 하면 오답입니다.
+
+여름철 실온은 레드 와인에게도 너무 뜨거워 알코올이 튀고 벙벙한 맛이 나므로, 반드시 15~18°C로 맞춰야 함을 명심하세요.
+[팁]: 시험에서 'Refresh acidity'는 차갑게 마시는 화이트를, 'Complexity/Softening tannins'는 레드 와인을 연결하세요.
 
 ---
 
@@ -49,8 +61,11 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 와인 서비스 연금술 공식:
+
 1. 화이트: 차갑게(7~10도), 상큼한 산도 강조
+
 2. 레드: 상온(15~18도), 부드러운 타닌과 아로마 폭발
+
 3. 잔: 향기를 모아주는 튤립 형태가 기본
 
 [Tip]

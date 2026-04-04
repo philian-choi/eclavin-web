@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 포도 재배와 양조 과정 중, '효모(Yeast)'가 당분을 알코올과 이산화탄소로 바꾸는 주된 화학적 반응의 명칭은 무엇인가요?**
+Q. 포도 재배와 양조 과정 중, '효모(Yeast)'가 당분을 알코올과 이산화탄소로 바꾸는 주된 화학적 반응의 명칭은 무엇인가요?
 
 A. 산화 (Oxidation)
 B. 알코올 발효 (Alcoholic Fermentation)
@@ -13,9 +13,15 @@ D. 모든 반응을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 알코올 발효 (Alcoholic Fermentation)**
+정답: B. 알코올 발효 (Alcoholic Fermentation)
 
-**해설**: **와인의 탄생**은 과학입니다. 효모가 당분을 먹고 알코올로 바꾸는 **알코올 발효** 과정이 핵심이죠. **광합성(Photosynthesis)**은 포도나무가 햇빛을 이용해 당분을 만드는 과정이며, **산화(Oxidation)**는 와인이 공기에 노출되어 품질이 변하는 현상입니다. 레드 와인은 껍질과 함께 발효하여 색과 타닌을 추출(Extraction)하고, 화이트 와인은 압착 후 즙만 발효한다는 차이를 명확히 이해해야 합니다.
+해설: 와인의 탄생은 과학입니다.
+
+효모가 당분을 먹고 알코올로 바꾸는 알코올 발효 과정이 핵심이죠.
+
+광합성(Photosynthesis)은 포도나무가 햇빛을 이용해 당분을 만드는 과정이며, 산화(Oxidation)는 와인이 공기에 노출되어 품질이 변하는 현상입니다.
+
+레드 와인은 껍질과 함께 발효하여 색과 타닌을 추출(Extraction)하고, 화이트 와인은 압착 후 즙만 발효한다는 차이를 명확히 이해해야 합니다.
 
 ---
 
@@ -23,18 +29,26 @@ D. 모든 반응을 한순간에 소주 맛으로 바꾼다.
 
 재배 및 양조 기초 공학의 핵심 요약입니다.
 
-1.  **Viticulture**: 포도나무는 햇빛, 물, 이산화탄소로 당분을 만듭니다. (Sugar in grapes = Alcohol potential).
-2.  **Alcoholic Fermentation**: Sugar + Yeast → Alcohol + CO2 + Heat.
-3.  **Red Winemaking**: Crushing -> **Fermentation with skins** (Extraction) -> Pressing -> Maturation.
-4.  **White Winemaking**: Crushing -> **Pressing (Juice only)** -> Fermentation -> Maturation.
-5.  **Rosé Winemaking**: Short maceration (껍질과 짧게 접촉) 후 즙만 발효하거나, 예외적으로 샴페인에서만 레드/화이트를 블렌딩합니다.
+1.  Viticulture: 포도나무는 햇빛, 물, 이산화탄소로 당분을 만듭니다. (Sugar in grapes = Alcohol potential).
+
+2.  Alcoholic Fermentation: Sugar + Yeast → Alcohol + CO2 + Heat.
+
+3.  Red Winemaking: Crushing -> Fermentation with skins (Extraction) -> Pressing -> Maturation.
+
+4.  White Winemaking: Crushing -> Pressing (Juice only) -> Fermentation -> Maturation.
+
+5.  Rosé Winemaking: Short maceration (껍질과 짧게 접촉) 후 즙만 발효하거나, 예외적으로 샴페인에서만 레드/화이트를 블렌딩합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "로제 와인은 항상 레드와 화이트 와인을 섞어서 만든다"라고 하면 유럽 법규상 오답입니다. (일반 와인은 섞기 금지, 샴페인은 허용). 껍질에서 색만 살짝 뺀다는 점을 명심하세요.
-**[팁]**: 시험에서 **'Extract color and tannin'**와 함께 레드 와인 양조 순서를 암기하세요. 이 제작 원리가 만점의 정점입니다.
+[함정]: "로제 와인은 항상 레드와 화이트 와인을 섞어서 만든다"라고 하면 유럽 법규상 오답입니다. (일반 와인은 섞기 금지, 샴페인은 허용).
+
+껍질에서 색만 살짝 뺀다는 점을 명심하세요.
+[팁]: 시험에서 'Extract color and tannin'와 함께 레드 와인 양조 순서를 암기하세요.
+
+이 제작 원리가 만점의 정점입니다.
 
 ---
 
@@ -49,8 +63,11 @@ D. 모든 반응을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 와인 양조 연금술 공식:
+
 1. 발효: 효모가 당분을 알코올로 바꾸는 기적 (Fermentation)
+
 2. 레드 vs 화이트: 껍질 포함 여부가 색과 타닌을 결정 (Extraction)
+
 3. 특징: 온도 조절과 숙성 용기가 와인의 최종 스타일을 완성
 
 [Tip]

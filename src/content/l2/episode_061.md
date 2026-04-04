@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 스페인의 '헤레스(Jerez)'에서 생산되는 셰리(Sherry) 와인 중, '플로르(Flor)'라는 효모 막 아래에서 숙성되어 아주 신선하고 아몬드와 허브 풍미를 지니는 가장 드라이한 스타일은 무엇인가요?**
+Q. 스페인의 '헤레스(Jerez)'에서 생산되는 셰리(Sherry) 와인 중, '플로르(Flor)'라는 효모 막 아래에서 숙성되어 아주 신선하고 아몬드와 허브 풍미를 지니는 가장 드라이한 스타일은 무엇인가요?
 
 A. 올로로소 (Oloroso)
 B. 피노 (Fino)
@@ -13,9 +13,15 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 피노 (Fino)**
+정답: B. 피노 (Fino)
 
-**해설**: **셰리(Sherry)**는 숙성 방식의 예술입니다. **Fino**는 효모 막인 **'Flor'**가 와인 표면을 덮어 공기 접촉을 차단함으로써 아주 신선한 아몬드, 허브, 사과 향을 유지합니다(Biological Aging). 반면, **Oloroso**는 알코올 도수를 높여 효모를 죽인 뒤 공기와 직접 접촉시키며 숙성하여 갈색빛과 호두, 토피 향을 얻습니다(Oxidative Aging). **Amontillado**는 두 방식을 모두 거친 매력적인 중간 스타일입니다.
+해설: 셰리(Sherry)는 숙성 방식의 예술입니다.
+
+Fino는 효모 막인 'Flor'가 와인 표면을 덮어 공기 접촉을 차단함으로써 아주 신선한 아몬드, 허브, 사과 향을 유지합니다(Biological Aging).
+
+반면, Oloroso는 알코올 도수를 높여 효모를 죽인 뒤 공기와 직접 접촉시키며 숙성하여 갈색빛과 호두, 토피 향을 얻습니다(Oxidative Aging).
+
+Amontillado는 두 방식을 모두 거친 매력적인 중간 스타일입니다.
 
 ---
 
@@ -23,18 +29,24 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 셰리 와인 숙성학의 핵심 요약입니다.
 
-1.  **Fino (Biological Aging)**: 15% 알코올. **Flor**의 보호 아래 숙성됩니다. (Pale color, Dry, Almond, Herbs).
-2.  **Oloroso (Oxidative Aging)**: 17% 이상의 알코올. 공기와의 접촉으로 산화 숙성됩니다. (Brown color, Dry, Walnut, Toffee, Dried fruit).
-3.  **Amontillado (Both)**: 피노처럼 시작했다가 나중에 산화 숙성을 추가합니다. (Amber color, Dry, Nutty & Yeast notes).
-4.  **Pedro Ximénez (PX)**: 햇볕에 말린 포도를 사용한 극강의 달콤함. (Black, Raisin, Prune, Sweet).
-5.  **Solera System**: 여러 해의 와인을 블렌딩하여 품질의 일관성을 유지하는 독창적인 시스템입니다.
+1.  Fino (Biological Aging): 15% 알코올. Flor의 보호 아래 숙성됩니다. (Pale color, Dry, Almond, Herbs).
+
+2.  Oloroso (Oxidative Aging): 17% 이상의 알코올. 공기와의 접촉으로 산화 숙성됩니다. (Brown color, Dry, Walnut, Toffee, Dried fruit).
+
+3.  Amontillado (Both): 피노처럼 시작했다가 나중에 산화 숙성을 추가합니다. (Amber color, Dry, Nutty & Yeast notes).
+
+4.  Pedro Ximénez (PX): 햇볕에 말린 포도를 사용한 극강의 달콤함. (Black, Raisin, Prune, Sweet).
+
+5.  Solera System: 여러 해의 와인을 블렌딩하여 품질의 일관성을 유지하는 독창적인 시스템입니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 셰리 와인은 아주 달콤하다"라고 오해하면 오답입니다. Fino, Oloroso, Amontillado는 모두 당도가 거의 없는 **'Dry'** 와인이며, 오직 PX 같은 특정 종류만 달콤함을 품고 있음을 명심하세요.
-**[팁]**: 시험에서 **'Biological aging/Flor'**는 피노를, **'Oxidative aging/Brown'**은 올로로소를 찾으세요.
+[함정]: "모든 셰리 와인은 아주 달콤하다"라고 오해하면 오답입니다.
+
+Fino, Oloroso, Amontillado는 모두 당도가 거의 없는 'Dry' 와인이며, 오직 PX 같은 특정 종류만 달콤함을 품고 있음을 명심하세요.
+[팁]: 시험에서 'Biological aging/Flor'는 피노를, 'Oxidative aging/Brown'은 올로로소를 찾으세요.
 
 ---
 
@@ -49,8 +61,11 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 셰리 연금술 공식:
+
 1. 피노: 효모 숙성 (Biological), 아몬드, 허브, 드라이
+
 2. 올로로소: 산화 숙성 (Oxidative), 호두, 토피, 갈색
+
 3. 솔레라: 세월을 섞어 품질을 완성하는 지혜
 
 [Tip]

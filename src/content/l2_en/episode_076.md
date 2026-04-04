@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the 'Côte de Beaune' region of Burgundy, France, which famous village production produces high-quality white wines with notes of apple, citrus, vanilla, and butter from oak aging?**
+Q. In the 'Côte de Beaune' region of Burgundy, France, which famous village production produces high-quality white wines with notes of apple, citrus, vanilla, and butter from oak aging?
 
 A. Pauillac AOC
-B. **Meursault AOC**
+B. Meursault AOC
 C. Chablis AOC
 D. Instantly changes any wine into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any wine into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Meursault AOC**
+Answer: B. Meursault AOC
 
-**Explanation**: **Burgundy** distinguishes quality based on 'Village AOC'. **Meursault** is a world-renowned destination for Chardonnay, famous for its full body and savory notes of butter and nuts. **Chablis** is a cooler northern region that emphasizes sharp acidity and mineral character, while **Pauillac** is not in Burgundy, but is a legendary red wine region on the Left Bank of Bordeaux.
+Explanation: Burgundy distinguishes quality based on 'Village AOC'.
+
+Meursault is a world-renowned destination for Chardonnay, famous for its full body and savory notes of butter and nuts.
+
+Chablis is a cooler northern region that emphasizes sharp acidity and mineral character, while Pauillac is not in Burgundy, but is a legendary red wine region on the Left Bank of Bordeaux.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any wine into a shot of salt water.
 
 A summary of Bordeaux and Burgundy (Review):
 
-1.  **Bordeaux (Left Bank)**: Pauillac, Margaux. (Cab Sav dominant, High tannin, Gravel soil).
-2.  **Bordeaux (Right Bank)**: Pomerol, Saint-Émilion. (Merlot dominant, Soft tannin, Clay soil).
-3.  **Burgundy (White)**: Meursault, Puligny-Montrachet. (Full-bodied, Complex Chardonnay).
-4.  **Burgundy (Red)**: Gevrey-Chambertin, Nuits-Saint-Georges. (Elegant Pinot Noir).
-5.  **Classification**: Grand Cru > Premier Cru > Village > Regional (The Burgundy Hierarchy).
+1.  Bordeaux (Left Bank): Pauillac, Margaux. (Cab Sav dominant, High tannin, Gravel soil).
+
+2.  Bordeaux (Right Bank): Pomerol, Saint-Émilion. (Merlot dominant, Soft tannin, Clay soil).
+
+3.  Burgundy (White): Meursault, Puligny-Montrachet. (Full-bodied, Complex Chardonnay).
+
+4.  Burgundy (Red): Gevrey-Chambertin, Nuits-Saint-Georges. (Elegant Pinot Noir).
+
+5.  Classification: Grand Cru > Premier Cru > Village > Regional (The Burgundy Hierarchy).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume Bordeaux wine is always made from 100% Cabernet Sauvignon. Bordeaux winemaking is based on **'Blending'** to mitigate climate risks.
-**[Tip]**: In the exam, link **'Gravel soil/Left bank'** with Cabernet Sauvignon and the Left Bank villages, and **'Clay/Right bank'** with Merlot and the Right Bank villages.
+[Trap]: Do not assume Bordeaux wine is always made from 100% Cabernet Sauvignon.
+
+Bordeaux winemaking is based on 'Blending' to mitigate climate risks.
+[Tip]: In the exam, link 'Gravel soil/Left bank' with Cabernet Sauvignon and the Left Bank villages, and 'Clay/Right bank' with Merlot and the Right Bank villages.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the duel for honor between the two pillars of French wine, Bordeaux 
 
 [Reason]
 Bordeaux & Burgundy Alchemy Formula:
+
 1. Bordeaux: Harmony of Left Bank (Cab Sav) and Right Bank (Merlot) via Blending.
+
 2. Burgundy: Precise hierarchy where the vineyard name defines quality (Hierarchy).
+
 3. Point: Meursault and Montrachet are the world's centers for premium white Chardonnay.
 
 [Tip]

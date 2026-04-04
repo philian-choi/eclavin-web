@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Among 'Sherry', the fortified wines of Spain, which style is fortified to about 15% abv and undergoes biological aging under a layer of yeast called 'Flor', resulting in flavors of fresh apple and almond?**
+Q. Among 'Sherry', the fortified wines of Spain, which style is fortified to about 15% abv and undergoes biological aging under a layer of yeast called 'Flor', resulting in flavors of fresh apple and almond?
 
 A. Oloroso
-B. **Fino**
+B. Fino
 C. Pedro Ximénez (PX)
 D. Instantly changes all bubbles into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes all bubbles into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Fino**
+Answer: B. Fino
 
-**Explanation**: **Fino** is the freshest style of Sherry. A layer of yeast called **'Flor'** protects the wine from contact with oxygen, preserving its bright color and aromas of almonds and herbs. In contrast, **Oloroso** is fortified to a higher level (17% or more) to prevent Flor growth, leading to oxidative aging that yields brown color and nutty flavors. **PX** is celebrated for its extreme sweetness.
+Explanation: Fino is the freshest style of Sherry.
+
+A layer of yeast called 'Flor' protects the wine from contact with oxygen, preserving its bright color and aromas of almonds and herbs.
+
+In contrast, Oloroso is fortified to a higher level (17% or more) to prevent Flor growth, leading to oxidative aging that yields brown color and nutty flavors.
+
+PX is celebrated for its extreme sweetness.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes all bubbles into a shot of salt water.
 
 A core summary of Sparkling and Fortified wines:
 
-1.  **Champagne / Cava**: **Traditional Method**. Second fermentation in the bottle, yeast autolysis (lees aging), and biscuit flavors.
-2.  **Prosecco / Asti**: **Tank Method**. Preserves fresh fruity aromas, efficient production.
-3.  **Sherry (Dry)**: Fortified after fermentation is complete. (Fino: Fresh vs. Oloroso: Oxidative).
-4.  **Port (Sweet)**: Fortified during fermentation. (Ruby: Fruity vs. Tawny: Nutty).
-5.  **Solera System**: The core aging system for Sherry, where wines from different years are blended to maintain consistent quality.
+1.  Champagne / Cava: Traditional Method. Second fermentation in the bottle, yeast autolysis (lees aging), and biscuit flavors.
+
+2.  Prosecco / Asti: Tank Method. Preserves fresh fruity aromas, efficient production.
+
+3.  Sherry (Dry): Fortified after fermentation is complete. (Fino: Fresh vs. Oloroso: Oxidative).
+
+4.  Port (Sweet): Fortified during fermentation. (Ruby: Fruity vs. Tawny: Nutty).
+
+5.  Solera System: The core aging system for Sherry, where wines from different years are blended to maintain consistent quality.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all fortified wines are always sweet. Dry fortified wines like Fino Sherry are highly significant in the category.
-**[Tip]**: In the exam, link **'Autolysis/Biscuit'** with the traditional method, and **'Oxidative/Nutty'** with Oloroso Sherry or Tawny Port.
+[Trap]: Do not assume all fortified wines are always sweet.
+
+Dry fortified wines like Fino Sherry are highly significant in the category.
+[Tip]: In the exam, link 'Autolysis/Biscuit' with the traditional method, and 'Oxidative/Nutty' with Oloroso Sherry or Tawny Port.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know the biscuit aromas of Champagne matured with yeast for years, or the
 
 [Reason]
 Bubbles and Fortified Alchemy Formula:
+
 1. Sparkling: The aroma duel between Champagne (Traditional) and Prosecco (Tank).
+
 2. Sherry: The freshness of Fino surviving under Flor (Biological aging).
+
 3. Port: Natural sweetness trapped by adding alcohol during fermentation (Fortified).
 
 [Tip]

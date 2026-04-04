@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In which region of 'South Australia' is the hot climate responsible for full-bodied Shiraz with flavors of blackberry jam and dark chocolate?**
+Q. In which region of 'South Australia' is the hot climate responsible for full-bodied Shiraz with flavors of blackberry jam and dark chocolate?
 
 A. Marlborough
-B. **Barossa Valley**
+B. Barossa Valley
 C. Napa Valley
 D. Instantly changes any wine into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any wine into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Barossa Valley**
+Answer: B. Barossa Valley
 
-**Explanation**: **Barossa Valley** is the second home of Australian Shiraz, loved worldwide for its grand body and intense flavors of blackberry jam and chocolate. **Marlborough** is the heart of New Zealand's Sauvignon Blanc, and **Napa Valley** is the premier destination for American Cabernet Sauvignon. All these are giants of the New World that challenged European traditions and redrew the wine map.
+Explanation: Barossa Valley is the second home of Australian Shiraz, loved worldwide for its grand body and intense flavors of blackberry jam and chocolate.
+
+Marlborough is the heart of New Zealand's Sauvignon Blanc, and Napa Valley is the premier destination for American Cabernet Sauvignon.
+
+All these are giants of the New World that challenged European traditions and redrew the wine map.
 
 ---
 
@@ -23,19 +27,26 @@ D. Instantly changes any wine into a shot of salt water.
 
 A summary of major New World regions (Review):
 
-1.  **USA (Napa Valley)**: Cabernet Sauvignon. (Full-bodied, active use of new oak).
-2.  **Australia (Barossa)**: Shiraz. (Black fruit, Chocolate, Vanilla). Grand aura.
-3.  **New Zealand (Marlborough)**: Sauvignon Blanc. (High acid, Gooseberry, Passion fruit).
-4.  **South Africa (Stellenbosch)**: Cabernet/Merlot/Pinotage. (Unique smoky edge).
-5.  **Chile (Central Valley)**: Cabernet/Carmenere. (Balanced ripe fruit and herbs).
-6.  **Argentina (Mendoza)**: Malbec. (Deep color, soft tannins, blackberry).
+1.  USA (Napa Valley): Cabernet Sauvignon. (Full-bodied, active use of new oak).
+
+2.  Australia (Barossa): Shiraz. (Black fruit, Chocolate, Vanilla). Grand aura.
+
+3.  New Zealand (Marlborough): Sauvignon Blanc. (High acid, Gooseberry, Passion fruit).
+
+4.  South Africa (Stellenbosch): Cabernet/Merlot/Pinotage. (Unique smoky edge).
+
+5.  Chile (Central Valley): Cabernet/Carmenere. (Balanced ripe fruit and herbs).
+
+6.  Argentina (Mendoza): Malbec. (Deep color, soft tannins, blackberry).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that New World wine is only produced in hot climates. Keep in mind that some of the world's best Pinot Noir is produced in cool climates like Oregon or Central Otago.
-**[Tip]**: In the exam, link **'Full-bodied Shiraz/Black fruit jam'** with Barossa, and **'High acid/Pungent fruit'** with New Zealand's Marlborough.
+[Trap]: Do not assume that New World wine is only produced in hot climates.
+
+Keep in mind that some of the world's best Pinot Noir is produced in cool climates like Oregon or Central Otago.
+[Tip]: In the exam, link 'Full-bodied Shiraz/Black fruit jam' with Barossa, and 'High acid/Pungent fruit' with New Zealand's Marlborough.
 
 ---
 
@@ -50,8 +61,11 @@ Do you know the rebellion of the New World that redrew the global wine map? From
 
 [Reason]
 New World Passion Alchemy Formula:
+
 1. Australia: The fame of Barossa Shiraz and Coonawarra Cabernet Sauvignon.
+
 2. USA: The depth of Napa Valley Cabernet and Oregon Pinot Noir.
+
 3. New Zealand: The purity of Marlborough Sauvignon Blanc and Central Otago Pinot Noir.
 
 [Tip]

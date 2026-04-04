@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. After successfully completing the WSET Level 2 course, what is the most important attitude for a wine professional to maintain?**
+Q. After successfully completing the WSET Level 2 course, what is the most important attitude for a wine professional to maintain?
 
 A. To drink a whole bottle of wine every day and ignore all objective values.
-B. **To evaluate wine objectively using the WSET SAT system and continue learning beyond fame or brand names.**
+B. To evaluate wine objectively using the WSET SAT system and continue learning beyond fame or brand names.
 C. To stop drinking wine entirely and follow a closed attitude of theory only.
 D. To mix sugar or ice into every wine to maximize consumer accessibility at all costs.
 
@@ -13,9 +13,17 @@ D. To mix sugar or ice into every wine to maximize consumer accessibility at all
 
 ## [Answer & Explanation]
 
-**Answer: B. To evaluate wine objectively using the WSET SAT system and continue learning beyond fame or brand names.**
+Answer: B. To evaluate wine objectively using the WSET SAT system and continue learning beyond fame or brand names.
 
-**Explanation**: **WSET Level 2** is the foundation of your global wine map. Passing is not the end, but a grand beginning. As a professional, we must be able to explain the climate, soil, and winemaker's philosophy behind the label using **Objective Language (SAT)**. You now possess a 'global language of wine' that allows you to communicate anywhere in the world. The path toward Level 3 will be even deeper and more richly flavored.
+Explanation: WSET Level 2 is the foundation of your global wine map.
+
+Passing is not the end, but a grand beginning.
+
+As a professional, we must be able to explain the climate, soil, and winemaker's philosophy behind the label using Objective Language (SAT).
+
+You now possess a 'global language of wine' that allows you to communicate anywhere in the world.
+
+The path toward Level 3 will be even deeper and more richly flavored.
 
 ---
 
@@ -23,16 +31,26 @@ D. To mix sugar or ice into every wine to maximize consumer accessibility at all
 
 These are the three treasures you have gained through these 50 episodes:
 
-1.  **Global Map**: From the Loire Valley in France to Marlborough in New Zealand, you can now connect regions with their signature varieties and geography.
-2.  **Structural Integrity**: You understand how acidity, tannin, alcohol, and sugar interact to determine the quality (**BLIC**) of a wine.
-3.  **Confidence of Choice**: Whether facing a restaurant wine list or a specialty shop shelf, you can now make choices based on logic and personal conviction.
+1.  Global Map: From the Loire Valley in France to Marlborough in New Zealand, you can now connect regions with their signature varieties and geography.
+
+2.  Structural Integrity: You understand how acidity, tannin, alcohol, and sugar interact to determine the quality (BLIC) of a wine.
+
+3.  Confidence of Choice: Whether facing a restaurant wine list or a specialty shop shelf, you can now make choices based on logic and personal conviction.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think that completing 50 episodes means you don't need a final review. Before the exam, scan a **'Signature Variety vs. Region Comparison Table.'**
-**[Tip]**: Congratulations! You are ready. Walk into that exam room with confidence and claim your place as a master of the wine world!
+[Trap]: Do not think that completing 50 episodes means you don't need a final review.
+
+Before the exam, scan a 'Signature Variety vs.
+
+Region Comparison Table.'
+[Tip]: Congratulations!
+
+You are ready.
+
+Walk into that exam room with confidence and claim your place as a master of the wine world!
 
 ---
 
@@ -49,8 +67,11 @@ You are now a 'Professional' who can read the world through the language of wine
 
 [Reason]
 Eclavin L2 Mastery Achievements:
+
 1. Logic: Mastered the causal chain of Region-Climate-Winemaking.
+
 2. Assessment: Acquired the standardized SAT global language.
+
 3. Milestone: You are now a certified enthusiast and a messenger of wine.
 
 [Tip]

@@ -2,9 +2,9 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the key characteristic of Cabernet Sauvignon produced on the 'Left Bank' of Bordeaux, France (Médoc and Graves), formed by its thick skins and specific gravelly soil?**
+Q. What is the key characteristic of Cabernet Sauvignon produced on the 'Left Bank' of Bordeaux, France (Médoc and Graves), formed by its thick skins and specific gravelly soil?
 
-A. **High tannins with signature notes of blackcurrant, mint, and cedar**
+A. High tannins with signature notes of blackcurrant, mint, and cedar
 B. Strawberry and red cherry with rose petal aromas
 C. Low acidity with very soft plum flavors
 D. Instantly changes all majestic reds into a shot of salt water.
@@ -13,9 +13,15 @@ D. Instantly changes all majestic reds into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: A. High tannins with signature notes of blackcurrant, mint, and cedar**
+Answer: A. High tannins with signature notes of blackcurrant, mint, and cedar
 
-**Explanation**: **Cabernet Sauvignon** is the 'King of Red Wines'. Its thick skin yields high tannins and acidity, with signature notes of blackcurrant and cedar. In contrast, **Syrah / Shiraz** shows an intense presence with black pepper and blackberry flavors in regions like the **Northern Rhône**. Both are 'power-house' varieties, boasting firm structures and full bodies.
+Explanation: Cabernet Sauvignon is the 'King of Red Wines'.
+
+Its thick skin yields high tannins and acidity, with signature notes of blackcurrant and cedar.
+
+In contrast, Syrah / Shiraz shows an intense presence with black pepper and blackberry flavors in regions like the Northern Rhône.
+
+Both are 'power-house' varieties, boasting firm structures and full bodies.
 
 ---
 
@@ -23,18 +29,22 @@ D. Instantly changes all majestic reds into a shot of salt water.
 
 A deep-dive summary into the two intense red wine varieties:
 
-1.  **Cabernet Sauvignon (Moderate/Warm)**: Thick skin, high tannins, high acidity. (Blackcurrant, Mint, Bell pepper). Develops vanilla and cedar aromas as it ages in oak.
-2.  **Syrah / Shiraz (Moderate/Warm)**: High tannins, high acidity. (Blackberry, Black pepper, Meat). Chocolate and licorice flavors dominate in very hot regions like Australia's Barossa.
-3.  **Classic Regions**:
-    *   **Cabernet Sauvignon**: Left Bank Bordeaux (Médoc, Pauillac, Margaux), Napa Valley, Coonawarra, Margaret River.
-    *   **Syrah / Shiraz**: Northern Rhône (Hermitage, Côte-Rôtie), Barossa Valley, Hunter Valley.
+1.  Cabernet Sauvignon (Moderate/Warm): Thick skin, high tannins, high acidity. (Blackcurrant, Mint, Bell pepper). Develops vanilla and cedar aromas as it ages in oak.
+
+2.  Syrah / Shiraz (Moderate/Warm): High tannins, high acidity. (Blackberry, Black pepper, Meat). Chocolate and licorice flavors dominate in very hot regions like Australia's Barossa.
+
+3.  Classic Regions:
+    *   Cabernet Sauvignon: Left Bank Bordeaux (Médoc, Pauillac, Margaux), Napa Valley, Coonawarra, Margaret River.
+    *   Syrah / Shiraz: Northern Rhône (Hermitage, Côte-Rôtie), Barossa Valley, Hunter Valley.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume Cabernet Sauvignon must always be produced as a single-varietal wine. It is very common to blend it with Merlot or Cabernet Franc, as seen in Bordeaux, to achieve optimal balance.
-**[Tip]**: In the exam, link **'Black pepper'** or **'Hunter Valley'** immediately with **'Syrah/Shiraz'**.
+[Trap]: Do not assume Cabernet Sauvignon must always be produced as a single-varietal wine.
+
+It is very common to blend it with Merlot or Cabernet Franc, as seen in Bordeaux, to achieve optimal balance.
+[Tip]: In the exam, link 'Black pepper' or 'Hunter Valley' immediately with 'Syrah/Shiraz'.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the deep dive into the two masters that determine the landscape of r
 
 [Reason]
 Red Variety Deep Dive Formula:
+
 1. Cabernet Sauvignon: Nobility of high tannins and the essence of blackcurrant (Cabernet Sauvignon).
+
 2. Syrah/Shiraz: Spicy allure and the power of black fruit (Syrah/Shiraz).
+
 3. Point: The gravel of the Left Bank vs. the granite of the Northern Rhône is the textbook of power.
 
 [Tip]

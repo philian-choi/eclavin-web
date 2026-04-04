@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 호주(Australia)의 '남호주(South Australia)' 지역 중 하나로, 아주 뜨거운 기후 덕분에 묵직한 바디(Full-body), 블랙베리 잼, 그리고 다크 초콜릿 풍미를 뽐내는 쉬라즈(Shiraz)의 성지는 어디인가요?**
+Q. 호주(Australia)의 '남호주(South Australia)' 지역 중 하나로, 아주 뜨거운 기후 덕분에 묵직한 바디(Full-body), 블랙베리 잼, 그리고 다크 초콜릿 풍미를 뽐내는 쉬라즈(Shiraz)의 성지는 어디인가요?
 
 A. 말보로 (Marlborough)
 B. 바로사 밸리 (Barossa Valley)
@@ -13,9 +13,13 @@ D. 모든 와인을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 바로사 밸리 (Barossa Valley)**
+정답: B. 바로사 밸리 (Barossa Valley)
 
-**해설**: **바로사 밸리(Barossa Valley)**는 호주 쉬라즈의 제2의 고향이자 웅장한 바디감과 블랙베리 잼, 초콜릿 풍미로 전 세계의 사랑을 받는 산지입니다. **말보로(Marlborough)**는 뉴질랜드의 소비뇽 블랑 성지이며, **나파 밸리(Napa Valley)**는 미국의 프리미엄 카베르네 소비뇽 명소입니다. 이들 모두 유럽의 전통에 도전하며 와인 지도를 새로 쓴 뉴월드의 거인들입니다.
+해설: 바로사 밸리(Barossa Valley)는 호주 쉬라즈의 제2의 고향이자 웅장한 바디감과 블랙베리 잼, 초콜릿 풍미로 전 세계의 사랑을 받는 산지입니다.
+
+말보로(Marlborough)는 뉴질랜드의 소비뇽 블랑 성지이며, 나파 밸리(Napa Valley)는 미국의 프리미엄 카베르네 소비뇽 명소입니다.
+
+이들 모두 유럽의 전통에 도전하며 와인 지도를 새로 쓴 뉴월드의 거인들입니다.
 
 ---
 
@@ -23,19 +27,26 @@ D. 모든 와인을 한순간에 소금물로 바꾼다.
 
 신세계(New World) 주요 산지 핵심 요약(Review)입니다.
 
-1.  **USA (Napa Valley)**: Cabernet Sauvignon. (Full-bodied, 적극적인 새 오크 사용).
-2.  **Australia (Barossa)**: Shiraz. (Black fruit, Chocolate, Vanilla). 웅장한 아우라.
-3.  **New Zealand (Marlborough)**: Sauvignon Blanc. (High acid, Gooseberry, Passion fruit).
-4.  **South Africa (Stellenbosch)**: Cabernet/Merlot/Pinotage. (독특한 스모키한 터치).
-5.  **Chile (Central Valley)**: Cabernet/Carmenere. (잘 익은 과실과 허브의 조화).
-6.  **Argentina (Mendoza)**: Malbec. (짙은 색, 부드러운 타닌, 블랙베리).
+1.  USA (Napa Valley): Cabernet Sauvignon. (Full-bodied, 적극적인 새 오크 사용).
+
+2.  Australia (Barossa): Shiraz. (Black fruit, Chocolate, Vanilla). 웅장한 아우라.
+
+3.  New Zealand (Marlborough): Sauvignon Blanc. (High acid, Gooseberry, Passion fruit).
+
+4.  South Africa (Stellenbosch): Cabernet/Merlot/Pinotage. (독특한 스모키한 터치).
+
+5.  Chile (Central Valley): Cabernet/Carmenere. (잘 익은 과실과 허브의 조화).
+
+6.  Argentina (Mendoza): Malbec. (짙은 색, 부드러운 타닌, 블랙베리).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "뉴월드 와인은 오직 더운 기후에서만 생산된다"라고 하면 오답입니다. 오리건이나 중앙 오타고처럼 서늘한 기후에서 세계 최고의 피노 누아가 생산됨을 명심하세요.
-**[팁]**: 시험에서 **'Full-bodied Shiraz/Black fruit jam'**은 바로사를, **'High acid/Pungent fruit'**는 뉴질랜드 말보로를 연결하세요.
+[함정]: "뉴월드 와인은 오직 더운 기후에서만 생산된다"라고 하면 오답입니다.
+
+오리건이나 중앙 오타고처럼 서늘한 기후에서 세계 최고의 피노 누아가 생산됨을 명심하세요.
+[팁]: 시험에서 'Full-bodied Shiraz/Black fruit jam'은 바로사를, 'High acid/Pungent fruit'는 뉴질랜드 말보로를 연결하세요.
 
 ---
 
@@ -50,8 +61,11 @@ D. 모든 와인을 한순간에 소금물로 바꾼다.
 
 [Reason]
 뉴월드 열정 연금술 공식:
+
 1. 호주: 바로사 쉬라즈와 쿠나와라 카베르네 소비뇽의 명성
+
 2. 미국: 나파 밸리 카베르네와 오리건 피노 누아의 깊이
+
 3. 뉴질랜드: 말보로 소비뇽 블랑과 센트럴 오타고 피노 누아의 순수
 
 [Tip]

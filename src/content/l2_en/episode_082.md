@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Among the five primary factors essential for a healthy grapevine, what is the name of the process that uses sunlight and carbon dioxide to form 'Sugar'?**
+Q. Among the five primary factors essential for a healthy grapevine, what is the name of the process that uses sunlight and carbon dioxide to form 'Sugar'?
 
 A. Alcoholic Fermentation
-B. **Photosynthesis**
+B. Photosynthesis
 C. Oxidation
 D. Instantly changes any process into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any process into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Photosynthesis**
+Answer: B. Photosynthesis
 
-**Explanation**: **Photosynthesis** is the alchemy of life, whereby grapevines use sunlight as energy to produce sugar. **Alcoholic Fermentation** is the process where yeast converts the sugar in harvested grape juice into alcohol, and **Oxidation** is the phenomenon of wine changing through contact with air. A grapevine achieves its best results when five essential elements—warmth, sunlight, water, nutrients, and carbon dioxide—are in balance.
+Explanation: Photosynthesis is the alchemy of life, whereby grapevines use sunlight as energy to produce sugar.
+
+Alcoholic Fermentation is the process where yeast converts the sugar in harvested grape juice into alcohol, and Oxidation is the phenomenon of wine changing through contact with air.
+
+A grapevine achieves its best results when five essential elements—warmth, sunlight, water, nutrients, and carbon dioxide—are in balance.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any process into a shot of salt water.
 
 A summary of core principles in viticulture and vinification:
 
-1.  **Viticultural Essentials**: Heat, sunlight, water, nutrients, and CO2.
-2.  **Alcoholic Fermentation**: Sugar + Yeast → Alcohol + CO2 + Heat.
-3.  **Red Winemaking (Key)**: **Fermenting with skins** to extract color and tannins (**Extraction**) is fundamental.
-4.  **White Winemaking (Key)**: Grapes are typically **pressed before fermentation** to extract juice without skins.
-5.  **MLF (Malolactic Fermentation)**: Converts harsh malic acid into soft lactic acid, adding buttery notes.
+1.  Viticultural Essentials: Heat, sunlight, water, nutrients, and CO2.
+
+2.  Alcoholic Fermentation: Sugar + Yeast → Alcohol + CO2 + Heat.
+
+3.  Red Winemaking (Key): Fermenting with skins to extract color and tannins (Extraction) is fundamental.
+
+4.  White Winemaking (Key): Grapes are typically pressed before fermentation to extract juice without skins.
+
+5.  MLF (Malolactic Fermentation): Converts harsh malic acid into soft lactic acid, adding buttery notes.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume white wine cannot be made from red grapes. If the skins are removed immediately after crushing, white wine (Blanc de Noirs) can indeed be produced from red varieties.
-**[Tip]**: In the exam, link **'Extraction of color and tannin'** to the specific steps of red wine production.
+[Trap]: Do not assume white wine cannot be made from red grapes.
+
+If the skins are removed immediately after crushing, white wine (Blanc de Noirs) can indeed be produced from red varieties.
+[Tip]: In the exam, link 'Extraction of color and tannin' to the specific steps of red wine production.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the 'miracle of alchemy' breathing inside your wine glass? That flee
 
 [Reason]
 Wine Alchemy Formula:
+
 1. Photosynthesis: Nature's beginning, converting sunlight into sugar.
+
 2. Fermentation: Yeast activity converting sugar into alcohol and heat.
+
 3. Extraction: Skin contact determining the color and tannins of red wine.
 
 [Tip]

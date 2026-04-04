@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 이탈리아 투스카니(Tuscany)의 '키안티 클라시코(Chianti Classico)' 지역에서 주로 재배되며, 높은 산도와 타닌, 그리고 붉은 체리와 말린 허브(Dried herbs) 풍미를 특징으로 하는 대표 품종은 무엇인가요?**
+Q. 이탈리아 투스카니(Tuscany)의 '키안티 클라시코(Chianti Classico)' 지역에서 주로 재배되며, 높은 산도와 타닌, 그리고 붉은 체리와 말린 허브(Dried herbs) 풍미를 특징으로 하는 대표 품종은 무엇인가요?
 
 A. 피에몬테의 네비올로 (Nebbiolo)
 B. 토스카나의 산지오베제 (Sangiovese)
@@ -13,9 +13,13 @@ D. 모든 와인을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 토스카나의 산지오베제 (Sangiovese)**
+정답: B. 토스카나의 산지오베제 (Sangiovese)
 
-**해설**: **산지오베제(Sangiovese)**는 토스카나의 심장이자 높은 산도와 타닌, 붉은 체리 향이 일품인 품종입니다. **네비올로(Nebbiolo)**는 피에몬테에서 높은 산도/타닌과 함께 장미, 타르 향을 뽐내며, **템프라니요(Tempranillo)**는 스페인 리오하에서 부드러운 타닌과 바닐라 풍미를 선사합니다. 이들 모두 유럽 레드의 자존심이자 엄격한 등급 체계로 보호받는 품질의 보증수표입니다.
+해설: 산지오베제(Sangiovese)는 토스카나의 심장이자 높은 산도와 타닌, 붉은 체리 향이 일품인 품종입니다.
+
+네비올로(Nebbiolo)는 피에몬테에서 높은 산도/타닌과 함께 장미, 타르 향을 뽐내며, 템프라니요(Tempranillo)는 스페인 리오하에서 부드러운 타닌과 바닐라 풍미를 선사합니다.
+
+이들 모두 유럽 레드의 자존심이자 엄격한 등급 체계로 보호받는 품질의 보증수표입니다.
 
 ---
 
@@ -23,18 +27,22 @@ D. 모든 와인을 한순간에 소금물로 바꾼다.
 
 이탈리아, 스페인, 독일 핵심 요약(Review)입니다.
 
-1.  **Italy (Tuscany)**: Sangiovese. (Chianti, Brunello). 높은 산도/타닌, 체리, 허브.
-2.  **Italy (Piedmont)**: Nebbiolo. (Barolo, Barbaresco). 높은 산도/타닌, 장미, 타르.
-3.  **Spain (Rioja)**: Tempranillo. (딸기 풍미, 오크 숙성에 따른 바닐라, 코코넛).
-4.  **Germany (Prädikat)**: Kabinett, Spätlese, Auslese. (수확 시 당분 함량에 따른 위계).
-5.  **Quality Terms**: DOCG/DOC(Italy), DOCa/DO(Spain). 국가가 생산 방식과 산지를 엄격히 보증합니다.
+1.  Italy (Tuscany): Sangiovese. (Chianti, Brunello). 높은 산도/타닌, 체리, 허브.
+
+2.  Italy (Piedmont): Nebbiolo. (Barolo, Barbaresco). 높은 산도/타닌, 장미, 타르.
+
+3.  Spain (Rioja): Tempranillo. (딸기 풍미, 오크 숙성에 따른 바닐라, 코코넛).
+
+4.  Germany (Prädikat): Kabinett, Spätlese, Auslese. (수확 시 당분 함량에 따른 위계).
+
+5.  Quality Terms: DOCG/DOC(Italy), DOCa/DO(Spain). 국가가 생산 방식과 산지를 엄격히 보증합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "DOCG는 항상 IGT보다 더 비싸고 맛있다"라고 하면 규정상 상급이지만, 사시카이아 같은 고가의 IGT 명작도 있음을 명심하세요. (L2 시험에서는 DOCG가 더 엄격한 규정을 따름에 집중하세요).
-**[팁]**: 시험에서 **'High Acid/Tannin/Dried herbs'**는 산지오베제를, **'Vanilla/Strawberry'**는 리오하의 템프라니요를 연결하세요.
+[함정]: "DOCG는 항상 IGT보다 더 비싸고 맛있다"라고 하면 규정상 상급이지만, 사시카이아 같은 고가의 IGT 명작도 있음을 명심하세요. (L2 시험에서는 DOCG가 더 엄격한 규정을 따름에 집중하세요).
+[팁]: 시험에서 'High Acid/Tannin/Dried herbs'는 산지오베제를, 'Vanilla/Strawberry'는 리오하의 템프라니요를 연결하세요.
 
 ---
 
@@ -49,8 +57,11 @@ D. 모든 와인을 한순간에 소금물로 바꾼다.
 
 [Reason]
 유럽 품질 연금술 공식:
+
 1. 이탈리아: 키안티(산지오베제)와 바롤로(네비올로)의 높은 산미 매직
+
 2. 스페인: 숙성 기간을 존중하는 DOCa와 템프라니요 (Reserva)
+
 3. 독일: 수확 때의 당도로 품질을 결정하는 프레디카츠의 순수성
 
 [Tip]

@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Among spirits, what is the type of drink made from barley or grains, aged for at least several years in oak casks to develop an amber color and flavors of vanilla and smoke?**
+Q. Among spirits, what is the type of drink made from barley or grains, aged for at least several years in oak casks to develop an amber color and flavors of vanilla and smoke?
 
 A. French Cognac
-B. **Whisky / Whiskey**
+B. Whisky / Whiskey
 C. Fresh Mexican Tequila Silver
 D. Instantly changes any spirit into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes any spirit into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Whisky / Whiskey**
+Answer: B. Whisky / Whiskey
 
-**Explanation**: **Whisky** is the art of time. It begins with grains and dons the alluring attire of oak aging. **Cognac** is the peak of brandy made from grapes, and **Tequila** is crafted from agave with mysterious flavors. Winemaking/distillation methods (Pot vs Column) and aging are the key keys that determine their souls, and vanilla and smoky scents are the results of oak maturation.
+Explanation: Whisky is the art of time.
+
+It begins with grains and dons the alluring attire of oak aging.
+
+Cognac is the peak of brandy made from grapes, and Tequila is crafted from agave with mysterious flavors.
+
+Winemaking/distillation methods (Pot vs Column) and aging are the key keys that determine their souls, and vanilla and smoky scents are the results of oak maturation.
 
 ---
 
@@ -23,19 +29,26 @@ D. Instantly changes any spirit into a shot of salt water.
 
 A summary of the core system of spirits:
 
-1.  **Whisky**: Grain-based, oak-aged. (Single Malt vs Blended). Iconic in Scotland and the USA (Bourbon).
-2.  **Brandy**: Fruit (Grape) based, oak-aged. (Cognac, Armagnac). Characterized by fruity brilliance.
-3.  **Vodka**: Neutral spirit. High purity, clear, mostly unaged.
-4.  **Gin**: Flavored spirit. Defined by **juniper berries** and other botanicals.
-5.  **Tequila**: Blue Agave-based. (Hierarchy: Blanco, Reposado, Añejo).
-6.  **Rum**: Sugar cane-based. (White, Gold, Spiced, Dark).
+1.  Whisky: Grain-based, oak-aged. (Single Malt vs Blended). Iconic in Scotland and the USA (Bourbon).
+
+2.  Brandy: Fruit (Grape) based, oak-aged. (Cognac, Armagnac). Characterized by fruity brilliance.
+
+3.  Vodka: Neutral spirit. High purity, clear, mostly unaged.
+
+4.  Gin: Flavored spirit. Defined by juniper berries and other botanicals.
+
+5.  Tequila: Blue Agave-based. (Hierarchy: Blanco, Reposado, Añejo).
+
+6.  Rum: Sugar cane-based. (White, Gold, Spiced, Dark).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Vodka is made only from potatoes. It can be produced from any agricultural product, such as grains (wheat, barley, rye) or corn.
-**[Tip]**: In the exam, link **'Juniper berry'** with Gin, and **'Pot still'** with traditional methods for Cognac or Malt Whisky.
+[Trap]: Do not assume all Vodka is made only from potatoes.
+
+It can be produced from any agricultural product, such as grains (wheat, barley, rye) or corn.
+[Tip]: In the exam, link 'Juniper berry' with Gin, and 'Pot still' with traditional methods for Cognac or Malt Whisky.
 
 ---
 
@@ -50,8 +63,11 @@ Do you know the 'wisdom of decades' sleeping inside a whisky barrel? From the sm
 
 [Reason]
 Spirits Passion Alchemy Formula:
+
 1. Whisky: The meeting of barley and time (Grain & Time).
+
 2. Gin: The transparent art that traps forest scents (Botanicals).
+
 3. Tequila: The Mexican soul crafted from agave and distillation (Agave).
 
 [Tip]

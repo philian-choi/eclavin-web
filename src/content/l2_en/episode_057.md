@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the quality hierarchy of Spanish wines, which classification corresponds to the highest level of prestige, and currently only includes producers from 'Rioja' and 'Priorat'?**
+Q. In the quality hierarchy of Spanish wines, which classification corresponds to the highest level of prestige, and currently only includes producers from 'Rioja' and 'Priorat'?
 
 A. Denominación de Origen (DO)
-B. Denominación de Origen Calificada (**DOCa** / DOQ)
+B. Denominación de Origen Calificada (DOCa / DOQ)
 C. Vino de la Tierra (VT)
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,13 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Denominación de Origen Calificada (DOCa / DOQ)**
+Answer: B. Denominación de Origen Calificada (DOCa / DOQ)
 
-**Explanation**: **Spain** is a land that deeply respects quality and 'time'. Only regions that consistently maintain the highest standards within the 'DO' status for at least 10 years can be promoted to **DOCa** (the Catalan equivalent is DOQ, used in Priorat). The colorful hologram stickers on the back of Spanish wine labels prove that the wine strictly adheres to legally defined minimum aging periods (e.g., Crianza, Reserva).
+Explanation: Spain is a land that deeply respects quality and 'time'.
+
+Only regions that consistently maintain the highest standards within the 'DO' status for at least 10 years can be promoted to DOCa (the Catalan equivalent is DOQ, used in Priorat).
+
+The colorful hologram stickers on the back of Spanish wine labels prove that the wine strictly adheres to legally defined minimum aging periods (e.g., Crianza, Reserva).
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of the Spanish quality pyramid:
 
-1.  **Vino (Table Wine)**: The entry-level status, typically without a specific geographical designation.
-2.  **VT (Vino de la Tierra)**: A broad regional classification (equivalent to IGP). Producers often choose this for more flexibility with grapes and styles.
-3.  **DO (Denominación de Origen)**: A quality status that strictly controls origin, grape varieties, and production yields.
-4.  **DOCa (Calificada)**: The highest honor in Spanish wine. Only **Rioja** and **Priorat** currently hold this prestigious status.
-5.  **Aging Designations**: **Crianza**, **Reserva**, and **Gran Reserva** indicate progressively longer aging in both oak and bottle.
+1.  Vino (Table Wine): The entry-level status, typically without a specific geographical designation.
+
+2.  VT (Vino de la Tierra): A broad regional classification (equivalent to IGP). Producers often choose this for more flexibility with grapes and styles.
+
+3.  DO (Denominación de Origen): A quality status that strictly controls origin, grape varieties, and production yields.
+
+4.  DOCa (Calificada): The highest honor in Spanish wine. Only Rioja and Priorat currently hold this prestigious status.
+
+5.  Aging Designations: Crianza, Reserva, and Gran Reserva indicate progressively longer aging in both oak and bottle.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think that 'Reserva' is a term used only for white wines. In fact, it is most widely celebrated for long-lived reds (mostly Tempranillo-based) that undergo significant maturation.
-**[Tip]**: In the exam, if you see **'Highest quality level/Rioja and Priorat only'** combined with **'DOCa'**, think of the hierarchical peak of Spanish winemaking.
+[Trap]: Do not think that 'Reserva' is a term used only for white wines.
+
+In fact, it is most widely celebrated for long-lived reds (mostly Tempranillo-based) that undergo significant maturation.
+[Tip]: In the exam, if you see 'Highest quality level/Rioja and Priorat only' combined with 'DOCa', think of the hierarchical peak of Spanish winemaking.
 
 ---
 
@@ -49,8 +59,11 @@ In the world of Spanish wine, the ultimate honor is 'DOCa'. These four letters a
 
 [Reason]
 Spanish Hierarchy Formula:
+
 1. DOCa: The highest quality vault (Rioja, Priorat).
+
 2. DO: Strictly controlled quality origins.
+
 3. Aging: The art of maturation through Joven, Crianza, Reserva, and Gran Reserva.
 
 [Tip]

@@ -37,7 +37,7 @@ export const translations = {
     expert: '핵심 이론 마스터',
     tip: '시험 함정 & 합격 팁',
     promo_sub: '더 많은 기출문제와 모의고사는?',
-    promo_main: 'Eclavin 앱 스토어 다운로드',
+    promo_main: '에클라뱅 앱 스토어 다운로드',
     prev: '이전',
     next: '다음',
     swipeHint: '← 스와이프하여 이동 →',

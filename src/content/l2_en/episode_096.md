@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the wine classification system of Burgundy, France, what is the highest-level appellation that uses specific vineyard names and accounts for only about 1% of the total production?**
+Q. In the wine classification system of Burgundy, France, what is the highest-level appellation that uses specific vineyard names and accounts for only about 1% of the total production?
 
 A. Village AOC
-B. **Grand Cru AOC**
+B. Grand Cru AOC
 C. Regional / Bourgogne AOC
 D. Instantly changes all hierarchies into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes all hierarchies into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Grand Cru AOC**
+Answer: B. Grand Cru AOC
 
-**Explanation**: **Grand Cru** is the crown of quality. In Burgundy, the terroir of the vineyard is the core of the grading system. **Grand Cru** is at the peak, followed by **Premier Cru (1er Cru)**, then **Village** (using the name of a specific village), and finally **Regional** (broadly covering a large area). Understanding this pyramid structure is the first step in assessing a wine's value.
+Explanation: Grand Cru is the crown of quality.
+
+In Burgundy, the terroir of the vineyard is the core of the grading system.
+
+Grand Cru is at the peak, followed by Premier Cru (1er Cru), then Village (using the name of a specific village), and finally Regional (broadly covering a large area).
+
+Understanding this pyramid structure is the first step in assessing a wine's value.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes all hierarchies into a shot of salt water.
 
 A summary of the essence of global quality hierarchies:
 
-1.  **France (Burgundy)**: Grand Cru > 1er Cru > Village > Regional.
-2.  **Italy**: **DOCG** > DOC > IGT. (The 'G' stands for Guaranteed, certified by the government).
-3.  **Spain**: **DOCa** > DO > Vino de la Tierra. (Rioja and Priorat are the benchmarks).
-4.  **Germany (Prädikat)**: Hierarchy based on sugar content at harvest. (Kabinett -> Spätlese -> Auslese -> TBA).
-5.  **EU Standard**: **PDO** (Highest geographical indication) vs. **PGI** (Broad regional indication).
+1.  France (Burgundy): Grand Cru > 1er Cru > Village > Regional.
+
+2.  Italy: DOCG > DOC > IGT. (The 'G' stands for Guaranteed, certified by the government).
+
+3.  Spain: DOCa > DO > Vino de la Tierra. (Rioja and Priorat are the benchmarks).
+
+4.  Germany (Prädikat): Hierarchy based on sugar content at harvest. (Kabinett -> Spätlese -> Auslese -> TBA).
+
+5.  EU Standard: PDO (Highest geographical indication) vs. PGI (Broad regional indication).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume Italian DOCG wines are always superior in quality to IGT wines. A grade represents compliance with production regulations, while actual quality and price can change based on the producer's skill and market logic.
-**[Tip]**: In the exam, if the term **'Specific Vineyard'** appears, immediately link it with Burgundy's **'Grand Cru'**.
+[Trap]: Do not assume Italian DOCG wines are always superior in quality to IGT wines.
+
+A grade represents compliance with production regulations, while actual quality and price can change based on the producer's skill and market logic.
+[Tip]: In the exam, if the term 'Specific Vineyard' appears, immediately link it with Burgundy's 'Grand Cru'.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know the magic of hierarchies at the peak of the global wine world? From 
 
 [Reason]
 Hierarchy Alchemy Formula:
+
 1. Burgundy: The vineyard name is a guarantee of quality (Grand Cru).
+
 2. Italy: The government audits quality directly for DOCG (Guaranteed).
+
 3. Spain: The value of traditional aging and regional pride (DOCa).
 
 [Tip]

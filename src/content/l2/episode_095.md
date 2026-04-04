@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 보르도(Bordeaux)의 '좌안(Left Bank)'인 '메독(Médoc)'과 '그라브(Graves)' 지역에서 주로 생산되는 카베르네 소비뇽(Cabernet Sauvignon) 와인의 가장 큰 특징으로, 높은 타닌과 함께 나타나는 시그니처 풍미는 무엇인가요?**
+Q. 프랑스 보르도(Bordeaux)의 '좌안(Left Bank)'인 '메독(Médoc)'과 '그라브(Graves)' 지역에서 주로 생산되는 카베르네 소비뇽(Cabernet Sauvignon) 와인의 가장 큰 특징으로, 높은 타닌과 함께 나타나는 시그니처 풍미는 무엇인가요?
 
 A. 블랙커런트(Blackcurrant)와 민트, 삼나무(Cedar) 향
 B. 딸기와 레드 체리, 장미 꽃잎 향
@@ -13,9 +13,15 @@ D. 모든 웅장한 레드를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: A. 블랙커런트(Blackcurrant)와 민트, 삼나무(Cedar) 향**
+정답: A. 블랙커런트(Blackcurrant)와 민트, 삼나무(Cedar) 향
 
-**해설**: **카베르네 소비뇽(Cabernet Sauvignon)**은 '레드 와인의 왕'입니다. 두꺼운 껍질 덕분에 높은 타닌과 산도를 지니며, 블랙커런트와 삼나무 향이 특징입니다. 반면 **쉬라(Syrah/Shiraz)**는 프랑스 북부 론(Northern Rhône)에서 블랙 페퍼(Black pepper)와 블랙베리 풍미로 강렬한 존재감을 드러내죠. 이 두 품종 모두 단단한 구조감과 묵직한 바디를 자랑하는 '파워 하우스'입니다.
+해설: 카베르네 소비뇽(Cabernet Sauvignon)은 '레드 와인의 왕'입니다.
+
+두꺼운 껍질 덕분에 높은 타닌과 산도를 지니며, 블랙커런트와 삼나무 향이 특징입니다.
+
+반면 쉬라(Syrah/Shiraz)는 프랑스 북부 론(Northern Rhône)에서 블랙 페퍼(Black pepper)와 블랙베리 풍미로 강렬한 존재감을 드러내죠.
+
+이 두 품종 모두 단단한 구조감과 묵직한 바디를 자랑하는 '파워 하우스'입니다.
 
 ---
 
@@ -23,18 +29,22 @@ D. 모든 웅장한 레드를 한순간에 소금물로 바꾼다.
 
 두 강렬한 레드 품종의 딥 다이브 요약입니다.
 
-1.  **Cabernet Sauvignon (Moderate/Warm)**: 두꺼운 껍질(Thick skin), 높은 타닌, 높은 산도. (Blackcurrant, Mint, Bell pepper). 오크 숙성 시 바닐라와 삼나무 향이 발현됩니다.
-2.  **Syrah / Shiraz (Moderate/Warm)**: 높은 타닌, 높은 산도. (Blackberry, Black pepper, Meat). 호주 바로사처럼 더운 지역에선 초콜릿과 감초 향이 지배적입니다.
-3.  **Classic Regions**:
-    *   **Cabernet Sauvignon**: Left Bank Bordeaux(Médoc, Pauillac, Margaux), Napa Valley, Coonawarra, Margaret River.
-    *   **Syrah / Shiraz**: Northern Rhône(Hermitage, Côte-Rôtie), Barossa Valley, Hunter Valley.
+1.  Cabernet Sauvignon (Moderate/Warm): 두꺼운 껍질(Thick skin), 높은 타닌, 높은 산도. (Blackcurrant, Mint, Bell pepper). 오크 숙성 시 바닐라와 삼나무 향이 발현됩니다.
+
+2.  Syrah / Shiraz (Moderate/Warm): 높은 타닌, 높은 산도. (Blackberry, Black pepper, Meat). 호주 바로사처럼 더운 지역에선 초콜릿과 감초 향이 지배적입니다.
+
+3.  Classic Regions:
+*   Cabernet Sauvignon: Left Bank Bordeaux(Médoc, Pauillac, Margaux), Napa Valley, Coonawarra, Margaret River.
+*   Syrah / Shiraz: Northern Rhône(Hermitage, Côte-Rôtie), Barossa Valley, Hunter Valley.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 카베르네 소비뇽은 단일 품종으로만 양조해야 한다"라고 하면 오답입니다. 보르도처럼 메를로나 카베르네 프랑과 블렌딩하여 밸런스를 맞추는 경우가 매우 많음을 명심하세요.
-**[팁]**: 시험에서 **'Black pepper'** 혹은 **'Hunter Valley'**가 나오면 **'Syrah/Shiraz'**를 즉시 연결하세요.
+[함정]: "모든 카베르네 소비뇽은 단일 품종으로만 양조해야 한다"라고 하면 오답입니다.
+
+보르도처럼 메를로나 카베르네 프랑과 블렌딩하여 밸런스를 맞추는 경우가 매우 많음을 명심하세요.
+[팁]: 시험에서 'Black pepper' 혹은 'Hunter Valley'가 나오면 'Syrah/Shiraz'를 즉시 연결하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 웅장한 레드를 한순간에 소금물로 바꾼다.
 
 [Reason]
 레드 품종 딥 다이브 공식:
+
 1. 카베르네 소비뇽: 높은 타닌의 고귀함과 블랙커런트의 정수 (Cabernet Sauvignon)
+
 2. 쉬라/쉬라즈: 스파이시한 유혹과 검은 과실의 힘 (Syrah/Shiraz)
+
 3. 포인트: 보르도 좌안의 자갈 vs 북부 론의 화강암이 파워의 교과서임
 
 [Tip]

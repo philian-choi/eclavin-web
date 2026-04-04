@@ -1,42 +1,46 @@
-# Episode 043: Wine Faults Diagnosis (Final Prep - Quality Control)
+# Episode 043: Wine Faults Diagnosis (Is it Clean? - Final Prep)
 
 ## [WSET L1 Practice Question]
 
-**Q. If you observe a 'Brown color' in a young white wine and it smells like 'Vinegar' or 'Nutty Sherry' (when it should be fresh and fruity), what fault has occurred?**
+Q. If you smell an unpleasant odor from a wine like 'Damp Cardboard' or a 'Moldy Basement,' what fault could you suspect?
 
-A. Excessive carbonation
-B. **Oxidation (Exposure to too much air)**
-C. Cork Taint (TCA)
-D. Heat Damage (Cooked)
+A. Oxidation
+B. Cork Taint / TCA
+C. Heat Damage (Cooked Wine)
+D. Excessive Aging
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. Oxidation (Exposure to too much air).**
+Answer: B. Cork Taint / TCA
 
-**Explanation**: 1. **Oxidation** happens when a wine's seal fails or is left open too long, causing it to turn brown and lose its fresh fruitiness. 2. **Cork Taint (TCA)** is a chemical fault that makes a wine smell like damp, wet cardboard. 3. **Heat Damage** results in a 'cooked' raisin flavor and may cause the cork to leak. 4. Important: Physical **pieces of cork** in a glass are NOT a fault—simply a minor service error.
+Explanation: Trichloroanisole (TCA) is a compound formed by a chemical interaction between mold in the cork and cleaning solutions. Even tiny amounts can ruin a wine's aroma.
+
+It kills the wine's natural fruitiness and causes smells like wet newspaper, cardboard, and stuffy basements. This phenomenon is also called 'Corky,' and while harmless to humans, the taste is completely spoiled.
 
 ---
 
-## [Expert Concept]
+## [Expert Concept - Final Prep]
 
-Wine analysis is a 'Detective's Challenge.'
+These are the three major symptoms that appear when a wine is 'sick.'
 
-1.  **Fault vs. Feature**: 
-    - **Oxidation**: A fault in most fresh wines but a 'feature' in styles like Oloroso Sherry or Tawny Port. 
-    - **TCA (Cork Taint)**: *Always* a fault. It ruins the purity and freshness of the grape. 
-2.  **Detection Summary**:
-    - **Visual**: Look for unusual browning or cloudiness.
-    - **Nose**: Any smell of musty cardboard (TCA), vinegar (Oxidized), or over-boiled fruit (Heat damaged)? 
-3.  **Correct Protocol**: If you suspect a fault, the professional step is to replace the bottle immediately to ensure the best possible experience for your guest or yourself.
+1.  Cork Taint (TCA): 
+    - Symptom: Wet paper, stuffy basement odors. Disappearance of fruitiness.
+
+2.  Oxidation: 
+    - Symptom: White turns Amber, Red turns Brown. Smells like vinegar or Sherry instead of fresh scents.
+
+3.  Heat Damage: 
+    - Symptom: Cooked fruit smells. The cork may slightly pop out above the bottle or there may be signs of leaking.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think that a slightly loose cork or a few crumbs of cork in the wine means it is 'Tainted.' TCA is a chemical smell of **'Musty/Wet Cardboard'**.
-**[Tip]**: In a L1 exam, keywords like **'Vinegar / Brown Color / Flat'** always lead to **'Oxidation'**.
+[Trap]: Avoid thinking that "if cork pieces are floating in the wine, it is a faulty wine."
+This is simply a matter of poor opening or the cork being dry; it is not the same as TCA, which affects the taste.
+[Tip]: In an exam, if 'Damp Cardboard' appears, choose 'Cork Taint' without a second's hesitation!
 
 ---
 
@@ -44,27 +48,31 @@ Wine analysis is a 'Detective's Challenge.'
 
 ### Threads Post
 [Hook]
-Has your wine ever tasted like 'Vinegar' or smelled like 'Wet Cardboard'? Welcome to the world of wine faults.
+Did you open an expensive wine and it smells like 'basement storage mold'? You've just encountered 'TCA,' the most common wine sickness.
 
 [Twist]
-Don't drink it! If it's bad, it's bad. 
-- **The Vinegar/Brown Wine**: This is **Oxidation**. Your wine met too much air and 'died.' 
-- **The Musty Basement**: This is **Cork Taint (TCA)**. A chemical ruined the cork, and now it smells like a damp cellar. 
-- **The Old Raisin**: This is **Heat Damage**. Your wine was 'cooked' by a radiator or a hot car. 
-Learning to spot these disasters early will save your palate (and your money). Most good shops will replace a faulty bottle—don't be afraid to take it back! Have you ever had to return a 'broken' bottle?
+
+1. The culprit is the cork: Mold in the cork has caused a chemical reaction. The smell of wet newspaper can ruin your special evening.
+
+2. Warning from color: If white wine is too dark brown, suspect oxidation; if the cork is protruding, suspect heat damage.
+
+Judging whether a wine is spoiled is not just for experts. Trust your nose! If it's unpleasant in any way, it's an SOS signal from the wine to you.
 
 [Reason]
-WSET L1 Fault Diagnosis Recap:
-1. Oxidation = Brown Color + Vinegar (Air exposure).
-2. TCA = Musty + Wet Cardboard (Chemical interaction).
-3. Heat Damage = Raisin + Stewed Fruit (Storage failure).
+WSET Level 1 Fault Diagnosis Formula:
+
+1. Wet newspaper = Cork Taint (TCA).
+
+2. Brown discoloration = Oxidation (excessive oxygen contact).
+
+3. Cooked scent = Heat Damage (high-temperature storage).
 
 [Tip]
-Always pour a tiny 'test' sip for yourself before serving your guests—it's the mark of a true wine pro! 
+When tasting at a restaurant, check 'if the aroma is clear' first. If it smells unpleasant, don't hesitate to ask the sommelier about a replacement!
 
 ### YouTube Shorts Script
-(0-3s) Stop! Your wine might be 'broken'! Spotting faults like a pro! 
-(3-15s) WSET Level 1 cheat sheet! Brownified and vinegar-scented? **Oxidation**! Musty basement or damp cardboard? **TCA (Cork Taint)**! Stewed raisin flavors? **Heat Damage**! 
-(15-25s) Question! What is the primary cause of a wine smelling like vinegar and turning brown? 1. Too much light, 2. Too much air (Oxidation), 3. Low acid. 
-(25-35s) The answer is 2! Oxidation! It's like a sliced apple turning brown! 
-(35-45s) Catch the fault, save the taste! Subscribe and get that perfect score!
+(0-3s) How to spot spoiled wine! The hellish smell of TCA!
+(3-15s) WSET Level 1 High-Score Formula! How to diagnose wine faults! Wet paper smell is cork taint! Excessive browning is oxidation! If the cork is protruding, it's heat damage!
+(15-25s) Question! What is the abbreviation for the substance that causes the damp cardboard smell in wine? 1. BBQ, 2. TCA, 3. BTS.
+(25-35s) The answer is 2, TCA! A terrifying component that intercepts the freshness of wine!
+(35-45s) Diagnosis for a healthy glass! Subscribe and let's get that perfect score!

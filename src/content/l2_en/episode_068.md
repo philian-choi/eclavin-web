@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the context of Food & Wine Pairing, how does a wine typically change when consumed with foods high in 'Sugar' or 'Umami'?**
+Q. In the context of Food & Wine Pairing, how does a wine typically change when consumed with foods high in 'Sugar' or 'Umami'?
 
 A. The wine tastes sweeter and more fruit-forward.
-B. **The wine tastes more bitter (Tannin) and acidic**, while its **fruitiness decreases**.
+B. The wine tastes more bitter (Tannin) and acidic, while its fruitiness decreases.
 C. The wine's alcohol level suddenly drops.
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,13 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. The wine tastes more bitter (Tannin) and acidic, while its fruitiness decreases.**
+Answer: B. The wine tastes more bitter (Tannin) and acidic, while its fruitiness decreases.
 
-**Explanation**: **Food & Wine Pairing** is the science of understanding how food flavors interact with wine. **Sugar** and **Umami** can make a wine appear more bitter, astringent, and acidic, while stripping away its fruit character (the wine appears **'harder'**). Conversely, **Acid** and **Salt** in food help the wine taste smoother, sweeter, and more fruit-forward (the wine appears **'softer'**).
+Explanation: Food & Wine Pairing is the science of understanding how food flavors interact with wine.
+
+Sugar and Umami can make a wine appear more bitter, astringent, and acidic, while stripping away its fruit character (the wine appears 'harder').
+
+Conversely, Acid and Salt in food help the wine taste smoother, sweeter, and more fruit-forward (the wine appears 'softer').
 
 ---
 
@@ -23,17 +27,22 @@ D. Instantly changes any wine into a shot of soju.
 
 The four key rules of how food flavors affect wine:
 
-1.  **Sugar & Umami (The Hardeners)**: They decrease the sweetness and fruitiness of the wine while emphasizing bitterness, acidity, and the burn of alcohol. (Makes wine seem thinner/harder).
-2.  **Acid & Salt (The Softeners)**: They decrease the bitterness and acidity of the wine while enhancing its sweetness and fruitiness. (Makes wine seem richer/softer).
-3.  **Chili Heat**: Increases the burn of a wine's alcohol and decreases its fruitiness. Pair spicy foods with low-alcohol, fruit-forward wines.
-4.  **Flavor Intensity**: It is fundamental to match the flavor intensity of the food and the wine. (Light food with light wine).
+1.  Sugar & Umami (The Hardeners): They decrease the sweetness and fruitiness of the wine while emphasizing bitterness, acidity, and the burn of alcohol. (Makes wine seem thinner/harder).
+
+2.  Acid & Salt (The Softeners): They decrease the bitterness and acidity of the wine while enhancing its sweetness and fruitiness. (Makes wine seem richer/softer).
+
+3.  Chili Heat: Increases the burn of a wine's alcohol and decreases its fruitiness. Pair spicy foods with low-alcohol, fruit-forward wines.
+
+4.  Flavor Intensity: It is fundamental to match the flavor intensity of the food and the wine. (Light food with light wine).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that savory mushroom dishes (high in Umami) will always make a wine smoother. Umami, like sugar, makes wine seem **'harder'** and more tannic. (Adding a pinch of salt to the dish can bring the wine back to life!)
-**[Tip]**: Memorize the formula for the exam: **'Sugar/Umami -> Harder'**, **'Salt/Acid -> Softer'**.
+[Trap]: Do not assume that savory mushroom dishes (high in Umami) will always make a wine smoother.
+
+Umami, like sugar, makes wine seem 'harder' and more tannic. (Adding a pinch of salt to the dish can bring the wine back to life!)
+[Tip]: Memorize the formula for the exam: 'Sugar/Umami -> Harder', 'Salt/Acid -> Softer'.
 
 ---
 
@@ -48,8 +57,11 @@ Do you know 'the chemical push and pull' between food and wine in your mouth? Wh
 
 [Reason]
 Wine Pairing Alchemy Formula:
+
 1. Sugar & Umami: Makes wine more acidic and tannic (Harder).
+
 2. Salt & Acidity: Makes wine smoother and sweeter (Softer).
+
 3. Chili Heat: Increases the alcohol aggression of the wine.
 
 [Tip]

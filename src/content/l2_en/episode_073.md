@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Which red grape variety, primarily grown in the 'Bordeaux' region of France, is characterized by high tannins, high acidity, and notes of blackcurrant and cedar?**
+Q. Which red grape variety, primarily grown in the 'Bordeaux' region of France, is characterized by high tannins, high acidity, and notes of blackcurrant and cedar?
 
 A. Pinot Noir
-B. **Cabernet Sauvignon**
+B. Cabernet Sauvignon
 C. Merlot
 D. Instantly changes any variety into a shot of soju.
 
@@ -13,9 +13,13 @@ D. Instantly changes any variety into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Cabernet Sauvignon**
+Answer: B. Cabernet Sauvignon
 
-**Explanation**: **Cabernet Sauvignon** is the king of red wines. Its thick skins provide high tannins and deep color, with signature aromas of blackcurrant, mint, and cedar from oak aging. Conversely, **Merlot** has softer tannins and more pronounced red fruit flavors, while **Pinot Noir** is a delicate variety with thin skins, resulting in pale color, high acidity, and fresh strawberry and cherry aromas.
+Explanation: Cabernet Sauvignon is the king of red wines.
+
+Its thick skins provide high tannins and deep color, with signature aromas of blackcurrant, mint, and cedar from oak aging.
+
+Conversely, Merlot has softer tannins and more pronounced red fruit flavors, while Pinot Noir is a delicate variety with thin skins, resulting in pale color, high acidity, and fresh strawberry and cherry aromas.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any variety into a shot of soju.
 
 A summary of major red grape varieties (Review):
 
-1.  **Cabernet Sauvignon**: High tannins, high acidity, oak aging essential. (Blackcurrant, Mint, Cedar).
-2.  **Merlot**: Medium tannins, medium acidity, soft texture. (Plum, Cherry, Fruit cake). Famous in the Right Bank of Bordeaux.
-3.  **Pinot Noir**: Low tannins, high acidity, thin skins. (Strawberry, Cherry, Mushroom, Forest floor). Requires cool climates.
-4.  **Syrah / Shiraz**: High tannins, high acidity, spices. (Black pepper, Blackberry, Meat). Iconic in Northern Rhône and Australia.
-5.  **Grenache / Garnacha**: Low tannins, low acidity, high alcohol. (Red fruit, Spices). Key in Châteauneuf-du-Pape and Spain.
+1.  Cabernet Sauvignon: High tannins, high acidity, oak aging essential. (Blackcurrant, Mint, Cedar).
+
+2.  Merlot: Medium tannins, medium acidity, soft texture. (Plum, Cherry, Fruit cake). Famous in the Right Bank of Bordeaux.
+
+3.  Pinot Noir: Low tannins, high acidity, thin skins. (Strawberry, Cherry, Mushroom, Forest floor). Requires cool climates.
+
+4.  Syrah / Shiraz: High tannins, high acidity, spices. (Black pepper, Blackberry, Meat). Iconic in Northern Rhône and Australia.
+
+5.  Grenache / Garnacha: Low tannins, low acidity, high alcohol. (Red fruit, Spices). Key in Châteauneuf-du-Pape and Spain.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that Pinot Noir always has an intense purple color. Because its skins are thin, it results in a pale ruby or light red color.
-**[Tip]**: In the exam, link **'High tannin/High acid/Black fruit'** with Cabernet Sauvignon, and **'Low tannin/High acid/Red fruit'** with Pinot Noir.
+[Trap]: Do not assume that Pinot Noir always has an intense purple color.
+
+Because its skins are thin, it results in a pale ruby or light red color.
+[Tip]: In the exam, link 'High tannin/High acid/Black fruit' with Cabernet Sauvignon, and 'Low tannin/High acid/Red fruit' with Pinot Noir.
 
 ---
 
@@ -49,8 +59,11 @@ Have you ever experienced 'the grandeur of blackcurrant' and 'the serene silence
 
 [Reason]
 Red Variety Alchemy Formula:
+
 1. Cabernet Sauvignon: The authority of high tannins and blackcurrant.
+
 2. Merlot: The embrace of soft tannins and the temptation of plum.
+
 3. Pinot Noir: The delicacy of high acidity and the secret of cherries.
 
 [Tip]

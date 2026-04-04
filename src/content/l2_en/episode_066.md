@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. When storing a wine sealed with a natural 'Cork' for a long period, which of the following is the recommended storage position to prevent the cork from drying out?**
+Q. When storing a wine sealed with a natural 'Cork' for a long period, which of the following is the recommended storage position to prevent the cork from drying out?
 
 A. Store the bottle upright (Vertical)
-B. **Store the bottle on its side (Horizontal)**
+B. Store the bottle on its side (Horizontal)
 C. Store the bottle upside down (Inverted)
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Store the bottle on its side (Horizontal)**
+Answer: B. Store the bottle on its side (Horizontal)
 
-**Explanation**: **Wine Storage** is a crucial aspect of preservation. If the cork dries out, it will shrink, allowing air to enter the bottle and oxidize the wine. Therefore, the bottle must be **stored on its side (Horizontal)** to keep the cork moist and maintain its seal. (This is not required for screw caps). Additionally, maintaining a constant, cool temperature (10-15°C), protecting from UV light, and avoiding vibrations are essential for proper storage.
+Explanation: Wine Storage is a crucial aspect of preservation.
+
+If the cork dries out, it will shrink, allowing air to enter the bottle and oxidize the wine.
+
+Therefore, the bottle must be stored on its side (Horizontal) to keep the cork moist and maintain its seal. (This is not required for screw caps).
+
+Additionally, maintaining a constant, cool temperature (10-15°C), protecting from UV light, and avoiding vibrations are essential for proper storage.
 
 ---
 
@@ -23,17 +29,22 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of the four key principles of wine storage:
 
-1.  **Constant Temperature**: Ideally 10-15°C. The most significant danger is 'Rapid fluctuations' rather than 'High temperature' itself. (Avoid fluctuations).
-2.  **Protection from Light**: UV rays from sunlight or strong fluorescent lights can destroy a wine's delicate flavors and cause unpleasant odors. (Keep in the dark).
-3.  **Correct Position**: Wines with natural corks must be stored **horizontally**. (Keep cork moist to maintain the seal).
-4.  **Avoid Strong Odors**: Corks are porous and can absorb strong odors (perfumes, paint, etc.) from the surroundings into the wine.
+1.  Constant Temperature: Ideally 10-15°C. The most significant danger is 'Rapid fluctuations' rather than 'High temperature' itself. (Avoid fluctuations).
+
+2.  Protection from Light: UV rays from sunlight or strong fluorescent lights can destroy a wine's delicate flavors and cause unpleasant odors. (Keep in the dark).
+
+3.  Correct Position: Wines with natural corks must be stored horizontally. (Keep cork moist to maintain the seal).
+
+4.  Avoid Strong Odors: Corks are porous and can absorb strong odors (perfumes, paint, etc.) from the surroundings into the wine.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that screw cap (Screw cap) wines must always be stored on their side. Screw caps and glass stoppers maintain their seal even when stored vertically.
-**[Tip]**: In the exam, look for the keyword **'Sealing integrity'** or **'Keep cork moist'** and choose **'Lying down/Horizontal'**.
+[Trap]: Do not assume that screw cap (Screw cap) wines must always be stored on their side.
+
+Screw caps and glass stoppers maintain their seal even when stored vertically.
+[Tip]: In the exam, look for the keyword 'Sealing integrity' or 'Keep cork moist' and choose 'Lying down/Horizontal'.
 
 ---
 
@@ -48,8 +59,11 @@ Do you know 'the faith of a breathing cork' trapped inside a wine bottle? The mo
 
 [Reason]
 Wine Storage Alchemy Formula:
+
 1. Temperature: Constant environment between 10-15°C (No fluctuations).
+
 2. Position: Cork-sealed wines must be laid down (Keep it moist).
+
 3. Light: UV protection and dark consideration.
 
 [Tip]

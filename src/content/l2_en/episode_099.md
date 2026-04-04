@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. In the 'Traditional Method' of making 'Champagne AOC', what is the characteristic flavor formed through 'Yeast autolysis', where the wine is aged with dead yeast after the second fermentation in the bottle?**
+Q. In the 'Traditional Method' of making 'Champagne AOC', what is the characteristic flavor formed through 'Yeast autolysis', where the wine is aged with dead yeast after the second fermentation in the bottle?
 
 A. Fresh grape juice and apple aromas
-B. **Biscuit, bread dough, and toasted bread flavors**
+B. Biscuit, bread dough, and toasted bread flavors
 C. Intense strawberry and rose petal scents
 D. Instantly changes all bubbles into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes all bubbles into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Biscuit, bread dough, and toasted bread flavors**
+Answer: B. Biscuit, bread dough, and toasted bread flavors
 
-**Explanation**: The identity of the **Traditional Method** lies in 'yeast aging'. As the yeast autolyzes in the bottle, it adds savory notes of biscuit and bread. In contrast, **Prosecco** uses the **Tank Method** to preserve fresh fruity aromas. Furthermore, fortified wines like **Sherry** and **Port**, and spirits like **Whisky** and **Cognac**, share the same core element: the aesthetic of 'waiting and fortification' within the Royal Collection.
+Explanation: The identity of the Traditional Method lies in 'yeast aging'.
+
+As the yeast autolyzes in the bottle, it adds savory notes of biscuit and bread.
+
+In contrast, Prosecco uses the Tank Method to preserve fresh fruity aromas.
+
+Furthermore, fortified wines like Sherry and Port, and spirits like Whisky and Cognac, share the same core element: the aesthetic of 'waiting and fortification' within the Royal Collection.
 
 ---
 
@@ -23,19 +29,26 @@ D. Instantly changes all bubbles into a shot of salt water.
 
 A deep-dive summary into the Royal Collection of bubbles and flames:
 
-1.  **Sparkling (Traditional)**: Champagne, Cava. (Second fermentation in bottle / Lees aging).
-2.  **Sparkling (Tank)**: Prosecco, Asti. (Fruit focus / Efficiency).
-3.  **Fortified (Sherry)**: Fortified after fermentation. (Fino under Flor vs. Oloroso oxidative).
-4.  **Fortified (Port)**: Fortified during fermentation. (Ruby vs. Tawny aging).
-5.  **Spirits (Aged)**: Whisky & Cognac. (Oak influence / Complexity).
-6.  **Spirits (Unaged)**: Vodka & Gin. (Purity & Botanicals).
+1.  Sparkling (Traditional): Champagne, Cava. (Second fermentation in bottle / Lees aging).
+
+2.  Sparkling (Tank): Prosecco, Asti. (Fruit focus / Efficiency).
+
+3.  Fortified (Sherry): Fortified after fermentation. (Fino under Flor vs. Oloroso oxidative).
+
+4.  Fortified (Port): Fortified during fermentation. (Ruby vs. Tawny aging).
+
+5.  Spirits (Aged): Whisky & Cognac. (Oak influence / Complexity).
+
+6.  Spirits (Unaged): Vodka & Gin. (Purity & Botanicals).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all sparkling wine can be called Champagne. Only those produced using the traditional method in the Champagne region of France are permitted to bear that name.
-**[Tip]**: In the exam, if **'Solera System'** or **'Flor'** appears, immediately link it with **'Sherry'**.
+[Trap]: Do not assume all sparkling wine can be called Champagne.
+
+Only those produced using the traditional method in the Champagne region of France are permitted to bear that name.
+[Tip]: In the exam, if 'Solera System' or 'Flor' appears, immediately link it with 'Sherry'.
 
 ---
 
@@ -50,8 +63,11 @@ Do you know the grand deep dive into Sparkling, Fortified, and Spirits that dete
 
 [Reason]
 Royal Collection Deep Dive Formula:
+
 1. Champagne: The harmony of bubbles and yeast crafted by the traditional method (Traditional Method).
+
 2. Fortified: The magic of time that controlled fermentation and strengthened the soul (Port/Sherry).
+
 3. Spirits: Liquid flame crafted by distillation and maturation (Distilled Arts).
 
 [Tip]

@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스의 '샴페인(Champagne)'과 스페인의 '카바(Cava)'를 생산할 때 공통적으로 사용하는 양조 방식은 무엇인가요?**
+Q. 프랑스의 '샴페인(Champagne)'과 스페인의 '카바(Cava)'를 생산할 때 공통적으로 사용하는 양조 방식은 무엇인가요?
 
 A. 탱크 방식 (Tank Method / Charmat Method)
 B. 전통 방식 (Traditional Method)
@@ -13,9 +13,13 @@ D. 모든 거품을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 전통 방식 (Traditional Method)**
+정답: B. 전통 방식 (Traditional Method)
 
-**해설**: **전통 방식(Traditional Method)**은 병 안에서 2차 발효를 일으켜 기포를 가두는 가장 정교한 방식입니다. 프랑스 **샴페인**과 스페인 **카바**가 이 방식을 따르며, 죽은 효모와 함께 숙성되는 '효모 자가분해(Autolysis)'를 통해 비스킷, 빵, 토스트 풍미를 얻습니다. 반면 **Prosecco**나 **Asti**는 과실 향을 살리기 위해 커다란 스테인리스 탱크에서 2차 발효를 진행하는 **탱크 방식**을 주로 사용합니다.
+해설: 전통 방식(Traditional Method)은 병 안에서 2차 발효를 일으켜 기포를 가두는 가장 정교한 방식입니다.
+
+프랑스 샴페인과 스페인 카바가 이 방식을 따르며, 죽은 효모와 함께 숙성되는 '효모 자가분해(Autolysis)'를 통해 비스킷, 빵, 토스트 풍미를 얻습니다.
+
+반면 Prosecco나 Asti는 과실 향을 살리기 위해 커다란 스테인리스 탱크에서 2차 발효를 진행하는 탱크 방식을 주로 사용합니다.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 거품을 한순간에 소주 맛으로 바꾼다.
 
 스파클링 및 주정 강화 와인의 핵심 요약(Review)입니다.
 
-1.  **Traditional Method**: 병 내 2차 발효. (Champagne, Cava). **Lees aging**이 풍미의 핵심입니다.
-2.  **Tank Method**: 대형 탱크 내 2차 발효. (Prosecco, Asti). 신선한 과실 향 유지에 탁월합니다.
-3.  **Sherry**: 발효 **완료 후** 주정 강화. (Fino: Flor/Biological vs Oloroso: Oxidative). 드라이함이 기본입니다.
-4.  **Port**: 발효 **중간에** 주정 강화. (Ruby, LBV, Tawny, Vintage). 항상 달콤합니다.
-5.  **Terminology**: Brut(Dry), Demi-sec(Half-sweet), Vintage(특정 해의 포도만 사용).
+1.  Traditional Method: 병 내 2차 발효. (Champagne, Cava). Lees aging이 풍미의 핵심입니다.
+
+2.  Tank Method: 대형 탱크 내 2차 발효. (Prosecco, Asti). 신선한 과실 향 유지에 탁월합니다.
+
+3.  Sherry: 발효 완료 후 주정 강화. (Fino: Flor/Biological vs Oloroso: Oxidative). 드라이함이 기본입니다.
+
+4.  Port: 발효 중간에 주정 강화. (Ruby, LBV, Tawny, Vintage). 항상 달콤합니다.
+
+5.  Terminology: Brut(Dry), Demi-sec(Half-sweet), Vintage(특정 해의 포도만 사용).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 포트 와인은 산화 숙성을 거친다"라고 하면 오답입니다. 루비 포트는 산소 접촉을 최소화하여 과실 향을 살리는 스타일임을 명심하세요. (토니 포트가 산화 숙성의 정석입니다).
-**[팁]**: 시험에서 **'Autolysis/Biscuit/Yeast'**는 전통 방식을, **'Fresh fruit/Tank'**는 탱크 방식을 연결하세요.
+[함정]: "모든 포트 와인은 산화 숙성을 거친다"라고 하면 오답입니다.
+
+루비 포트는 산소 접촉을 최소화하여 과실 향을 살리는 스타일임을 명심하세요. (토니 포트가 산화 숙성의 정석입니다).
+[팁]: 시험에서 'Autolysis/Biscuit/Yeast'는 전통 방식을, 'Fresh fruit/Tank'는 탱크 방식을 연결하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 거품을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 와인 기포와 불꽃 연금술 공식:
+
 1. 전통 방식(Traditional): 병 내 발효, 비스킷, 빵 향기 (Champagne, Cava)
+
 2. 탱크 방식(Tank): 신선한 과일 향, 프로세코 (Prosecco)
+
 3. 주정 강화(Fortified): 셰리(드라이) vs 포트(항상 달콤함)
 
 [Tip]

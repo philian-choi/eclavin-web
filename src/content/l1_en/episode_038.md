@@ -1,42 +1,49 @@
-# Episode 038: Wine Storage Principles (The Sanctuary - Mastery)
+# Episode 038: Wine Storage (The Guardian - Mastery)
 
 ## [WSET L1 Practice Question]
 
-**Q. When storing a wine sealed with a 'Natural Cork' for a long period, why is it recommended to lay the bottle on its side (horizontally)?**
+Q. Which of the following is the most accurate description of the correct storage method to preserve the quality of wine in its best condition long-term?
 
-A. To make it easier for the labels to be read.
-B. **To keep the cork in contact with the wine, preventing it from drying out and allowing air into the bottle**.
-C. To decrease the pressure inside the bottle so it won't explode.
-D. To allow the sediment to gather specifically in the neck of the bottle.
+A. Stand it up on a sunny windowsill.
+B. Store it lying down in a cool, constant-temperature, and dark place.
+C. Put it on a vibrating washing machine to keep shaking the wine.
+D. Stand it up next to a very hot kitchen gas stove.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. To keep the cork in contact with the wine, preventing it from drying out and allowing air into the bottle.**
+Answer: B. Store it lying down in a cool, constant-temperature, and dark place.
 
-**Explanation**: 1. **Horizontal Storage** is essential for cork-sealed wines. If the cork dries out, it shrinks, allowing oxygen to enter the bottle (oxidation), which spoils the wine. 2. For wines with **Screw Caps**, vertical storage is perfectly fine as the seal does not rely on moisture.
+Explanation: Wine is like a living organism.
+
+If it is exposed to too much heat or sunlight, it will 'cook,' and its fresh fruit aromas will disappear and it will deteriorate.
+
+Therefore, the key is to avoid ultraviolet rays and maintain constant conditions at a cool temperature (10-15°C).
+
+Additionally, wine should be stored lying down so that the cork does not dry out, which extends the wine's lifespan.
 
 ---
 
 ## [Expert Concept]
 
-A wine's storage is its 'Second Life.'
+These are the four components of a wine's 'guardian angel':
 
-1.  **The 4 Commandments of Storage**:
-    - **Cool**: Ideal temperature is **10°C – 15°C**.
-    - **Constant**: The most dangerous element is temperature *fluctuation*! Keep it stable.
-    - **Dark**: Keep away from sunlight and bright UV lights, which can degrade flavors and color.
-    - **Still**: Avoid vibrations (like refrigerators or machinery), which can disturb the aging process.
-2.  **Oxidation Prevention**: The goal of storage is to maintain the integrity of the seal and prevent premature aging caused by heat and light.
-3.  **Service Transition**: Before serving, allow the wine to gradually adjust to its recommended service temperature.
+1.  Temperature (Coolness and Steadiness): The most ideal temperature is 10-15°C. It is most important that the temperature does not change rapidly.
+
+2.  Light (Darkness): Direct sunlight or ultraviolet rays destroy the color and taste of the wine. This is also why dark bottles are used.
+
+3.  Humidity (Lying Down): If the cork dries out and shrinks, outside air enters and oxidation accelerates. Store the wine lying down so that the cork stays moist.
+
+4.  Vibration (Stability): Vibration interferes with the chemical change of the wine, so it should be stored in a quiet place.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think a kitchen (with heat from cooking) or a sunny windowsill is a safe place to store wine. These are the fastest ways to turn a great wine into vinegar.
-**[Tip]**: In a L1 exam, **'Horizontal'** storage is the answer for **'Cork-sealed'** wines.
+[Trap]: Avoid thinking that "it is best to keep it in the refrigerator all year round."
+General refrigerators can be too dry and have too many vibrations, making them unsuitable for long-term storage.
+[Tip]: In an exam, connect 'Storage' with 'Cool/Constant/Dark' keywords!
 
 ---
 
@@ -44,26 +51,26 @@ A wine's storage is its 'Second Life.'
 
 ### Threads Post
 [Hook]
-Is your expensive bottle of wine slowly dying in your kitchen pantry?
+Are you leaving that expensive wine you received as a gift just sitting there? Maybe your wine is suffering right now.
 
 [Twist]
-Wine is a living, breathing creature that demands a 'Sanctuary.'
-- **Temperature**: It loves it cool (10-15°C) and, more importantly, **steady**. Constant changes in temp are a wine's worst enemy.
-- **Orientation**: If it has a cork, **lay it flat!** Keeping the cork moist is the only thing standing between your wine and an oxygen attack.
-- **Environment**: Keep it dark and keep it still. No direct sunlight, and definitely no vibrating appliances. A closet in the coolest part of your home is better than a sunny wine rack in the kitchen. Are you protecting your investment?
+Wine is a very sensitive child. It spoils under the sun (Light) and gets angry when the temperature fluctuates (Constant). Above all, please put it to sleep by lying it down so the cork doesn't dry out. The moment the cork dries, oxygen enters and steals the scent of your precious wine. A cool and dark place like a comfortable basement! Your sincerity completes the value of the wine as a luxury item. Would you like to check if your wines are resting comfortably today?
 
 [Reason]
-WSET L1 Storage Rules:
-1. Horizontal (Cork) vs Vertical (Screw Cap).
-2. Constant Cool Temperature (preventing cooked flavors).
-3. Dark & No Vibration (keeping the soul of the wine intact).
+WSET Level 1 Storage Formula:
+
+1. Temperature: Cool and unchanging (10-15 degrees).
+
+2. Light: Confine it to darkness.
+
+3. Humidity: Lying down to moisten the cork.
 
 [Tip]
-Think of the fridge as a temporary stop, not a long-term home. It's often too cold and too dry for long-term cork health! 
+The best storage place is actually a dark, constant-temperature place like a corner of the closet or under the bed!
 
 ### YouTube Shorts Script
-(0-3s) Why do wine cellars look like that? The science of storage! 
-(3-15s) WSET Level 1 cheat sheet! 4 Rules: **Cool, Constant, Dark, and Still**! Why horizontal? To keep the **cork moist** and the air out! 
-(15-25s) Question! What is the ideal orientation for a cork-sealed wine? 1. Vertical, 2. Upside down, 3. Horizontal. 
-(25-35s) The answer is 3! Horizontal! It's how you keep your wine from oxidizing! 
-(35-45s) Save the flavor, master the storage! Subscribe and get that perfect score!
+(0-3s) Wine dies if you stand it up? The standard of correct storage!
+(3-15s) WSET Level 1 essential concepts! Perfect summary of wine storage! It should be cool, dark, and above all, stored lying down so the cork doesn't dry out! If the temperature changes, the life of the wine ends too!
+(15-25s) Question! What is the effect of sunlight and high temperature on wine quality? 1. It tastes better, 2. Freshness is destroyed, 3. The color becomes deeper.
+(25-35s) The answer is 2, Freshness is destroyed! If it's too hot, the wine 'cooks' and loses its flavor!
+(35-45s) The lifeblood of wine, storage management! Subscribe and let's get that perfect score!

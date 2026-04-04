@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/api/',
     },
-    sitemap: 'https://winel2app.vercel.app/sitemap.xml',
+    sitemap: 'https://www.eclavin.com/sitemap.xml',
   };
 }

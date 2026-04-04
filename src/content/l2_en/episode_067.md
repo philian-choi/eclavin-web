@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. When serving White Wine or Rosé Wine, what is the recommended temperature range to best highlight its refreshing acidity and fruit flavors?**
+Q. When serving White Wine or Rosé Wine, what is the recommended temperature range to best highlight its refreshing acidity and fruit flavors?
 
 A. Room temperature (18–20°C)
-B. **Chilled (7–10°C)**
+B. Chilled (7–10°C)
 C. Warm (50–60°C)
 D. Instantly changes any wine into a shot of soju.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of soju.
 
 ## [Answer & Explanation]
 
-**Answer: B. Chilled (7–10°C)**
+Answer: B. Chilled (7–10°C)
 
-**Explanation**: **Wine Service** is the final art that explodes the potential of aroma and flavor. **White and Rosé wines** should be served **chilled (7–10°C)** to delightfully bring out their characteristic refreshing acidity. Conversely, **Full-bodied red wines** should be served at 'room temperature' (15–18°C) to soften tannins and allow rich aromas to bloom. Proper **glassware** is also essential for concentrating aromas and determining the mouthfeel.
+Explanation: Wine Service is the final art that explodes the potential of aroma and flavor.
+
+White and Rosé wines should be served chilled (7–10°C) to delightfully bring out their characteristic refreshing acidity.
+
+Conversely, Full-bodied red wines should be served at 'room temperature' (15–18°C) to soften tannins and allow rich aromas to bloom.
+
+Proper glassware is also essential for concentrating aromas and determining the mouthfeel.
 
 ---
 
@@ -23,18 +29,26 @@ D. Instantly changes any wine into a shot of soju.
 
 A summary of optimal service temperature formulas for different types of wine:
 
-1.  **Sweet / Sparkling**: 6–10°C. (Well chilled). Served Coldest to maintain bubbles and balance sweetness.
-2.  **Light/Medium-bodied White & Rosé**: 7–10°C. (Chilled). Highlights fresh acidity.
-3.  **Full-bodied White (Chardonnay)**: 10–13°C. (Lightly chilled). Served slightly less cold to enjoy the heavy texture from oak aging.
-4.  **Light-bodied Red (Pinot Noir)**: 13°C. (Room temperature style, but slightly cool). Slightly chilled to preserve fresh red fruit aromas.
-5.  **Full-bodied Red**: 15–18°C. (Room temperature). Maximizes complex aromas.
+1.  Sweet / Sparkling: 6–10°C. (Well chilled). Served Coldest to maintain bubbles and balance sweetness.
+
+2.  Light/Medium-bodied White & Rosé: 7–10°C. (Chilled). Highlights fresh acidity.
+
+3.  Full-bodied White (Chardonnay): 10–13°C. (Lightly chilled). Served slightly less cold to enjoy the heavy texture from oak aging.
+
+4.  Light-bodied Red (Pinot Noir): 13°C. (Room temperature style, but slightly cool). Slightly chilled to preserve fresh red fruit aromas.
+
+5.  Full-bodied Red: 15–18°C. (Room temperature). Maximizes complex aromas.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that red wine should be served at summer room temperatures (25–30°C). These are too warm for red wine, making it taste flabby and alcoholic. Always aim for 15–18°C.
-**[Tip]**: In the exam, link **'Refresh acidity'** with chilled white wines and **'Complexity/Softening tannins'** with red wines.
+[Trap]: Do not assume that red wine should be served at summer room temperatures (25–30°C).
+
+These are too warm for red wine, making it taste flabby and alcoholic.
+
+Always aim for 15–18°C.
+[Tip]: In the exam, link 'Refresh acidity' with chilled white wines and 'Complexity/Softening tannins' with red wines.
 
 ---
 
@@ -49,8 +63,11 @@ Do you know 'the secret of temperature' trapped inside a wine bottle? White wine
 
 [Reason]
 Wine Service Alchemy Formula:
+
 1. White: Chilled (7-10°C), emphasizes fresh acidity.
+
 2. Red: Room temperature (15-18°C), softens tannins and explodes aromas.
+
 3. Glass: Tulip-shaped is the standard to concentrate aromas.
 
 [Tip]

@@ -1,35 +1,75 @@
-# Episode 018: Rosé Winemaking
+# Episode 018: Merlot (The Velvet Touch) - Black Grape Variety
 
 ## [WSET L1 Practice Question]
 
-**Q. Which of the following is the correct description of the 'short maceration' method typically used to produce rosé wine?**
+Q. Which of the following is the most accurate description of the typical characteristics of the Merlot grape?
 
-A. Mixing red wine into white wine to achieve the desired color.
-B. Starting fermentation (Fermentation) with the skins, then removing the skins immediately once the desired color is achieved.
-C. Using frozen grape juice to extract a delicate color.
-D. Adding skins to the wine only after fermentation is finished to infuse color.
+A. Very high tannin and strong acidity, and always made into a light-bodied white wine.
+B. Medium tannin and acidity, with predominantly red plum and black cherry flavors.
+C. No aroma at all, and using artificial coloring for its color.
+D. High sugar content, and always produced only as a sweet wine.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. Starting fermentation (Fermentation) with the skins, then removing the skins immediately once the desired color is achieved.**
+Answer: B. Medium tannin and acidity, with predominantly red plum and black cherry flavors.
 
-**Explanation**: Rosé wine begins fermentation with the skins, similar to red wine, but the skins are kept in contact for only a very short duration (usually a few hours to a few days). As soon as the desired pink hue is reached, the skins are separated, and the remaining juice continues to ferment alone. This technique is known as **short maceration**.
+Explanation: Merlot is a softer companion compared to Cabernet Sauvignon, because its skin is relatively thinner, giving it softer and lighter tannins.
+
+Instead of a gripping sensation, it provides a smooth, velvet-like texture on the palate.
+
+Typical aromas include ripe fruit such as red plum and black cherry.
 
 ---
 
 ## [Expert Concept]
 
-Core knowledge of rosé winemaking as defined by WSET Level 1:
+Merlot is synonymous with 'Smoothness and Plumpness':
 
-1.  **Extraction of Color**: While rosé is made from black grapes, the contact time is strictly limited to ensure that only a pale pink tint is extracted from the skins.
-2.  **Timing of Skin Removal**: The skins are removed *during* fermentation. Once they are gone, the process proceeds like white winemaking, using only the juice.
-3.  **Style Harmony**: Rosé is designed to capture the fresh, red-fruit aromas typically found in red wines while maintaining the refreshing acidity and lightness of white wines.
+1.  Medium Tannin & Acid: Creates a style that's easy to drink.
+
+2.  Aromatic Profile: Red plum, Black cherry, Chocolate (when matured in oak), etc.
+
+3.  Blending Partner: Often blended with the intense Cabernet Sauvignon to soften its strength.
+
+4.  Major Regions: Left and Right Bank of Bordeaux (France) (e.g., Saint-Émilion, Pomerol), Chile, USA, etc.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Avoid the misconception that "Rosé is simply a blend of red and white wine." (Except for certain exceptions like some sparkling wines, this is generally incorrect for still rosé in the WSET curriculum.)
-**[Tip]**: Think of rosé winemaking as **'removing the skins as soon as the color is right.'** If you see phrases like 'Short period of skin contact' or 'Removing skins after a short time' in an exam, the correct answer is inevitably rosé wine.
+[Trap]: Avoid thinking that "Merlot is always a low-price wine."
+One of the most expensive wines in the world, Château Pétrus, is made from 100% Merlot.
+[Tip]: If words like 'Red Plum' or 'Soft Tannin' appear in the exam, always choose 'Merlot.'
+Plum-like softness is the hallmark of Merlot.
+
+---
+
+## [Threads & Shorts Scripts]
+
+### Threads Post
+[Hook]
+If you've been avoiding red wine because it's too dry/astringent, it's time to meet 'Merlot'!
+
+[Twist]
+Merlot is like a gentleman in red wine's clothing. Instead of the intense grip of a King, it approaches you with the fragrant smile of ripe red plums and black cherries. With its soft skins, it feels like a velvet curtain wrapping around your tongue the moment you take a sip. If Cabernet Sauvignon is the 'King', Merlot is the 'Kind Aristocrat'. How about a glass of Merlot to gently wet your lips tonight?
+
+[Reason]
+WSET Level 1 Merlot Formula:
+
+1. Soft Skin = Medium tannin (a comfortable finish).
+
+2. Signature Aroma: Red plum (a sweet and sour fruitiness).
+
+3. Perfect Pairing: Roasted vegetables and light meat dishes.
+
+[Tip]
+When you're worried about the astringency of wine, look for 'Merlot' on the label. It won't let you down.
+
+### YouTube Shorts Script
+(0-3s) Can red wine be this soft? The magic of Merlot!
+(3-15s) WSET Level 1 High-Score Formula! Merlot! Its medium tannin is much softer than Cabernet, and its fresh red plum aroma is its signature! The standard of a velvet finish!
+(15-25s) Question! What is the most representative fruit aroma found in Merlot? 1. Bell Pepper, 2. Red Plum, 3. Lemon.
+(25-35s) The answer is 2! As it ripens, it develops black cherry aromas too!
+(35-45s) The aesthetics of smoothness, Merlot! Subscribe and get that perfect score!

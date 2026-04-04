@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the name of the sparkling wine produced in Spain using the same 'Traditional Method' as Champagne, but often characterized by more neutral fruit flavors like apple and pear?**
+Q. What is the name of the sparkling wine produced in Spain using the same 'Traditional Method' as Champagne, but often characterized by more neutral fruit flavors like apple and pear?
 
 A. France's Champagne
-B. Spain's **Cava**
+B. Spain's Cava
 C. Italy's Prosecco
 D. Changes any wine into a shot of soju instantly.
 
@@ -13,9 +13,13 @@ D. Changes any wine into a shot of soju instantly.
 
 ## [Answer & Explanation]
 
-**Answer: B. Spain's Cava**
+Answer: B. Spain's Cava
 
-**Explanation**: **Cava** is Spain's jewel, democratizing the prestige of Champagne at a more affordable price point. It undergoes the meticulous **Traditional Method** (secondary fermentation in the bottle), gaining subtle notes of **Apple, Pear (Green fruit)**, and light brioche. Meanwhile, **Fortified Wines** are those to which a spirit like brandy is added during or after fermentation, raising the alcohol content to 15-22%.
+Explanation: Cava is Spain's jewel, democratizing the prestige of Champagne at a more affordable price point.
+
+It undergoes the meticulous Traditional Method (secondary fermentation in the bottle), gaining subtle notes of Apple, Pear (Green fruit), and light brioche.
+
+Meanwhile, Fortified Wines are those to which a spirit like brandy is added during or after fermentation, raising the alcohol content to 15-22%.
 
 ---
 
@@ -23,17 +27,22 @@ D. Changes any wine into a shot of soju instantly.
 
 A summary of sparkling and fortified entry points:
 
-1.  **Cava (Spain)**: Produced via the Traditional Method. Defined by **Green Apple, Pear**, and subtle lees character.
-2.  **Prosecco (Italy)**: Produced via the **Tank Method**. Known for its fresh, fruit-forward profile with **Peach and Floral** notes.
-3.  **Asti (Italy)**: A sweet, low-alcohol sparkling wine from Piemonte using the **Asti Method**.
-4.  **Fortification**: The technique of adding alcohol to wine. This can occur mid-fermentation to preserve sweetness (e.g., Port) or after fermentation to create dry styles (e.g., Fino Sherry).
+1.  Cava (Spain): Produced via the Traditional Method. Defined by Green Apple, Pear, and subtle lees character.
+
+2.  Prosecco (Italy): Produced via the Tank Method. Known for its fresh, fruit-forward profile with Peach and Floral notes.
+
+3.  Asti (Italy): A sweet, low-alcohol sparkling wine from Piemonte using the Asti Method.
+
+4.  Fortification: The technique of adding alcohol to wine. This can occur mid-fermentation to preserve sweetness (e.g., Port) or after fermentation to create dry styles (e.g., Fino Sherry).
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that both Cava and Prosecco use secondary fermentation in the bottle. Remember that Cava uses the bottle (**Traditional Method**), while Prosecco uses a large pressure tank (**Tank Method**).
-**[Tip]**: In the exam, if you see **'Secondary fermentation in the bottle'** or **'Spain'** combined with sparkling wine, look for Cava.
+[Trap]: Do not assume that both Cava and Prosecco use secondary fermentation in the bottle.
+
+Remember that Cava uses the bottle (Traditional Method), while Prosecco uses a large pressure tank (Tank Method).
+[Tip]: In the exam, if you see 'Secondary fermentation in the bottle' or 'Spain' combined with sparkling wine, look for Cava.
 
 ---
 
@@ -48,8 +57,11 @@ Born through the same painstaking process as Champagne, Spain’s pride, 'Cava',
 
 [Reason]
 Sparkling & Fortified Formula:
+
 1. Cava: The iconic Spanish Traditional Method sparkling wine.
+
 2. Feature: High quality at a great price, sharing the same production process as Champagne.
+
 3. Point: Fresh aromas of apple and pear with fine carbonation.
 
 [Tip]

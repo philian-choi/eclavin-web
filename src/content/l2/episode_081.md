@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 전 세계에서 고품질 와인 생산을 위한 포도 재배가 가능한 가장 일반적인 위도(Latitude) 범위는 어디인가요?**
+Q. 전 세계에서 고품질 와인 생산을 위한 포도 재배가 가능한 가장 일반적인 위도(Latitude) 범위는 어디인가요?
 
 A. 적도 바로 위 (Equator) 0~10도
 B. 북반구와 남반구의 위도 30~50도 사이
@@ -13,9 +13,13 @@ D. 모든 위도를 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 북반구와 남반구의 위도 30~50도 사이**
+정답: B. 북반구와 남반구의 위도 30~50도 사이
 
-**해설**: **위도 30~50도**는 포도 나무가 가장 행복해하는 '골디락스 존'입니다. 너무 뜨겁지도, 너무 춥지도 않아 당분과 산도의 완벽한 밸런스를 빚어낼 수 있는 황금 구간입니다. **서늘한 기후(Cool climate)**에서는 높은 산도와 녹색 사과, 시트러스 풍미가 주를 이루고, **따뜻한 기후(Warm climate)**에서는 낮은 산도와 열대 과일, 블랙베리 풍미가 도드라진다는 점을 명확히 이해해야 합니다.
+해설: 위도 30~50도는 포도 나무가 가장 행복해하는 '골디락스 존'입니다.
+
+너무 뜨겁지도, 너무 춥지도 않아 당분과 산도의 완벽한 밸런스를 빚어낼 수 있는 황금 구간입니다.
+
+서늘한 기후(Cool climate)에서는 높은 산도와 녹색 사과, 시트러스 풍미가 주를 이루고, 따뜻한 기후(Warm climate)에서는 낮은 산도와 열대 과일, 블랙베리 풍미가 도드라진다는 점을 명확히 이해해야 합니다.
 
 ---
 
@@ -23,18 +27,24 @@ D. 모든 위도를 한순간에 소금물로 바꾼다.
 
 기후와 위도가 결정하는 와인의 성격 요약입니다.
 
-1.  **Golden Latitude**: 30~50°. 포도 재배의 전 세계 공통 황금 위도입니다.
-2.  **Cool Climate**: High acid, Light body. (Green apple, Citrus, Grass).
-3.  **Moderate Climate**: Medium acid, Medium body. (Peach, Plum, Cherry).
-4.  **Warm/Hot Climate**: Low acid, Full body, High alcohol. (Pineapple, Blackberry, Fig).
-5.  **Climate Modifiers**: 고도(Altitude)가 높거나 차가운 해류(Ocean currents) 근처면 낮은 위도에서도 서늘한 기후를 형성할 수 있습니다.
+1.  Golden Latitude: 30~50°. 포도 재배의 전 세계 공통 황금 위도입니다.
+
+2.  Cool Climate: High acid, Light body. (Green apple, Citrus, Grass).
+
+3.  Moderate Climate: Medium acid, Medium body. (Peach, Plum, Cherry).
+
+4.  Warm/Hot Climate: Low acid, Full body, High alcohol. (Pineapple, Blackberry, Fig).
+
+5.  Climate Modifiers: 고도(Altitude)가 높거나 차가운 해류(Ocean currents) 근처면 낮은 위도에서도 서늘한 기후를 형성할 수 있습니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "적도 부근(0~10도)은 햇빛이 강해서 와인 포도가 가장 잘 자란다"라고 하면 오답입니다. 너무 뜨거우면 포도가 타버리거나 밸런스가 무너집니다.
-**[팁]**: 시험에서 **'High altitude/Cooling influence'**가 나오면 아르헨티나의 카파야테나 칠레의 해안 지역처럼 위도가 낮아도 서늘한 예외 사례를 생각하세요.
+[함정]: "적도 부근(0~10도)은 햇빛이 강해서 와인 포도가 가장 잘 자란다"라고 하면 오답입니다.
+
+너무 뜨거우면 포도가 타버리거나 밸런스가 무너집니다.
+[팁]: 시험에서 'High altitude/Cooling influence'가 나오면 아르헨티나의 카파야테나 칠레의 해안 지역처럼 위도가 낮아도 서늘한 예외 사례를 생각하세요.
 
 ---
 
@@ -49,8 +59,11 @@ D. 모든 위도를 한순간에 소금물로 바꾼다.
 
 [Reason]
 위도와 기후 연금술 공식:
+
 1. 위도: 보편적으로 30~50도 사이에서 최고의 와인용 포도가 자람 (Latitude)
+
 2. 특징: 고도(Altitude)와 바닷바람(Ocean)이 기후를 조절하는 중요한 변수
+
 3. 결과: 기후의 차이는 곧 와인 속 산도와 알코올의 밸런스를 결정함
 
 [Tip]

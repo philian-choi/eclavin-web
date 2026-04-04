@@ -2,9 +2,9 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. What is the key characteristic of Chardonnay produced in the 'Chablis' region of Burgundy, France, formed by its cool climate and specific soil?**
+Q. What is the key characteristic of Chardonnay produced in the 'Chablis' region of Burgundy, France, formed by its cool climate and specific soil?
 
-A. **High acidity with notes of lemon and mineral (wet stone)**
+A. High acidity with notes of lemon and mineral (wet stone)
 B. Low acidity with flavors of pineapple and intense oak
 C. Very sweet residual sugar with acacia aromas
 D. Instantly changes all classy whites into a shot of salt water.
@@ -13,9 +13,13 @@ D. Instantly changes all classy whites into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: A. High acidity with notes of lemon and mineral (wet stone)**
+Answer: A. High acidity with notes of lemon and mineral (wet stone)
 
-**Explanation**: **Chablis** is the benchmark for Chardonnay grown in a cool climate. It typically avoids oak, emphasizing high acidity, sharp lemon notes, and minerality. In contrast, **Sauvignon Blanc** shows different charms, boasting intense grass, gooseberry, and tropical fruit aromas in regions like **Sancerre** or **Marlborough**.
+Explanation: Chablis is the benchmark for Chardonnay grown in a cool climate.
+
+It typically avoids oak, emphasizing high acidity, sharp lemon notes, and minerality.
+
+In contrast, Sauvignon Blanc shows different charms, boasting intense grass, gooseberry, and tropical fruit aromas in regions like Sancerre or Marlborough.
 
 ---
 
@@ -23,18 +27,22 @@ D. Instantly changes all classy whites into a shot of salt water.
 
 A deep dive summary into the two white wine masters:
 
-1.  **Chardonnay (Cool/Moderate/Warm)**: Transforms artistically according to climate (Lemon -> Peach -> Pineapple). It is the 'blank canvas' variety most receptive to winemaking influences like oak, MLF (buttery), and lees aging (creamy).
-2.  **Sauvignon Blanc (Cool/Moderate)**: An intensely aromatic variety. It is characterized by high acidity and notes of grass and asparagus (cool) or passion fruit (warm), typically fermented fresh in stainless steel tanks.
-3.  **Classic Regions**:
-    *   **Chardonnay**: Chablis, Meursault, Puligny-Montrachet, Napa Valley, Adelaide Hills.
-    *   **Sauvignon Blanc**: Sancerre, Pouilly-Fumé, Marlborough, Constantia.
+1.  Chardonnay (Cool/Moderate/Warm): Transforms artistically according to climate (Lemon -> Peach -> Pineapple). It is the 'blank canvas' variety most receptive to winemaking influences like oak, MLF (buttery), and lees aging (creamy).
+
+2.  Sauvignon Blanc (Cool/Moderate): An intensely aromatic variety. It is characterized by high acidity and notes of grass and asparagus (cool) or passion fruit (warm), typically fermented fresh in stainless steel tanks.
+
+3.  Classic Regions:
+    *   Chardonnay: Chablis, Meursault, Puligny-Montrachet, Napa Valley, Adelaide Hills.
+    *   Sauvignon Blanc: Sancerre, Pouilly-Fumé, Marlborough, Constantia.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Chardonnay smells like butter and oak without exception. Remember that pure Chardonnay, such as Chablis, exists and avoids the use of oak to preserve its natural character.
-**[Tip]**: In the exam, link **'Sancerre'** with **'High acidity / Aromatic Sauvignon Blanc'**.
+[Trap]: Do not assume all Chardonnay smells like butter and oak without exception.
+
+Remember that pure Chardonnay, such as Chablis, exists and avoids the use of oak to preserve its natural character.
+[Tip]: In the exam, link 'Sancerre' with 'High acidity / Aromatic Sauvignon Blanc'.
 
 ---
 
@@ -49,8 +57,11 @@ Do you know the deep dive into the two white masters loved by the world? From th
 
 [Reason]
 White Variety Deep Dive Formula:
+
 1. Chardonnay: The blank canvas for infinite transformations through climate and technique (Chardonnay).
+
 2. Sauvignon Blanc: The star of lofty acidity and aromatic feasts (Sauvignon Blanc).
+
 3. Point: The geographical contrast between Chablis and Marlborough is the textbook of white wines.
 
 [Tip]

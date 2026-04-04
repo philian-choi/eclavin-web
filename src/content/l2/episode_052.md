@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스 '보졸레(Beaujolais)' 지역에서 생산되며, '탄소 침용(Carbonic Maceration)' 방식을 통해 풍선껌(Bubblegum), 바나나, 시나몬 풍미를 얻는 낮은 타닌의 레드 품종은 무엇인가요?**
+Q. 프랑스 '보졸레(Beaujolais)' 지역에서 생산되며, '탄소 침용(Carbonic Maceration)' 방식을 통해 풍선껌(Bubblegum), 바나나, 시나몬 풍미를 얻는 낮은 타닌의 레드 품종은 무엇인가요?
 
 A. 남아공의 피노타주 (Pinotage)
 B. 프랑스의 가메 (Gamay)
@@ -13,9 +13,15 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 프랑스의 가메 (Gamay)**
+정답: B. 프랑스의 가메 (Gamay)
 
-**해설**: **가메(Gamay)**는 보졸레의 심장입니다. 껍질이 얇아 색이 옅고 타닌이 낮지만, 산도가 높아 아주 신선합니다. 특히 보졸레 누보와 같은 와인은 **탄소 침용(Carbonic Maceration)** 과정을 통해 버블검과 바나나 향을 입히는 것이 특징입니다. 한편, **피노타주(Pinotage)**는 남아공의 독자적인 품종으로, 피노 누아와 생소(Cinsault)를 교배하여 묵직한 바디와 검은 과실, 그리고 숙성 시 **커피(Coffee), 연기, 고기** 풍미를 자랑합니다.
+해설: 가메(Gamay)는 보졸레의 심장입니다.
+
+껍질이 얇아 색이 옅고 타닌이 낮지만, 산도가 높아 아주 신선합니다.
+
+특히 보졸레 누보와 같은 와인은 탄소 침용(Carbonic Maceration) 과정을 통해 버블검과 바나나 향을 입히는 것이 특징입니다.
+
+한편, 피노타주(Pinotage)는 남아공의 독자적인 품종으로, 피노 누아와 생소(Cinsault)를 교배하여 묵직한 바디와 검은 과실, 그리고 숙성 시 커피(Coffee), 연기, 고기 풍미를 자랑합니다.
 
 ---
 
@@ -23,16 +29,20 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 이색적인 레드 듀오, 가메와 피노타주의 핵심 요약입니다.
 
-1.  **Gamay (Beaujolais, France)**: 가벼운~중간 바디(Light to Medium), 낮은 타닌, 높은 산도. 라즈베리, 레드 체리, 그리고 **풍선껌/바나나(Bubblegum/Banana)** 아로마가 특징입니다.
-2.  **Pinotage (Western Cape, South Africa)**: 중간~묵직한 바디(Medium to Full). 블랙베리, **커피(Coffee), 연기(Smoke), 가죽/고기** 풍미가 시그니처입니다.
-3.  **Winemaking**: 가메는 탄소 침용을 통해 신선함을 극대화하고, 피노타주는 오크 숙성을 통해 복합미를 완성합니다.
+1.  Gamay (Beaujolais, France): 가벼운~중간 바디(Light to Medium), 낮은 타닌, 높은 산도. 라즈베리, 레드 체리, 그리고 풍선껌/바나나(Bubblegum/Banana) 아로마가 특징입니다.
+
+2.  Pinotage (Western Cape, South Africa): 중간~묵직한 바디(Medium to Full). 블랙베리, 커피(Coffee), 연기(Smoke), 가죽/고기 풍미가 시그니처입니다.
+
+3.  Winemaking: 가메는 탄소 침용을 통해 신선함을 극대화하고, 피노타주는 오크 숙성을 통해 복합미를 완성합니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "보졸레 와인은 항상 산도가 매우 낮고 타닌이 강하다"라고 생각하면 오답입니다. 이들은 가벼운 타닌과 **'High Acidity'**가 핵심임을 명심하세요.
-**[팁]**: 시험에서 **'Light to Medium body/Red fruit/Bubblegum'**과 함께 **'Beaujolais'**가 나오면 가메를, **'Full-bodied/Coffee/Smoke'**와 함께 **'South Africa'**가 나오면 피노타주를 찾으세요.
+[함정]: "보졸레 와인은 항상 산도가 매우 낮고 타닌이 강하다"라고 생각하면 오답입니다.
+
+이들은 가벼운 타닌과 'High Acidity'가 핵심임을 명심하세요.
+[팁]: 시험에서 'Light to Medium body/Red fruit/Bubblegum'과 함께 'Beaujolais'가 나오면 가메를, 'Full-bodied/Coffee/Smoke'와 함께 'South Africa'가 나오면 피노타주를 찾으세요.
 
 ---
 
@@ -47,7 +57,9 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 이색 레드 공식:
+
 1. 가메: 레드 체리, 풍선껌, 시나몬 (Beaujolais)
+
 2. 피노타주: 블랙베리, 커피, 훈제 (South Africa)
 
 [Tip]

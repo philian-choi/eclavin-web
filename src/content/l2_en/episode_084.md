@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Primarily grown on the 'Right Bank' of Bordeaux in regions like 'Saint-Émilion' and 'Pomerol', which grape variety is characterized by soft tannins and flavors of plum and cherry?**
+Q. Primarily grown on the 'Right Bank' of Bordeaux in regions like 'Saint-Émilion' and 'Pomerol', which grape variety is characterized by soft tannins and flavors of plum and cherry?
 
 A. Pinot Noir
-B. **Merlot**
+B. Merlot
 C. Cabernet Sauvignon
 D. Instantly changes any red into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any red into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Merlot**
+Answer: B. Merlot
 
-**Explanation**: **Merlot** is a world-renowned variety famous for its soft tannins and rich plum flavors. It thrives in the clay soils of Bordeaux's Right Bank and has lower acidity and tannins than Cabernet Sauvignon, making it very approachable. In contrast, **Pinot Noir** is a delicate, 'aristocratic' variety with thin skins, resulting in pale color, high acidity, and fresh red fruit (strawberry, cherry) aromas.
+Explanation: Merlot is a world-renowned variety famous for its soft tannins and rich plum flavors.
+
+It thrives in the clay soils of Bordeaux's Right Bank and has lower acidity and tannins than Cabernet Sauvignon, making it very approachable.
+
+In contrast, Pinot Noir is a delicate, 'aristocratic' variety with thin skins, resulting in pale color, high acidity, and fresh red fruit (strawberry, cherry) aromas.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any red into a shot of salt water.
 
 A summary of the masters of softness and delicacy:
 
-1.  **Merlot**: Medium acidity, medium tannins. (Plum, Cherry, Fruit cake). Dominant in Bordeaux's Right Bank, Chile, and California.
-2.  **Pinot Noir**: High acidity, low tannins. (Strawberry, Cherry, Mushroom). Iconic in Burgundy, Oregon, and New Zealand.
-3.  **Climate Contrast**: Merlot prefers moderate climates, while Pinot Noir strictly requires a cool climate to preserve its delicate aromas.
-4.  **Aging**: Pinot Noir develops aromas of mushroom and forest floor as it ages. Merlot gains complexity through oak aging with notes of chocolate and vanilla.
-5.  **Texture**: Merlot provides a velvety, mouth-filling texture.
+1.  Merlot: Medium acidity, medium tannins. (Plum, Cherry, Fruit cake). Dominant in Bordeaux's Right Bank, Chile, and California.
+
+2.  Pinot Noir: High acidity, low tannins. (Strawberry, Cherry, Mushroom). Iconic in Burgundy, Oregon, and New Zealand.
+
+3.  Climate Contrast: Merlot prefers moderate climates, while Pinot Noir strictly requires a cool climate to preserve its delicate aromas.
+
+4.  Aging: Pinot Noir develops aromas of mushroom and forest floor as it ages. Merlot gains complexity through oak aging with notes of chocolate and vanilla.
+
+5.  Texture: Merlot provides a velvety, mouth-filling texture.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume Pinot Noir cannot age as well as other reds. Masterpieces like those from Romanée-Conti can age for decades, showing amazing complexity.
-**[Tip]**: In the exam, link **'Soft tannin/Plum/Right bank'** with Merlot, and **'Thin skin/Low tannin/Aged complexity'** with Pinot Noir.
+[Trap]: Do not assume Pinot Noir cannot age as well as other reds.
+
+Masterpieces like those from Romanée-Conti can age for decades, showing amazing complexity.
+[Tip]: In the exam, link 'Soft tannin/Plum/Right bank' with Merlot, and 'Thin skin/Low tannin/Aged complexity' with Pinot Noir.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the allure of red wine's soft embrace, represented by Merlot and Pin
 
 [Reason]
 Red Variety Alchemy Formula:
+
 1. Merlot: The embrace of soft tannins and the temptation of plum (Merlot).
+
 2. Pinot Noir: The delicacy of high acidity and the secret of cherries (Pinot Noir).
+
 3. Point: The texture duel between Bordeaux's Right Bank and Burgundy is the essence of reds.
 
 [Tip]

@@ -19,15 +19,11 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
     selected,
     isCorrect,
     mounted,
-    showSwipeHint,
-    setShowSwipeHint,
     explanationRef,
     hasNext,
     hasPrev,
     getUrl,
-    handleSelect,
-    navigateNext,
-    navigatePrev
+    handleSelect
   } = useEpisodeQuiz(episode, lang);
 
   return (
@@ -43,17 +39,7 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
         </span>
       </header>
 
-      <motion.div 
-        drag="x" 
-        dragConstraints={{ left: 0, right: 0 }} 
-        dragElastic={0.4} 
-        onDragEnd={(_, info) => {
-          if (info.offset.x < -50 && hasNext) navigateNext();
-          else if (info.offset.x > 50 && hasPrev) navigatePrev();
-        }} 
-        style={{ touchAction: 'pan-y' }}
-        whileTap={{ cursor: 'grabbing' }}
-      >
+      <div>
         <section aria-labelledby="episode-question">
           <h2 id="episode-question" className="font-heading question-text">
             {episode.question}
@@ -85,8 +71,6 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
               );
             })}
           </div>
-
-          {mounted && !selected && <p className="keyboard-hint">{t.keyHint}</p>}
         </section>
 
         <AnimatePresence>
@@ -107,47 +91,37 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
               )}
 
               {episode.tip && (
-                <aside className="quiz-explanation" style={{ backgroundColor: 'var(--text-primary)', color: 'var(--bg-primary)' }}>
+                <aside className="quiz-explanation" style={{ backgroundColor: 'var(--text-primary)', color: 'var(--bg-primary)', marginBottom: '4rem' }}>
                    <h4 className="font-heading" style={{ color: 'var(--bg-primary)', marginBottom: '0.8rem' }}>{t.tip}</h4>
                    <p style={{ opacity: 0.9 }}>{episode.tip}</p>
                 </aside>
               )}
             
-              <footer className="nav-footer-row">
-                 <Link href={hasPrev ? getUrl(episode.number - 1) : '#'}>
-                    <button className="pill-btn" style={{ padding: '0.8rem 1.8rem', opacity: hasPrev ? 1 : 0.3, pointerEvents: hasPrev ? 'auto' : 'none' }}>
-                       {t.prev}
-                    </button>
-                 </Link>
-                 {hasNext && (
-                   <Link href={getUrl(episode.number + 1)}>
-                      <button className="pill-btn active" style={{ padding: '0.8rem 2.2rem', gap: '8px' }}>
-                         {t.next} <ArrowRight size={18} />
-                      </button>
-                   </Link>
-                 )}
+              {/* Sticky Bottom Navigation Bar */}
+              <footer className="sticky-nav-bar animate-slide-up">
+                 <div className="nav-container">
+                    <Link href={hasPrev ? getUrl(episode.number - 1) : '#'}>
+                       <button className="pill-btn secondary" style={{ opacity: hasPrev ? 1 : 0.3, pointerEvents: hasPrev ? 'auto' : 'none' }}>
+                          <ArrowLeft size={18} /> {t.prev}
+                       </button>
+                    </Link>
+                    {hasNext && (
+                      <Link href={getUrl(episode.number + 1)}>
+                         <button className="pill-btn next-action-btn">
+                            {t.next} <ArrowRight size={20} />
+                         </button>
+                      </Link>
+                    )}
+                 </div>
               </footer>
 
-              <AppPromoCard t={t} />
+              <div style={{ paddingBottom: '2rem' }}>
+                <AppPromoCard t={t} />
+              </div>
             </section>
           )}
         </AnimatePresence>
-      </motion.div>
-
-      <AnimatePresence>
-        {showSwipeHint && (
-          <motion.div 
-            className="swipe-hint" 
-            initial={{ opacity: 0 }} 
-            animate={{ opacity: 1 }} 
-            exit={{ opacity: 0 }} 
-            onClick={() => setShowSwipeHint(false)}
-            style={{ top: '50%', transform: 'translate(-50%, -50%)' }}
-          >
-            {t.swipeHint}
-          </motion.div>
-        )}
-      </AnimatePresence>
+      </div>
     </article>
   );
 }

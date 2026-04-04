@@ -1,39 +1,47 @@
-# Episode 044: Wine Storage Recap (Final Prep - Protecting Your Investment)
+# Episode 044: Serving Temperatures (The Thermal Sweet Spot - Final Prep)
 
 ## [WSET L1 Practice Question]
 
-**Q. Why is it traditionally recommended to store wine bottles sealed with 'corks' on their side (horizontally)?**
+Q. What is the most ideal temperature for serving a full-bodied red wine like Cabernet Sauvignon?
 
-A. To save space in the wine cellar.
-B. **To keep the cork in contact with the wine, preventing it from drying out**.
-C. To allow sediment to settle in the neck of the bottle.
-D. To prevent the wine from becoming too cold.
+A. 6-10°C (Well chilled)
+B. 10-13°C (Chilled)
+C. 15-18°C (Room temperature)
+D. 20-25°C (Warm)
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. To keep the cork in contact with the wine, preventing it from drying out.**
+Answer: C. 15-18°C (Room temperature)
 
-**Explanation**: 1. **Horizontal Storage** ensures the liquid keeps the cork moist. If a cork dries out, it shrinks, allowing air to enter and **oxidize** the wine. 2. **Cool & Constant Temperature** is vital—fluctuations can cause the wine to expand and contract, potentially pushing the cork out. 3. **Away from Sunlight**: Bright light (Light Strike) can cause wine to develop stale, damp aromas. 4. Note: Bottles with **Screw caps** can be stored safely in any position.
+Explanation: When red wine is served at a room temperature of 15-18°C, the complex aromas and soft tannins that are characteristic of full-bodied styles are best expressed.
+
+If it's too cold, the tannins feel harsh and bitter, and the aroma becomes muted; if it's too warm, the heat of the alcohol can become overwhelmingly unpleasant.
+
+White and Rosé should be chilled to between 7-13°C for refreshing quality.
 
 ---
 
-## [Expert Concept]
+## [Expert Concept - Final Prep]
 
-The 3 Pillars of Wine Longevity.
+Memorize the 'Golden Temperature' by wine type!
 
-1.  **Temperature (Cool & Constant)**: Ideally between 10-15°C. Hot temperatures 'cook' the wine, while extreme cold can freeze it. Fluctuations are the hidden enemy.
-2.  **Darkness (Protection from Light)**: UV rays from sunlight or bright artificial light can damage a wine's delicate chemical structure, especially in clear bottles.
-3.  **Position (Horizontal for Corks)**: Keeping the cork 'fed' by the wine prevents the seal from failing. 
-4.  **Exceptions**: Modern closures like screw caps or glass stoppers do not require horizontal storage—they are airtight by design.
+1.  Sweet & Sparkling: 6-10°C. Well chilled. Necessary for bubble preservation and fresh sweetness.
+
+2.  White & Rosé: 7-13°C. Chilled. To emphasize fresh fruit aromas and acidity.
+
+3.  Light Red (Light Red): 13-15°C. Slightly chilled. (e.g., Beaujolais, Pinot Noir).
+
+4.  Medium/Full Red: 15-18°C. Typical room service temperature. (This is different from a hot summer room temperature!)
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not think all wine must be stored on its side. Only those with **Natural Corks** require horizontal storage to stay moist. 
-**[Tip]**: In a L1 exam, keywords like **'Moist Cork'** and **'Airtight Seal'** lead to **'Horizontal Storage'**.
+[Trap]: Avoid thinking that "white wine must always be as cold as ice."
+If it's too cold, the elegant aroma of a fine white wine may not be felt at all.
+[Tip]: In an exam, if 'Room temperature' appears, select '15-18°C'; if 'Well chilled' appears, select 'Sparkling/Sweet'!
 
 ---
 
@@ -41,27 +49,33 @@ The 3 Pillars of Wine Longevity.
 
 ### Threads Post
 [Hook]
-Are you accidentally 'killing' your favorite bottles of wine before you even pop the cork?
+If you bought expensive wine and didn't like it, there's an 80% chance the culprit was not the quality, but the 'temperature.'
 
 [Twist]
-Wine is a 'living' thing, and poor storage is its worst enemy. 
-- **Rule 1: Keep it Sideways**. If your bottle has a natural cork, lay it down. This keeps the cork moist and airtight. A dry cork = a spoiled, vinegary wine (**Oxidized**). 
-- **Rule 2: Keep it Cool**. Don't store wine on top of your fridge or near a radiator—the heat will 'cook' it. 
-- **Rule 3: Keep it Dark**. Sunlight is a silent killer. It ruins its delicate scents and turns it stale. 
-Storing your wine correctly ensures that consistent 'wow' factor when you finally pour a glass. Simple rules, big rewards. How do you store your collection?
+
+1. Reds that are too hot: The alcohol scent will hit your nose and your mouth will feel dry. It's easy to miss the essence of the wine because of the burning feeling.
+
+2. Whites like ice: The wine is frozen solid, and its fragrance has closed its door.
+
+15-18 degrees for red, 7-13 degrees for white and rosé, and 6-10 degrees for sparkling! Simply matching these temperatures transforms a 10,000-won wine into one worth 100,000 won. What is the temperature in your glass right now?
 
 [Reason]
-WSET L1 Storage Formula:
-1. Horizontal = Moist Cork (Prevents air entry).
-2. Cool/Constant = Prevents 'Cooking' and expansion.
-3. Dark = Prevents 'Light Strike' (Staleness).
+WSET Level 1 Temperature Formula:
+
+1. Heavy Red = Room temperature (15-18 degrees).
+
+2. Light Red = Slightly chilled (13-15 degrees).
+
+3. White/Rosé = Chilled (7-13 degrees).
+
+4. Sparkling/Dessert = Well chilled (6-10 degrees).
 
 [Tip]
-For short-term storage (bottles you'll drink this week), a kitchen counter is fine—but for long-term 'treasures,' a cool, dark cupboard is a must! 
+Try putting red wine in the fridge for 30 minutes before drinking it. You can encounter much clearer fruit scents!
 
 ### YouTube Shorts Script
-(0-3s) Stop killing your wine! Storage rules 101! 
-(3-15s) WSET Level 1 cheat sheet! **Store Sideways**! Keeps the cork moist and airtight! **Cool & Constant**! No radiators! **Darkness**! No sunlight! 
-(15-25s) Question! Why should cork-sealed wines be stored horizontally? 1. To make them colder, 2. To keep the cork moist, 3. To prevent sediment. 
-(25-35s) The answer is 2! Moist cork! A dry cork leads to **Oxidized** (vinegary) wine! 
-(35-45s) Protect your liquid gold! Subscribe and get that perfect score!
+(0-3s) The secret to reviving wine taste? The mystery of temperature!
+(3-15s) WSET Level 1 High-Score Formula! Service temperature guide! Heavy reds are pleasantly cool at 15-18 degrees! White and rosé are fresh at 7-13 degrees! Sparkling is at its coldest!
+(15-25s) Question! What is the appropriate serving temperature for sparkling wine and dessert wine? 1. Tea temperature, 2. Well chilled (6-10°C), 3. Minus 10 degrees.
+(25-35s) The answer is 2, Well chilled! The optimal temperature to fully enjoy the bubbles and sugar!
+(35-45s) The science of one sip, temperature management! Subscribe and let's get that perfect score!

@@ -1,42 +1,51 @@
-# Episode 035: Sherry & Port (The Fortified Giants - Mastery)
+# Episode 035: Sherry & Port (The Power of Fortification) - Fortified Wines
 
 ## [WSET L1 Practice Question]
 
-**Q. When comparing 'Sherry' and 'Port', which of the following is a key difference in their production process that results in their distinct sweetness levels?**
+Q. Which of the following is the most accurate description of the production process and typical characteristics of Port wine?
 
-A. Sherry is fortified *during* fermentation to stop it, leaving the wine sweet.
-B. **Port is fortified *during* fermentation to stop it (leaving it sweet), while Sherry is fortified *after* fermentation is complete (making it naturally dry)**.
-C. Both Sherry and Port are always low in alcohol, typically below 5% ABV.
-D. Both Sherry and Port are produced exclusively from white grapes in Italy.
+A. Alcohol is added after the fermentation is completely finished, and it is always a very tart white wine.
+B. High-concentration brandy is added during the fermentation process to stop the fermentation, resulting in sweetness and high alcohol.
+C. It has no aroma at all and is a low-cost wine made by injecting carbon dioxide gas.
+D. A non-alcoholic beverage with low acidity and 0% alcohol.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. Port is fortified *during* fermentation to stop it (leaving it sweet), while Sherry is fortified *after* fermentation is complete (making it naturally dry).**
+Answer: B. High-concentration brandy is added during the fermentation process to stop the fermentation, resulting in sweetness and high alcohol.
 
-**Explanation**: 1. **Port** (Portugal) is a sweet, fortified red wine. By adding grape spirit (brandy) while fermentation is still active, the yeast is killed, leaving residual sugar in the wine. 2. **Sherry** (Spain) is typically a dry, fortified wine. Fortification happens only *after* all the sugar has been converted to alcohol. Any sweet Sherry you encounter is usually a blend of dry Sherry with a sweetening agent.
+Explanation: Port wine is the prime example of 'Fortified' wine.
+
+Before the natural sugar in the grapes can fully convert into alcohol (mid-fermentation), a high-concentration spirit (brandy) is added to kill the yeast. This leaves residual sugar that makes the wine sweet, while the added brandy raises the alcohol content to between 19% and 22%.
+
+In contrast, Sherry is typically fortified after the fermentation is finished, often resulting in a dry style.
 
 ---
 
 ## [Expert Concept]
 
-Fortification is 'the art of strengthening a wine.'
+Fortified wine is defined by its 'Alcohol Strength':
 
-1.  **Sherry (Jerez, Spain)**: 
-    - **Fino**: Dry, pale, protected by a layer of yeast called **'Flor'**. Nutty, salty, fresh apple.
-    - **Oloroso**: Dry, dark, oxidatively aged (no Flor). Intense walnuts, caramel, dried fruit.
-2.  **Port (Douro Valley, Portugal)**: 
-    - **Ruby Port**: Youthful, fruity, deeply colored.
-    - **Reserve Ruby Port**: Higher quality, more concentrated fruit.
-3.  **Key Distinction**: Sherry is mostly dry and savory; Port is mostly sweet and fruity. Both are high in alcohol (typically 15-22% ABV).
+1.  What is Fortification?: Adding a high-concentration distilled spirit (like brandy) to wine to increase its alcohol content (typically 15-22%).
+
+2.  Sherry (Spain): 
+    - Timing: Fortified *after* fermentation (mostly dry styles). 
+    - Style: Ranges from fresh styles like Fino to heavy styles with almond aromas.
+
+3.  Port (Portugal): 
+    - Timing: Fortified *during* fermentation (always sweet styles). 
+    - Style: Ruby Port with intense black fruit aromas, or Tawny Port with nutty aromas.
+
+4.  Service: Due to the high alcohol content, it is served in smaller quantities in specialized glasses and is highly popular as a dessert wine.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Sherry is sweet. In fact, most high-quality Sherries (Fino/Oloroso) are bone-dry!
-**[Tip]**: In a L1 exam, **'Sweet + Portugal + Fortified'** = **Port**. **'Dry + Spain + Fortified'** = **Sherry**.
+[Trap]: Avoid thinking that "all fortified wines have spirits added after fermentation."
+The key focus for exams is that Port has spirits added *mid-fermentation* to preserve sweetness.
+[Tip]: In an exam, if 'Fortified' and 'Spain' appear, choose 'Sherry.' If 'Sweet' and 'Portugal' appear, choose 'Port.'
 
 ---
 
@@ -44,25 +53,31 @@ Fortification is 'the art of strengthening a wine.'
 
 ### Threads Post
 [Hook]
-Have you ever tasted a wine that's as strong as a spirit but as deep as a classic vintage?
+Mixing brandy into wine? It's not a ruined drink, but the world's most sweet and intense temptation: the story of 'Fortified Wine'.
 
 [Twist]
-1. **Sherry**: Spain's savory masterpiece. It's a journey into nuttiness, saltiness, and complex flor aromas. Because it's fortified *after* fermentation, it's naturally dry—perfect for serving with salty olives or cured ham.
-2. **Port**: Portugal's sweet, comforting giant. By stopping the fermentation mid-way with brandy, it keeps a luscious grape sweetness and a warm, full-bodied kick. It's the ultimate dessert companion for dark chocolate or blue cheese.
-Strengthen your wine knowledge with these two giants! Which one do you reach for as a digestif?
+This great wine began when the British started adding more alcohol to prevent wine from spoiling during long sea voyages.
+
+1. Portugal's Port: Brandy is dropped mid-fermentation! It preserves the natural sweetness of the grapes while pushing the alcohol up to 20%. The king of desserts.
+2. Spain's Sherry: Flavor is added to a dry wine after fermentation. The aromas of almonds and freshly baked bread are exquisite.
+
+An intensity that warms your whole body with just one glass! How about a glass of Port tonight as a sweet punctuation mark to finish your day perfectly?
 
 [Reason]
-WSET L1 Fortified Formula:
-1. Fortification timing: Port (During = Sweet) vs Sherry (After = Dry).
-2. ABV: Both are elevated (15% - 22%).
-3. Feature: These were traditionally the 'travel-proof' wines of history.
+WSET Level 1 Fortified Formula:
+
+1. Port = Fortified mid-fermentation = Sweet (Portugal).
+
+2. Sherry = Fortified after fermentation = Mostly Dry (Spain).
+
+3. Feature: High alcohol (15-22%), excellent preservation.
 
 [Tip]
-Serve Fino Sherry ice-cold as an aperitif, and Ruby Port slightly cool with a chocolate brownie!
+Port wine shows its true value when paired with chocolate desserts!
 
 ### YouTube Shorts Script
-(0-3s) The heavyweights of wine! Sherry vs Port! 
-(3-15s) WSET Level 1 cheat sheet! Spain's **Sherry** is fortified *after* fermentation—it's dry and nutty! Portugal's **Port** is fortified *during* fermentation—it's sweet and fruity! 
-(15-25s) Question! Which of these is a sweet red wine from Portugal? 1. Sherry, 2. Champagne, 3. Port. 
-(25-35s) The answer is 3! Port! It's the king of sweet, fortified wines! 
-(35-45s) The power and the sweetness! Subscribe and get that perfect score!
+(0-3s) The thrilling encounter between wine and spirits! Fortified Wine!
+(3-15s) WSET Level 1 High-Score Formula! Sherry and Port! Brandy is mixed in to raise the alcohol to 15-22%! The point is that sweet Port is mixed mid-fermentation, while dry Sherry is mixed after!
+(15-25s) Question! Which representative Portuguese wine preserves its sweetness by adding alcohol mid-fermentation? 1. Sherry, 2. Port, 3. Soju.
+(25-35s) The answer is 2, Port! The synonymous name for sweet and heavy dessert wine!
+(35-45s) The temptation of one intense sip, Fortified Wine! Subscribe and let's get that perfect score!

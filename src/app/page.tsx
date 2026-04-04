@@ -1,5 +1,6 @@
 import { Suspense } from 'react';
 import { Metadata } from 'next';
+import { headers } from 'next/headers';
 import { getAllEpisodes } from '@/lib/episodes';
 import EpisodeGridClient from '@/components/EpisodeGridClient';
 import ThemeToggle from '@/components/ThemeToggle';
@@ -9,20 +10,42 @@ import { getTranslations, Language } from '@/constants/translations';
 
 export async function generateMetadata({ searchParams }: { searchParams: Promise<{ lang?: string }> }): Promise<Metadata> {
   const resolvedSearchParams = await searchParams;
-  const lang: Language = resolvedSearchParams.lang === 'ko' ? 'ko' : 'en';
+  const headerList = await headers();
+  const country = headerList.get('x-vercel-ip-country') || 'US';
+  
+  const rawLang = resolvedSearchParams.lang;
+  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
+    ? rawLang 
+    : (country === 'KR' ? 'ko' : 'en');
   
   return {
-    title: lang === 'ko' ? 'Eclavin - 와인 지식의 모든 것' : 'Eclavin - Wine Knowledge Master',
+    title: lang === 'ko' ? '에클라뱅(Eclavin) - WSET 자격증 만점 합격 지름길' : 'Eclavin - Ultimate WSET Quiz Guide',
     description: lang === 'ko' 
-      ? 'WSET 합격을 위한 가장 완벽한 준비. 500개 이상의 기출 문제와 핵심 이론을 에디토리얼 디자인으로 만나보세요.' 
-      : 'The ultimate preparation for WSET. Access 500+ practice questions and expert theories in premium editorial design.',
+      ? '에클라뱅에서 엄선된 퀴즈와 전문가 이론으로 WSET 합격에 도전하세요. 500개 이상의 문제와 핵심 팁을 제공합니다.' 
+      : 'Eclavin provides curated WSET quizzes and expert theories. Master wine knowledge with 500+ questions and expert tips.',
+    openGraph: {
+      title: lang === 'ko' ? '에클라뱅(Eclavin) - WSET 자격증 만점 합격 지름길' : 'Eclavin - Ultimate WSET Quiz Guide',
+      description: lang === 'ko' 
+        ? '에클라뱅에서 엄선된 퀴즈와 전문가 이론으로 WSET 합격에 도전하세요.' 
+        : 'Master wine knowledge with Eclavin\'s curated WSET quizzes.',
+      images: ['https://www.eclavin.com/og-image.png'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      images: ['https://www.eclavin.com/og-image.png'],
+    }
   };
 }
 
 export default async function Home({ searchParams }: { searchParams: Promise<{ lang?: string }> }) {
   const resolvedSearchParams = await searchParams;
+  const headerList = await headers();
+  const country = headerList.get('x-vercel-ip-country') || 'US';
+  
   const rawLang = resolvedSearchParams.lang;
-  const lang: Language = rawLang === 'ko' ? 'ko' : 'en';
+  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
+    ? rawLang 
+    : (country === 'KR' ? 'ko' : 'en');
   
   // Data Fetching
   const l1Full = getAllEpisodes(1, lang);
@@ -66,7 +89,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
 
       <footer className="page-footer">
         <div className="footer-content">
-          <p>© 2026 Eclavin. Editorial Wine Education Platform.</p>
+          <p>© 2026 에클라뱅(Eclavin). Editorial Wine Education Platform.</p>
         </div>
       </footer>
     </main>

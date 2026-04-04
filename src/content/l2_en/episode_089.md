@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Among the wine classification systems of France, what is the highest hierarchy of appellation that proves strict production rules and geographical origin (AOC/AOP) have been followed?**
+Q. Among the wine classification systems of France, what is the highest hierarchy of appellation that proves strict production rules and geographical origin (AOC/AOP) have been followed?
 
 A. Vin de France
-B. **Appellation d'Origine Contrôlée (AOC)**
+B. Appellation d'Origine Contrôlée (AOC)
 C. Indication Géographique Protégée (IGP)
 D. Instantly changes any label into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes any label into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Appellation d'Origine Contrôlée (AOC)**
+Answer: B. Appellation d'Origine Contrôlée (AOC)
 
-**Explanation**: **AOC (or AOP)** is the pride of French wine. It reflects the terroir of a specific region and strictly regulates grape varieties, cultivation methods, and minimum alcohol content. **IGP/VDP** is less restrictive, and **Vin de France** is the broadest concept, emphasizing only variety and vintage. Reading this grade is the first step in decoding the value of a wine.
+Explanation: AOC (or AOP) is the pride of French wine.
+
+It reflects the terroir of a specific region and strictly regulates grape varieties, cultivation methods, and minimum alcohol content.
+
+IGP/VDP is less restrictive, and Vin de France is the broadest concept, emphasizing only variety and vintage.
+
+Reading this grade is the first step in decoding the value of a wine.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes any label into a shot of salt water.
 
 A summary of decoding European wine labels and hierarchies:
 
-1.  **France (AOP/AOC)**: Identity of the region. (Bordeaux, Burgundy, Sancerre).
-2.  **Italy (DOCG/DOC)**: The 'G' stands for a guarantee of national certification. (Barolo, Chianti Classico).
-3.  **Spain (DOCa/DO)**: Aging hierarchy (Crianza, Reserva, Gran Reserva) is particularly important.
-4.  **Germany (Prädikatswein)**: Hierarchy based on the sugar content of grapes at harvest. (Kabinett -> TBA).
-5.  **New World**: Emphasizes **variety (varietal)** labeling and proud brand names over regions.
+1.  France (AOP/AOC): Identity of the region. (Bordeaux, Burgundy, Sancerre).
+
+2.  Italy (DOCG/DOC): The 'G' stands for a guarantee of national certification. (Barolo, Chianti Classico).
+
+3.  Spain (DOCa/DO): Aging hierarchy (Crianza, Reserva, Gran Reserva) is particularly important.
+
+4.  Germany (Prädikatswein): Hierarchy based on the sugar content of grapes at harvest. (Kabinett -> TBA).
+
+5.  New World: Emphasizes variety (varietal) labeling and proud brand names over regions.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that if 'Crianza' is written on a label, it is the longest-aged wine in Spain. Crianza is the shortest aging stage, while 'Gran Reserva' is the peak.
-**[Tip]**: In the exam, if **'Estate Bottled'** or **'Mis en bouteille au château'** appears, link it with high-reliability wines managed directly by the producer from cultivation to bottling.
+[Trap]: Do not assume that if 'Crianza' is written on a label, it is the longest-aged wine in Spain.
+
+Crianza is the shortest aging stage, while 'Gran Reserva' is the peak.
+[Tip]: In the exam, if 'Estate Bottled' or 'Mis en bouteille au château' appears, link it with high-reliability wines managed directly by the producer from cultivation to bottling.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know why wine lovers worldwide stop in front of labels? From the pride gu
 
 [Reason]
 Label Decoding Alchemy Formula:
+
 1. French AOC: Guardians of perfect quality and tradition defined by law.
+
 2. Italian DOCG: The majesty of the strictest quality certified by the state.
+
 3. Spanish Reserva: The value of time spent sleeping in oak and bottle (Aging).
 
 [Tip]

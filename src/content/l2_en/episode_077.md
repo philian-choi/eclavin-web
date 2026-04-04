@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Primarily grown in the 'Chianti Classico' region of Tuscany, Italy, which grape variety is characterized by high acidity, high tannins, and notes of red cherry and dried herbs?**
+Q. Primarily grown in the 'Chianti Classico' region of Tuscany, Italy, which grape variety is characterized by high acidity, high tannins, and notes of red cherry and dried herbs?
 
 A. Nebbiolo from Piedmont
-B. **Sangiovese from Tuscany**
+B. Sangiovese from Tuscany
 C. Tempranillo from Rioja
 D. Instantly changes any wine into a shot of salt water.
 
@@ -13,9 +13,15 @@ D. Instantly changes any wine into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Sangiovese from Tuscany**
+Answer: B. Sangiovese from Tuscany
 
-**Explanation**: **Sangiovese** is the heart of Tuscany, known for its high acidity, high tannins, and elegant red cherry aromas. **Nebbiolo** from Piedmont also features high acid and tannins but is distinguished by signature notes of rose and tar. **Tempranillo** from Spain's Rioja offers softer tannins and characteristic vanilla flavors from oak aging. All these are guarded by strict European quality hierarchies that guarantee their excellence.
+Explanation: Sangiovese is the heart of Tuscany, known for its high acidity, high tannins, and elegant red cherry aromas.
+
+Nebbiolo from Piedmont also features high acid and tannins but is distinguished by signature notes of rose and tar.
+
+Tempranillo from Spain's Rioja offers softer tannins and characteristic vanilla flavors from oak aging.
+
+All these are guarded by strict European quality hierarchies that guarantee their excellence.
 
 ---
 
@@ -23,18 +29,24 @@ D. Instantly changes any wine into a shot of salt water.
 
 A summary of Italy, Spain, and Germany (Review):
 
-1.  **Italy (Tuscany)**: Sangiovese. (Chianti, Brunello). High acidity/tannins, red cherry, herbs.
-2.  **Italy (Piedmont)**: Nebbiolo. (Barolo, Barbaresco). High acidity/tannins, rose, tar.
-3.  **Spain (Rioja)**: Tempranillo. (Strawberry flavors, vanilla and coconut from oak).
-4.  **Germany (Prädikat)**: Kabinett, Spätlese, Auslese. (Hierarchy based on sugar content at harvest).
-5.  **Quality Terms**: DOCG/DOC (Italy), DOCa/DO (Spain). National guarantees for production methods and origin.
+1.  Italy (Tuscany): Sangiovese. (Chianti, Brunello). High acidity/tannins, red cherry, herbs.
+
+2.  Italy (Piedmont): Nebbiolo. (Barolo, Barbaresco). High acidity/tannins, rose, tar.
+
+3.  Spain (Rioja): Tempranillo. (Strawberry flavors, vanilla and coconut from oak).
+
+4.  Germany (Prädikat): Kabinett, Spätlese, Auslese. (Hierarchy based on sugar content at harvest).
+
+5.  Quality Terms: DOCG/DOC (Italy), DOCa/DO (Spain). National guarantees for production methods and origin.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume that a DOCG is always more expensive or tastes better than an IGT. While DOCG follows stricter regulations, some high-priced IGT masterpieces like Sassicaia exist. (Focus on the regulatory rigor for the L2 exam).
-**[Tip]**: In the exam, link **'High Acid/Tannin/Dried herbs'** with Sangiovese, and **'Vanilla/Strawberry'** with Tempranillo from Rioja.
+[Trap]: Do not assume that a DOCG is always more expensive or tastes better than an IGT.
+
+While DOCG follows stricter regulations, some high-priced IGT masterpieces like Sassicaia exist. (Focus on the regulatory rigor for the L2 exam).
+[Tip]: In the exam, link 'High Acid/Tannin/Dried herbs' with Sangiovese, and 'Vanilla/Strawberry' with Tempranillo from Rioja.
 
 ---
 
@@ -49,8 +61,11 @@ Do you know the seductive charm of Sangiovese under the hot sun of Tuscany and T
 
 [Reason]
 European Quality Alchemy Formula:
+
 1. Italy: The high-acid magic of Chianti (Sangiovese) and Barolo (Nebbiolo).
+
 2. Spain: DOCa and Tempranillo (Reserva) that honor maturation periods.
+
 3. Germany: The purity of Prädikat, where quality is determined by sugar levels at harvest.
 
 [Tip]

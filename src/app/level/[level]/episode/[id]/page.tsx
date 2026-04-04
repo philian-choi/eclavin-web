@@ -5,6 +5,7 @@ import LanguageToggle from '@/components/LanguageToggle';
 import { Suspense } from 'react';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
+import { headers } from 'next/headers';
 
 export async function generateStaticParams() {
   const params: { level: string; id: string }[] = [];
@@ -24,20 +25,24 @@ interface EpisodePageProps {
   searchParams: Promise<{ lang?: string }>;
 }
 
-const BASE_URL = 'https://eclavin.vercel.app';
+const BASE_URL = 'https://www.eclavin.com';
 
 export async function generateMetadata({ params, searchParams }: EpisodePageProps): Promise<Metadata> {
-  const [resolvedParams, resolvedSearchParams] = await Promise.all([params, searchParams]);
+  const [resolvedParams, resolvedSearchParams, headerList] = await Promise.all([params, searchParams, headers()]);
   const level = parseInt(resolvedParams.level);
+  const country = headerList.get('x-vercel-ip-country') || 'US';
+  
   const rawLang = resolvedSearchParams.lang;
-  const lang: Language = (rawLang === 'en' || rawLang === 'ko') ? rawLang : 'ko';
+  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
+    ? rawLang 
+    : (country === 'KR' ? 'ko' : 'en');
   const episode = getEpisode(level, resolvedParams.id, lang);
   if (!episode) return { title: 'Mastery Episode | Eclavin Wine Academy' };
   
   const canonicalUrl = `${BASE_URL}/level/${level}/episode/${resolvedParams.id}`;
   
   const title = lang === 'ko' 
-    ? `[WSET ${level}급 실전] 에피소드 ${episode.number} 마스터리 - 에클라빈`
+    ? `[WSET ${level}급 실전] 에피소드 ${episode.number} 마스터리 - 에클라뱅`
     : `WSET Level ${level} Mastery Episode ${episode.number} | Eclavin Wine Academy`;
   
   const description = lang === 'ko'
@@ -59,8 +64,8 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
     ],
     metadataBase: new URL(BASE_URL),
     other: {
-      'naver-site-verification': 'VERIFICATION_CODE_HERE',
-      'google-site-verification': 'VERIFICATION_CODE_HERE',
+      'naver-site-verification': '784865e7d742fae47c0a19a6337b28e2736cf1f0',
+      'google-site-verification': 'cLzx38Y_7Wre_sKiuBdZnQzj9KZFf7X4JI9S9nQt_4I',
       'ai-snippet': episode.explanation.substring(0, 160), // AI 요약용 전용 태그
       'naver-cue-friendly': 'true', // 네이버 AI 검색(CUE:) 최적화 지표
     },
@@ -110,10 +115,14 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
 }
 
 export default async function EpisodePage({ params, searchParams }: EpisodePageProps) {
-  const [resolvedParams, resolvedSearchParams] = await Promise.all([params, searchParams]);
+  const [resolvedParams, resolvedSearchParams, headerList] = await Promise.all([params, searchParams, headers()]);
   const level = parseInt(resolvedParams.level);
+  const country = headerList.get('x-vercel-ip-country') || 'US';
+  
   const rawLang = resolvedSearchParams.lang;
-  const lang: Language = (rawLang === 'en' || rawLang === 'ko') ? rawLang : 'ko';
+  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
+    ? rawLang 
+    : (country === 'KR' ? 'ko' : 'en');
   const episode = getEpisode(level, resolvedParams.id, lang);
 
   if (!episode) {
@@ -262,7 +271,7 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
   const seoLabels = lang === 'ko'
     ? { 
         answer: '정답 및 핵심 해설', theory: '마스터 교육 이론', tip: '합격 보장 팁', question: '실전 기출문제', 
-        home: '에클라빈 홈', level: `WSET 레벨 ${level} 마스터리`, ep: `에피소드 ${episode.number}`,
+        home: '에클라뱅 홈', level: `WSET 레벨 ${level} 마스터리`, ep: `에피소드 ${episode.number}`,
         more: '합격으로 가는 관련 마스터리 클러스터'
       }
     : { 
@@ -285,26 +294,26 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
         left: 0, 
         right: 0, 
         zIndex: 100, 
-        background: 'rgba(var(--bg-primary-rgb, 255, 255, 255), 0.7)', 
+        background: '#832d32', 
         backdropFilter: 'blur(12px)',
-        borderBottom: '1px solid var(--border-light)',
+        borderBottom: '1px solid rgba(255,255,255,0.1)',
         padding: '0.8rem 1.2rem',
         display: 'flex',
         justifyContent: 'center'
       }}>
         <div style={{ maxWidth: '650px', width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <a href={`/?lang=${lang}`} style={{ display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none', color: 'var(--text-primary)', fontWeight: 600 }}>
+          <a href={`/?lang=${lang}`} style={{ display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none', color: '#ffffff', fontWeight: 600 }}>
              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
               <polyline points="9 22 9 12 15 12 15 22"></polyline>
             </svg>
-            <span style={{ fontSize: '0.9rem' }}>Eclavin</span>
+            <span style={{ fontSize: '0.9rem' }}>{lang === 'ko' ? '에클라뱅' : 'Eclavin'}</span>
           </a>
-          <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
+          <div style={{ display: 'flex', gap: '12px', alignItems: 'center', color: '#ffffff' }}>
             <Suspense fallback={null}>
-              <LanguageToggle />
+              <LanguageToggle variant="header" />
             </Suspense>
-            <ThemeToggle />
+            <ThemeToggle variant="header" />
           </div>
         </div>
       </div>
@@ -318,7 +327,7 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }} />
 
       {/* Visible Breadcrumbs */}
-      <nav aria-label="Breadcrumb" className="animate-slide-up" style={{ maxWidth: '650px', margin: '0.5rem auto 2.5rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+      <nav aria-label="Breadcrumb" className="animate-slide-up" style={{ maxWidth: '650px', margin: '0.5rem auto 1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
         <ol style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', gap: '8px' }}>
           <li><a href={`/?lang=${lang}`} style={{ color: 'inherit', textDecoration: 'none' }}>{seoLabels.home}</a></li>
           <li>/</li>

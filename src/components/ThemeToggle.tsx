@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { Sun, Moon } from 'lucide-react';
 
-export default function ThemeToggle() {
+export default function ThemeToggle({ variant = 'default' }: { variant?: 'default' | 'header' }) {
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [mounted, setMounted] = useState(false);
 
@@ -27,6 +27,8 @@ export default function ThemeToggle() {
 
   if (!mounted) return <div style={{ width: '40px', height: '40px' }} />;
 
+  const isHeader = variant === 'header';
+
   return (
     <button
       onClick={toggleTheme}
@@ -38,20 +40,28 @@ export default function ThemeToggle() {
         width: '40px',
         height: '40px',
         borderRadius: '50%',
-        backgroundColor: 'var(--bg-secondary)',
-        border: '1px solid var(--border-light)',
-        color: 'var(--text-primary)',
+        backgroundColor: isHeader ? 'transparent' : 'var(--bg-secondary)',
+        border: `1px solid ${isHeader ? 'rgba(255,255,255,0.4)' : 'var(--border-light)'}`,
+        color: isHeader ? '#ffffff' : 'var(--text-primary)',
         cursor: 'pointer',
         transition: 'all var(--transition-md)',
-        boxShadow: 'var(--shadow-md)',
+        boxShadow: isHeader ? 'none' : 'var(--shadow-md)',
       }}
       onMouseEnter={(e) => {
-        e.currentTarget.style.transform = 'scale(1.1)';
-        e.currentTarget.style.backgroundColor = 'var(--bg-tertiary)';
+        if (!isHeader) {
+          e.currentTarget.style.transform = 'scale(1.1)';
+          e.currentTarget.style.backgroundColor = 'var(--bg-tertiary)';
+        } else {
+          e.currentTarget.style.backgroundColor = 'rgba(255,255,255,0.1)';
+        }
       }}
       onMouseLeave={(e) => {
-        e.currentTarget.style.transform = 'scale(1)';
-        e.currentTarget.style.backgroundColor = 'var(--bg-secondary)';
+        if (!isHeader) {
+          e.currentTarget.style.transform = 'scale(1)';
+          e.currentTarget.style.backgroundColor = 'var(--bg-secondary)';
+        } else {
+          e.currentTarget.style.backgroundColor = 'transparent';
+        }
       }}
     >
       {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}

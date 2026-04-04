@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 포르투갈(Portugal)의 '도우루(Douro)' 밸리에서 생산되는 '토니 포트(Tawny Port)' 와인의 숙성 과정에서 얻어지는 특징적인 풍미와 색상은 무엇인가요?**
+Q. 포르투갈(Portugal)의 '도우루(Douro)' 밸리에서 생산되는 '토니 포트(Tawny Port)' 와인의 숙성 과정에서 얻어지는 특징적인 풍미와 색상은 무엇인가요?
 
 A. 짙은 루비색과 신선한 딸기 풍미 (Deep ruby/Fresh strawberry)
 B. 갈색빛(Tawny color), 호두, 토피(Toffee), 카라멜, 말린 과일(Prune) 풍미
@@ -13,9 +13,15 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 갈색빛(Tawny color), 호두, 토피(Toffee), 카라멜, 말린 과일(Prune) 풍미**
+정답: B. 갈색빛(Tawny color), 호두, 토피(Toffee), 카라멜, 말린 과일(Prune) 풍미
 
-**해설**: **포트(Port)**는 발효 도중 77% 브랜디를 첨가하여 효모를 죽이고 당분을 가두는 **주정 강화 와인**입니다. **Ruby Port**는 큰 통에서 숙성하여 신선한 검은 과실미를 유지합니다. **LBV (Late Bottled Vintage)**는 한 해의 포도로 만들어 더 진한 농축미를 뽐내죠. 반면 **Tawny Port**는 작은 오크통에서 고의적으로 산화 숙성을 거치며 갈색빛으로 변하고, **호두, 토피, 카라멜** 같은 복합적인 풍미를 얻습니다.
+해설: 포트(Port)는 발효 도중 77% 브랜디를 첨가하여 효모를 죽이고 당분을 가두는 주정 강화 와인입니다.
+
+Ruby Port는 큰 통에서 숙성하여 신선한 검은 과실미를 유지합니다.
+
+LBV (Late Bottled Vintage)는 한 해의 포도로 만들어 더 진한 농축미를 뽐내죠.
+
+반면 Tawny Port는 작은 오크통에서 고의적으로 산화 숙성을 거치며 갈색빛으로 변하고, 호두, 토피, 카라멜 같은 복합적인 풍미를 얻습니다.
 
 ---
 
@@ -23,18 +29,24 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 포트 와인 스타일의 핵심 요약입니다.
 
-1.  **Ruby Port**: 저렴하고 대중적입니다. (Deep ruby, Sweet, Fresh black fruit).
-2.  **LBV (Late Bottled Vintage)**: 4~6년간 숙성 후 병입합니다. 루비보다 더 부드럽고 풍부한 타닌과 과실미를 가집니다.
-3.  **Tawny Port**: 산화 숙성(Oxidative)의 정수입니다. (Tawny/Brown color, Nutty, Toffee, Dried fruit).
-4.  **Vintage Port**: 최고의 해에만 생산하며, 병 속에서 수십 년간 숙성됩니다. (Complexity, Intense fruit, Sediment).
-5.  **Fortification**: 모든 포트 와인은 발효가 끝나기 전에 주정을 강화하므로 **'달콤함(Sweet)'**이 기본입니다.
+1.  Ruby Port: 저렴하고 대중적입니다. (Deep ruby, Sweet, Fresh black fruit).
+
+2.  LBV (Late Bottled Vintage): 4~6년간 숙성 후 병입합니다. 루비보다 더 부드럽고 풍부한 타닌과 과실미를 가집니다.
+
+3.  Tawny Port: 산화 숙성(Oxidative)의 정수입니다. (Tawny/Brown color, Nutty, Toffee, Dried fruit).
+
+4.  Vintage Port: 최고의 해에만 생산하며, 병 속에서 수십 년간 숙성됩니다. (Complexity, Intense fruit, Sediment).
+
+5.  Fortification: 모든 포트 와인은 발효가 끝나기 전에 주정을 강화하므로 '달콤함(Sweet)'이 기본입니다.
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "토니 포트는 발효가 완전히 끝난 뒤에 주정을 강화한다"라고 오해하면 오답입니다. 포트는 발효 **'중간'**에 주정을 첨가하여 천연 당분을 보존한다는 점을 명심하세요. (셰리와의 결정적 차이)
-**[팁]**: 시험에서 **'Oxidative aging'** 혹은 **'Nutty/Toffee'**는 토니 포트를, **'Deep color/Black fruit'**은 루비 포트를 연결하세요.
+[함정]: "토니 포트는 발효가 완전히 끝난 뒤에 주정을 강화한다"라고 오해하면 오답입니다.
+
+포트는 발효 '중간'에 주정을 첨가하여 천연 당분을 보존한다는 점을 명심하세요. (셰리와의 결정적 차이)
+[팁]: 시험에서 'Oxidative aging' 혹은 'Nutty/Toffee'는 토니 포트를, 'Deep color/Black fruit'은 루비 포트를 연결하세요.
 
 ---
 
@@ -49,8 +61,11 @@ D. 모든 와인을 한순간에 소주 맛으로 바꾼다.
 
 [Reason]
 포트 연금술 공식:
+
 1. 루비: 신선한 검은 과실, 묵직한 당도 (Ruby)
+
 2. 토니: 산화 숙성의 미학, 견과류, 토피 (Tawny)
+
 3. 특징: 발효 중간에 주정을 첨가(Fortification)하여 당도를 유지
 
 [Tip]

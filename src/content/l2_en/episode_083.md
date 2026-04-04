@@ -2,10 +2,10 @@
 
 ## [WSET L2 Practice Question]
 
-**Q. Primarily grown to high quality in the 'Sancerre' region of the Loire Valley, France, and 'Marlborough', New Zealand, which grape variety is characterized by high acidity and notes of grass and asparagus?**
+Q. Primarily grown to high quality in the 'Sancerre' region of the Loire Valley, France, and 'Marlborough', New Zealand, which grape variety is characterized by high acidity and notes of grass and asparagus?
 
 A. Chardonnay
-B. **Sauvignon Blanc**
+B. Sauvignon Blanc
 C. Riesling
 D. Instantly changes any white into a shot of salt water.
 
@@ -13,9 +13,13 @@ D. Instantly changes any white into a shot of salt water.
 
 ## [Answer & Explanation]
 
-**Answer: B. Sauvignon Blanc**
+Answer: B. Sauvignon Blanc
 
-**Explanation**: **Sauvignon Blanc** is an intensely aromatic variety, with high acidity and signature notes of grass, asparagus, and gooseberry. In contrast, **Chardonnay** is a 'blank canvas' variety that transforms dramatically depending on climate and winemaking techniques, often featuring oak influence. **Riesling** is distinguished by high acidity, floral scents, and a unique petroleum aroma.
+Explanation: Sauvignon Blanc is an intensely aromatic variety, with high acidity and signature notes of grass, asparagus, and gooseberry.
+
+In contrast, Chardonnay is a 'blank canvas' variety that transforms dramatically depending on climate and winemaking techniques, often featuring oak influence.
+
+Riesling is distinguished by high acidity, floral scents, and a unique petroleum aroma.
 
 ---
 
@@ -23,18 +27,24 @@ D. Instantly changes any white into a shot of salt water.
 
 A summary of the core differences between these two white wine giants:
 
-1.  **Chardonnay**: Non-aromatic. Flavors vary wildly by climate (Lemon -> Pineapple). Frequent oak, MLF, and lees maturation.
-2.  **Sauvignon Blanc**: Highly Aromatic. High acidity, fresh herbal and fruit notes (Grass, Passion fruit). Rarely oak-aged (except for Fumé Blanc).
-3.  **Regional Stars (Chardonnay)**: Chablis (Cool), Meursault (Body), Napa Valley (Full-bodied).
-4.  **Regional Stars (Sauvignon Blanc)**: Sancerre, Marlborough, Adelaide Hills.
-5.  **Pairing**: Sauvignon Blanc pairs excellently with savory goat cheese, while Chardonnay is a perfect match for fish dishes with buttery sauces.
+1.  Chardonnay: Non-aromatic. Flavors vary wildly by climate (Lemon -> Pineapple). Frequent oak, MLF, and lees maturation.
+
+2.  Sauvignon Blanc: Highly Aromatic. High acidity, fresh herbal and fruit notes (Grass, Passion fruit). Rarely oak-aged (except for Fumé Blanc).
+
+3.  Regional Stars (Chardonnay): Chablis (Cool), Meursault (Body), Napa Valley (Full-bodied).
+
+4.  Regional Stars (Sauvignon Blanc): Sancerre, Marlborough, Adelaide Hills.
+
+5.  Pairing: Sauvignon Blanc pairs excellently with savory goat cheese, while Chardonnay is a perfect match for fish dishes with buttery sauces.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all Sancerre wines have strong oak flavors. Sancerre Sauvignon Blanc is typically fermented in stainless steel tanks to preserve its fresh fruit and acidity.
-**[Tip]**: In the exam, link **'High Acid/Aromatic/Grass'** with Sauvignon Blanc, and **'Versatile/Oak/Butter'** with Chardonnay.
+[Trap]: Do not assume all Sancerre wines have strong oak flavors.
+
+Sancerre Sauvignon Blanc is typically fermented in stainless steel tanks to preserve its fresh fruit and acidity.
+[Tip]: In the exam, link 'High Acid/Aromatic/Grass' with Sauvignon Blanc, and 'Versatile/Oak/Butter' with Chardonnay.
 
 ---
 
@@ -49,8 +59,11 @@ Do you know the duel for honor between the two giants of white wine, Chardonnay 
 
 [Reason]
 White Variety Alchemy Formula:
+
 1. Sauvignon Blanc: Relentless refresh and feast of herbs (Sauvignon Blanc).
+
 2. Chardonnay: A blank canvas performing infinite transformations by climate and craft (Chardonnay).
+
 3. Point: The acidity duel between Sancerre and Chablis is the essence of whites.
 
 [Tip]

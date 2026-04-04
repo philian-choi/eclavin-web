@@ -1,37 +1,77 @@
-# Episode 019: Fortification Logic
+# Episode 019: Pinot Noir (The Fragile Beauty) - Black Grape Variety
 
 ## [WSET L1 Practice Question]
 
-**Q. Why is 'Port' (Port) typically a sweet (Sweet) style of fortified wine?**
+Q. Which of the following is the most accurate description of the typical characteristics of the Pinot Noir grape?
 
-A. Large amounts of sugar are added after fermentation is fully complete.
-B. Brandy (Spirits) is added during fermentation to stop the activity of the yeast.
-C. Sun-dried grapes are used to concentrate the sugar content.
-D. Honey water is mixed in just before bottling.
+A. Very thick skins, high tannin, and predominantly black fruit aromas.
+B. Thin skins, low tannin, high acidity, with fresh strawberry and red cherry flavors.
+C. No aroma at all, and always grown locally only in hot tropical regions.
+D. High sugar content, and always produced only as a sparkling wine.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. Brandy (Spirits) is added during fermentation to stop the activity of the yeast.**
+Answer: B. Thin skins, low tannin, high acidity, with fresh strawberry and red cherry flavors.
 
-**Explanation**: Port wine is produced by adding high-proof alcohol (such as brandy) while fermentation is still underway. This high alcohol level kills the yeast, which halts the fermentation process. As a result, the **natural sugar** that has not yet been converted into alcohol remains in the wine, creating its characteristic sweetness. This process increases the overall alcohol content while preserving the wine's natural sugar.
+Explanation: Pinot Noir is a very delicate variety, often called the 'Fickle Aristocrat.'
+
+Its thin skins result in pale color and low tannin, and they are accompanied by naturally high acidity for an elegant style.
+
+Typical aromas include red fruit such as strawberry, raspberry, and red cherry.
+
+It prefers cool or moderate climates.
 
 ---
 
 ## [Expert Concept]
 
-Core knowledge of fortification (Fortification) as defined by WSET Level 1:
+Pinot Noir is the pinnacle of 'Delicacy and Elegance':
 
-1.  **Definition of Fortified Wine**: A wine whose alcohol content has been increased (typically to 15–22% ABV) by the addition of neutral grape spirits (Spirits).
-2.  **Controlling Sweetness through Timing**:
-    - **Port**: Alcohol is added **during** fermentation to retain unfermented sugar, resulting in a sweet style.
-    - **Sherry**: Alcohol is typically added **after** fermentation is complete, which is why most Sherries are dry.
-3.  **Preservative Qualities**: Historically, the high alcohol content of fortified wines was intended to protect the wine from spoiling during long sea voyages.
+1.  Thin Skin: Determines the pale color, soft tannins, and high acidity.
+
+2.  Aromatic Profile: Strawberry, Red cherry, Raspberry, Rose, and earth (when matured).
+
+3.  Climate Sensitivity: If it's too hot, it loses its fresh aromas, so it thrives in cool or moderate climates.
+
+4.  Major Regions: Burgundy (France), Central Otago (New Zealand), Oregon (USA), etc.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Avoid the generalization that "All fortified wines are sweet." Some styles of Sherry, such as Fino, are among the driest wines in the world.
-**[Tip]**: Whenever the term 'Port' appears, always look for the combination of **'Sweet'** and **'Spirit added during fermentation.'** If an exam question mentions the 'Interruption of fermentation,' it is almost certainly referring to the production of Port.
+[Trap]: Avoid thinking that "Pinot Noir is always a deep and dark-colored wine."
+It's often a transparent ruby color that you can see through.
+[Tip]: If words like 'Strawberry' or 'Low Tannin' appear in the exam, always choose 'Pinot Noir.'
+The Goddess of red fruits is always Pinot Noir.
+
+---
+
+## [Threads & Shorts Scripts]
+
+### Threads Post
+[Hook]
+The one variety most wine lovers keep pining for, but winemakers call a 'heartbreaker' – Pinot Noir.
+
+[Twist]
+This grape is as delicate as glass. If it's slightly too hot, it loses its fragrance, and if it's slightly too cold, it freezes. But when it overcomes those hurdles and lands in the glass, it gives you a bouquet of strawberries and cherries more brilliant than any flower in the world. An elegance that flows like silk! Discover the sincerity within that transparent red light that makes people spend millions on a single bottle.
+
+[Reason]
+WSET Level 1 Pinot Noir Formula:
+
+1. Thin Skin = Pale color + Low tannin + High acidity.
+
+2. Signature Aroma: Strawberry & Cherry (Red fruits are the stars).
+
+3. Perfect Pairing: Roasted duck or mushroom dishes.
+
+[Tip]
+If the label says 'Pinot Noir,' you can expect a light and elegant wine as refined as perfume.
+
+### YouTube Shorts Script
+(0-3s) The variety of the world's most expensive wine? Pinot Noir!
+(3-15s) WSET Level 1 High-Score Formula! Pinot Noir! Its pale ruby color and low tannin from thin skins, and its fresh strawberry aroma are the signatures! The ultimate elegance that's light but deep!
+(15-25s) Question! What kind of climate does Pinot Noir prefer? 1. Very hot, 2. Cool or moderate, 3. Dry desert.
+(25-35s) The answer is 2! That's the only way to preserve its delicate aromas!
+(35-45s) The temptation of transparent red, Pinot Noir! Subscribe and get that perfect score!

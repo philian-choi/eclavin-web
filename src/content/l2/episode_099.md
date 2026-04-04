@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-**Q. 프랑스의 '샴페인(Champagne AOC)'을 만드는 전통 방식(Traditional Method)에서, 병 내 2차 발효 후 죽은 효모와 함께 숙성되는 '효모 자가분해(Yeast autolysis)'를 통해 형성되는 특징적인 풍미는 무엇인가요?**
+Q. 프랑스의 '샴페인(Champagne AOC)'을 만드는 전통 방식(Traditional Method)에서, 병 내 2차 발효 후 죽은 효모와 함께 숙성되는 '효모 자가분해(Yeast autolysis)'를 통해 형성되는 특징적인 풍미는 무엇인가요?
 
 A. 신선한 포도 즙과 사과 향
 B. 비스킷(Biscuit), 빵 반죽(Bread dough), 구운 토스트 풍미
@@ -13,9 +13,15 @@ D. 모든 거품의 품격을 한순간에 소금물로 바꾼다.
 
 ## [정답 및 해설]
 
-**정답: B. 비스킷(Biscuit), 빵 반죽(Bread dough), 구운 토스트 풍미**
+정답: B. 비스킷(Biscuit), 빵 반죽(Bread dough), 구운 토스트 풍미
 
-**해설**: **전통 방식(Traditional Method)**의 정체성은 '효모 숙성'에 있습니다. 병 속에서 효모가 스스로 분해되며 비스킷과 빵의 고소함을 더하죠. 이와 대조적으로 **프로세코(Prosecco)**는 탱크 방식(Tank Method)으로 신선한 과일 향을 지킵니다. 또한, 주정 강화 와인인 **셰리(Sherry)**와 **포트(Port)**, 그리고 증류주인 **위스키(Whisky)**와 **코냑(Cognac)** 역시 로열 컬렉션의 핵심 요소인 '기다림과 강화의 미학'을 공유합니다.
+해설: 전통 방식(Traditional Method)의 정체성은 '효모 숙성'에 있습니다.
+
+병 속에서 효모가 스스로 분해되며 비스킷과 빵의 고소함을 더하죠.
+
+이와 대조적으로 프로세코(Prosecco)는 탱크 방식(Tank Method)으로 신선한 과일 향을 지킵니다.
+
+또한, 주정 강화 와인인 셰리(Sherry)와 포트(Port), 그리고 증류주인 위스키(Whisky)와 코냑(Cognac) 역시 로열 컬렉션의 핵심 요소인 '기다림과 강화의 미학'을 공유합니다.
 
 ---
 
@@ -23,19 +29,26 @@ D. 모든 거품의 품격을 한순간에 소금물로 바꾼다.
 
 기포와 불꽃의 예술, 로열 컬렉션의 딥 다이브 요약입니다.
 
-1.  **Sparkling (Traditional)**: Champagne, Cava. (Second fermentation in bottle / Lees aging).
-2.  **Sparkling (Tank)**: Prosecco, Asti. (Fruit focus / Efficiency).
-3.  **Fortified (Sherry)**: 발효 후 강화. (Fino under Flor vs Oloroso oxidative).
-4.  **Fortified (Port)**: 발효 중 강화. (Ruby vs Tawny aging).
-5.  **Spirits (Aged)**: Whisky & Cognac. (Oak influence / Complexity).
-6.  **Spirits (Unaged)**: Vodka & Gin. (Purity & Botanicals).
+1.  Sparkling (Traditional): Champagne, Cava. (Second fermentation in bottle / Lees aging).
+
+2.  Sparkling (Tank): Prosecco, Asti. (Fruit focus / Efficiency).
+
+3.  Fortified (Sherry): 발효 후 강화. (Fino under Flor vs Oloroso oxidative).
+
+4.  Fortified (Port): 발효 중 강화. (Ruby vs Tawny aging).
+
+5.  Spirits (Aged): Whisky & Cognac. (Oak influence / Complexity).
+
+6.  Spirits (Unaged): Vodka & Gin. (Purity & Botanicals).
 
 ---
 
 ## [시험 함정 & 합격 팁]
 
-**[함정]**: "모든 스파클링 와인은 샴페인이라고 부를 수 있다"라고 하면 오답입니다. 프랑스 상파뉴(Champagne) 지역에서 전통 방식으로 만든 와인만이 그 이름을 가질 수 있음을 명심하세요.
-**[팁]**: 시험에서 **'Solera System'** 혹은 **'Flor'**가 나오면 **'Sherry'**를 즉시 연결하세요.
+[함정]: "모든 스파클링 와인은 샴페인이라고 부를 수 있다"라고 하면 오답입니다.
+
+프랑스 상파뉴(Champagne) 지역에서 전통 방식으로 만든 와인만이 그 이름을 가질 수 있음을 명심하세요.
+[팁]: 시험에서 'Solera System' 혹은 'Flor'가 나오면 'Sherry'를 즉시 연결하세요.
 
 ---
 
@@ -50,8 +63,11 @@ D. 모든 거품의 품격을 한순간에 소금물로 바꾼다.
 
 [Reason]
 로열 컬렉션 딥 다이브 공식:
+
 1. 샴페인: 전통 방식이 빚은 기포와 효모의 하모니 (Traditional Method)
+
 2. 주정 강화: 발효를 제어하고 영혼을 강화한 시간의 마법 (Port/Sherry)
+
 3. 스피릿: 증류와 숙성이 빚어낸 액체 불꽃 (Distilled Arts)
 
 [Tip]

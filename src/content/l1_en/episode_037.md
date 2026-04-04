@@ -1,44 +1,48 @@
-# Episode 037: Glassware & Decanting (The Aesthetics of Wine - Mastery)
+# Episode 037: Glassware & Decanting (The Ritual - Mastery)
 
 ## [WSET L1 Practice Question]
 
-**Q. Why is a 'Flute' glass typically recommended for serving sparkling wines like Champagne or Prosecco?**
+Q. What is the most primary reason for using a long and narrow 'Flute' or 'Tulip' shaped glass when serving sparkling wine?
 
-A. To make the wine taste warmer and more alcoholic.
-B. **To concentrate the delicate aromas and maintain the stream of bubbles for a longer duration**.
-C. To allow for easier sediment removal while drinking.
-D. To prevent the wine from becoming too sweet on the palate.
+A. To preserve the carbon dioxide (Bubbles) inside the wine for as long as possible.
+B. To heat the wine more strongly to feel its rich aroma.
+C. To make the color of the wine appear very deep.
+D. To perform decanting simultaneously.
 
 ---
 
 ## [Answer & Explanation]
 
-**Answer: B. To concentrate the delicate aromas and maintain the stream of bubbles for a longer duration.**
+Answer: A. To preserve the carbon dioxide (Bubbles) inside the wine for as long as possible.
 
-**Explanation**: 1. **Flute Glasses** are tall and narrow, which minimizes the surface area of the wine, helping to preserve the carbonation (bubbles) for as long as possible. 2. **Decanting** is used for two main purposes: to **aerate** young, powerful reds (allowing them to 'breathe') and to remove **sediment** from older, aged wines.
+Explanation: Bubbles are the life of sparkling wine.
+
+Flute or tulip glasses with a narrow opening and a long body slow down the escape of carbon dioxide into the air and are visually optimal for admiring the beautiful sight of bubbles rising.
 
 ---
 
 ## [Expert Concept]
 
-Wine tools are designed for 'Optimized Perception.'
+Perfecting wine service begins with 'choosing the right tools':
 
-1.  **Glassware Variations**:
-    - **Sparkling (Flute)**: Preserves bubbles and concentrates delicate fruit.
-    - **White (Medium Bowl)**: Balances acidity and freshness.
-    - **Red (Large Bowl)**: Increases aeration to soften tannins and release complex aromas.
-2.  **The Importance of the Stem**: Always hold the glass by the **stem**! This prevents your body heat from warming the wine and your fingerprints from obscuring its clarity.
-3.  **Decanting Scenarios**:
-    - **Young/Full-bodied Reds**: Aeration softens 'tight' tannins.
-    - **Aged Reds**: Separate clear wine from natural sediment (crust).
-4.  **Service Etiquette**: Always present the label as you pour, check the cork for integrity (not just for smelling!), and ensure the glassware is perfectly clean (free of detergent residue).
+1.  Glassware Types: 
+    - Sparkling Flute: Narrow and long to preserve carbonation.
+    - White Wine Glass: Reduces air contact to maintain a cool temperature and trap delicate aromas.
+    - Red Wine Glass: Features a wider opening to allow the wine to meet more oxygen and let the aromas bloom.
+
+2.  Decanting: 
+    - Aeration (Oxygenating): Opens up the muddled aromas of a wine by exposing it to oxygen.
+    - Sediment Removal: Filters out the dregs of old red wine to serve only clear wine.
+
+3.  Maintenance: Glasses should always be cleaned with clean hot water and polished with a lint-free cloth. They must be free of any foreign substances or odors that might affect the quality of the wine.
 
 ---
 
 ## [Exam Tip & Trap]
 
-**[Trap]**: Do not assume all wines need decanting. Light-bodied whites and very delicate aged reds may lose their freshness if over-aerated.
-**[Tip]**: In a L1 exam, keywords like **'Aeration'** and **'Sediment'** always lead to **'Decanting'**.
+[Trap]: Avoid thinking that "all wines must be decanted."
+Delicate white wines can actually lose their aroma if decanted.
+[Tip]: In an exam, connect 'Bubbles' with 'Flute/Tulip' and 'Sediment' with 'Decanting' keywords!
 
 ---
 
@@ -46,25 +50,29 @@ Wine tools are designed for 'Optimized Perception.'
 
 ### Threads Post
 [Hook]
-Is the 'fancy wine glass' just marketing? Think again. The glass is the 'speaker' of the wine.
+Have you ever wondered why you swirl the glass when drinking wine, and why you use wide glasses?
 
 [Twist]
-- **Sparkling**: The narrow 'Flute' is like a laser beam, keeping your bubbles fresh and focused.
-- **Red**: That big 'Fishbowl' glass isn't for showing off—it's to let the wine breathe and release all those complex oak and fruit scents.
-- **Service**: Never grab the bowl of the glass! Hold it by the stem. Not only does it look cooler, but it also stops your hand from turning your crisp white wine into lukewarm soup. Ready to upgrade your home wine experience?
+Wine tastes best when it 'breathes.'
+- Red Wine: When poured into a wide glass and gently shaken (Swirling), it meets oxygen and starts to emit hidden flower and fruit scents. Decanting is eventually for the same reason.
+- Sparkling: Conversely, if it breathes too much, precious bubbles fly away. That's why we put it in a narrow and long glass to protect the life of the bubbles. 
+One proper glass can turn an ordinary wine into a masterpiece. Would you like to check your wine glasses today? Enjoy the ritual of a perfect glass now!
 
 [Reason]
-WSET L1 Glassware Guide:
-1. Flute = Bubbles / Fresher aromatics.
-2. Large Glass = Red wine / Tannin softening.
-3. Decanter = Oxygen / Sediment removal.
+WSET Level 1 Service Tool Formula:
+
+1. Narrow Glass = Sparkling, White (Temperature and bubble preservation).
+
+2. Wide Glass = Red (Opening the aroma).
+
+3. Decanting = Sediment removal and aroma massage.
 
 [Tip]
-If you're drinking a serious red wine, pour it into a decanter 30 mins before—it's like letting a sleeping giant finally stretch its legs! 
+It's most important to rinse wine glasses with clean water so that no detergent scent remains!
 
 ### YouTube Shorts Script
-(0-3s) Why do wine glasses have different shapes? Mystery solved! 
-(3-15s) WSET Level 1 cheat sheet! Sparkling? **Flute** to keep bubbles! Red? **Large Bowl** to breathe! Why the **Stem**? To keep your hand-heat away! 
-(15-25s) Question! What are the two main purposes of decanting? 1. Cooling and Warming, 2. Aeration and Sediment removal, 3. Sugaring and Salting. 
-(25-35s) The answer is 2! Aeration and Sediment removal! It's how you wake up a hidden vintage! 
-(35-45s) Serve like a pro, taste like a master! Subscribe and get that perfect score!
+(0-3s) Swirling the wine glass? It's not about acting cool, it's science!
+(3-15s) WSET Level 1 essential concepts! Perfect summary of wine glasses and decanting! Narrow glasses to keep the precious bubbles! Wide glasses to explode the scent with an oxygen massage!
+(15-25s) Question! What is the way to separate the clear wine from the sediment of an old red wine? 1. Heating, 2. Decanting, 3. Cooling.
+(25-35s) The answer is 2, Decanting! A sophisticated technique that filters out impurities and opens the aroma!
+(35-45s) Elegant wine service, the secret is the glass! Subscribe and let's get that perfect score!
