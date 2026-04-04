@@ -76,26 +76,47 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
         <AnimatePresence>
           {selected && (
             <section ref={explanationRef} className="explanation-area animate-slide-up">
-              <div className="quiz-explanation" style={{ borderLeft: isCorrect ? '4px solid var(--success-border)' : '4px solid var(--error-border)' }}>
-                 <h4 className="font-heading" style={{ color: isCorrect ? 'var(--success-color)' : 'var(--error-color)', fontSize: '1.4rem', marginBottom: '0.8rem' }}>
-                    {isCorrect ? t.correct : t.incorrect}
-                 </h4>
-                 <p>{episode.explanation}</p>
+              <div className="quiz-explanation unified-card" style={{ 
+                backgroundColor: 'var(--bg-secondary)',
+                display: 'flex',
+                flexDirection: 'column',
+                gap: '2rem',
+                border: '1.5px solid var(--border-light)',
+                borderRadius: '20px'
+              }}>
+                 {/* 1. Main Explanation Section */}
+                 <div>
+                    <h4 className="font-heading" style={{ color: isCorrect ? 'var(--success-color)' : 'var(--error-color)', fontSize: '1.4rem', marginBottom: '0.8rem' }}>
+                       {isCorrect ? t.correct : t.incorrect}
+                    </h4>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>{episode.explanation}</p>
+                 </div>
+
+                 {/* 2. Theory Section (Optional) */}
+                 {episode.theory && (
+                    <div style={{ paddingTop: '2rem', borderTop: '1px solid var(--border-light)' }}>
+                       <h4 className="font-heading" style={{ color: 'var(--text-primary)', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                          {t.expert}
+                       </h4>
+                       <p style={{ color: 'var(--text-secondary)', fontSize: '1.05rem', lineHeight: '1.7' }}>{episode.theory}</p>
+                    </div>
+                 )}
+
+                 {/* 3. Tip Section (Optional) */}
+                 {episode.tip && (
+                    <div style={{ 
+                      padding: '1.5rem', 
+                      backgroundColor: 'var(--bg-tertiary)', 
+                      borderRadius: '12px',
+                      border: '1px solid var(--border-light)'
+                    }}>
+                       <h4 className="font-heading" style={{ color: 'var(--text-primary)', marginBottom: '0.8rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                          {t.tip}
+                       </h4>
+                       <p style={{ opacity: 0.9, color: 'var(--text-primary)', fontSize: '1.05rem', lineHeight: '1.6' }}>{episode.tip}</p>
+                    </div>
+                 )}
               </div>
-
-              {episode.theory && (
-                <div className="quiz-explanation" style={{ backgroundColor: 'transparent', border: '1px solid var(--border-light)' }}>
-                   <h4 className="font-heading" style={{ color: 'var(--text-primary)', marginBottom: '0.8rem' }}>{t.expert}</h4>
-                   <p style={{ whiteSpace: 'pre-wrap', color: 'var(--text-secondary)' }}>{episode.theory}</p>
-                </div>
-              )}
-
-              {episode.tip && (
-                <aside className="quiz-explanation" style={{ backgroundColor: 'var(--text-primary)', color: 'var(--bg-primary)', marginBottom: '4rem' }}>
-                   <h4 className="font-heading" style={{ color: 'var(--bg-primary)', marginBottom: '0.8rem' }}>{t.tip}</h4>
-                   <p style={{ opacity: 0.9 }}>{episode.tip}</p>
-                </aside>
-              )}
             
               {/* Sticky Bottom Navigation Bar */}
               <footer className="sticky-nav-bar animate-slide-up">
@@ -115,7 +136,7 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
                  </div>
               </footer>
 
-              <div style={{ paddingBottom: '2rem' }}>
+              <div style={{ paddingBottom: '2rem', marginTop: '2rem' }}>
                 <AppPromoCard t={t} />
               </div>
             </section>
