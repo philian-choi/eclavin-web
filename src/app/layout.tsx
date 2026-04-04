@@ -41,8 +41,8 @@ export const metadata: Metadata = {
     statusBarStyle: 'black-translucent',
   },
   icons: {
-    icon: '/favicon.ico',
-    apple: '/apple-icon.png',
+    icon: '/favicon.ico?v=2',
+    apple: '/apple-icon.png?v=2',
   },
   manifest: '/manifest.json',
   alternates: {
@@ -107,9 +107,8 @@ export default function RootLayout({
           }}
         />
         {/* Favicons */}
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="icon" href="/icon.png" type="image/png" />
-        <link rel="apple-touch-icon" href="/icon.png" />
+        <link rel="icon" href="/favicon.ico?v=2" sizes="any" />
+        {/* Next.js internal metadata will handle other icons */}
         
         {/* External Assets with Performance Preconnects */}
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
