@@ -1,6 +1,9 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
+import Script from 'next/script';
+import AnalyticsTracker from '@/components/AnalyticsTracker';
+import { Suspense } from 'react';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -9,7 +12,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.eclavin.com'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'https://www.eclavin.com'),
   title: '에클라뱅(Eclavin) - WSET 와인 자격증 합격을 위한 가장 완벽한 퀴즈 가이드',
   description: 'WSET Level 1, 2, 3 자격증 만점 합격을 위한 가장 완벽한 대비 플랫폼 에클라뱅. 500개 이상의 엄선된 연습 문제, 전문가 핵심 이론, 그리고 시험에 나오는 함정 팁까지 모든 와인 지식을 정복하세요.',
   keywords: ['WSET', '와인 교육', 'WSET 레벨 2', 'WSET 레벨 3', '와인 퀴즈', '에클라뱅', '와인 공부법', 'Wine Education', 'Eclavin'],
@@ -41,10 +44,15 @@ export const metadata: Metadata = {
     statusBarStyle: 'black-translucent',
   },
   icons: {
-    icon: '/favicon.ico?v=2',
-    apple: '/apple-icon.png?v=2',
+    icon: [
+      { url: '/favicon.ico?v=6', type: 'image/x-icon' },
+      { url: '/favicon-16x16.png?v=6', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png?v=6', sizes: '32x32', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png?v=6', sizes: '180x180', type: 'image/png' },
+    ],
   },
-  manifest: '/manifest.json',
   alternates: {
     canonical: 'https://www.eclavin.com',
     languages: {
@@ -74,7 +82,7 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
-  maximumScale: 5, // Accessibility: allow zoom
+  maximumScale: 5,
   viewportFit: 'cover',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: '#FDFCF8' },
@@ -90,35 +98,22 @@ export default function RootLayout({
   return (
     <html lang="ko" suppressHydrationWarning className={inter.variable}>
       <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function() {
-                try {
-                  var savedTheme = localStorage.getItem('eclavin-theme');
-                  var systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-                  var initialTheme = savedTheme || systemTheme;
-                  document.documentElement.setAttribute('data-theme', initialTheme);
-                } catch (e) {
-                  console.warn('Theme init error', e);
-                }
-              })();
-            `,
-          }}
-        />
-        {/* Favicons */}
-        <link rel="icon" href="/favicon.ico?v=2" sizes="any" />
-        {/* Next.js internal metadata will handle other icons */}
-        
-        {/* External Assets with Performance Preconnects */}
+        {/* External Assets */}
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
-        <link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css?v=2026" rel="stylesheet" />
-        
-        {/* Precision Performance: Speculation Rules */}
+        <link 
+          href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css?v=2026" 
+          rel="stylesheet" 
+          crossOrigin="anonymous" 
+        />
+      </head>
+      <body>
+        <Script src="/theme.js" strategy="beforeInteractive" id="theme-init" />
+        {/* Speculation Rules - Keep as plain script with hydration suppression */}
         <script
           type="speculationrules"
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               prerender: [
@@ -132,8 +127,9 @@ export default function RootLayout({
             }),
           }}
         />
-      </head>
-      <body>
+        <Suspense fallback={null}>
+          <AnalyticsTracker />
+        </Suspense>
         <div id="app-wrapper">
           {children}
         </div>

@@ -780,18 +780,23 @@ button {
 }
 
 .pill-btn.secondary {
-  background-color: transparent !important;
-  border: 1.5px solid var(--border-light) !important;
-  color: var(--text-secondary) !important;
+  background-color: var(--text-primary) !important;
+  color: var(--bg-primary) !important;
+  border: 1.5px solid var(--text-primary) !important;
   flex: 1; /* Symmetric width */
-  font-weight: 600;
+  font-weight: 700;
   height: 52px; /* Match height */
   justify-content: center;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  transition: all 0.2s ease;
 }
 
 .pill-btn.secondary:hover {
-  border-color: var(--text-primary) !important;
-  color: var(--text-primary) !important;
+  opacity: 0.9;
+  transform: translateY(-1px);
 }
 
 @media (max-width: 640px) {

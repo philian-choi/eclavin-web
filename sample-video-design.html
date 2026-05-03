@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eclavin Minimal Premium Video</title>
+<link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css" rel="stylesheet">
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+  }
+  
+  .video-container {
+    width: 1080px;
+    height: 1920px;
+    background: #000; /* Pure black for maximum contrast */
+    display: flex;
+    flex-direction: column;
+    padding: 160px 80px;
+    color: #FFFFFF;
+    font-family: 'SUIT', 'Inter', system-ui, sans-serif;
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+  /* Minimal Content Layout */
+  .content-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 1;
+  }
+
+  .quiz-meta {
+    color: #A22338; /* Premium Wine Red */
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    opacity: 0.8;
+  }
+
+  .question-text {
+    font-size: 68px;
+    line-height: 1.25;
+    font-weight: 700;
+    text-align: left;
+    word-break: keep-all;
+    margin: 0 0 120px 0;
+    color: #FFFFFF;
+    letter-spacing: -0.02em;
+  }
+
+  /* Options: Minimalist Boxes */
+  .options-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .option-box {
+    padding: 40px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Simple line separator */
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    opacity: 0;
+    animation: fadeIn 0.8s ease-out forwards;
+    flex-shrink: 0;
+  }
+
+  .option-box:nth-child(1) { animation-delay: 0.4s; }
+  .option-box:nth-child(2) { animation-delay: 0.6s; }
+  .option-box:nth-child(3) { animation-delay: 0.8s; }
+  .option-box:nth-child(4) { animation-delay: 1.0s; }
+
+  @keyframes fadeIn {
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .option-label {
+    color: #A22338;
+    font-weight: 800;
+    font-size: 40px;
+    width: 80px;
+    flex-shrink: 0;
+  }
+
+  .option-text {
+    flex: 1;
+    color: #FFFFFF;
+    font-size: 44px;
+    font-weight: 500;
+    opacity: 0.9;
+    line-height: 1.3;
+    word-break: keep-all;
+  }
+
+  /* Footer: Minimalist Branding */
+  .footer {
+    padding-top: 60px;
+    border-top: 1px solid rgba(162, 35, 56, 0.4);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    opacity: 0.6;
+  }
+
+  .footer-brand {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  .footer-handle {
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+  }
+</style>
+</head>
+<body>
+
+<div class="video-container">
+  <div class="content-area">
+    <div class="quiz-meta">WSET Level 1 Quiz</div>
+    
+    <h2 class="question-text">
+      When you take a sip of wine, which sensory characteristic is most closely related to the mouth-watering sensation you feel?
+    </h2>
+
+    <div class="options-container">
+      <div class="option-box">
+        <span class="option-label">A</span>
+        <span class="option-text">Tannin</span>
+      </div>
+      <div class="option-box">
+        <span class="option-label">B</span>
+        <span class="option-text">Alcohol</span>
+      </div>
+      <div class="option-box">
+        <span class="option-label">C</span>
+        <span class="option-text">Acidity</span>
+      </div>
+      <div class="option-box">
+        <span class="option-label">D</span>
+        <span class="option-text">Sweetness</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-brand">Eclavin Wine Study</div>
+    <div class="footer-handle">@eclavin_official</div>
+  </div>
+</div>
+
+</body>
+</html>

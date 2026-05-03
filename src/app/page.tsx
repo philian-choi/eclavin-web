@@ -1,4 +1,5 @@
 import { Suspense } from 'react';
+import Script from 'next/script';
 import { Metadata } from 'next';
 import { headers } from 'next/headers';
 import { getAllEpisodes } from '@/lib/episodes';
@@ -61,7 +62,8 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
 
   return (
     <main className="main-container">
-      <script
+      <Script
+        id="ldjson-home"
         type="application/ld+json"
         dangerouslySetInnerHTML={{ 
           __html: JSON.stringify(allJsonLd).replace(/</g, '\\u003c').replace(/>/g, '\\u003e') 
