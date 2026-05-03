@@ -2,7 +2,7 @@
 
 ## [WSET L1 실전 문제]
 
-Q. 유럽 와인 라벨에서 볼 수 있는 'PDO(Protected Designation of Origin)'와 'PGI(Protected Geographical Indication)'에 대한 설명으로 가장 옳은 것은 무엇인가요?
+Q. 유럽 와인 라벨에서 볼 수 있는 'PDO(Protected Designation of Origin)'와 'PGI(Protected Geographical Indication)'에 대한 설명으로 가장 옳은 것은?
 
 A. PDO 와인은 PGI 와인보다 지리적 구역이 훨씬 넓고 규제가 거의 없다.
 B. PDO 와인은 특정 지역의 전통과 품질을 엄격히 규제하며, 대개 PGI보다 더 좁은 지역에서 생산된다.
@@ -53,11 +53,11 @@ D. 이 두 용어는 와인의 가격을 국가가 결정한다는 뜻이다.
 [Reason]
 실전 포인트:
 1. PDO: 좁은 지역, 엄격한 규제 (전통 중시)
-2. PGI: 넓은 지역, 비교적 자유로운 규제 (현대적)
+2. PGI: 넓은 지역, 비교적 자유로운 규제현대적 ()
 3. 목적: 산지와 품질 보증
 
 [Tip]
-이름이 구체적이고 좁을수록(PDO), 그 땅의 테루아를 더 진하게 담고 있을 가능성이 높습니다!
+이름이 구체적이고 좁을수록 (PDO), 그 땅의 테루아를 더 진하게 담고 있을 가능성이 높습니다!
 
 ### YouTube Shorts Script
 (0-3s) 유럽 와인 라벨, PDO와 PGI가 뭐야? 

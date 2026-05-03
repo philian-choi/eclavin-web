@@ -2,8 +2,8 @@
 
 ## [WSET L1 실전 문제]
 
-Q. 다음과 같은 특징을 가진 화이트 와인 품종은 무엇인가요? 
-"산도는 낮고 알코올은 높으며, 리치(Lychee), 장미(Rose), 생강(Ginger)과 같은 매우 강렬한 향이 난다."
+Q. 다음과 같은 특징을 가진 화이트 와인 품종은? 
+"산도는 낮고 알코올은 높으며, 리치 (Lychee), 장미 (Rose), 생강 (Ginger)과 같은 매우 강렬한 향이 난다."
 
 A. 비오니에 (Viognier)
 B. 알바리뇨 (Albariño)
@@ -28,15 +28,15 @@ D. 샤도네이 (Chardonnay)
 
 개성 넘치는 화이트 품종들은 각각의 시그니처 향기를 가지고 있습니다.
 
-1.  Viognier (비오니에): 
+1.비오니에 (Viognier): 
     - Characteristics: Low acid, High alcohol. (가장 묵직한 화이트 중 하나)
     - Aroma: Peach, Apricot, Honeysuckle (인동 덩굴). 
 
-2.  Albariño (알바리뇨): 
+2.  Albariñ알바리뇨 (o): 
     - Characteristics: High acidity, Dry. (스페인의 시원한 바닷바람)
     - Aroma: Lemon, Grapefruit, Peach. 
 
-3.  Gewurztraminer (게뷔르츠트라미너): 
+3.게뷔르츠트라미너 (Gewurztraminer): 
     - Characteristics: Low acidity, High alcohol, Full body. 
     - Aroma: Lychee, Rose, Ginger. (동양적인 신비로운 향기)
 

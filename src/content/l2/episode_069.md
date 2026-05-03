@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-Q. 와인에서 젖은 판지(Wet cardboard)나 곰팡이 핀 지하실(Musty) 같은 불쾌한 냄새가 나며 과실 향이 전혀 느껴지지 않을 때, 의심할 수 있는 가장 대표적인 와인의 결함(Fault)은 무엇인가요?
+Q. 와인에서 젖은 판지 (Wet cardboard)나 곰팡이 핀 지하실 (Musty) 같은 불쾌한 냄새가 나며 과실 향이 전혀 느껴지지 않을 때, 의심할 수 있는 가장 대표적인 와인의 결함 (Fault)은?
 
 A. 산화 (Oxidation)
 B. 코르크 오염 (TCA / Cork Taint)
@@ -15,11 +15,11 @@ D. 직사광선이 잘 드는 따뜻한 창가에 세워서 보관한다.
 
 정답: B. 코르크 오염 (TCA / Cork Taint)
 
-해설: 와인의 결함(Faults)은 와인의 본연의 아름다움을 파괴하는 침묵의 살인자입니다.
+해설: 와인의 결함 (Faults)은 와인의 본연의 아름다움을 파괴하는 침묵의 살인자입니다.
 
-TCA(2,4,6-Trichloroanisole)에 오염된 와인은 코르크 마개에서 유래된 불쾌한 '젖은 종이' 혹은 '곰팡이' 냄새를 풍기며 신선한 과일 향을 완전히 앗아갑니다(Cork Taint).
+TCA(2,4,6-Trichloroanisole)에 오염된 와인은 코르크 마개에서 유래된 불쾌한 '젖은 종이' 혹은 '곰팡이' 냄새를 풍기며 신선한 과일 향을 완전히 앗아갑니다 (Cork Taint).
 
-산화(Oxidation)는 공기 접촉으로 인해 와인이 갈색으로 변하고 신선함이 사라지는 현상이며, 환원(Reduction)은 공기가 부족할 때 달걀 썩은 내나 성냥 타는 냄새가 나는 현상입니다.
+산화 (Oxidation)는 공기 접촉으로 인해 와인이 갈색으로 변하고 신선함이 사라지는 현상이며, 환원 (Reduction)은 공기가 부족할 때 달걀 썩은 내나 성냥 타는 냄새가 나는 현상입니다.
 
 ---
 
@@ -27,11 +27,11 @@ TCA(2,4,6-Trichloroanisole)에 오염된 와인은 코르크 마개에서 유래
 
 주요 와인 결함의 3대 증상과 원인입니다.
 
-1.  TCA (Cork Taint): 코르크 마개에 서식하는 화학 물질(TCA)이 원인입니다. (Musty, Wet cardboard, Lack of fruit).
+1.  TCA (Cork Taint): 코르크 마개에 서식하는 화학 물질 (TCA)이 원인입니다. (Musty, Wet cardboard, Lack of fruit).
 
-2.  Oxidation (산화): 잘못된 보관이나 코르크 결함으로 과도한 공기가 유입된 결과입니다. (Brown color, Toffee, Sherry-like, Flat fruit).
+2.산화 (Oxidation): 잘못된 보관이나 코르크 결함으로 과도한 공기가 유입된 결과입니다. (Brown color, Toffee, Sherry-like, Flat fruit).
 
-3.  Reduction (환원): 산소가 극도로 차단된 상태에서 발생합니다. (Rotten eggs, Boiled cabbage, Struck match).
+3.환원 (Reduction): 산소가 극도로 차단된 상태에서 발생합니다. (Rotten eggs, Boiled cabbage, Struck match).
 
 4.  Heat Damage: 너무 뜨거운 곳에 보관하여 와인이 익어버린 경우입니다. (Cooked fruit flavor, Seepage from cork).
 
@@ -70,6 +70,6 @@ TCA(2,4,6-Trichloroanisole)에 오염된 와인은 코르크 마개에서 유래
 ### YouTube Shorts Script
 (0-3s) 와인에서 곰팡이 냄새가?! 부쇼네의 공포!
 (3-15s) WSET 2단계 만점 족보! 와인의 대표 결함 TCA는 젖은 종이나 곰팡이 냄새로 와인의 과일 향을 다 죽여버립니다! 산화된 와인은 갈색으로 변하며 생기를 잃죠! 이건 숙성이 아니라 병든 와인입니다!
-(15-25s) 문제! 젖은 판지나 곰팡이 냄새를 풍기는 와인의 결함 이름은? 1번 산화, 2번 코르크 오염(TCA), 3번 따뜻한 창가에 세워두기.
+(15-25s) 문제! 젖은 판지나 곰팡이 냄새를 풍기는 와인의 결함 이름은? 1번 산화, 2번 코르크 오염 (TCA), 3번 따뜻한 창가에 세워두기.
 (25-35s) 정답은 2번! 건강한 와인을 고르는 미식가의 눈과 코를 갖는 비결입니다.
 (35-45s) 아는 만큼 맛있는 와인의 진실! 구독하고 만점 가즈아!

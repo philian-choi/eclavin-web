@@ -2,22 +2,22 @@
 
 ## [WSET L1 실전 문제]
 
-Q. 로제 와인(Rosé Wine)이 가진 아름다운 핑크색을 얻기 위해 가장 널리 사용되는 양조 방법으로, 적포도 껍질을 짧은 시간 동안 포도즙과 접촉시키는 방식의 명칭은 무엇인가요?
+Q. 로제 와인(Rosé Wine)이 가진 아름다운 핑크색을 얻기 위해 가장 널리 사용되는 양조 방법으로, 적포도 껍질을 짧은 시간 동안 포도즙과 접촉시키는 방식의 명칭은?
 
-A. Long Maturation (장기 숙성)
-B. Short Maceration (짧은 침출 / 침강)
-C. High Heat Treatment (고온 처리)
-D. Deep Freezing (냉동 농축)
+A. 장기 숙성 (Long Maturation)
+B. 짧은 침출 / 침강 (Short Maceration)
+C. 고온 처리 (High Heat Treatment)
+D. 냉동 농축 (Deep Freezing)
 
 ---
 
 ## [정답 및 해설]
 
-정답: B. Short Maceration (짧은 침출 / 침강)
+정답: B. 짧은 침출 / 침강 (Short Maceration)
 
 해설: 로제 와인은 적포도로 만들지만, 레드 와인처럼 진해지지 않도록 포도 껍질을 포도즙과 아주 짧은 시간(보통 몇 시간에서 며칠) 동안만 함께 둡니다.
 
-이를 침출(Maceration)이라고 하는데, 원하는 핑크색이 되었을 때 즉시 껍질을 제거하고 맑은 즙만 발효시키면 우아한 로제 와인이 탄생합니다.
+이를 침출 (Maceration)이라고 하는데, 원하는 핑크색이 되었을 때 즉시 껍질을 제거하고 맑은 즙만 발효시키면 우아한 로제 와인이 탄생합니다.
 
 ---
 

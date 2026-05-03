@@ -2,7 +2,7 @@
 
 ## [WSET L2 실전 문제]
 
-Q. 칠레(Chile)의 대표 품종 중 하나이며, 껍질이 두껍고 탄닌이 높으며, 블랙베리(Blackberry) 향과 함께 피망(Green bell pepper)과 허브(Herbal) 풍미가 나타나는 품종은 무엇인가요?
+Q. 칠레 (Chile)의 대표 품종 중 하나이며, 껍질이 두껍고 탄닌이 높으며, 블랙베리 (Blackberry) 향과 함께 피망 (Green bell pepper)과 허브 (Herbal) 풍미가 나타나는 품종은?
 
 A. 샤도네이 (Chardonnay)
 B. 까르메네르 (Carmenère)
@@ -17,7 +17,7 @@ D. 피노 누아 (Pinot Noir)
 
 해설: 까르메네르(Carmenère)는 칠레의 상징적인 품종입니다.
 
-껍질이 두껍고 탄닌이 매우 높아 풀 바디를 자랑하며, 충분히 익지 않았을 때 나타나는 피망(Green bell pepper)과 허브(Herbal)의 초록빛 풍미가 고유의 특징입니다.
+껍질이 두껍고 탄닌이 매우 높아 풀 바디를 자랑하며, 충분히 익지 않았을 때 나타나는 피망 (Green bell pepper)과 허브 (Herbal)의 초록빛 풍미가 고유의 특징입니다.
 
 ---
 
@@ -25,18 +25,18 @@ D. 피노 누아 (Pinot Noir)
 
 기타 글로벌 레드 품종들은 각 국가의 정체성을 담고 있습니다. 
 
-1.  Malbec (말벡): 
+1.말벡 (Malbec): 
     - Argentina (Mendoza): 아르헨티나의 심장. 
     - Characteristics: Deep Color, Full Body, Medium-High Tannin. 
     - Aroma: Blackberry, Plum, Floral (Violet). 
 
-2.  Carmenère (까르메네르): 
+2.  Carmenè까르메네르 (re): 
     - Chile (Central Valley): 태양을 아주 좋아하는 품종. 
     - Characteristics: High Tannin, Full Body. 
     - Aroma: Blackberry, Green Bell Pepper, Herbal (Tobacco, Spice). 
 
-3.  Pinotage (피노타주): 
-    - South Africa (Western Cape): 피노 누아와 생소(Cinsault)의 교배종. 
+3.피노타주 (Pinotage): 
+    - South Africa (Western Cape): 피노 누아와 생소 (Cinsault)의 교배종. 
     - Characteristics: High Tannin, Deep Color. 
     - Aroma: Red berry, Coffee, Smoke, Earth. (독특한 스모키함)
 
@@ -71,11 +71,11 @@ D. 피노 누아 (Pinot Noir)
 [Reason]
 WSET 2단계 글로벌 레드 공식:
 
-1. 말벡: 짙은 색 + 블랙베리 + 제비꽃 (아르헨티나)
+1. 말벡: 짙은 색 + 블랙베리 + 제비꽃아르헨티나 ()
 
-2. 까르메네르: 묵직함 + 피망 + 허브 (칠레)
+2. 까르메네르: 묵직함 + 피망 + 허브칠레 ()
 
-3. 피노타주: 커피 + 스모키 + 레드 베리 (남아공)
+3. 피노타주: 커피 + 스모키 + 레드 베리남아공 ()
 
 [Tip]
 숯불 갈비나 양념 고기에는 피망 향이 있는 까르메네르가 환상적입니다. 
@@ -83,6 +83,6 @@ WSET 2단계 글로벌 레드 공식:
 ### YouTube Shorts Script
 (0-3s) 아르헨티나의 자부심! 말벡의 보랏빛 유혹! 
 (3-15s) WSET 2단계 필수 개념! 기타 글로벌 레드 품종들! 짙은 색과 블랙베리 향의 말벡! 피망과 허브 향의 개성 넘치는 까르메네르! 그리고 커피와 스모키 향의 피노타주까지! 
-(15-25s) 문제! 말벡 품종에서 느껴지는 전형적인 꽃 향기는? 1번 장미, 2번 제비꽃(Violet), 3번 안개꽃. 
+(15-25s) 문제! 말벡 품종에서 느껴지는 전형적인 꽃 향기는? 1번 장미, 2번 제비꽃 (Violet), 3번 안개꽃. 
 (25-35s) 정답은 2번 제비꽃! 블랙베리 향과 어우러져 아르헨티나의 영혼을 보여주죠! 
 (35-45s) 개성 폭발, 글로벌 레드! 구독하고 만점 가즈아!

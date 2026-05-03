@@ -2,8 +2,8 @@
 
 ## [WSET L1 실전 문제]
 
-Q. 다음과 같은 특징을 가진 레드 와인 품종은 무엇인가요? 
-"껍질이 두껍고 탄닌이 높으며, 매우 따뜻한 기후에서 재배되어 아주 높은 알코올(High alcohol)과 말린 자두, 블랙 페퍼(Black pepper) 풍미가 난다."
+Q. 다음과 같은 특징을 가진 레드 와인 품종은? 
+"껍질이 두껍고 탄닌이 높으며, 매우 따뜻한 기후에서 재배되어 아주 높은 알코올 (High alcohol)과 말린 자두, 블랙 페퍼 (Black pepper) 풍미가 난다."
 
 A. 진판델 (Zinfandel) / 프리미티보 (Primitivo)
 B. 피노 누아 (Pinot Noir)
@@ -18,7 +18,7 @@ D. 리슬링 (Riesling)
 
 해설: 진판델은 따뜻한 태양 아래서 아주 잘 익는 품종입니다.
 
-높은 당분이 발효되어 높은 알코올을 형성하며, 말린 자두(Raisin)나 잼처럼 진한 검은 과실 풍미에 스파이시한 검은 후추(Black pepper) 향이 더해지는 것이 특징입니다.
+높은 당분이 발효되어 높은 알코올을 형성하며, 말린 자두 (Raisin)나 잼처럼 진한 검은 과실 풍미에 스파이시한 검은 후추 (Black pepper) 향이 더해지는 것이 특징입니다.
 
 이탈리아에서는 '프리미티보'라고 부릅니다.
 
@@ -32,11 +32,11 @@ D. 리슬링 (Riesling)
     - Characteristics: High alcohol, Full body. (태양의 농축미)
     - Aroma: Black cherry, Dried plum, Black pepper. 
 
-2.  Malbec (말벡): 
+2.말벡 (Malbec): 
     - Characteristics: Full body, Medium-High Tannin. (아르헨티나의 심장)
-    - Aroma: Blackberry, Black plum, Violet (제비꽃). 
+    - Aroma: Blackberry, Black plum,제비꽃 (Violet). 
 
-3.  Pinotage (피노타주): 
+3.피노타주 (Pinotage): 
     - Characteristics: High Tannin, Medium-High Acidity. (남아프리카의 자존심)
     - Aroma: Red berry, Coffee, Smoke, Earth. 
 
@@ -63,17 +63,17 @@ D. 리슬링 (Riesling)
 
 2. 안데스 산맥의 정기, 말벡: 잉크처럼 짙은 보랏빛 색상과 입안을 가득 채우는 블랙베리의 묵직한 한 방이 일품이죠. 
 
-3. 남아공의 반전 매력, 피노타주: 과일 향 뒤에 숨겨진 은은한 연기(Smoke)와 흙 내음이 당신을 유혹할 겁니다. 
+3. 남아공의 반전 매력, 피노타주: 과일 향 뒤에 숨겨진 은은한 연기 (Smoke)와 흙 내음이 당신을 유혹할 겁니다. 
 오늘 밤, 당신의 취향을 저격할 신대륙의 강력한 한 방은 무엇인가요? 
 
 [Reason]
 WSET 1단계 품종 공식:
 
-1. 진판델: 높은 알코올, 후추, 말린 자두 (캘리포니아)
+1. 진판델: 높은 알코올, 후추, 말린 자두캘리포니아 ()
 
-2. 말벡: 짙은 색, 블랙베리, 묵직함 (아르헨티나)
+2. 말벡: 짙은 색, 블랙베리, 묵직함아르헨티나 ()
 
-3. 피노타주: 베리, 커피, 스모키 (남아공)
+3. 피노타주: 베리, 커피, 스모키남아공 ()
 
 [Tip]
 이 와인들은 맛이 아주 진해서 양념이 강한 한국식 갈비찜이나 바조큐와 찰떡궁합입니다. 

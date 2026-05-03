@@ -2,22 +2,22 @@
 
 ## [WSET L2 실전 문제]
 
-Q. 와인을 한 모금 머금고 혀 전체로 굴렸을 때 입안이 뻑뻑하게 마르는 느낌(Drying)과 치아 사이의 거친 질감을 만들어내는 성분의 이름은 무엇인가요?
+Q. 와인을 한 모금 머금고 혀 전체로 굴렸을 때 입안이 뻑뻑하게 마르는 느낌 (Drying)과 치아 사이의 거친 질감을 만들어내는 성분의 이름은?
 
-A. Acidity (산도)
-B. Tannin (탄닌)
-C. Alcohol (알코올)
-D. Sweetness (당도)
+A. 산도 (Acidity)
+B. 탄닌 (Tannin)
+C. 알코올 (Alcohol)
+D. 당도 (Sweetness)
 
 ---
 
 ## [정답 및 해설]
 
-정답: B. Tannin (탄닌)
+정답: B. 탄닌 (Tannin)
 
-해설: 탄닌(Tannin)은 레드 와인의 포도 껍질과 씨에서 추출되는 성분으로, 입안의 단백질과 반응하여 잇몸과 입천장이 마르는 듯한 물리적 질감(Drying sensation)을 만들어냅니다.
+해설: 탄닌 (Tannin)은 레드 와인의 포도 껍질과 씨에서 추출되는 성분으로, 입안의 단백질과 반응하여 잇몸과 입천장이 마르는 듯한 물리적 질감 (Drying sensation)을 만들어냅니다.
 
-산도는 침을 고이게 하며(Mouth-watering), 알코올은 목에서 열감을 남깁니다.
+산도는 침을 고이게 하며 (Mouth-watering), 알코올은 목에서 열감을 남깁니다.
 
 ---
 
@@ -25,19 +25,19 @@ D. Sweetness (당도)
 
 미각 평가는 혀의 감각을 넘어 입안 전체의 '물리적 구조'를 파악하는 단계입니다.
 
-1.  Sweetness (당도): 혀끝에서 느껴지는 설탕의 양. (Dry-Off dry-Medium-Sweet)
+1.당도 (Sweetness): 혀끝에서 느껴지는 설탕의 양. (Dry-Off dry-Medium-Sweet)
 
-2.  Acidity (산도): 입안 전체에 침이 고이게 만드는 정도. (Low-Medium-High)
+2.산도 (Acidity): 입안 전체에 침이 고이게 만드는 정도. (Low-Medium-High)
 
-3.  Tannin (탄닌): 잇몸과 치아가 마르는 뻑뻑한 질감. (Low-Medium-High)
+3.탄닌 (Tannin): 잇몸과 치아가 마르는 뻑뻑한 질감. (Low-Medium-High)
 
-4.  Alcohol (알코올): 삼킨 후 목과 가슴에서 느껴지는 열감(Warmth). (Low-Medium-High)
+4.알코올 (Alcohol): 삼킨 후 목과 가슴에서 느껴지는 열감 (Warmth). (Low-Medium-High)
 
-5.  Body (바디): 우유의 지방 함량처럼 입안에서 느껴지는 무게감(Weight). (Light-Medium-Full)
+5.바디 (Body): 우유의 지방 함량처럼 입안에서 느껴지는 무게감 (Weight). (Light-Medium-Full)
 
 6.  Flavour Intensity (풍미 강도): 입안에서 풍미가 얼마나 뚜렷한지. (Light-Medium-Pronounced)
 
-7.  Finish (여운): 삼킨 후 기분 좋은 풍미가 남는 시간. (Short-Medium-Long)
+7.여운 (Finish): 삼킨 후 기분 좋은 풍미가 남는 시간. (Short-Medium-Long)
 
 ---
 
@@ -45,7 +45,7 @@ D. Sweetness (당도)
 
 [함정]: "탄닌은 맛이 쓰다"라고만 생각하면 오답입니다.
 
-탄닌은 맛보다 '질감(Texture)'으로 평가해야 정확한 답을 낼 수 있습니다.
+탄닌은 맛보다 '질감 (Texture)'으로 평가해야 정확한 답을 낼 수 있습니다.
 [팁]: 시험에서 'Mouth-watering'이라는 표현이 나오면 무조건 'High Acidity'를 선택하세요.
 
 침샘이 와인의 성격을 증명합니다.
@@ -75,7 +75,7 @@ WSET 2단계 미각 공식:
 
 ### YouTube Shorts Script
 (0-3s) 와인을 한 모금 마시고 침이 고인다면? 쾌재를 부르세요! 
-(3-15s) WSET 2단계 만점 족보! 미각 평가(Palate)입니다! 산도는 침샘을 폭발시키고, 탄닌은 잇몸을 뻑뻑하게 하죠! 목이 뜨겁다면 높은 알코올, 생크림처럼 묵직하면 풀 바디! 이 7가지 지표가 전문가의 시각입니다! 
-(15-25s) 문제! 삼킨 후에도 풍미가 오래 남는 특징을 무엇이라 할까요? 1번 바디, 2번 여운(Finish), 3번 탄닌. 
+(3-15s) WSET 2단계 만점 족보! 미각 평가 (Palate)입니다! 산도는 침샘을 폭발시키고, 탄닌은 잇몸을 뻑뻑하게 하죠! 목이 뜨겁다면 높은 알코올, 생크림처럼 묵직하면 풀 바디! 이 7가지 지표가 전문가의 시각입니다! 
+(15-25s) 문제! 삼킨 후에도 풍미가 오래 남는 특징을 무엇이라 할까요? 1번 바디, 2번 여운 (Finish), 3번 탄닌. 
 (25-35s) 정답은 2번 여운! 여운이 길수록 명품 와인입니다! 
 (35-45s) 혀로 읽는 와인의 구조! 구독하고 만점 고고!

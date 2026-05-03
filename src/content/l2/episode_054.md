@@ -2,12 +2,12 @@
 
 ## [WSET L2 실전 문제]
 
-Q. 프랑스 보르도(Bordeaux) 지역의 와인 라벨에 'Grand Cru Classé' 또는 'Cru Bourgeois'라고 적힌 와인은 어떤 의미인가요?
+Q. 프랑스 보르도 (Bordeaux) 지역의 와인 라벨에 'Grand Cru Classé' 또는 'Cru Bourgeois'라고 적힌 와인은 어떤 의미인가요?
 
 A. 이 지역에서 생산된 스파클링 와인의 등급 (Sparkling)
 B. 보르도의 특정 샤토(Château)에 부여된 공식적인 품질 등급 시스템 중 하나
 C. 오직 화이트 와인에만 부여되는 고급 화이트 등급 (White-only)
-D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
+D. 항상 피노 누아 (Pinot Noir) 단일 품종으로만 양조된다.
 
 ---
 
@@ -15,7 +15,7 @@ D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
 
 정답: B. 보르도의 특정 샤토(Château)에 부여된 공식적인 품질 등급 시스템 중 하나
 
-해설: 보르도(Bordeaux)는 체계적인 등급 시스템으로 명성을 지킵니다. 1855년 메도크 등급인 'Grand Cru Classé'가 가장 유명하며, 'Cru Bourgeois'는 그에 버금가는 실력을 갖춘 샤토들을 인증합니다. 'Bordeaux AOC'는 광범위한 지역 등급이며, 더 구체적인 산지명(예: Pauillac, Margaux)이 쓰일수록 더 엄격한 규정과 높은 품질을 나타냅니다.
+해설: 보르도 (Bordeaux)는 체계적인 등급 시스템으로 명성을 지킵니다. 1855년 메도크 등급인 'Grand Cru Classé'가 가장 유명하며, 'Cru Bourgeois'는 그에 버금가는 실력을 갖춘 샤토들을 인증합니다. 'Bordeaux AOC'는 광범위한 지역 등급이며, 더 구체적인 산지명(예: Pauillac, Margaux)이 쓰일수록 더 엄격한 규정과 높은 품질을 나타냅니다.
 
 ---
 
@@ -25,7 +25,7 @@ D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
 
 1.  Bordeaux / Bordeaux Supérieur: 가장 넓은 기본 등급입니다. 과실 풍미가 강조되며 일찍 마시기 좋은 스타일입니다.
 
-2.  Commune Appellations (마을 단위): 뽀이약(Pauillac), 마고(Margaux), 뻬싹-레오냥(Pessac-Léognan) 등 구체적인 산지명이 쓰일수록 고가이며 품질이 뛰어난 경향이 있습니다.
+2.  Commune Appellations (마을 단위): 뽀이약 (Pauillac), 마고 (Margaux), 뻬싹-레오냥(Pessac-Léognan) 등 구체적인 산지명이 쓰일수록 고가이며 품질이 뛰어난 경향이 있습니다.
 
 3.  Grand Cru Classé (1855): 1855년 파리 박람회를 위해 제정된 메도크의 61개 샤토 등급입니다. 보르도 좌안의 절대적인 자부심입니다.
 
@@ -56,7 +56,7 @@ D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
 
 1. 그랑 크뤼 클라세: 1855년에 정해진 61개의 명문 샤토
 
-2. 꼬뮨(Commune): 뽀이약, 마고 등 구체적인 마을 이름이 품질의 증거
+2. 꼬뮨 (Commune): 뽀이약, 마고 등 구체적인 마을 이름이 품질의 증거
 
 3. 크뤼 부르주아: 뛰어난 가성비와 실력을 겸비한 실전파 샤토들
 

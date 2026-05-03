@@ -2,7 +2,7 @@
 
 ## [WSET L1 실전 문제]
 
-Q. 그르나슈(Grenache / Garnacha) 품종에 대한 설명으로 가장 적절한 것은 무엇인가요?
+Q. 그르나슈(Grenache / Garnacha) 품종에 대한 설명으로 가장 적절한 것은?
 
 A. 껍질이 아주 두꺼워 색이 매우 진한 품종이다.
 B. 높은 당분 덕분에 알코올이 높고, 산도는 낮으며 붉은 과실 향이 강한 품종이다.
@@ -27,7 +27,7 @@ D. 항상 스파클링 와인으로만 생산된다.
 
 1.  Structure: High Alcohol, Low Acidity, Full Body.
 2.  Flavors: Red Fruit (Strawberry, Red Cherry) + White Pepper / Spice.
-3.  Skin: 껍질이 얇아(Thin-skinned) 색과 탄닌은 높지 않지만, 알코올이 그 빈자리를 묵직하게 채웁니다.
+3.  Skin: 껍질이 얇아 (Thin-skinned) 색과 탄닌은 높지 않지만, 알코올이 그 빈자리를 묵직하게 채웁니다.
 4.  Blending: 프랑스 론 지역이나 스페인 리오하에서 다른 품종과 섞여 풍부한 과실 맛을 더해줍니다.
 
 ---

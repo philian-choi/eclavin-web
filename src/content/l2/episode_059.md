@@ -2,24 +2,24 @@
 
 ## [WSET L2 실전 문제]
 
-Q. 프랑스의 '샴페인(Champagne)'을 만드는 '전통 방식(Traditional Method)'에서, 2차 발효 후 효모 찌꺼기(Lees)와 함께 숙성하며 얻어지는 시그니처 풍미는 무엇인가요?
+Q. 프랑스의 '샴페인 (Champagne)'을 만드는 '전통 방식 (Traditional Method)'에서, 2차 발효 후 효모 찌꺼기 (Lees)와 함께 숙성하며 얻어지는 시그니처 풍미는?
 
 A. 신선한 녹색 사과와 레몬 (Green apple/Lemon)
-B. 비스킷(Biscuit), 빵(Bread), 브리오슈(Brioche), 그리고 구운 견과류 풍미
+B. 비스킷 (Biscuit), 빵 (Bread), 브리오슈 (Brioche), 그리고 구운 견과류 풍미
 C. 톡 쏘는 피망과 풀 향기 (Bell pepper/Grass)
-D. 매년 일정한 맛을 위해 다양한 품종을 블렌딩(Blending)한다.
+D. 매년 일정한 맛을 위해 다양한 품종을 블렌딩 (Blending)한다.
 
 ---
 
 ## [정답 및 해설]
 
-정답: B. 비스킷(Biscuit), 빵(Bread), 브리오슈(Brioche), 그리고 구운 견과류 풍미
+정답: B. 비스킷 (Biscuit), 빵 (Bread), 브리오슈 (Brioche), 그리고 구운 견과류 풍미
 
-해설: 샴페인(Champagne)은 병 안에서 2차 발효를 거치는 전통 방식(Traditional Method)의 정점입니다.
+해설: 샴페인 (Champagne)은 병 안에서 2차 발효를 거치는 전통 방식 (Traditional Method)의 정점입니다.
 
-이 과정에서 효모가 자가분해(Autolysis)되며 비스킷, 빵, 토스트 같은 고소한 아로마가 생겨나죠.
+이 과정에서 효모가 자가분해 (Autolysis)되며 비스킷, 빵, 토스트 같은 고소한 아로마가 생겨나죠.
 
-샤르도네, 피노 누아, 피노 뮈니에 세 품종의 환상적인 블렌딩과 기나긴 리 숙성(Lees Aging)이 샴페인의 독보적인 명성을 완성합니다.
+샤르도네, 피노 누아, 피노 뮈니에 세 품종의 환상적인 블렌딩과 기나긴 리 숙성 (Lees Aging)이 샴페인의 독보적인 명성을 완성합니다.
 
 ---
 
@@ -27,13 +27,13 @@ D. 매년 일정한 맛을 위해 다양한 품종을 블렌딩(Blending)한다.
 
 샴페인 양조의 핵심 요약입니다.
 
-1.  Varieties: Chardonnay(높은 산도), Pinot Noir(구조감), Pinot Meunier(풍부한 과실미).
+1.  Varieties: Chardonnay(높은 산도),구조감 (Pinot Noir), Pinot Meunier(풍부한 과실미).
 
-2.  Traditional Method: 베이스 와인 블렌딩 → 당분/효모 첨가(Tirage) → 병 내 2차 발효 → Lees Aging (Autolysis).
+2.  Traditional Method: 베이스 와인 블렌딩 → 당분/효모 첨가 (Tirage) → 병 내 2차 발효 → Lees Aging (Autolysis).
 
-3.  Riddling (리들링): 효모 찌꺼기를 병목으로 서서히 모으는 과정입니다.
+3.리들링 (Riddling): 효모 찌꺼기를 병목으로 서서히 모으는 과정입니다.
 
-4.  Disgorgement (데고르주망): 침전된 효모를 얼려 뽑아내고, 소량의 와인과 설탕(Dosage)을 채워 최종 당도를 결정합니다.
+4.데고르주망 (Disgorgement): 침전된 효모를 얼려 뽑아내고, 소량의 와인과 설탕 (Dosage)을 채워 최종 당도를 결정합니다.
 
 ---
 

@@ -2,24 +2,24 @@
 
 ## [WSET L2 실전 문제]
 
-Q. 뉴질랜드 남섬의 '말보로(Marlborough)' 지역에서 생산되는 소비뇽 블랑(Sauvignon Blanc) 와인의 가장 큰 특징으로, 과일의 강렬함을 보여주는 핵심 풍미는 무엇인가요?
+Q. 뉴질랜드 남섬의 '말보로 (Marlborough)' 지역에서 생산되는 소비뇽 블랑 (Sauvignon Blanc) 와인의 가장 큰 특징으로, 과일의 강렬함을 보여주는 핵심 풍미는?
 
 A. 아주 부드러운 우유와 버터 향
-B. 높은 산도와 패션 프루트(Passion fruit), 구즈베리(Gooseberry) 향
+B. 높은 산도와 패션 프루트 (Passion fruit), 구즈베리 (Gooseberry) 향
 C. 가죽과 말린 자두의 숙성 향
-D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
+D. 항상 피노 누아 (Pinot Noir) 단일 품종으로만 양조된다.
 
 ---
 
 ## [정답 및 해설]
 
-정답: B. 높은 산도와 패션 프루트(Passion fruit), 구즈베리(Gooseberry) 향
+정답: B. 높은 산도와 패션 프루트 (Passion fruit), 구즈베리 (Gooseberry) 향
 
-해설: 신세계(New World) 와인은 품종의 특성을 극대화합니다.
+해설: 신세계 (New World) 와인은 품종의 특성을 극대화합니다.
 
-말보로의 소비뇽 블랑은 세계적인 기준이며, 나파 밸리(Napa Valley)의 카베르네 소비뇽은 압도적인 바디감과 오크 풍미로 유명하죠.
+말보로의 소비뇽 블랑은 세계적인 기준이며, 나파 밸리 (Napa Valley)의 카베르네 소비뇽은 압도적인 바디감과 오크 풍미로 유명하죠.
 
-또한, 귀부병을 이용해 만드는 프랑스 소테른(Sauternes)이나 헝가리의 토카이(Tokaji) 같은 스위트 와인은 당분과 산도의 경이로운 농축을 보여주는 신세계와 구세계의 달콤한 정점들입니다.
+또한, 귀부병을 이용해 만드는 프랑스 소테른 (Sauternes)이나 헝가리의 토카이 (Tokaji) 같은 스위트 와인은 당분과 산도의 경이로운 농축을 보여주는 신세계와 구세계의 달콤한 정점들입니다.
 
 ---
 
@@ -27,15 +27,15 @@ D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
 
 신세계 산지와 스위트 와인의 딥 다이브 요약입니다.
 
-1.  USA (California): 나파 밸리(Napa)의 카베르네, 소노마(Sonoma)의 샤르도네. (Bold & Oaky).
+1.  USA (California): 나파 밸리 (Napa)의 카베르네, 소노마 (Sonoma)의 샤르도네. (Bold & Oaky).
 
-2.  Australia: 바로사 밸리(Barossa)의 쉬라즈, 헌터 밸리(Hunter)의 세미용.
+2.  Australia: 바로사 밸리 (Barossa)의 쉬라즈, 헌터 밸리 (Hunter)의 세미용.
 
-3.  New Zealand: 말보로(Marlborough)의 소비뇽 블랑, 센트럴 오타고(Central Otago)의 피노 누아.
+3.  New Zealand: 말보로 (Marlborough)의 소비뇽 블랑, 센트럴 오타고 (Central Otago)의 피노 누아.
 
-4.  South Africa: 스텔렌보스(Stellenbosch)의 카베르네와 슈냉 블랑.
+4.  South Africa: 스텔렌보스 (Stellenbosch)의 카베르네와 슈냉 블랑.
 
-5.  Sweet Wines: Sauternes(프랑스), Tokaji(헝가리), Icewine(캐나다/독일). (Nectar of Gods).
+5.  Sweet Wines:프랑스 (Sauternes),헝가리 (Tokaji), Icewine(캐나다/독일). (Nectar of Gods).
 
 ---
 
@@ -72,6 +72,6 @@ D. 항상 피노 누아(Pinot Noir) 단일 품종으로만 양조된다.
 ### YouTube Shorts Script
 (0-3s) 전 세계가 열광하는 와인 산지?! 신세계 vs 스위트!
 (3-15s) WSET 2단계 만점 족보! 뉴질랜드 말보로는 패션 프루트 향의 소비뇽 블랑이 상징이고, 나파 밸리는 묵직한 카베르네가 정점이죠! 프랑스 소테른의 황금빛 꿀맛은 귀부병 곰팡이가 빚어낸 축복 그 자체입니다!
-(15-25s) 문제! 패션 프루트와 구즈베리 향을 특징으로 하는 뉴질랜드의 대표 품종은? 1번 샤르도네, 2번 소비뇽 블랑(Sauvignon Blanc), 3번 피노 누아 100% 단일 사용.
+(15-25s) 문제! 패션 프루트와 구즈베리 향을 특징으로 하는 뉴질랜드의 대표 품종은? 1번 샤르도네, 2번 소비뇽 블랑 (Sauvignon Blanc), 3번 피노 누아 100% 단일 사용.
 (25-35s) 정답은 2번! 입안을 우름차게 적실 생동감 넘치는 와인의 전설입니다.
 (35-45s) 아는 만큼 들리는 전 세계 와인의 노래! 구독하고 만점 가즈아!
