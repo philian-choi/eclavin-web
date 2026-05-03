@@ -118,6 +118,8 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
                   )}
               </div>
             
+              <AppPromoCard t={t} />
+
               {/* Sticky Bottom Navigation Bar */}
               <footer className="sticky-nav-bar animate-slide-up">
                  <div className="nav-container">
@@ -135,10 +137,6 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
                     )}
                  </div>
               </footer>
-
-              <div style={{ paddingBottom: '2rem', marginTop: '2rem' }}>
-                <AppPromoCard t={t} />
-              </div>
             </section>
           )}
         </AnimatePresence>
