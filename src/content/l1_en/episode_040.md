@@ -41,7 +41,7 @@ Food can change a wine for the better or worse.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
 [Trap]: Avoid thinking that "dry Champagne is the best match for sweet cake."
 The sweetness of the food will erase the sweetness of the wine, leaving only the bitter and sour taste.

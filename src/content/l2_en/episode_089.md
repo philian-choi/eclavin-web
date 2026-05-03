@@ -7,7 +7,7 @@ Q. Among the wine classification systems of France, what is the highest hierarch
 A. Vin de France
 B. Appellation d'Origine Contrôlée (AOC)
 C. Indication Géographique Protégée (IGP)
-D. Instantly changes any label into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -25,7 +25,7 @@ Reading this grade is the first step in decoding the value of a wine.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of decoding European wine labels and hierarchies:
 
@@ -74,6 +74,6 @@ If you see 'Château' or 'Tenuta' on a label, remember it is the cradle of a mas
 ### YouTube Shorts Script
 (0-3s) Can you see the wine label now?! 10-second decoding method!
 (3-15s) WSET Level 2 High-Score Formula! French AOC signifies strict legal quality, while Italian DOCG means a national guarantee! Germany's Kabinett to TBA represent grape sugar levels, and Spain's Gran Reserva symbolizes peak aging time!
-(15-25s) Question! Which highest French hierarchy strictly follows geographical origin and production rules? 1. IGP, 2. AOC (AOP), 3. Salt water.
+(15-25s) Question! Which highest French hierarchy strictly follows geographical origin and production rules? 1. IGP, 2. AOC (AOP), 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! Check the value of grand wines that will intellectually drench your palate.
 (35-45s) The dignity of wine that only looks better the more you know labels! Subscribe and let's get that perfect score!

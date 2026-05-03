@@ -21,7 +21,7 @@ The other criteria refer to the duration of flavours (Length), the vividness and
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Quality assessment is the process of proving 'why a wine is good' through logic, moving beyond simple personal likes or dislikes:
 
@@ -47,7 +47,7 @@ Quality assessment is the process of proving 'why a wine is good' through logic,
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

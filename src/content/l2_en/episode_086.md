@@ -7,7 +7,7 @@ Q. When tasting wine, what is the activity of smelling the wine after the 'Swirl
 A. Appearance assessment - Checking color and clarity
 B. Nose / Aroma assessment - Identifying quality, complexity, and faults
 C. Palate assessment - Measuring acidity and tannins
-D. Instantly changes all senses into a shot of salt water.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ For service, clean glassware, correct temperature, and horizontal storage to kee
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the core system for tasting, service, and storage:
 
@@ -74,6 +74,6 @@ If 'Decanting recommended' is written on a label, remember that this wine is a h
 ### YouTube Shorts Script
 (0-3s) Wine suddenly looks different?! The magic of tasting!
 (3-15s) WSET Level 2 High-Score Formula! See the color, smell the aroma to identify variety and aging, and feel the balance on your palate! A 1-degree difference in service temperature determines a masterpiece, and horizontal storage keeps the cork moist!
-(15-25s) Question! Which activity in wine tasting allows you to assess quality through smell? 1. Appearance, 2. Nose, 3. Salt water.
+(15-25s) Question! Which activity in wine tasting allows you to assess quality through smell? 1. Appearance, 2. Nose, 3. Completely removing carbonation.
 (25-35s) The answer is 2! The truth about grand wines that elegantly drench your palate.
 (35-45s) The dignity of wine that only tastes better when you know! Subscribe and let's get that perfect score!

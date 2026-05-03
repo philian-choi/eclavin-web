@@ -21,7 +21,7 @@ Following this strict sequence in Level 2 is the essential first step toward ach
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The 4-Step Framework of WSET L2 SAT (Critical for Exam Preparation):
 
@@ -46,7 +46,7 @@ This logical approach is your golden key to success.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

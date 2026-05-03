@@ -7,7 +7,7 @@ Q. When a wine exhibits unpleasant aromas of 'Wet cardboard' or 'Musty' basement
 A. Oxidation
 B. TCA / Cork Taint
 C. Reduction
-D. Instantly changes any wine into a shot of soju.
+D. Stores the wine upright on a warm, sunny windowsill.
 
 ---
 
@@ -25,7 +25,7 @@ Reduction happens in low-oxygen environments, resulting in odors like rotten egg
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the three symptoms and causes of major wine faults:
 
@@ -72,6 +72,6 @@ If a wine's aroma in a restaurant is particularly like a damp basement, confiden
 ### YouTube Shorts Script
 (0-3s) Musty odors coming from your wine?! The horror of Cork Taint!
 (3-15s) WSET Level 2 High-Score Formula! The representative fault TCA kills off all the fruitiness with a wet paper or musty smell! Oxidized wine turns brown and loses its life! This isn't aging, it's a diseased wine!
-(15-25s) Question! What is the name of the wine fault that smells like wet cardboard or a musty basement? 1. Oxidation, 2. TCA / Cork Taint, 3. Salt water.
+(15-25s) Question! What is the name of the wine fault that smells like wet cardboard or a musty basement? 1. Oxidation, 2. TCA / Cork Taint, 3. Storing upright by a warm window.
 (25-35s) The answer is 2! The secret to having a connoisseur's eyes and nose for picking healthy wines.
 (35-45s) The truth about wine that tastes better when you know! Subscribe and let's get that perfect score!

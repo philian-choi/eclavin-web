@@ -1,50 +1,43 @@
-# Episode 006: Body & Sweetness (The Texture of Wine) - Mouthfeel
+# Episode 006: Acidity (The Spine of Wine) - Freshness & Structure
 
 ## [WSET L1 Practice Question]
 
-Q. When you taste wine, which term is used to describe the 'weight' or 'physical texture' (Mouthfeel) felt in the mouth, often compared to the difference between skimmed and whole milk?
+Q. When taking a sip of wine, what is the wine component most closely associated with causing your mouth to water (Mouth-watering)?
 
-A. Acidity
-B. Body
-C. Tannin
-D. Carbonation
+A. Tannin
+B. Alcohol
+C. Acidity
+D. Sweetness
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Body
+Answer: C. Acidity
 
-Explanation: Body refers to the perceived weight or physical texture (Mouthfeel) of the wine on the palate, rather than its flavor.
+Explanation: Acidity in wine is the primary component that stimulates the salivary glands in your mouth, causing it to water.
 
-The most common analogy is to milk: if it feels thin and light like water or skimmed milk, it is 'Light-bodied'; if it feels like whole milk, it is 'Medium-bodied'; and if it feels thick and coating like double cream, it is 'Full-bodied.'
+It provides the thrilling sensation of fresh fruit and acts like a 'spine' that holds the overall structure of the wine together.
+
+Remember, if tannin 'dries your mouth,' acidity 'wets your mouth.'
 
 ---
 
 ## [Expert Concept]
 
-The body of a wine is primarily determined by its alcohol level, residual sugar, and fruit concentration:
+Acidity is the most important indicator of freshness that determines the vitality of a wine.
 
-1.  Light Body: Feels very thin and refreshing in the mouth. (e.g., Pinot Grigio, Beaujolais)
-
-2.  Medium Body: Has a moderate weight and richness on the palate. (e.g., Merlot)
-
-3.  Full Body: Feels substantial and heavy, with a rich and mouth-coating texture. (e.g., Cabernet Sauvignon, Syrah/Shiraz)
-
-4.  Sweetness Influence: Residual sugar adds viscosity (thickness) to the liquid, often contributing to a fuller body.
+1.  High Acidity: Refreshing, full of energy, and makes your mouth water profusely. (e.g., Riesling, Sauvignon Blanc)
+2.  Low Acidity: Soft and round, but if too low, the wine can feel flat or boring.
+3.  Balance: Acidity balances out the sugar in sweet wines so they don't become cloying.
+4.  Cool Climate: Grapes grown in cooler climates tend to maintain higher acidity.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Do not assume that "The darker the color, the fuller the body." While color and body often go hand-in-hand, some light-colored wines can have high alcohol and a full body.
-
-The weight on the palate is the deciding factor.
-[Tip]: In the exam, if you spot the terms 'Mouthfeel' or 'Weight', link them directly to the 'Body' keyword.
-
-Water-Milk-Cream!
-
-Remember this trio to identify the correct answer.
+[Trap]: Thinking "a wine with strong sourness is a spoiled wine" is incorrect. The acidity in wine is a healthy, natural freshness inherent to grapes, different from the harsh sourness of vinegar.
+[Tip]: In the exam, if the expression 'Mouth-watering' appears, do not hesitate to choose 'Acidity' as the answer. How much your mouth waters is the sole criterion for the correct answer.
 
 ---
 
@@ -52,26 +45,23 @@ Remember this trio to identify the correct answer.
 
 ### Threads Post
 [Hook]
-When someone says, "This wine has a great body," do you know exactly what they're feeling?
+The thrill of biting into a slice of lemon—are you feeling it in your wine too?
 
 [Twist]
-It's not about 'flavor'; it's about 'Weight'. It's all about how substantial the wine feels between your tongue and palate. Is it like water, like whole milk, or like thick double cream? Next time you sip, try to weigh the wine in your mouth. You'll find it becomes more than just a liquid—it's a physical texture.
+There is one thing that wine experts particularly focus on when drinking white wine: 'Acidity.' Acidity is the magic key that explodes your salivary glands and breathes life into the wine. Tonight, find the wine that makes your mouth react the fastest. Your ultimate appetite-stimulating partner is right there.
 
 [Reason]
-WSET Level 1 Body Formula:
-
-1. Light Body: Thin like skimmed milk (refreshing).
-
-2. Medium Body: Balanced like whole milk (all-rounder).
-
-3. Full Body: Rich like double cream (intense concentration).
+WSET Level 1 Acidity Formula:
+1. Acidity: The measure of freshness (Stimulates salivary glands)
+2. Cool Climate: The secret to high acidity (e.g., Germany, New Zealand)
+3. Structure: The invisible force that builds the skeleton of the wine
 
 [Tip]
-Pair light-bodied wines with light salads and go for a full-bodied red with a heavy steak. Balancing the weight is the first step to a perfect pairing.
+Try pairing a high-acidity wine with greasy meats. You will experience a miraculous cleanse that leaves your mouth perfectly refreshed.
 
 ### YouTube Shorts Script
-(0-3s) "This wine's got a killer body!" But what does that even mean? Is it about its shape?
-(3-15s) WSET Level 1 High-Score Formula! It's Body! The weight of the wine in your mouth! Like water for Light, whole milk for Medium, and cream for Full-bodied!
-(15-25s) Question! What term describes the weight and physical mouthfeel of a wine? 1. Acidity, 2. Body, 3. Tannin.
-(25-35s) The answer is 2, Body! Feel the weight on your tongue!
-(35-45s) The elegance of wine through its weight! Subscribe and get that perfect score!
+(0-3s) Does your mouth water full of saliva after a sip of wine?
+(3-15s) WSET Level 1 High-Score Formula! It's Acidity! A wine that stimulates your salivary glands like a lemon is the symbol of freshness! It's the exact opposite sensation of mouth-drying tannins!
+(15-25s) Question! What is the characteristic of a fresh wine that cleanses and wets your mouth? 1. High Tannin, 2. High Acidity, 3. High Alcohol.
+(25-35s) The answer is 2, Acidity! Check for that mouth-watering hydration.
+(35-45s) The secret of mouth-watering freshness! Subscribe and get that perfect score!

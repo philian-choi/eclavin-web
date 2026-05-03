@@ -23,7 +23,7 @@ The amount of sugar added at this stage determines whether the final wine is lab
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The precision of the Traditional Method is what guarantees its global prestige:
 

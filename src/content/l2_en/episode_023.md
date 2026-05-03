@@ -23,7 +23,7 @@ The flavour profile features ripe stone fruits (peach, apricot) and subtle exoti
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The style of Pinot Grigio/Gris is defined almost entirely by its 'Harvest Timing' and 'Origin':
 
@@ -45,7 +45,7 @@ The style of Pinot Grigio/Gris is defined almost entirely by its 'Harvest Timing
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

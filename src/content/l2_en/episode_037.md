@@ -23,7 +23,7 @@ Its most distinctive trait is the green, herbaceous profile of Green Bell Pepper
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Global red varieties define the national identity of their respective regions:
 

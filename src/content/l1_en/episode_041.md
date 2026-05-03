@@ -2,45 +2,45 @@
 
 ## [WSET L1 Practice Question]
 
-Q. When comparing Italy's Prosecco and France's Champagne, what is the most significant characteristic of Prosecco?
+Q. When comparing Italy's Prosecco and France's Champagne, what is the biggest characteristic of Prosecco?
 
-A. It undergoes second fermentation inside the bottle.
-B. It undergoes second fermentation in a tank and is characterized by fresh green apple and floral aromas.
-C. It always has a strong aroma of biscuit and toast.
-D. It is made using 100% red grapes.
+A. It undergoes a second fermentation in the bottle.
+B. It undergoes a second fermentation in a tank and features fresh green apple and floral aromas.
+C. It always has strong biscuit and toast aromas.
+D. It is made only from 100% red grapes.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. It undergoes second fermentation in a tank and is characterized by fresh green apple and floral aromas.
+Answer: B. It undergoes a second fermentation in a tank and features fresh green apple and floral aromas.
 
-Explanation: Prosecco is made using the 'Tank Method.'
+Explanation: Prosecco is made using the Tank Method. 
 
-This is advantageous for preserving the fresh green apple, pear, melon, and honeysuckle aromas inherent in the Glera variety, rather than yeast maturation flavors (like biscuit).
+This is advantageous for preserving the natural fresh green apple, pear, melon, and honeysuckle aromas of the Glera variety, rather than yeast-matured flavors (like biscuit). 
 
-In contrast, Champagne is made using the 'Traditional Method' and is characterized by savory yeast flavors.
+On the other hand, Champagne is characterized by savory yeast flavors produced by the Traditional Method.
 
 ---
 
-## [Expert Concept - Final Prep]
+## [Expert Concept]
 
-Perfectly distinguish between the 'Big Three' of the Sparkling world just before the exam!
+Right before the exam, perfectly distinguish the big 3 of sparkling wines!
 
 | Category | Champagne | Cava | Prosecco |
 | :--- | :--- | :--- | :--- |
 | Country | France (Champagne) | Spain | Italy |
-| Method | Traditional (Bottle) | Traditional (Bottle) | Tank Method |
-| Primary Flavor | Biscuit, Toast, Lemon | Apple, Lemon, Subtle bread | Green Apple, Pear, White flowers |
-| Style | Sophisticated, High acidity | Great value, Elegant | Refreshing, Light-bodied |
+| Method | Traditional Method (Bottle) | Traditional Method (Bottle) | Tank Method (Tank) |
+| Main Flavors | Biscuit, Toast, Lemon | Apple, Lemon, Subtle bread | Green apple, Pear, White flowers |
+| Style | Precision, High acidity | Value, Elegance | Refreshing, Light body |
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "both Cava and Prosecco are made using the Tank Method."
-It is very frequently asked in exams that Cava is made using the same Traditional Method as Champagne.
-[Tip]: In an exam, if 'Tank Method' and 'Fresh' appear, choose 'Prosecco.' If 'Traditional Method' and 'Spain' appear, choose 'Cava.'
+[Trap]: Thinking "Both Cava and Prosecco use the tank method" is incorrect. 
+The fact that Cava is made using the exact same traditional method as Champagne is very frequently asked on the exam.
+[Tip]: In the exam, if the keywords 'Tank Method' and 'Fresh' appear, choose 'Prosecco', and if 'Traditional Method' and 'Spain' appear, choose 'Cava'!
 
 ---
 
@@ -48,33 +48,26 @@ It is very frequently asked in exams that Cava is made using the same Traditiona
 
 ### Threads Post
 [Hook]
-Not all bubbles are created equal. What kind of 'science' is contained in your glass tonight?
+Not all bubbles are the same. What kind of 'science' is contained in your glass tonight?
 
 [Twist]
-
-1. The Aristocrat of Bubbles, Champagne: The product of years of cohabitation with yeast inside the bottle. Exquisite savory biscuit aromas and sophisticated carbonation.
-
-2. The Hidden Expert, Cava: Made in Spain using the exact same method as Champagne. The price is friendly, but the taste is by no means light.
-
-3. The Refreshing Vitamin, Prosecco: Locks in the fruit aromas in a tank. The fresh green apple and floral scents will instantly brighten your mood.
-
-The world of sparkling wine is even more delicious when you know how it's made! What is your choice?
+1. The aristocrat of bubbles, Champagne: The result of sharing joys and sorrows with yeast in a bottle for years. The savory biscuit aroma and precise bubbles are superb.
+2. The hidden master, Cava: Made in Spain using the exact same method as Champagne. The price is kind, but the taste is never light.
+3. Refreshing vitamin, Prosecco: Trapped the fruit aromas in a tank. The fresh green apple and floral aromas will instantly brighten your mood.
+The world of sparkling wine is tastier when you know it! What is your choice?
 
 [Reason]
 WSET Level 1 Sparkling Final Formula:
-
-1. Champagne/Cava = Bottle Fermentation = Savory bread aroma.
-
-2. Prosecco = Tank Fermentation = Refreshing fruit aroma.
-
-3. Point: Sincerity is contained in each and every bubble.
+1. Champagne/Cava = Bottle fermentation = Savory bread aroma
+2. Prosecco = Tank fermentation = Crisp fruit aroma
+3. Point: Care is contained in each and every bubble.
 
 [Tip]
-If you find 'Traditional Method' on the bottle label, you can enjoy the same savory richness as Champagne!
+If you find the phrase 'Traditional Method' on the bottle label, you can enjoy a savoriness like Champagne!
 
 ### YouTube Shorts Script
-(0-3s) The ultimate sparkling summary! Champagne vs. Prosecco!
-(3-15s) WSET Level 1 High-Score Formula! The secret of the bubbles. Champagne and Cava are fermented in the bottle for a biscuit aroma! Prosecco is made in a tank for a refreshing apple aroma!
-(15-25s) Question! Which Spanish sparkling wine uses the same production method as Champagne? 1. Prosecco, 2. Cava, 3. Apple beer.
-(25-35s) The answer is 2, Cava! The best value for high-quality bubbles!
-(35-45s) The art in the bubbles, Sparkling! Subscribe and let's get that perfect score!
+(0-3s) The ultimate summary of sparkling wines! Champagne vs. Prosecco!
+(3-15s) WSET Level 1 High-Score Formula! The secret of bubbles. Champagne and Cava have biscuit aromas fermented in the bottle! Prosecco has crisp apple aromas made in a tank!
+(15-25s) Question! Which Spanish sparkling wine uses the exact same production method as Champagne? 1. Prosecco, 2. Cava, 3. Removing bubbles completely.
+(25-35s) The answer is 2, Cava! Premium bubbles with the best value for money!
+(35-45s) The art within the bubbles, Sparkling! Subscribe and get that perfect score!

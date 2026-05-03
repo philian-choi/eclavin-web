@@ -25,7 +25,7 @@ This overall state of maturation is known as Physiological Ripeness.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The maturation of the skin dictates the 'Quality' and 'Texture' of a red wine:
 
@@ -46,7 +46,7 @@ A true expert assesses the balance between the two.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

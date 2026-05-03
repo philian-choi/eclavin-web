@@ -23,7 +23,7 @@ In Australia, where it is called Shiraz, it often develops a more jammy, chocola
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Syrah and Shiraz are defined by their distinctive spice profile and powerful structure:
 

@@ -25,7 +25,7 @@ Conversely, Salt is a "friend" that makes wine feel softer and smoother.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Food and wine pairing is not just a preference; it is a 'structural chemical reaction':
 

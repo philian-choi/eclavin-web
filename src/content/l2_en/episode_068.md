@@ -7,7 +7,7 @@ Q. In the context of Food & Wine Pairing, how does a wine typically change when 
 A. The wine tastes sweeter and more fruit-forward.
 B. The wine tastes more bitter (Tannin) and acidic, while its fruitiness decreases.
 C. The wine's alcohol level suddenly drops.
-D. Instantly changes any wine into a shot of soju.
+D. Fully ferments the grape sugar to always produce a dry wine.
 
 ---
 
@@ -23,7 +23,7 @@ Conversely, Acid and Salt in food help the wine taste smoother, sweeter, and mor
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The four key rules of how food flavors affect wine:
 
@@ -70,6 +70,6 @@ Is the wine tasting too sour and bitter? Try adding a pinch of salt to your food
 ### YouTube Shorts Script
 (0-3s) The real reason why we salt our meat?! The betrayal of wine!
 (3-15s) WSET Level 2 High-Score Formula! Sugar and Umami in food make wine taste more sour and bitter, but salt and acidity make it much smoother and sweeter! A pinch of salt is the secret to saving your wine with Umative-rich dishes!
-(15-25s) Question! Which element in food helps a wine taste smoother and more fruity? 1. Sugar, 2. Salt, 3. Salt water.
+(15-25s) Question! Which element in food helps a wine taste smoother and more fruity? 1. Sugar, 2. Salt, 3. Fermenting all sugar to make it dry.
 (25-35s) The answer is 2! The secret to a fantastic marriage that elegantly drenches your palate.
 (35-45s) The gourmet world that tastes better when you know! Subscribe and let's get that perfect score!

@@ -7,7 +7,7 @@ Q. In the quality hierarchy of Italian wines, which classification corresponds t
 A. Vino d'Italia (Table Wine)
 B. Denominazione di Origine Controllata e Garantita (DOCG)
 C. Indicazione Geografica Tipica (IGT)
-D. Changes any wine into a shot of soju instantly.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -25,7 +25,7 @@ Meanwhile, IGT represents a broader regional level where producers often choose 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the Italian quality pyramid:
 
@@ -74,6 +74,6 @@ If you see 'Denominazione di Origine Controllata e Garantita' on a label, it is 
 ### YouTube Shorts Script
 (0-3s) The class system of Italian wine?! The secret of DOCG!
 (3-15s) WSET Level 2 High-Score Formula! Italy is split from the top-tier DOCG to the approachable IGT! The band around the bottle neck is a mark of honor, proving government-guaranteed quality!
-(15-25s) Question! What is the name of Italy's highest quality classification? 1. IGT, 2. DOCG, 3. Salt water.
+(15-25s) Question! What is the name of Italy's highest quality classification? 1. IGT, 2. DOCG, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A proven masterpiece of high-end winemaking!
 (35-45s) The hierarchy of fine wine! Subscribe and let's get that perfect score!

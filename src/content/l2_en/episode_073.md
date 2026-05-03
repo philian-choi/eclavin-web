@@ -7,7 +7,7 @@ Q. Which red grape variety, primarily grown in the 'Bordeaux' region of France, 
 A. Pinot Noir
 B. Cabernet Sauvignon
 C. Merlot
-D. Instantly changes any variety into a shot of soju.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ Conversely, Merlot has softer tannins and more pronounced red fruit flavors, whi
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of major red grape varieties (Review):
 
@@ -72,6 +72,6 @@ If you see a Cabernet Sauvignon labeled 'Reserva', keep in mind that its tannins
 ### YouTube Shorts Script
 (0-3s) The king of red wines, the majesty of Cabernet Sauvignon!
 (3-15s) WSET Level 2 High-Score Formula! Red wines are split into high-tannin Cabernet Sauvignon, soft-textured Merlot, and delicate Pinot Noir! If you smell blackcurrant and cedar? That's the classic Cabernet Sauvignon!
-(15-25s) Question! Which red variety produces high tannins, blackcurrant, and cedar notes? 1. Pinot Noir, 2. Cabernet Sauvignon, 3. Salt water.
+(15-25s) Question! Which red variety produces high tannins, blackcurrant, and cedar notes? 1. Pinot Noir, 2. Cabernet Sauvignon, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A standard for grand red wines that elegantly drench your palate.
 (35-45s) The majestic world of red that you taste! Subscribe and let's get that perfect score!

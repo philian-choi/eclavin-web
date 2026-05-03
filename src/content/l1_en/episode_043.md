@@ -2,45 +2,43 @@
 
 ## [WSET L1 Practice Question]
 
-Q. If you smell an unpleasant odor from a wine like 'Damp Cardboard' or a 'Moldy Basement,' what fault could you suspect?
+Q. If a wine has an unpleasant odor like Damp Cardboard or a moldy basement, what fault can you suspect?
 
 A. Oxidation
-B. Cork Taint / TCA
-C. Heat Damage (Cooked Wine)
-D. Excessive Aging
+B. Cork Taint (TCA)
+C. Cooked Wine (Heat Damage)
+D. Bottle Aging
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Cork Taint / TCA
+Answer: B. Cork Taint (TCA)
 
-Explanation: Trichloroanisole (TCA) is a compound formed by a chemical interaction between mold in the cork and cleaning solutions. Even tiny amounts can ruin a wine's aroma.
+Explanation: The TCA (Trichloroanisole) compound, created by a chemical reaction between molds living on the cork and disinfectants, can ruin the wine's aroma even in very small amounts. 
 
-It kills the wine's natural fruitiness and causes smells like wet newspaper, cardboard, and stuffy basements. This phenomenon is also called 'Corky,' and while harmless to humans, the taste is completely spoiled.
-
----
-
-## [Expert Concept - Final Prep]
-
-These are the three major symptoms that appear when a wine is 'sick.'
-
-1.  Cork Taint (TCA): 
-    - Symptom: Wet paper, stuffy basement odors. Disappearance of fruitiness.
-
-2.  Oxidation: 
-    - Symptom: White turns Amber, Red turns Brown. Smells like vinegar or Sherry instead of fresh scents.
-
-3.  Heat Damage: 
-    - Symptom: Cooked fruit smells. The cork may slightly pop out above the bottle or there may be signs of leaking.
+This phenomenon, which kills the wine's natural fruit aroma and causes wet newspaper, cardboard, and musty basement smells, is also called being 'Corky', and while it's harmless to the human body, the taste is completely ruined.
 
 ---
 
-## [Exam Tip & Trap]
+## [Expert Concept]
 
-[Trap]: Avoid thinking that "if cork pieces are floating in the wine, it is a faulty wine."
-This is simply a matter of poor opening or the cork being dry; it is not the same as TCA, which affects the taste.
-[Tip]: In an exam, if 'Damp Cardboard' appears, choose 'Cork Taint' without a second's hesitation!
+These are the 3 main symptoms that appear when a wine is 'sick'.
+
+1.  Cork Taint (TCA):
+    - Symptom: Wet paper, musty basement smell. Loss of fruit aroma.
+2.  Oxidation:
+    - Symptom: White wine changes to amber, red to brown. Scents like vinegar or Sherry instead of fresh aromas.
+3.  Heat Damage (Cooked Wine):
+    - Symptom: Cooked fruit aroma. The cork slightly pops up above the bottle or there are signs of leaking.
+
+---
+
+## [Exam Traps & Success Tips]
+
+[Trap]: Thinking "If pieces of cork are floating in the wine, it's a faulty wine" is incorrect. 
+This is simply a mis-opened bottle or a dry cork, and is different from a fault (TCA) that affects the taste.
+[Tip]: In the exam, if you see the phrase 'Damp Cardboard', choose 'Cork Taint' without a second of hesitation!
 
 ---
 
@@ -48,31 +46,25 @@ This is simply a matter of poor opening or the cork being dry; it is not the sam
 
 ### Threads Post
 [Hook]
-Did you open an expensive wine and it smells like 'basement storage mold'? You've just encountered 'TCA,' the most common wine sickness.
+You opened an expensive wine, but it smells like 'underground cellar mold'? You have just encountered the most common disease of wine, 'TCA'.
 
 [Twist]
-
-1. The culprit is the cork: Mold in the cork has caused a chemical reaction. The smell of wet newspaper can ruin your special evening.
-
-2. Warning from color: If white wine is too dark brown, suspect oxidation; if the cork is protruding, suspect heat damage.
-
-Judging whether a wine is spoiled is not just for experts. Trust your nose! If it's unpleasant in any way, it's an SOS signal from the wine to you.
+1. The culprit is the cork: Mold caused a chemical reaction inside the cork. The smell of wet newspaper can ruin your special evening.
+2. Warning from color: If a white wine is too dark brown, suspect oxidation, and if the cork popped out, suspect heat damage.
+Judging whether a wine has gone bad or not is not an area just for experts. Trust your nose! If it's even slightly unpleasant, that's an SOS signal the wine is sending you.
 
 [Reason]
 WSET Level 1 Fault Diagnosis Formula:
-
-1. Wet newspaper = Cork Taint (TCA).
-
-2. Brown discoloration = Oxidation (excessive oxygen contact).
-
-3. Cooked scent = Heat Damage (high-temperature storage).
+1. Wet newspaper = Cork Taint (TCA)
+2. Brown discoloration = Oxidation (Excessive oxygen contact)
+3. Cooked aroma = Heat Damage (High-temperature storage)
 
 [Tip]
-When tasting at a restaurant, check 'if the aroma is clear' first. If it smells unpleasant, don't hesitate to ask the sommelier about a replacement!
+When tasting at a restaurant, first check if the 'aroma is clear'. If it smells unpleasant, do not hesitate to ask the sommelier for a replacement!
 
 ### YouTube Shorts Script
-(0-3s) How to spot spoiled wine! The hellish smell of TCA!
-(3-15s) WSET Level 1 High-Score Formula! How to diagnose wine faults! Wet paper smell is cork taint! Excessive browning is oxidation! If the cork is protruding, it's heat damage!
-(15-25s) Question! What is the abbreviation for the substance that causes the damp cardboard smell in wine? 1. BBQ, 2. TCA, 3. BTS.
-(25-35s) The answer is 2, TCA! A terrifying component that intercepts the freshness of wine!
-(35-45s) Diagnosis for a healthy glass! Subscribe and let's get that perfect score!
+(0-3s) How to spot spoiled wine! The smell of hell, TCA!
+(3-15s) WSET Level 1 High-Score Formula! How to diagnose wine faults! Wet paper smell is cork taint! Excessive brown color is oxidation! If the cork popped up, it's heat damage!
+(15-25s) Question! What is the abbreviation of the substance that causes the damp cardboard smell in wine? 1. BBQ, 2. TCA, 3. BTS.
+(25-35s) The answer is 2, TCA! It's the scary substance that blocks the freshness of the wine!
+(35-45s) A diagnosis for a healthy glass! Subscribe and get that perfect score!

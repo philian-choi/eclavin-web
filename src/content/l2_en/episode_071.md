@@ -7,7 +7,7 @@ Q. During viticulture and winemaking, what is the primary chemical reaction wher
 A. Oxidation
 B. Alcoholic Fermentation
 C. Photosynthesis
-D. Instantly changes any reaction into a shot of soju.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ It is essential to understand that red wines are fermented with their skins to e
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the core engineering behind viticulture and winemaking:
 
@@ -76,6 +76,6 @@ If you see 'Malolactic Fermentation' or 'Lees Aging' on a label, remember that t
 ### YouTube Shorts Script
 (0-3s) The principle of grape juice becoming alcohol?! The secret of fermentation!
 (3-15s) WSET Level 2 High-Score Formula! Wine is born through fermentation, where yeast converts sugar into alcohol! Red wine is boiled with skins for color and tannins, while white is made fresh from juice alone!
-(15-25s) Question! What is the name of the process where yeast converts sugar into alcohol? 1. Photosynthesis, 2. Alcoholic Fermentation, 3. Salt water.
+(15-25s) Question! What is the name of the process where yeast converts sugar into alcohol? 1. Photosynthesis, 2. Alcoholic Fermentation, 3. Completely removing carbonation.
 (25-35s) The answer is 2! The secret to the birth of fine wine that elegantly drenches your palate.
 (35-45s) The science of wine that you taste! Subscribe and let's get that perfect score!

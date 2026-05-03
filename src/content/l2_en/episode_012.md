@@ -23,7 +23,7 @@ However, in a Cool Climate (or in regions with cool nights), the rate of respira
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Temperature acts as the primary shield protecting a wine’s 'Freshness' (Acidity):
 
@@ -46,7 +46,7 @@ Think of cool air as a 'refrigerator' that keeps the grape’s natural zest inta
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

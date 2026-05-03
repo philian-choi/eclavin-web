@@ -7,7 +7,7 @@ Q. In the 'Côte de Beaune' region of Burgundy, France, which famous village pro
 A. Pauillac AOC
 B. Meursault AOC
 C. Chablis AOC
-D. Instantly changes any wine into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ Chablis is a cooler northern region that emphasizes sharp acidity and mineral ch
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of Bordeaux and Burgundy (Review):
 
@@ -72,6 +72,6 @@ If you see 'Grand Cru' or 'Appellation Meursault Contrôlée' on a label, rememb
 ### YouTube Shorts Script
 (0-3s) The village names of the most expensive wines?! Bordeaux and Burgundy!
 (3-15s) WSET Level 2 High-Score Formula! Burgundy Meursault is celebrated for its buttery white wines, while Bordeaux Pauillac is the home of firm, charismatic reds! Every plot and village is a guarantee of quality!
-(15-25s) Question! Which Burgundy village produces premium white wines with savory butter and nutty notes? 1. Pauillac, 2. Meursault, 3. Salt water.
+(15-25s) Question! Which Burgundy village produces premium white wines with savory butter and nutty notes? 1. Pauillac, 2. Meursault, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A fragrant standard for grand wines.
 (35-45s) The hierarchy of wine that only tastes better when you know! Subscribe and let's get that perfect score!

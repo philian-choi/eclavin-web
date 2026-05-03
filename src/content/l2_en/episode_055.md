@@ -7,7 +7,7 @@ Q. In the quality hierarchy of Burgundy (Bourgogne), France, which classificatio
 A. Regional (Bourgogne AOC)
 B. Village (Gevrey-Chambertin AOC)
 C. Grand Cru (Le Musigny AOC)
-D. Changes any wine into a shot of soju instantly.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -23,7 +23,7 @@ Tiny plots within the Côte d'Or carry these prestigious names, commanding some 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the Burgundy quality pyramid:
 
@@ -70,6 +70,6 @@ If you see 'Grand Cru' on a label, you are tasting the highest honor maintained 
 ### YouTube Shorts Script
 (0-3s) The top secret of a Burgundy wine label?! Find the Grand Cru!
 (3-15s) WSET Level 2 High-Score Formula! Burgundy is split from Regional to Village, Premier Cru, and the ultimate peak—Grand Cru! Romanée-Conti and Montrachet are the heroes of these rare plots!
-(15-25s) Question! What is the highest quality classification in Burgundy? 1. Village, 2. Grand Cru, 3. Salt water.
+(15-25s) Question! What is the highest quality classification in Burgundy? 1. Village, 2. Grand Cru, 3. Blending various grape varieties.
 (25-35s) The answer is 2! A name of a legendary vineyard that the whole world admires.
 (35-45s) A taste of the peak through a map! Subscribe and let's get that perfect score!

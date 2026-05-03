@@ -7,7 +7,7 @@ Q. Primarily grown to high quality in the 'Sancerre' region of the Loire Valley,
 A. Chardonnay
 B. Sauvignon Blanc
 C. Riesling
-D. Instantly changes any white into a shot of salt water.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -23,7 +23,7 @@ Riesling is distinguished by high acidity, floral scents, and a unique petroleum
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the core differences between these two white wine giants:
 
@@ -72,6 +72,6 @@ If you see 'Marlborough' on a label, expect obsessive passion fruit scents; if y
 ### YouTube Shorts Script
 (0-3s) Eternal rivals in the white wine world?! Chardonnay vs Sauvignon Blanc!
 (3-15s) WSET Level 2 High-Score Formula! Sancerre Sauvignon Blanc is iconic for its grass scents and high acidity, while Chardonnay undergoes a buttery transformation in oak barrels! Choose between New Zealand freshness and Burgundy's heavy body!
-(15-25s) Question! Which variety produces Sancerre with high acidity, grass, and asparagus notes? 1. Chardonnay, 2. Sauvignon Blanc, 3. Salt water.
+(15-25s) Question! Which variety produces Sancerre with high acidity, grass, and asparagus notes? 1. Chardonnay, 2. Sauvignon Blanc, 3. Blending various grape varieties.
 (25-35s) The answer is 2! A fragrant standard for grand white wines.
 (35-45s) The world of white that only tastes better when you know! Subscribe and let's get that perfect score!

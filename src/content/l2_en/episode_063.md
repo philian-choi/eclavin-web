@@ -7,7 +7,7 @@ Q. Which of the following still types is used in 'Continuous Distillation' to pr
 A. Pot Still
 B. Column Still (or Coffey Still)
 C. Solar Still
-D. Instantly changes any spirit into a shot of soju.
+D. Discards all red skins before winemaking and ferments only the clear juice.
 
 ---
 
@@ -23,7 +23,7 @@ Conversely, the Column Still distills continuously to remove almost all impuriti
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of distillation methods:
 
@@ -70,6 +70,6 @@ If you see 'Pot Still Distilled' on a label, keep in mind that you are tasting a
 ### YouTube Shorts Script
 (0-3s) What happens when you boil alcohol?! The magic of distillation!
 (3-15s) WSET Level 2 High-Score Formula! Spirits are split into Pot Stills, which preserve raw ingredient scents, and Column Stills, which mass-produce pure alcohol! Single Malt is for Pot Still, and Vodka is the icon of Column Still.
-(15-25s) Question! Which still produces pure alcohol in large volumes? 1. Pot Still, 2. Column Still, 3. Salt water.
+(15-25s) Question! Which still produces pure alcohol in large volumes? 1. Pot Still, 2. Column Still, 3. Fermenting clear juice without skins.
 (25-35s) The answer is 2! A warm, concentrated hug of the spirit world.
 (35-45s) The science of spirits that you taste! Subscribe and let's get that perfect score!

@@ -39,12 +39,12 @@ Syrah is the essence of 'Power and Spice':
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
 [Trap]: Avoid thinking that "Syrah and Shiraz are completely different varieties."
 They are the same grape; the name just depends on the growing region and style.
 [Tip]: If the expression 'Black Pepper' or 'Full Body' appears in an exam, always choose 'Syrah/Shiraz.'
-The alacrity of black pepper is the ID card of Syrah.
+The distinctive kick of black pepper is the ID card of Syrah.
 
 ---
 

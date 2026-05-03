@@ -7,7 +7,7 @@ Q. In the wine classification system of Burgundy, France, what is the highest-le
 A. Village AOC
 B. Grand Cru AOC
 C. Regional / Bourgogne AOC
-D. Instantly changes all hierarchies into a shot of salt water.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -25,7 +25,7 @@ Understanding this pyramid structure is the first step in assessing a wine's val
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the essence of global quality hierarchies:
 
@@ -74,6 +74,6 @@ If an 'AOC' or 'DOCG' certification strip is wrapped around a label, remember it
 ### YouTube Shorts Script
 (0-3s) The secret grade of the most expensive wine?! Grand Cru!
 (3-15s) WSET Level 2 High-Score Formula! The peak of Burgundy is 'Grand Cru', and for Italy, the government-guaranteed 'DOCG' is the summit! Check the quality pyramids of the world, from Spain's strict 'DOCa' to Germany's sugar grades!
-(15-25s) Question! Which highest-tier Burgundy grade uses specific vineyard names? 1. Village, 2. Grand Cru, 3. Salt water.
+(15-25s) Question! Which highest-tier Burgundy grade uses specific vineyard names? 1. Village, 2. Grand Cru, 3. Blending various grape varieties.
 (25-35s) The answer is 2! The majesty of luxury grades that will drench your palate.
 (35-45s) The height of wine that only tastes better when you know! Subscribe and let's get that perfect score!

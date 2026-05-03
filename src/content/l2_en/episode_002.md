@@ -23,7 +23,7 @@ Therefore, a purple rim is a clear visual indicator that the wine is still very 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Visual assessment in the WSET SAT is the first clue to understanding a wine's character and age:
 
@@ -49,7 +49,7 @@ The colour at the edge of the glass tells the story of the wine's age.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

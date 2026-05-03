@@ -23,7 +23,7 @@ Notably, winemakers in Chablis often avoid excessive use of new oak to emphasize
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Chardonnay is often called the 'Winemaker's Grape' because it acts like a blank canvas, where the final style is heavily influenced by both climate and cellar techniques:
 
@@ -50,7 +50,7 @@ Chardonnay is often called the 'Winemaker's Grape' because it acts like a blank 
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

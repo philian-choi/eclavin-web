@@ -23,7 +23,7 @@ In the moderate climate of Bordeaux, it exhibits primary flavours of red plum an
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Merlot is a versatile variety that significantly changes its character based on the climate of the vineyard:
 
@@ -50,7 +50,7 @@ Merlot is a versatile variety that significantly changes its character based on 
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

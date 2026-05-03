@@ -23,7 +23,7 @@ Starting with vibrant strawberry and red cherry aromas, Pinot Noir evolves in th
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Pinot Noir is the 'delicate scribe' of its terroir, requiring a cool-to-moderate climate to thrive:
 
@@ -45,7 +45,7 @@ Pinot Noir is the 'delicate scribe' of its terroir, requiring a cool-to-moderate
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

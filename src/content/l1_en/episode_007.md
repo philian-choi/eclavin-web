@@ -1,50 +1,41 @@
-# Episode 007: Wine Styles (The Scale of Sugar) - Dry, Medium, & Sweet
+# Episode 007: Tannin (The Structure of Red Wine) - Drying Sensation
 
 ## [WSET L1 Practice Question]
 
-Q. When all the sugar in the grape juice has been fermented into alcohol, leaving almost no perceptible sweetness, what is the correct term to describe the style of the wine?
+Q. What is the name of the component that typically creates a drying sensation, making the gums and the entire mouth feel rough and dry after drinking red wine?
 
-A. Sweet
-B. Medium
-C. Dry
-D. Off-dry
+A. Sugar
+B. Acidity
+C. Tannin
+D. Alcohol
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: C. Dry
+Answer: C. Tannin
 
-Explanation: During the winemaking process, if the yeast consumes all the sugar in the juice and converts it into alcohol, the remaining wine contains almost no sweetness and is described as 'Dry'.
+Explanation: Tannins are primarily extracted from the skins, seeds, and stems of red grapes, as well as from the oak barrels used during maturation.
 
-Conversely, if fermentation is stopped early, leaving some sugar behind, the wine is classified as Off-dry, Medium, or Sweet based on the level of that residual sugar.
+Rather than just a 'bitter or astringent taste,' its most defining characteristic is that it creates a physical texture (drying sensation) that makes the gums and palate feel dry.
 
 ---
 
 ## [Expert Concept]
 
-The sweetness of a wine is determined by the amount of sugar left after fermentation, called 'Residual Sugar':
+Tannin is the most crucial component supporting the structure and lifespan of a red wine.
 
-1.  Dry: Contains very little to no sugar, leaving a clean and crisp sensation on the palate. Most table wines belong to this category.
-
-2.  Off-dry: Has a very slight, pleasant hint of sweetness that can be felt at the tip of the tongue.
-
-3.  Medium: Possesses a clear sweetness that balances well with fresh fruit flavors. (e.g., some German Rieslings)
-
-4.  Sweet: These are dessert wines with intense sweetness, like honey or jam, filling the mouth. (e.g., Sauternes, Port)
+1.  Drying Sensation: Tannins bind with proteins, stripping away moisture in the mouth and leaving a rough, dry feeling.
+2.  High Tannin: The mouth feels very dry, forming a powerful structural sensation. (e.g., Cabernet Sauvignon, Syrah)
+3.  Low Tannin: There is less resistance on the gums, and it goes down smoothly. (e.g., Pinot Noir)
+4.  Preservative: Tannins act as a natural preservative, preventing the oxidation of the wine and enabling long-term aging.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Do not say "This wine is sweet because it smells like fruit." Fruit aromas (strawberries, peaches) do not provide actual sweetness.
-
-If there is no physical sugar, the wine is technically Dry.
-
-Do not confuse aroma with taste.
-[Tip]: In the exam, if you spot the phrase 'Residual Sugar', immediately think of the 'Sweetness' keyword.
-
-The amount of surviving sugar is the only criteria for the answer.
+[Trap]: Thinking "Tannin is a defining characteristic of white wine" is incorrect. Because tannins mainly come from the skins, they are a core characteristic of red wines, which are fermented with their skins.
+[Tip]: In the exam, if you see the words 'Drying sensation' or 'Gums,' choose the keyword 'Tannin' without hesitation. The key to the answer is not the intensity of astringency, but the physical drying sensation.
 
 ---
 
@@ -52,26 +43,23 @@ The amount of surviving sugar is the only criteria for the answer.
 
 ### Threads Post
 [Hook]
-"This wine is so sweet!" Is it actually because of sugar, or is it just the aroma?
+That rough, dry feeling on your gums after drinking red wine—have you ever experienced it?
 
 [Twist]
-To a wine expert, 'Dry' means there is zero sugar. Even if a wine smells intensely of strawberries, if there's no sugar, it's still dry! Don't let your nose fool you—true sweetness comes from the stickiness and weight felt on the tip of your tongue. Tonight, check if your wine is sweet because of sugar or simply 'sweet' because of its lovely fruit aromas.
+It's not because the wine is bad, but because of a framework called 'Tannin'. This magical component, emerging from grape skins and seeds, is responsible for the wine's lifespan. Instead of avoiding it because it's astringent, try to feel the solid structure hidden within that roughness. A good wine pleasantly brushes past your gums, leaving a deep, lingering finish.
 
 [Reason]
-WSET Level 1 Sweetness Formula:
-
-1. Dry: Zero sugar, very clean (The standard for dinner wines).
-
-2. Off-dry: Slightly sweet (Perfect with spicy Thai or Korean food).
-
-3. Sweet: Definitely sweet (Indulgent dessert wines).
+WSET Level 1 Tannin Formula:
+1. Tannin: Dryness in the mouth (The true identity of the astringent feeling)
+2. Sources: Grape skins, seeds, and oak barrels
+3. Aging Potential: A natural preservative that allows wine to be stored for a long time
 
 [Tip]
-Instead of just asking for "a sweet wine" at a wine shop, try asking, "Do you have something in an Off-dry style?" Your wine expertise will instantly level up.
+When drinking a high-tannin wine, pair it with protein-rich foods like steak or cheese. You can experience the magic of the tannins binding with the meat's proteins first, making your gums feel much softer!
 
 ### YouTube Shorts Script
-(0-3s) Is this wine sweet? Sugar, or just your imagination?
-(3-15s) WSET Level 1 High-Score Formula! It's Sweetness! If all sugar turns to alcohol, it's Dry. If any sugar is left, it's Off-dry or Sweet!
-(15-25s) Question! What is the name of a clean wine with no sugar remaining? 1. Dry, 2. Medium, 3. Sweet.
-(25-35s) The answer is 1, Dry! Pay attention to the texture on your tongue.
-(35-45s) The secret of sweet wine, Residual Sugar! Subscribe and get that perfect score!
+(0-3s) You drank red wine and your mouth feels dry and rough?!
+(3-15s) WSET Level 1 High-Score Formula! It's Tannin! It's the natural preservative from grape skins and the pride of red wine that makes your mouth dry!
+(15-25s) Question! What is the component that builds the structure of red wine and makes your mouth dry? 1. Acidity, 2. Tannin, 3. Sugar.
+(25-35s) The answer is 2, Tannin! Remember the drying sensation on your gums.
+(35-45s) The skeleton of wine, the secret of tannin! Subscribe and get that perfect score!

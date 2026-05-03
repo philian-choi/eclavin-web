@@ -23,7 +23,7 @@ This interaction gives sparkling wines like Champagne and Cava their complex, sa
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Sparkling wines are defined by their 'method of CO2 production and lees contact':
 

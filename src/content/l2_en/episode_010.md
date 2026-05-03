@@ -23,7 +23,7 @@ Chemical insecticides were found to be largely ineffective against this subterra
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The most significant threats to vineyard health are categorized into Pests and Diseases:
 
@@ -44,7 +44,7 @@ The most significant threats to vineyard health are categorized into Pests and D
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

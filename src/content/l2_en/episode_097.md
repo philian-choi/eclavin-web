@@ -7,7 +7,7 @@ Q. What is the key characteristic of the wine produced from the Nebbiolo variety
 A. Low acidity and soft plum flavors
 B. High acidity and very high tannins with notes of tar and rose
 C. Medium tannins and sweet tropical fruit aromas
-D. Instantly changes all Piedmont pride into a shot of salt water.
+D. Stores the wine upright on a warm, sunny windowsill.
 
 ---
 
@@ -25,7 +25,7 @@ Rioja is famous for oak-aged Tempranillo, while Mosel is renowned for its high-a
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A deep-dive summary of major European regions:
 
@@ -72,6 +72,6 @@ If 'Classico' is written on a label, remember it is a masterpiece produced in th
 ### YouTube Shorts Script
 (0-3s) The pride clash of European wines?! Italy vs Spain vs Germany!
 (3-15s) WSET Level 2 High-Score Formula! Italy's Barolo is the peak of rose and tar-scented Nebbiolo, while Spain's Rioja is legendary for its oak-aged Tempranillo! Mosel's Riesling from Germany offers sharp acidity from its iconic steep hills!
-(15-25s) Question! Which Italian variety is iconic for high acidity, tannins, and rose/tar aromas? 1. Sangiovese, 2. Nebbiolo, 3. Salt water.
+(15-25s) Question! Which Italian variety is iconic for high acidity, tannins, and rose/tar aromas? 1. Sangiovese, 2. Nebbiolo, 3. Storing upright by a warm window.
 (25-35s) The answer is 2! A legend of grand European red wines that will drench your palate.
 (35-45s) The song of European wine that only sounds better when you know! Subscribe and let's get that perfect score!

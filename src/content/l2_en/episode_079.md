@@ -7,7 +7,7 @@ Q. In the 'Sauternes' region of Bordeaux, France, what is the name of the fungus
 A. Oxidation
 B. Noble Rot (Botrytis Cinerea)
 C. Frost
-D. Instantly changes any fungus into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -25,7 +25,7 @@ Note that Icewine uses a different method by freezing grapes to remove water.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of sweet wines and variety characteristics (Review):
 
@@ -74,6 +74,6 @@ If you see 'Sauternes' or 'Tokaji 5 Puttonyos' on a label, remember it is a mast
 ### YouTube Shorts Script
 (0-3s) Moldy grapes turn into gold?! The secret of sweet wine!
 (3-15s) WSET Level 2 High-Score Formula! Noble rot Sauternes uses fungus to remove water and create honey and apricot scents, while Icewine freezes grapes for pure sweetness! Taste the liquid gold born from the art of waiting!
-(15-25s) Question! Which high-quality Bordeaux sweet wine uses noble rot fungus? 1. Pauillac, 2. Sauternes, 3. Salt water.
+(15-25s) Question! Which high-quality Bordeaux sweet wine uses noble rot fungus? 1. Pauillac, 2. Sauternes, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A standard for grand dessert wines that elegantly drench your palate.
 (35-45s) The science of sweet wine that you taste! Subscribe and let's get that perfect score!

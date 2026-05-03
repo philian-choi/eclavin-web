@@ -7,7 +7,7 @@ Q. Primarily grown to high quality in 'Hermitage' of the Northern Rhône, France
 A. Cabernet Sauvignon
 B. Syrah / Shiraz
 C. Pinot Noir
-D. Instantly changes any power into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ Both are 'power-house' varieties that yield full bodies and intense structure.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of these grand and intense red wine icons:
 
@@ -72,6 +72,6 @@ If you see 'Hermitage' on a label, expect the precision of Syrah; if you see 'Na
 ### YouTube Shorts Script
 (0-3s) The ultimate power-clash in the red wine world?! Cabernet vs Shiraz!
 (3-15s) WSET Level 2 High-Score Formula! Cabernet Sauvignon is defined by blackcurrant and mint, while Shiraz is legendary for black pepper and blackberry jam! Both feature high tannins and high acidity for a grand body! Which heavy-hitter is your pick?!
-(15-25s) Question! Which iconic Australian variety produces high tannins, black pepper, and blackberry flavors? 1. Cabernet Sauvignon, 2. Shiraz, 3. Salt water.
+(15-25s) Question! Which iconic Australian variety produces high tannins, black pepper, and blackberry flavors? 1. Cabernet Sauvignon, 2. Shiraz, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A fragrant standard for powerful, grand reds.
 (35-45s) The majestic world of red that only tastes better when you know! Subscribe and let's get that perfect score!

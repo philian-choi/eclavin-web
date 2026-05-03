@@ -1,47 +1,47 @@
-# Episode 034: Cava & Prosecco (Sparkling Variations) - Regions
+# Episode 034: Service & Glassware (The Ritual) - Serving with Style
 
 ## [WSET L1 Practice Question]
 
-Q. Which of the following is the most accurate combination of typical flavor characteristics and production methods for Prosecco, Italy's representative sparkling wine?
+Q. When checking and preparing a wine glass for cleanliness, what is the most important thing to pay attention to in order to fully preserve the wine's aroma and taste?
 
-A. Second fermentation in the bottle, with strong biscuit and toast aromas.
-B. Second fermentation in a tank (Tank Method), with fresh green apple and floral aromas.
-C. Grown in warm climates, and always a very sweet red wine.
-D. High acidity and a very deep, inky color.
+A. The size of the glass must be larger than the plates on the dining table.
+B. The glass must not smell of detergent, dust, or the musty odor of its storage location.
+C. The color of the glass must be the exact same purple as the color of the wine.
+D. The glass must have a gold leaf border around it.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Second fermentation in a tank (Tank Method), with fresh green apple and floral aromas.
+Answer: B. The glass must not smell of detergent, dust, or the musty odor of its storage location.
 
-Explanation: Prosecco is the refreshing pride of Italy. Unlike Champagne, which is fermented in the bottle, Prosecco undergoes its second fermentation in a large tank, preserving the fresh green apple, pear, and floral aromas inherent in the grape.
+Explanation: Wine absorbs surrounding smells very well. 
 
-This results in a light and crisp style that highlights its fresh fruit character without the savory yeast notes.
+Detergent residue left on the glass or a musty cupboard smell is the main culprit that ruins the wine's unique, delicate aroma. 
+
+Therefore, before pouring the wine, the basics of service are to check if the glass is clean and prepare it by wiping it with a clean, lint-free cloth.
 
 ---
 
 ## [Expert Concept]
 
-Two charming alternatives for sparkling wine: Cava and Prosecco.
+Wine service is a ritual that maximizes the value of the wine, going beyond simple 'pouring'.
 
-1.  Cava (Spain):
-    - Method: Uses the same 'Traditional Method' (Bottle Fermentation) as Champagne. 
-    - Aroma: Green apple and lemon combined with a subtle toasted bread flavor. 
-
-2.  Prosecco (Italy):
-    - Method: Uses the 'Tank Method.' 
-    - Aroma: Very fresh green apple, white flowers, and melon. 
-
-3.  Difference: Choose Cava for savory, heavy bubbles; choose Prosecco for refreshing, light, fruity bubbles.
+1.  Opening Still Wine: Neatly cut the capsule, be careful not to let the top of the cork touch the rim of the glass, and gently extract it using a screw.
+2.  Glassware Types:
+    - Large Bowl (Red): Helps the aromas bloom better and aids in air contact.
+    - Small Bowl (White/Rosé): Maintains a cold temperature and concentrates the aroma toward the nose.
+    - Flute (Sparkling): Slows down the rate at which bubbles escape and provides visual enjoyment.
+3.  Pouring: Hold it so the label faces the guest, and it is standard to pour only up to the widest part of the glass (about 1/3 to 1/2).
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "all sparkling wines are fermented in the bottle."
-Prosecco is loved globally for its light, fruity character made through the efficient 'Tank Method.'
-[Tip]: In an exam, if 'Italy' and 'Fresh Apple/Floral' appear, choose 'Prosecco.' If 'Spain' and 'Traditional Method' appear, choose 'Cava.'
+[Trap]: Thinking "Making a loud pop when opening sparkling wine is a sign of welcome" is incorrect. 
+For safety, it is standard practice to hold the cork firmly and open it gently so that it only makes a small 'hiss-' sound.
+[Tip]: In the exam, if you see the words 'Cleanliness' or 'Linen', always connect them to the 'Service Readiness' keyword. 
+A clean glass is half the taste of the wine.
 
 ---
 
@@ -49,29 +49,23 @@ Prosecco is loved globally for its light, fruity character made through the effi
 
 ### Threads Post
 [Hook]
-Looking for 'great-value bubbles' to replace expensive Champagne? 
+If you bought an expensive wine but it doesn't taste good, could the 'glass' be the culprit?
 
 [Twist]
-
-1. Sophisticated freshness, Prosecco: The daily drink of the Italian people. It has the fresh green apple and floral scents of freshly squeezed grape juice. Fantastic with brunch or light salads. 
-
-2. Elegant savoriness, Cava: Made in Spain with the exact same method as Champagne. It's budget-friendly but has both a subtle bread scent and delicate bubbles. 
-
-Which perfect bubble will refresh your weekend? 
+The very first thing wine experts do before tasting is to smell the glass. If even a hint of a musty cupboard smell or detergent odor remains, a ten-thousand-dollar wine instantly turns into a cheap wine. Before drinking wine, hold the glass up to the light and check if it is transparent without a single speck of dust. It is the most basic yet crucial first ritual to fully enjoy the aroma of the wine.
 
 [Reason]
-WSET Level 1 Sparkling Alternative Formula:
-
-1. Prosecco = Tank Method = Fresh apple, Floral aromas (Italy).
-
-2. Cava = Traditional Method = Savory bread, Fruit aromas (Spain).
+WSET Level 1 Service Formula:
+1. Cleanliness: Odorless glass (For the best aroma)
+2. Glass Selection: Large for Red, Small for White (Matched to the style)
+3. Serving Manners: Label visible, amount appropriate (The art of consideration)
 
 [Tip]
-When making 'Mimosa', the most popular sparkling wine cocktail, refreshing Prosecco is the best match!
+When wiping a glass, try using a clean, dedicated linen cloth instead of a towel washed with strongly scented fabric softener. The wine's aroma will come alive 100% more vividly.
 
 ### YouTube Shorts Script
-(0-3s) High-value sparkling that's better than Champagne? Cava vs. Prosecco! 
-(3-15s) WSET Level 1 essential concepts! Perfect summary of the difference between the two! Italian Prosecco is fresh apple from a tank! Spanish Cava is savory bread from a bottle! 
-(15-25s) Question! Which winemaking technique does Prosecco use to maintain its fresh fruitiness? 1. Tank Method, 2. Oak Maturation, 3. Heated Fermentation. 
-(25-35s) The answer is 1! The secret to locking in that freshness! 
-(35-45s) The joy of bubbles, Cava and Prosecco! Subscribe and let's get that perfect score!
+(0-3s) A very easy way to look like a wine expert? Check the glass first!
+(3-15s) WSET Level 1 High-Score Formula! It's Wine Service! The most important thing is the cleanliness of the glass! Because smells of detergent or dust completely ruin the wine's aroma! The key is to wipe it with a clean, odorless cloth!
+(15-25s) Question! What is the name of the glass dedicated to sparkling wine? 1. Tumbler, 2. Flute, 3. Bowl.
+(25-35s) The answer is 2, Flute! It helps the bubbles rise beautifully!
+(35-45s) The start of elegant wine service! Subscribe and get that perfect score!

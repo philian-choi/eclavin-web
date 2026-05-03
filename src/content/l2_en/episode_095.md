@@ -7,7 +7,7 @@ Q. What is the key characteristic of Cabernet Sauvignon produced on the 'Left Ba
 A. High tannins with signature notes of blackcurrant, mint, and cedar
 B. Strawberry and red cherry with rose petal aromas
 C. Low acidity with very soft plum flavors
-D. Instantly changes all majestic reds into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -25,7 +25,7 @@ Both are 'power-house' varieties, boasting firm structures and full bodies.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A deep-dive summary into the two intense red wine varieties:
 
@@ -72,6 +72,6 @@ If 'Coonawarra' is on a label, remember it is a Cabernet Sauvignon gem with the 
 ### YouTube Shorts Script
 (0-3s) The true heavyweight clash of the red wine world?! Cabernet vs Shiraz!
 (3-15s) WSET Level 2 High-Score Formula! Cabernet Sauvignon is characterized by blackcurrant, cedar, and high tannins! In contrast, Shiraz charms with its spicy black pepper and blackberry-rich full body! Which heavy-hitter is your pick?!
-(15-25s) Question! Which French region produces Cabernet Sauvignon iconic for high tannins, blackcurrant, and cedar flavors? 1. Left Bank Bordeaux, 2. Northern Rhône, 3. Salt water.
+(15-25s) Question! Which French region produces Cabernet Sauvignon iconic for high tannins, blackcurrant, and cedar flavors? 1. Left Bank Bordeaux, 2. Northern Rhône, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 1! The skeleton of grand red wines that elegantly drench your palate.
 (35-45s) The orthodoxy of heavy red wine that only tastes better when you know! Subscribe and let's get that perfect score!

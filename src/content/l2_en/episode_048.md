@@ -29,7 +29,7 @@ Professionals evaluate quality objectively from 'Outstanding' to 'Poor' using th
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The WSET SAT is the 'Objective Language of Tasting':
 

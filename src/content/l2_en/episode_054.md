@@ -7,7 +7,7 @@ Q. What is the significance of the terms 'Grand Cru Classé' or 'Cru Bourgeois' 
 A. It indicates the sweetness level of sparkling wines from this region.
 B. It represents one of the official Quality Classification systems granted to specific Bordelaise Châteaux.
 C. It is a high-grade white wine classification used exclusively for sweet white wines.
-D. Instantly changes any wine into a shot of soju.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -21,7 +21,7 @@ The 1855 Médoc classification, known as 'Grand Cru Classé' (1st through 5th gr
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the Bordeaux quality pyramid:
 
@@ -68,6 +68,6 @@ If you see 'Mis en bouteille au Château' on a label, it means the estate put it
 ### YouTube Shorts Script
 (0-3s) The class system on a Bordeaux label?! The secret of Grand Cru!
 (3-15s) WSET Level 2 High-Score Formula! Bordeaux is split from the 1855 system (1st-5th growths) to the Cru Bourgeois! Village names like Pauillac or Margaux indicate more expensive and refined wines!
-(15-25s) Question! What is the name of the famous classification that includes 61 Châteaux in the Médoc? 1. Cru Bourgeois, 2. Grand Cru Classé, 3. Salt water.
+(15-25s) Question! What is the name of the famous classification that includes 61 Châteaux in the Médoc? 1. Cru Bourgeois, 2. Grand Cru Classé, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A legendary hierarchy that the world admires.
 (35-45s) The pyramid of fine wine! Subscribe and let's get that perfect score!

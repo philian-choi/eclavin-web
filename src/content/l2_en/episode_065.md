@@ -7,7 +7,7 @@ Q. Which spirit is produced in specific regions of Mexico using 'Blue Agave' and
 A. Vodka
 B. Gin
 C. Tequila
-D. Instantly changes any spirit into a shot of soju.
+D. Fully ferments the grape sugar to always produce a dry wine.
 
 ---
 
@@ -27,7 +27,7 @@ Rum is made from Sugar cane and possesses a characteristic sweet profile.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of major white spirits:
 
@@ -76,6 +76,6 @@ If you see 'Añejo' on a Tequila label, keep in mind that you are tasting a mast
 ### YouTube Shorts Script
 (0-3s) A plot twist hidden inside a clear liquid?! The secret of White Spirits!
 (3-15s) WSET Level 2 High-Score Formula! Clear Vodka is clean and neutral! Gin's pine-scented juniper berries are the core! Tequila is the wild taste of Mexican Agave! Rum is the sweet temptation of sugar cane!
-(15-25s) Question! Which clear spirit is flavored with juniper berries? 1. Vodka, 2. Gin, 3. Salt water.
+(15-25s) Question! Which clear spirit is flavored with juniper berries? 1. Vodka, 2. Gin, 3. Fermenting all sugar to make it dry.
 (25-35s) The answer is 2! The king of cocktails and the essence of fine spirits.
 (35-45s) The thrilling world of spirits that you taste! Subscribe and let's get that perfect score!

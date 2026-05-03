@@ -2,7 +2,7 @@
 
 ## [WSET L1 Practice Question]
 
-Q. Which part of the grape contains the main components—water, sugar, and acidity—that provide the essential energy for fermentation?
+Q. Among the components within a single grape berry, which part primarily provides the 'water, sugar, and acidity' to the wine, serving as the core energy for fermentation?
 
 A. Skin
 B. Pulp
@@ -15,34 +15,28 @@ D. Yeast
 
 Answer: B. Pulp
 
-Explanation: The Pulp, which makes up the majority of the grape, is primarily composed of water and contains the sugar (Sugar) necessary for fermentation and the acidity (Acidity) that provides freshness.
+Explanation: The pulp, which makes up the majority of the grape, consists mostly of water and contains the sugar needed for wine fermentation as well as the acidity that provides freshness. 
 
-In contrast, the Skin provides color and tannins, while the Seeds and Stems contain oils that can impart a bitter taste.
+In contrast, the skin provides color and tannin, while the seeds and stems provide bitter-tasting oils. 
 
-A single grape berry is a perfect blueprint for becoming wine.
+A single grape berry is, in itself, a perfect blueprint for becoming wine.
 
 ---
 
 ## [Expert Concept]
 
-A grape is a perfect natural capsule that serves as the raw material for wine:
+Grapes are the perfect natural capsules that serve as the ingredients for wine.
 
-1.  Skin: Contains the components that determine the color and tannin of red wine, as well as unique flavor compounds.
-
-2.  Pulp: The source of water (the liquid of the wine), sugar (the fuel for alcohol), and acidity (providing freshness).
-
-3.  Seeds and Stems: Contain harsh tannins and bitter oils that can impart an unpleasant taste to the wine if crushed incorrectly.
+1.  Skin: Concentrates the color and tannin of red wine, as well as unique flavor compounds.
+2.  Pulp: The source of water (which becomes the wine's liquid), sugar (which becomes alcohol), and acidity (which provides freshness).
+3.  Seeds and Stems: Contain strong tannins and oils that, if crushed incorrectly, can impart an unpleasant bitter taste (bitter oils) to the wine.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Thinking that "Tannins come from the pulp" is a common mistake.
-
-The pulp only contributes to the juice (water, sugar, acid), while tannins and color must come from the skin.
-[Tip]: In the exam, if the words 'Sugar', 'Acid', and 'Water' appear as a set, the answer is 100% Pulp.
-
-Conversely, if 'Color' or 'Tannin' are mentioned, choose Skin.
+[Trap]: Thinking "the pulp also contains color" is incorrect. Almost all grape pulp is clear/transparent. The red color of red wine comes exclusively from the skins.
+[Tip]: If the keywords 'Sugar & Acid' appear in the exam, unconditionally select 'Pulp'. The pulp is the most critical energy source that builds the 'body' of the wine.
 
 ---
 
@@ -50,26 +44,23 @@ Conversely, if 'Color' or 'Tannin' are mentioned, choose Skin.
 
 ### Threads Post
 [Hook]
-Would you believe that the entire blueprint for wine is contained within a single grape berry?
+Would you believe it if I told you that all the blueprints for a wine are contained inside a single grape berry?
 
 [Twist]
-In fact, the red color of wine comes from the skin, while the refreshingly tart taste and the energy to turn into alcohol come from the pulp. The skin makes the wine's 'clothes,' and the pulp makes the wine's 'soul.' Try cutting a grape in half today. The perfect collaboration between the transparent pulp and the tough skin is the beginning of the wine we drink.
+Actually, the red color of the wine comes from the skin, and the energy that will turn into crisp flavors and alcohol comes from the pulp. The skin makes the wine's 'clothes', and the pulp makes its 'soul'. Cut a grape in half today. The perfect collaboration between the clear pulp and the tough skin is the very beginning of the wine we drink.
 
 [Reason]
 WSET Level 1 Grape Formula:
-
-1. Skin: The warehouse of color and tannin (The pride of red wine).
-
-2. Pulp: The source of water, sugar, and acidity (The reality of wine).
-
-3. Seeds and Stems: Beware of bitterness! (A top priority to watch out for).
+1. Skin: The warehouse of color and tannin (The pride of red wine)
+2. Pulp: The source of water, sugar, and acid (The substance of wine)
+3. Seeds and Stems: Beware of bitterness! (#1 thing to be careful of)
 
 [Tip]
-The reason red wine is astringent is that it spent a lot of time with the skin and seeds during the production process. Try to find the sweetness of the pulp hidden within.
+The reason red wine is astringent is because it met the skins and seeds for a long time during production. Try to find the sweetness of the pulp hidden within!
 
 ### YouTube Shorts Script
 (0-3s) The juice that comes out when you bite a grape! Is this the future of wine?
-(3-15s) WSET Level 1 High-Score Formula! Grape structure (Anatomy)! The transparent Pulp supplies water, sugar, and acidity, while the Skin provides brilliant color and tannins! What about the seeds? If crushed, they're a bitterness bomb!
-(15-25s) Question! Where in the grape is the 'sugar' that becomes the wine's alcohol found? 1. Skin, 2. Pulp, 3. Seeds.
-(25-35s) The answer is 2, Pulp! The sweet juice becomes the wine.
-(35-45s) Reading the science of wine in a single berry! Subscribe and get that perfect score!
+(3-15s) WSET Level 1 High-Score Formula! The Anatomy of a Grape! The clear pulp provides water, sugar, and acid, while the skin provides vibrant color and tannin! And the seeds? If crushed, they are a bitter bomb!
+(15-25s) Question! Where is the 'sugar' that becomes the wine's alcohol located? 1. Skin, 2. Pulp, 3. Seeds.
+(25-35s) The answer is 2, Pulp! The sweet juice becomes the alcohol.
+(35-45s) The science of wine read from a single berry! Subscribe and get that perfect score!

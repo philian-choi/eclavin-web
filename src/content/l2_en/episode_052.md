@@ -7,7 +7,7 @@ Q. Which low-tannin red grape variety, produced in the 'Beaujolais' region of Fr
 A. South Africa's Pinotage
 B. France's Gamay
 C. USA's Zinfandel
-D. Changes any wine into a shot of soju instantly.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -25,7 +25,7 @@ Meanwhile, Pinotage is South Africa’s unique signature, a cross between Pinot 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the unique red duo, Gamay and Pinotage:
 
@@ -70,6 +70,6 @@ If you see 'Beaujolais-Villages' or 'Pinotage' on a label, you are in for a trea
 ### YouTube Shorts Script
 (0-3s) A wine that tastes like bubblegum? The secret of Beaujolais!
 (3-15s) WSET Level 2 High-Score Formula! Gamay features low tannins, fresh cherry, and bubblegum aromas! South Africa’s Pinotage is unmistakable with its blackberry and savory coffee notes!
-(15-25s) Question! Which iconic South African red variety is known for its coffee and smoke aromas? 1. Gamay, 2. Pinotage, 3. Salt water.
+(15-25s) Question! Which iconic South African red variety is known for its coffee and smoke aromas? 1. Gamay, 2. Pinotage, 3. Blending various grape varieties.
 (25-35s) The answer is 2! A warm, savory hug from an African red!
 (35-45s) Reds with intense personality! Subscribe and let's get that perfect score!

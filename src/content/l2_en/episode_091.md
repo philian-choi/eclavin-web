@@ -7,7 +7,7 @@ Q. One of the essential elements for the growth of a vine is sunlight. What is t
 A. Vine pruning and canopy management
 B. Installation of artificial lighting (Giant mirrors)
 C. Putting sunglasses on vines (Vine sunglasses)
-D. Instantly changes all efforts into a shot of salt water.
+D. Fully ferments the grape sugar to always produce a dry wine.
 
 ---
 
@@ -25,7 +25,7 @@ The harmony of poor soil and an appropriate climate (latitude 30–50°) is the 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the core success factors in wine growing:
 
@@ -74,6 +74,6 @@ If 'Estate Grown' or 'Single Vineyard' is written on a label, remember that this
 ### YouTube Shorts Script
 (0-3s) Why do they prune in the vineyard?! The magic of sunlight!
 (3-15s) WSET Level 2 High-Score Formula! Canopy management, which strategically thins out leaves, increases sunlight exposure to boost sugar and prevent mold diseases! The surprising fact that grapes grown in barren land become premium wine!
-(15-25s) Question! Which vineyard activity increases sunlight exposure and aids airflow? 1. Fertilizing, 2. Canopy Management, 3. Salt water.
+(15-25s) Question! Which vineyard activity increases sunlight exposure and aids airflow? 1. Fertilizing, 2. Canopy Management, 3. Fermenting all sugar to make it dry.
 (25-35s) The answer is 2! The root of grand wines that elegantly drench your palate.
 (35-45s) The birth of wine that only tastes better when you know! Subscribe and let's get that perfect score!

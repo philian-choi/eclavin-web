@@ -21,7 +21,7 @@ D. 과도한 숙성 (Bottle Aging)
 
 ---
 
-## [핵심 이론 마스터 - Final Prep]
+## [전문가 컨셉 - Expert Concept]
 
 와인이 '아플 때' 나타나는 3가지 주요 증상입니다. 
 

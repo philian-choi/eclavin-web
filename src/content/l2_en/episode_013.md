@@ -25,7 +25,7 @@ This is precisely why wines from regions like Napa Valley or the Barossa Valley 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The concentration of solar energy is directly linked to a wine’s 'Power' and 'Body':
 
@@ -48,7 +48,7 @@ The sun is the most powerful engine driving the wine's intensity.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

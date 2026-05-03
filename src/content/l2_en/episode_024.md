@@ -23,7 +23,7 @@ To balance this intense acidity, many Mosel Rieslings are produced in an off-dry
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Riesling is an aromatic, cold-hardy variety that acts as a pure conduit for its terroir:
 
@@ -50,7 +50,7 @@ Riesling is an aromatic, cold-hardy variety that acts as a pure conduit for its 
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

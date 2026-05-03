@@ -7,7 +7,7 @@ Q. What is the key characteristic of Chardonnay produced in the 'Chablis' region
 A. High acidity with notes of lemon and mineral (wet stone)
 B. Low acidity with flavors of pineapple and intense oak
 C. Very sweet residual sugar with acacia aromas
-D. Instantly changes all classy whites into a shot of salt water.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -23,7 +23,7 @@ In contrast, Sauvignon Blanc shows different charms, boasting intense grass, goo
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A deep dive summary into the two white wine masters:
 
@@ -70,6 +70,6 @@ If 'Fumé Blanc' is on a label, remember it is an American-style Sauvignon Blanc
 ### YouTube Shorts Script
 (0-3s) The ultimate clash of white wines?! Chardonnay vs Sauvignon Blanc!
 (3-15s) WSET Level 2 High-Score Formula! Chardonnay transforms from lemon to pineapple according to climate, working the magic of butter and oak! In contrast, Sauvignon Blanc shows the peak of freshness with high acidity, grass, and gooseberry flavors!
-(15-25s) Question! Which French Chardonnay region is iconic for high acidity and wet-stone minerality? 1. Napa Valley, 2. Chablis, 3. Salt water.
+(15-25s) Question! Which French Chardonnay region is iconic for high acidity and wet-stone minerality? 1. Napa Valley, 2. Chablis, 3. Blending various grape varieties.
 (25-35s) The answer is 2! The pride of grand white wines that elegantly drench your palate.
 (35-45s) The orthodoxy of white wine that only tastes better when you know! Subscribe and let's get that perfect score!

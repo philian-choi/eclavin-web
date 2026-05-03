@@ -94,7 +94,7 @@ function parseQuestionData(rawSection: string) {
 
 export const getAllEpisodes = cache((level: number, lang: Language = 'ko'): Episode[] => {
   const cacheKey = `L${level}_${lang}`;
-  if (episodeCache[cacheKey]) return episodeCache[cacheKey];
+  if (process.env.NODE_ENV === 'production' && episodeCache[cacheKey]) return episodeCache[cacheKey];
 
   const suffix = lang === 'en' ? '_en' : '';
   const dir = path.join(process.cwd(), 'src', 'content', `l${level}${suffix}`);
@@ -135,7 +135,7 @@ export const getAllEpisodes = cache((level: number, lang: Language = 'ko'): Epis
     })
     .sort((a, b) => a.number - b.number);
 
-  episodeCache[cacheKey] = episodes;
+  if (process.env.NODE_ENV === 'production') episodeCache[cacheKey] = episodes;
   return episodes;
 });
 
@@ -144,11 +144,11 @@ export const getAllEpisodes = cache((level: number, lang: Language = 'ko'): Epis
  */
 export const getAllEpisodesLight = cache((level: number, lang: Language = 'ko'): EpisodeLight[] => {
   const cacheKey = `Light_L${level}_${lang}`;
-  if (lightCache[cacheKey]) return lightCache[cacheKey];
+  if (process.env.NODE_ENV === 'production' && lightCache[cacheKey]) return lightCache[cacheKey];
 
   // If full cache already exists, derive from it
   const fullKey = `L${level}_${lang}`;
-  if (episodeCache[fullKey]) {
+  if (process.env.NODE_ENV === 'production' && episodeCache[fullKey]) {
     const derived = episodeCache[fullKey].map(e => ({
       id: e.id,
       number: e.number,
@@ -184,10 +184,70 @@ export const getAllEpisodesLight = cache((level: number, lang: Language = 'ko'):
     })
     .sort((a, b) => a.number - b.number);
 
-  lightCache[cacheKey] = episodes;
+  if (process.env.NODE_ENV === 'production') lightCache[cacheKey] = episodes;
   return episodes;
 });
 
 export function getEpisode(level: number, id: string, lang: Language = 'ko'): Episode | undefined {
   return getAllEpisodes(level, lang).find(e => e.id === id);
+}
+
+export function saveEpisode(episode: Episode) {
+  const suffix = episode.lang === 'en' ? '_en' : '';
+  const filePath = path.join(process.cwd(), 'src', 'content', `l${episode.level}${suffix}`, `${episode.id}.md`);
+  
+  if (!fs.existsSync(filePath)) {
+    throw new Error(`File not found: ${filePath}`);
+  }
+
+  const originalContent = fs.readFileSync(filePath, 'utf8');
+  
+  // Reconstruct the main sections
+  let newContent = `# ${episode.title}\n\n`;
+  
+  const questionHeader = episode.lang === 'en' ? '## [WSET L2 Practice Question]' : '## [WSET L2 실전 문제]';
+  newContent += `${questionHeader}\n\n`;
+  newContent += `Q. ${episode.question}\n\n`;
+  episode.options.forEach(opt => {
+    newContent += `${opt.label}. ${opt.text}\n`;
+  });
+  
+  newContent += `\n---\n\n`;
+  
+  const answerHeader = episode.lang === 'en' ? '## [Answer & Explanation]' : '## [정답 및 해설]';
+  newContent += `${answerHeader}\n\n`;
+  const answerLabel = episode.lang === 'en' ? 'Answer' : '정답';
+  const explanationLabel = episode.lang === 'en' ? 'Explanation' : '해설';
+  
+  const correctOptionText = episode.options.find(o => o.label === episode.answer)?.text || "";
+  newContent += `${answerLabel}: ${episode.answer}. ${correctOptionText}\n\n`;
+  newContent += `${explanationLabel}: ${episode.explanation}\n\n`;
+  
+  newContent += `---\n\n`;
+  
+  const theoryHeader = episode.lang === 'en' ? '## [Core Theory Master]' : '## [핵심 이론 마스터]';
+  newContent += `${theoryHeader}\n\n`;
+  newContent += `${episode.theory}\n\n`;
+  
+  newContent += `---\n\n`;
+  
+  const tipHeader = episode.lang === 'en' ? '## [Exam Tip & Trap]' : '## [시험 함정 & 합격 팁]';
+  newContent += `${tipHeader}\n\n`;
+  newContent += `${episode.tip}\n\n`;
+  
+  newContent += `---\n\n`;
+
+  // Preserve the Threads & Shorts section if it exists
+  const scriptMatch = originalContent.match(/## \[Threads & Shorts Scripts\][\s\S]*/);
+  if (scriptMatch) {
+    newContent += scriptMatch[0];
+  }
+
+  fs.writeFileSync(filePath, newContent, 'utf8');
+  
+  // Clear caches
+  const cacheKey = `L${episode.level}_${episode.lang}`;
+  const lightKey = `Light_L${episode.level}_${episode.lang}`;
+  delete episodeCache[cacheKey];
+  delete lightCache[lightKey];
 }

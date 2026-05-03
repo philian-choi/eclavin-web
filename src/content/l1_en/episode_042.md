@@ -2,12 +2,12 @@
 
 ## [WSET L1 Practice Question]
 
-Q. What is the most accurate definition of 'Vintage' displayed on a wine label?
+Q. What is the most accurate definition of the 'Vintage' indicated on a wine label?
 
 A. The date the wine was bottled.
 B. The year in which the grapes were harvested.
 C. The best time to drink the wine.
-D. The alcohol content rating of the wine.
+D. The alcohol content grade of the wine.
 
 ---
 
@@ -15,33 +15,31 @@ D. The alcohol content rating of the wine.
 
 Answer: B. The year in which the grapes were harvested.
 
-Explanation: Vintage is the 'birth year' of the wine.
+Explanation: Vintage is the birth year of the wine. 
 
-Since the climate conditions of that year determine the quality and style of the wine, the harvest year is a very important criterion for understanding wine information.
+Because the quality and style of the wine are determined by the climatic conditions of that year, the harvest year is a very important standard for grasping wine information. 
 
-In contrast, some wines like Champagne often do not display a vintage (Non-Vintage, NV) in order to maintain consistent quality every year by blending raw wine from several years.
-
----
-
-## [Expert Concept - Final Prep]
-
-Try to decode the hidden codes inside a wine label!
-
-1.  Vintage (Harvest Year): Since the climate is different every year, the vintage is a token of the wine's 'individuality.'
-
-2.  European Quality Hierarchy: 
-    - PDO (Protected Designation of Origin): High-quality wine from a very narrow and strictly controlled area. (e.g., Champagne, Rioja) 
-    - PGI (Protected Geographical Indication): Produced in a larger area, with a more flexible regulatory style.
-
-3.  Varietal Labeling: New World (USA, Chile, etc.) wines mainly indicate the wine by the variety name.
+On the other hand, some wines, like Champagne, often do not display a vintage (Non-Vintage, NV) in order to maintain consistent quality every year by blending base wines from multiple years.
 
 ---
 
-## [Exam Tip & Trap]
+## [Expert Concept]
 
-[Trap]: Avoid thinking that "Vintage wine is necessarily expensive and good."
-Vintage is simply the harvest year, and the quality varies greatly depending on the producer and the region.
-[Tip]: In an exam, if 'PDO' appears, remember 'Small area / Strict rules'; if 'PGI' appears, remember 'Large area / Less strict'!
+Decode the hidden codes on the wine label!
+
+1.  Vintage (Harvest Year): Since the climate changes every year, the vintage is a token that shows the 'personality' of the wine.
+2.  Quality Hierarchy (European Quality Grades):
+    - PDO (Protected Designation of Origin): High-quality wine from a narrowly and strictly controlled region. (e.g., Champagne, Rioja)
+    - PGI (Protected Geographical Indication): Produced in a broader region, a popular style with fewer regulations.
+3.  Varietal Labeling: New World (USA, Chile, etc.) wines primarily indicate the wine by the grape variety name.
+
+---
+
+## [Exam Traps & Success Tips]
+
+[Trap]: Thinking "A vintage wine is unconditionally expensive and good" is incorrect. 
+Vintage is merely the harvest year, and quality varies widely depending on the producer and region.
+[Tip]: In the exam, remember 'PDO' is 'Small area / Strict rules', and 'PGI' is 'Large area / Less strict'!
 
 ---
 
@@ -49,29 +47,26 @@ Vintage is simply the harvest year, and the quality varies greatly depending on 
 
 ### Threads Post
 [Hook]
-Did you know that the number '2022' written on a wine label is more than just a production date?
+Did you know that the number '2022' written on a wine label is not simply the production date?
 
 [Twist]
-A vintage is a record of the sun, rain, and wind of that year.
-- Vintage Wine: Taste changes dramatically depending on whether it was a rainy year or a sunny year. It's a special record of that year.
-- Non-Vintage (NV): For Champagne, wines from several years are blended to maintain the same luxury taste every year.
-What is contained in a wine glass is not just alcohol, but the brilliant 'climate' of a certain day. When is your favorite vintage?
+Vintage is the record of that year's sun, rain, and wind.
+- Vintage Wine: The taste changes dramatically depending on whether it was a rainy year or a year with hot sun. It's a special record of that year.
+- Non-Vintage (NV): Like Champagne, wines from several years are blended to maintain the exact same masterpiece taste every year.
+What is contained in a wine glass is not simply liquor, but the brilliant 'climate' of a certain day. What is your favorite vintage?
 
 [Reason]
 WSET Level 1 Label Formula:
-
-1. Vintage = Year the grapes were harvested.
-
-2. PDO = Narrow region, strict quality control (High-end).
-
-3. PGI = Large region, popular style (Standard).
+1. Vintage = Year the grapes were harvested
+2. PDO = Narrow region, strict quality control (Premium)
+3. PGI = Broad region, popular style (Entry-level)
 
 [Tip]
-If there is no number on the bottle label, it's an 'NV (Non-Vintage)' masterpiece blended from many years for consistent quality!
+If there is no number on the bottle label, it is an 'NV (Non-Vintage)' piece of art made by blending masterpieces for consistent quality every year!
 
 ### YouTube Shorts Script
-(0-3s) The number 2022 on a wine label? It's not just a date!
-(3-15s) WSET Level 1 High-Score Formula! How to read a label! Vintage is the year the grapes were born! PDO is a premium control rating for narrow regions! NV without a number is Champagne blended from multiple years!
-(15-25s) Question! What is the specialized term for the year the grapes were harvested? 1. Terroir, 2. Vintage, 3. Aging.
-(25-35s) The answer is 2, Vintage! It's the birth certificate of the wine, recording the climate of that year!
-(35-45s) The secret in the label, Vintage! Subscribe and let's get that perfect score!
+(0-3s) The wine label number 2022? It's not a simple date!
+(3-15s) WSET Level 1 High-Score Formula! How to read a label! Vintage is the harvest year the grapes were born! PDO is a premium control grade of a narrow region! NV without a number is Champagne blended from several years!
+(15-25s) Question! What is the technical term that means the year the grapes were harvested? 1. Terroir, 2. Vintage, 3. Ageing.
+(25-35s) The answer is 2, Vintage! It's the birth certificate of the wine containing the record of the climate of that year!
+(35-45s) The secret on the label, Vintage! Subscribe and get that perfect score!

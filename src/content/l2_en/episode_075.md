@@ -7,7 +7,7 @@ Q. In the context of Food & Wine Pairing, how does a wine typically change when 
 A. The wine tastes more bitter and tannic.
 B. The wine tastes smoother, sweeter, and more fruit-forward (Softer).
 C. The wine's color suddenly transitions.
-D. Instantly changes any wine into a shot of soju.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ For storage, remember to store cork-sealed wines horizontally to keep them moist
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of Service, Storage, and Pairing (Review):
 
@@ -79,6 +79,6 @@ For red wines labeled 'Aged in Oak', keep in mind that opening them 30 minutes t
 ### YouTube Shorts Script
 (0-3s) The small difference that makes wine much more delicious?! The secret of service!
 (3-15s) WSET Level 2 High-Score Formula! Store wine horizontally and cool, and drink white at 7-10°C! Red is best at 15-18°C! A pinch of salt in your food is a godsend that makes wine smoother!
-(15-25s) Question! Which element in food helps a wine taste smoother (Softer)? 1. Umami, 2. Salt, 3. Salt water.
+(15-25s) Question! Which element in food helps a wine taste smoother (Softer)? 1. Umami, 2. Salt, 3. Completely removing carbonation.
 (25-35s) The answer is 2! The completion of a fantastic marriage that elegantly drenches your palate.
 (35-45s) The end of the wine journey that only tastes better when you know! Subscribe and let's get that perfect score!

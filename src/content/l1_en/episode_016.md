@@ -1,48 +1,45 @@
-# Episode 016: Introduction to Grape Varieties (The DNA of Wine) - Overview
+# Episode 016: Introduction to Grape Varieties (The DNA of Wine)
 
 ## [WSET L1 Practice Question]
 
-Q. Which of the following is the most fundamental biological reason why different grape varieties produce distinct styles of wine?
+Q. What is the fundamental biological reason why different grape varieties create different styles of wine?
 
-A. Differences in skin thickness, color, and flavor compounds.
-B. Differences in the shape of the harvesting baskets.
-C. Differences in the label design of the wine bottles.
-D. Differences in the height of the winery buildings.
+A. The differences in skin thickness, color, and flavor compounds contained within.
+B. The difference in the shape of the baskets used to harvest the grapes.
+C. The difference in the label design of the wine bottles.
+D. The difference in the height of the winery buildings.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: A. Differences in skin thickness, color, and flavor compounds.
+Answer: A. The differences in skin thickness, color, and flavor compounds contained within.
 
-Explanation: Each grape variety has its own unique genetic blueprint.
+Explanation: Each grape variety has its own unique genetic blueprint. 
 
-Varieties with thick skins (e.g., Cabernet Sauvignon) produce deeper color and higher tannin, while varieties with specific aromatic compounds (e.g., Sauvignon Blanc) exhibit distinct aromas.
+Varieties with thick skins (e.g., Cabernet Sauvignon) produce deeper colors and higher tannins, while varieties with specific flavor compounds (e.g., Sauvignon Blanc) exhibit unique aromas. 
 
-Understanding varieties is the fastest way to predict the essential taste of a wine.
+Understanding the variety is the fastest way to predict the fundamental taste of the wine.
 
 ---
 
 ## [Expert Concept]
 
-Grape varieties are the most important factor in determining the 'Character' of a wine:
+The grape variety is the most important factor that determines the 'character' of a wine.
 
 1.  Skin Thickness: Determines the intensity of color and the amount of tannin.
-
-2.  Acidity & Sugar: Each variety has a natural level of acidity, which affects the freshness and potential alcohol content of the wine.
-
-3.  Aromatic Profile: There are unique aroma molecules specific to certain varieties (e.g., Pyrazines causing bell pepper aromas).
-
-4.  Climate Adaptability: Varieties are divided into those that prefer cool climates (Pinot Noir) and those that thrive in warm climates (Cabernet Sauvignon).
+2.  Acidity & Sugar: Each variety has a different innate level of acidity, which affects the wine's freshness and alcohol level.
+3.  Aromatic Profile: There are unique aroma molecules specific to certain varieties (e.g., Pyrazines - Bell pepper aroma).
+4.  Climate Adaptability: Varieties are divided into those that prefer cold regions (Pinot Noir) and those that love hot regions (Cabernet Sauvignon).
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid the assumption that "All red wines taste the same."
-Changing just one variety can completely transform the world of a wine.
-[Tip]: When the word 'Variety' appears in an exam, immediately think of 'Specific Characteristics.'
-The variety is the ID card and the personality of the wine.
+[Trap]: Thinking "all red wines taste the same" is incorrect. 
+Changing just one grape variety completely alters the world of the wine.
+[Tip]: In the exam, if the word 'Variety' appears, immediately think of 'Specific Characteristics'. 
+The variety is the name tag and the personality of the wine.
 
 ---
 
@@ -50,26 +47,23 @@ The variety is the ID card and the personality of the wine.
 
 ### Threads Post
 [Hook]
-Do you know why the first thing you should check on a label is the 'name of the grape'?
+Do you know why you should always check the 'grape name' on the label first when choosing a wine?
 
 [Twist]
-Grape varieties are like the MBTI of wine! There are those with thick skins and strong personalities (Cabernet Sauvignon), those that are delicate and sensitive (Pinot Noir), and those that emit a glamorous fragrance like perfume (Sauvignon Blanc). Just by knowing the name of the grape, you can predict 80% of the taste before you even fill your glass. What kind of variety's energy suits your mood today?
+Grape varieties are like the MBTI of wine. There's the tough guy with thick skins (Cabernet Sauvignon), the delicate and sensitive one that's hard to handle (Pinot Noir), and the one that radiates gorgeous aromas like perfume (Sauvignon Blanc)! Just knowing the grape name allows you to predict 80% of its taste before even filling your glass. What variety's energy suits your mood today?
 
 [Reason]
 WSET Level 1 Variety Formula:
-
-1. Skin Thickness = Intensity of color and tannin.
-
-2. Unique Aroma = The variety's signature (ID card).
-
-3. Climate Preference = Finding the grape's true home.
+1. Skin Thickness = Intensity of color and tannin
+2. Unique Aroma = The signature of the variety (ID Card)
+3. Climate Preference = Finding the grape's hometown
 
 [Tip]
-By remembering just three familiar varieties, you can feel confident standing in front of any wine list.
+If you firmly remember just 3 familiar varieties, you can feel confident in front of any wine list.
 
 ### YouTube Shorts Script
-(0-3s) Why are wine names so hard? Just remember the grape name!
-(3-15s) WSET Level 1 High-Score Formula! Grape Varieties! Every grape has different skin thickness and aromas! This is the secret that determines 80% of the wine's taste!
-(15-25s) Question! Where do the deep color and astringency of red wine come from? 1. Pulp, 2. Skin, 3. Stems.
-(25-35s) The answer is 2! The thicker the skin, the more powerful the wine!
+(0-3s) Why are wine names so hard? Knowing the grape name is all it takes!
+(3-15s) WSET Level 1 High-Score Formula! It's Grape Varieties! Each grape variety has a different skin thickness and aroma! This is the secret that determines 80% of the wine's taste!
+(15-25s) Question! Where does the deep color and astringency of red wine come from? 1. Pulp, 2. Skin, 3. Stems.
+(25-35s) The answer is 2, Skin! The thicker the skin, the more powerful the wine becomes!
 (35-45s) The genetics of wine, the magic of varieties! Subscribe and get that perfect score!

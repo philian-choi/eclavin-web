@@ -1,31 +1,27 @@
-# Episode 001: Still, Sparkling, & Fortified - The Three Pillars of Wine
+# Still, Sparkling, Fortified - The Three Pillars of Wine
 
-## [WSET L1 실전 문제]
+## [WSET L2 실전 문제]
 
-Q. 알코올 도수를 높이고 보존성을 강화하기 위해 별도의 주정(Spirit)을 첨가하여 만든 와인의 유형은 무엇인가요?
+Q. 알콜 도수를 높이고 보존성을 강화하기 위해 별도의 주정을 첨가하여 만든 와인은?
 
-A. Still Wine (스틸 와인)
-B. Sparkling Wine (스파클링 와인)
-C. Fortified Wine (주정 강화 와인)
-D. Light Wine (라이트 와인)
+A. 스틸 와인 (Still Wine)
+B. 스파클링 와인 (Sparkling Wine)
+C. 주정 강화 와인 (Fortified Wine)
+D. 헤비 와인 (Heavy Wine)
 
 ---
 
 ## [정답 및 해설]
 
-정답: C. Fortified Wine (주정 강화 와인)
+정답: C. 주정 강화 와인 (Fortified Wine)
 
-해설: 와인은 단순히 포도로 만든 술을 넘어, 유럽종 포도(Vitis vinifera)라는 열매가 가진 당분이 효모를 만나 알코올로 변하는 과학적 산물입니다.
-
-특히 주정 강화 와인(Fortified Wine)은 발효 전/중/후에 브랜디와 같은 중성 주정(Spirit)을 인위적으로 첨가하여 도수를 15~22%까지 높인 것이 특징입니다.
-
-대표적인 예로 포트(Port)와 셰리(Sherry)가 있습니다.
+해설: 와인은 포도 열매가 가진 당분이 효모를 만나 알콜로 변하는 과학적 산물입니다. 주정 강화 와인(Fortified Wine)은 발효 전/중/후에 브랜디와 같은 주정을 인위적으로 첨가하여 도수를 15~22%까지 높인 것이 특징입니다. 대표적인 예로 포트(Port)와 셰리(Sherry)가 있습니다.
 
 ---
 
-## [전문가 컨셉 - Expert Concept]
+## [핵심 이론 마스터]
 
-WSET Level 1에서 분류하는 와인의 3가지 핵심 유형(Types)은 다음과 같습니다.
+WSET Level 1에서 분류하는 와인의 3가지 핵심 유형은 다음과 같습니다.
 
 1.  Still Wine (스틸 와인): 기포(이산화탄소)가 없는 일반적인 와인입니다. 대부분의 와인이 이 범주에 속하며, 도수는 보통 8~15% 사이입니다. (예: Chablis, Sancerre)
 

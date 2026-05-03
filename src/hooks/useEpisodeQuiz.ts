@@ -2,6 +2,8 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { Episode } from '@/lib/episodes';
 
+import { logEvent } from '@/lib/analytics';
+
 export function useEpisodeQuiz(episode: Episode, lang: string) {
   const router = useRouter();
   const [selected, setSelected] = useState<string | null>(null);
@@ -36,6 +38,17 @@ export function useEpisodeQuiz(episode: Episode, lang: string) {
     const correctAns = episode.answer.split('.')[0].trim();
     const correct = correctAns === label.trim();
     setIsCorrect(correct);
+
+    // Track attempt
+    logEvent({
+      type: 'quiz_attempt',
+      payload: {
+        level: episode.level,
+        episode_id: episode.id,
+        is_correct: correct,
+        selected_label: label
+      }
+    });
 
     try {
       const saved = window.localStorage.getItem('wset_completed');

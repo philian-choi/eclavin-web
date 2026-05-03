@@ -23,7 +23,7 @@ For Young wines, decanting is often used for Aeration—helping the aromas to "o
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Professional service is a ritual of precision, respect, and care:
 

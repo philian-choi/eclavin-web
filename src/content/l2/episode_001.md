@@ -1,4 +1,4 @@
-# Episode 001: WSET Level 2 SAT Overview (The Standard)
+# WSET Level 2 SAT Overview (The Standard)
 
 ## [WSET L2 실전 문제]
 
@@ -14,6 +14,8 @@ D. 결론(Conclusion) - 눈(Appearance) - 코(Nose) - 입(Palate)
 ## [정답 및 해설]
 
 정답: B. 눈(Appearance) - 코(Nose) - 입(Palate) - 결론(Conclusion)
+
+해설: 정답: B. 눈(Appearance) - 코(Nose) - 입(Palate) - 결론(Conclusion)
 
 해설: 전문적인 시음은 시각적 관찰(외관)에서 시작하여 후각(향), 미각(맛), 그리고 마지막으로 이 모든 정보를 종합하여 품질을 판단하는 결론(Conclusion) 단계로 이어집니다.
 

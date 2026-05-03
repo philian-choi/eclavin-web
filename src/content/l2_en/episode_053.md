@@ -7,7 +7,7 @@ Q. Which grape variety, used to produce 'Barolo' and 'Barbaresco' in Piedmont, I
 A. Tuscany's Sangiovese
 B. Piedmont's Nebbiolo
 C. Veneto's Corvina
-D. Turns every glass of wine into a shot of soju instantly.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -25,7 +25,7 @@ Corvina is the key variety in Veneto for Valpolicella, offering a light body and
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the three Italian red kings:
 
@@ -72,6 +72,6 @@ If you see 'Barolo' or 'Chianti Classico' on a label, you are meeting the 'Kings
 ### YouTube Shorts Script
 (0-3s) Pale color but shocking tannins?! The reversal of Nebbiolo!
 (3-15s) WSET Level 2 High-Score Formula! Nebbiolo hides powerful tannins and rose aromas in its pale hue! Sangiovese is the icon of Chianti with its plum and herb notes! Plus, fresh cherry notes from Corvina!
-(15-25s) Question! Which king of Piedmont is known for its tar and rose aromas? 1. Sangiovese, 2. Nebbiolo, 3. Salt water.
+(15-25s) Question! Which king of Piedmont is known for its tar and rose aromas? 1. Sangiovese, 2. Nebbiolo, 3. Blending various grape varieties.
 (25-35s) The answer is 2! An elegant hug from an Italian icon!
 (35-45s) The pinnacle of acidity and structure! Subscribe and let's get that perfect score!

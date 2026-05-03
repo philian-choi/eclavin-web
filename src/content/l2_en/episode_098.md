@@ -7,7 +7,7 @@ Q. What is the key characteristic of Sauvignon Blanc produced in the 'Marlboroug
 A. Very soft milk and butter aromas
 B. High acidity with notes of passion fruit and gooseberry
 C. Mature aromas of leather and dried plum
-D. Instantly changes all New World vitality into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ Furthermore, sweet wines like France's Sauternes (made using noble rot) and Hung
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A deep-dive summary of New World regions and sweet wines:
 
@@ -72,6 +72,6 @@ If 'Stellenbosch' is on a label, remember it is a high-quality Bordeaux-style re
 ### YouTube Shorts Script
 (0-3s) The wine regions the whole world is crazy about?! New World vs Sweet!
 (3-15s) WSET Level 2 High-Score Formula! Marlborough in New Zealand is symbolized by passion fruit-scented Sauvignon Blanc, while Napa Valley is the peak of heavy Cabernet! The golden honey-like taste of Sauternes in France is a blessing from noble rot itself!
-(15-25s) Question! Which representative New Zealand variety is iconic for passion fruit and gooseberry aromas? 1. Chardonnay, 2. Sauvignon Blanc, 3. Salt water.
+(15-25s) Question! Which representative New Zealand variety is iconic for passion fruit and gooseberry aromas? 1. Chardonnay, 2. Sauvignon Blanc, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A legend of vital, grand wines that will drench your palate.
 (35-45s) The song of world wines that only sounds better when you know! Subscribe and let's get that perfect score!

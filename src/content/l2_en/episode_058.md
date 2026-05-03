@@ -7,7 +7,7 @@ Q. In the quality hierarchy of German wines, which level within the 'Prädikatsw
 A. Kabinett
 B. Spätlese
 C. Auslese
-D. Changes any wine into a shot of soju instantly.
+D. Fully ferments the grape sugar to always produce a dry wine.
 
 ---
 
@@ -25,7 +25,7 @@ Note that these wines can be made in styles ranging from dry (Trocken) to sweet,
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the German quality pyramid:
 
@@ -75,6 +75,6 @@ If you see 'Trocken' on a label, keep in mind that the wine is a very clean, dry
 ### YouTube Shorts Script
 (0-3s) The class system of German wine?! The secret of Kabinett!
 (3-15s) WSET Level 2 High-Score Formula! Germany is split into Kabinett, Spätlese, and Auslese based on sugar content at harvest! Kabinett is the lightest and freshest. Move up the ranks for more concentration and power!
-(15-25s) Question! Which German tier is harvested first and yields the lightest style? 1. Auslese, 2. Kabinett, 3. Salt water.
+(15-25s) Question! Which German tier is harvested first and yields the lightest style? 1. Auslese, 2. Kabinett, 3. Fermenting all sugar to make it dry.
 (25-35s) The answer is 2! A legendary expression of Riesling elegance.
 (35-45s) The art of sugar in fine wine! Subscribe and let's get that perfect score!

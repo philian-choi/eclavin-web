@@ -1,46 +1,50 @@
-# Episode 005: Tannin (The Structure of Red Wine) - Drying Sensation
+# Episode 005: Alcohol & Body (The Weight of Wine) - Understanding ABV
 
 ## [WSET L1 Practice Question]
 
-Q. After drinking red wine, which component is responsible for creating a 'Drying Sensation' on the gums and in the mouth?
+Q. When you look at the Alcohol by Volume (ABV) on a wine label, how does a higher alcohol level generally affect the 'Body' or 'Mouth-feel' of the wine?
 
-A. Sugar
-B. Acidity
-C. Tannin
-D. Alcohol
+A. It feels lighter and thinner.
+B. A higher alcohol content typically results in a fuller body (Full Body).
+C. Alcohol has no relationship with the body of the wine.
+D. Always produced solely from 100% Pinot Noir grapes.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: C. Tannin
+Answer: B. A higher alcohol content typically results in a fuller body (Full Body).
 
-Explanation: Tannin (Tannin) is a component extracted primarily from the skins, seeds, and stems of red grapes, as well as from the oak barrels used during maturation.
+Explanation: Alcohol is one of the most significant factors determining the 'weight' of a wine in the mouth.
 
-Rather than a purely 'bitter' taste, its defining characteristic is the physical Drying Sensation it creates on the gums and palate.
+Wines with higher alcohol (e.g., 14% ABV or more) tend to have a richer, heavier feel, described as 'Full Body'.
+
+Conversely, wines with lower alcohol (e.g., 10% ABV, such as Pinot Grigio) feel lighter and thinner, similar to water or skimmed milk, known as 'Light Body'.
 
 ---
 
 ## [Expert Concept]
 
-Tannin is the most important component supporting the skeleton and lifespan of red wine:
+Alcohol and the body of a wine are closely linked partners:
 
-1.  Drying Sensation: Tannins bind with proteins (including those in your saliva), causing moisture to be stripped away and leaving a grippy, dry feeling.
+1.  ABV (Alcohol by Volume): The percentage of alcohol in the total volume of wine. Most still wines range between 8.5% and 15% ABV.
 
-2.  High Tannin: Creates a very dry sensation in the mouth and forms a powerful structural backbone. (e.g., Cabernet Sauvignon, Syrah)
+2.  Light Body: A light, refreshing mouthfeel typically found in low-alcohol white wines. (e.g., Pinot Grigio)
 
-3.  Low Tannin: There is less resistance felt on the gums, resulting in a smoother, softer mouthfeel. (e.g., Pinot Noir)
+3.  Full Body: A heavy, substantial mouthfeel found in high-alcohol wines or those with high tannins/sugar. (e.g., Cabernet Sauvignon, Port)
 
-4.  Preservative: Tannin acts as a natural antioxidant, preventing the wine from oxidizing and enabling long-term aging.
+4.  Calories: Gram for gram, alcohol provides roughly 7 kcal of energy. This means that, generally, the higher the ABV, the higher the calorie content of the wine.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Do not think that "Tannins are a key characteristic of white wine." Because tannins come mainly from skins, they are a fundamental feature of red wine, which is fermented in contact with its skins.
-[Tip]: In the exam, if you see the terms 'Drying Sensation' or 'Gums', do not hesitate to choose 'Tannin' as the keyword.
+[Trap]: Do not think that "Light-bodied wines are of lower quality." Body is a style preference and is independent of the wine's quality.
 
-The physical feeling of dryness is the key to the correct answer.
+There is a huge market for crisp, light-styled wines.
+[Tip]: In the exam, if the words 'Mouth-feel' or 'Weight' appear, link them immediately with the 'Body' keyword.
+
+The alcohol level is the primary yardstick for measuring that weight.
 
 ---
 
@@ -48,26 +52,26 @@ The physical feeling of dryness is the key to the correct answer.
 
 ### Threads Post
 [Hook]
-That dry, puckering feeling on your gums after a glass of red wine—have you ever wondered what it is?
+The 'weight' you feel in your mouth when you take a sip of wine—did you know it's related to the alcohol content?
 
 [Twist]
-It's not because the wine is bad; it's because of the structural backbone called 'Tannin'. This magical component, derived from grape skins and seeds, is responsible for the wine's longevity. Instead of avoiding it because it feels astringent, try to appreciate the solid structure hidden within that dryness. A high-quality wine will glide over your gums pleasantly, leaving a deep, lasting impression.
+Wine experts call this 'Body'. Think of it this way: like water for Light Body, skimmed milk for Medium Body, and full cream for Full Body! The key that determines this weight is the alcohol level. The higher the ABV, the heavier and warmer the wine feels. Tonight, check the ABV number on the label to identify the true identity of that full body filling your mouth.
 
 [Reason]
-WSET Level 1 Tannin Formula:
+WSET Level 1 Alcohol Formula:
 
-1. Tannin: Dryness in the mouth (the true identity of astringency).
+1. Alcohol ↑ = Body ↑ (Heavier wine)
 
-2. Sources: Grape skins, seeds, and oak barrels.
+2. Calories ↑ = Proportional to ABV (Energy content)
 
-3. Aging Potential: A natural preservative that allows wine to be stored for a long time.
+3. Style: Light is for briskness, Full Body is for grandeur.
 
 [Tip]
-When drinking high-tannin wines, try pairing them with protein-rich snacks like steak or cheese. You'll experience the magic where the tannins bind with the food proteins first, making the sensation on your gums much smoother!
+If you're watching your calories, try a low-alcohol Riesling or Pinot Grigio. They're light in weight and relatively low in calories too!
 
 ### YouTube Shorts Script
-(0-3s) Does your mouth feel dry and rough after drinking red wine?!
-(3-15s) WSET Level 1 High-Score Formula! It's Tannin! A natural preservative from grape skins and the pride of red wine that makes your mouth feel dry!
-(15-25s) Question! Which component builds the structure of red wine and creates a drying sensation? 1. Acidity, 2. Tannin, 3. Sugar.
-(25-35s) The answer is 2, Tannin! Remember that drying sensation on your gums.
-(35-45s) The secret of wine's backbone, Tannin! Subscribe and get that perfect score!
+(0-3s) Heavy? Light? What's the criteria for wine?
+(3-15s) WSET Level 1 High-Score Formula! It's the Body of the wine! It refers to the weight of the liquid felt in your mouth. What determines this weight is alcohol! The higher the ABV, the heavier the Full Body wine becomes!
+(15-25s) Question! What kind of body does a high-alcohol red wine generally have? 1. Light Body, 2. Full Body, 3. Using 100% Pinot Noir grapes.
+(25-35s) The answer is 2, Full Body! Experience that heavy presence.
+(35-45s) Reading wine style through weight! Subscribe and get that perfect score!

@@ -21,7 +21,7 @@ Therefore, winemakers use techniques like Punching down (pushing the cap down) o
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Red winemaking is an exercise in 'Extraction' and 'Heat':
 
@@ -46,7 +46,7 @@ Heat and pressure are the pride of red wine.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

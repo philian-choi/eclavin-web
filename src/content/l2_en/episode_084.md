@@ -7,7 +7,7 @@ Q. Primarily grown on the 'Right Bank' of Bordeaux in regions like 'Saint-Émili
 A. Pinot Noir
 B. Merlot
 C. Cabernet Sauvignon
-D. Instantly changes any red into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ In contrast, Pinot Noir is a delicate, 'aristocratic' variety with thin skins, r
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the masters of softness and delicacy:
 
@@ -72,6 +72,6 @@ If you see 'Saint-Émilion' on a label, expect the prosperity of Merlot; if you 
 ### YouTube Shorts Script
 (0-3s) Velvety texture in red wine?! Merlot vs Pinot Noir!
 (3-15s) WSET Level 2 High-Score Formula! Merlot wraps around your palate with plum, cherry, and soft tannins, while Pinot Noir charms with high acidity and strawberry bursting from its thin skin! Merlot for beginners, Pinot Noir for enthusiasts—which is your pick?!
-(15-25s) Question! Which variety thrives on Bordeaux's Right Bank with soft tannins and plum notes? 1. Pinot Noir, 2. Merlot, 3. Salt water.
+(15-25s) Question! Which variety thrives on Bordeaux's Right Bank with soft tannins and plum notes? 1. Pinot Noir, 2. Merlot, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A fragrant standard for warm, grand reds.
 (35-45s) The world of soft red that only tastes better when you know! Subscribe and let's get that perfect score!

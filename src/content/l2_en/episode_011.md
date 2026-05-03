@@ -25,7 +25,7 @@ Identifying the perfect moment where these two elements intersect in harmony is 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The harvest date is the 'Day of Destiny' that determines the final style and quality of the wine:
 
@@ -52,7 +52,7 @@ Wine is an art of balance, not just a pursuit of sweetness.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

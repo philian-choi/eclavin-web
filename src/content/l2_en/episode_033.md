@@ -23,7 +23,7 @@ During this time, the fresh primary aromas of Strawberry and Red Cherry evolve i
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Tempranillo is defined by the 'passage of time and legislative classification':
 

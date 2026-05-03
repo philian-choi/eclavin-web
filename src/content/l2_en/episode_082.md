@@ -7,7 +7,7 @@ Q. Among the five primary factors essential for a healthy grapevine, what is the
 A. Alcoholic Fermentation
 B. Photosynthesis
 C. Oxidation
-D. Instantly changes any process into a shot of salt water.
+D. Ferments with skins and seeds for a long time to extract strong tannins.
 
 ---
 
@@ -23,7 +23,7 @@ A grapevine achieves its best results when five essential elements—warmth, sun
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of core principles in viticulture and vinification:
 
@@ -72,6 +72,6 @@ If you see 'Oak Aged' on a label, remember that this wine is a mature masterpiec
 ### YouTube Shorts Script
 (0-3s) The magic of grape juice becoming alcohol?! The secret of vinification!
 (3-15s) WSET Level 2 High-Score Formula! Grapevines create sugar through photosynthesis, and yeast converts this sugar into alcohol through fermentation! Red wine is boiled with skins for color, while white is made from juice for freshness!
-(15-25s) Question! What is the name of the process grapevines use to create sugar from sunlight? 1. Fermentation, 2. Photosynthesis, 3. Salt water.
+(15-25s) Question! What is the name of the process grapevines use to create sugar from sunlight? 1. Fermentation, 2. Photosynthesis, 3. Fermenting with skins and seeds.
 (25-35s) The answer is 2! The root of fine wine that elegantly drenches your palate.
 (35-45s) The birth of wine that only tastes better when you know! Subscribe and let's get that perfect score!

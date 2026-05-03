@@ -7,7 +7,7 @@ Q. What is the key characteristic of Pinot Noir produced in the 'Côte d'Or' reg
 A. Low acidity with very high tannins and dark color
 B. High acidity with low tannins and red fruit flavors like strawberry and cherry
 C. Full-bodied with heavy chocolate and licorice aromas
-D. Instantly changes all elegant reds into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ In contrast, Merlot – dominant on the Right Bank of Bordeaux (Saint-Émilion) 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A deep dive summary into the two soft red wine varieties:
 
@@ -70,6 +70,6 @@ If 'Central Otago' is on a label, remember it is an intense and pure Pinot Noir 
 ### YouTube Shorts Script
 (0-3s) Eternal rivals in red wine?! Pinot Noir vs Merlot!
 (3-15s) WSET Level 2 High-Score Formula! Pinot Noir charms with high acidity and strawberry bursting from its thin skin! In contrast, Merlot wraps around your palate with plum flavors and soft tannins like velvet! Merlot for beginners, Pinot Noir for enthusiasts—which is your pick?!
-(15-25s) Question! Which French region produces Pinot Noir iconic for high acidity, low tannins, and strawberry flavors? 1. Right Bank Bordeaux, 2. Burgundy, 3. Salt water.
+(15-25s) Question! Which French region produces Pinot Noir iconic for high acidity, low tannins, and strawberry flavors? 1. Right Bank Bordeaux, 2. Burgundy, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! The transparency of grand red wines that elegantly drench your palate.
 (35-45s) The orthodoxy of red wine that only tastes better when you know! Subscribe and let's get that perfect score!

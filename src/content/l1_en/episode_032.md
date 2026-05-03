@@ -1,52 +1,48 @@
-# Episode 032: Burgundy (The Pure Expression) - Regions
+# Episode 032: Sherry & Port (The Power of Fortification) - Fortified Wines
 
 ## [WSET L1 Practice Question]
 
-Q. Which of the following is the most accurate combination of grape varieties typically used for white and red wines in Burgundy, France?
+Q. Which of the following is the most accurate description of the winemaking process and typical characteristics of Port wine?
 
-A. Sauvignon Blanc and Merlot
-B. Chardonnay and Pinot Noir
-C. Riesling and Syrah
-D. Chenin Blanc and Cabernet Sauvignon
+A. Alcohol is added after fermentation is completely finished, and it is always a very sour white wine.
+B. A high concentration of brandy is added during fermentation to stop it, resulting in sweetness and high alcohol.
+C. It has no aroma at all and is a low-cost wine made by injecting carbon dioxide gas.
+D. A large amount of water is mixed in to lower the alcohol content below 5%.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Chardonnay and Pinot Noir
+Answer: B. A high concentration of brandy is added during fermentation to stop it, resulting in sweetness and high alcohol.
 
-Explanation: Burgundy is a region that emphasizes the purity of a single variety.
+Explanation: Port wine is the representative of Fortified wines. 
 
-White wines are almost 100% Chardonnay, and red wines are almost 100% Pinot Noir.
+Before all the sugar in the grapes turns into alcohol (during fermentation), a high concentration of alcohol (brandy) is added to kill the yeast. Because of this, the remaining sugar makes the wine sweet, and thanks to the added brandy, the alcohol content rises to the 19-22% level. 
 
-While Bordeaux is about 'the art of blending,' Burgundy focuses on how well a variety expresses the character of the land (terroir).
+On the other hand, Sherry is usually fortified after fermentation is complete, so there are many dry styles.
 
 ---
 
 ## [Expert Concept]
 
-Burgundy is about 'Delicacy and the Hierarchy of Ratings':
+Fortified wines are perfected by the 'Power of Alcohol'.
 
-1.  Single Variety: Focused on a single grape without blending.
-    - Red: Pinot Noir (Strawberry, Cherry, Elegance)
-    - White: Chardonnay (Apple, Peach, Nutty)
-
-2.  Hierarchy of Quality:
-    - Regional: Grapes from across Burgundy. (e.g., Bourgogne AOC)
-    - Village: Grapes from a specific village. (e.g., Gevrey-Chambertin, Meursault)
-    - Premier Cru: Superior plots within a village.
-    - Grand Cru: The best single plots with the highest prestige.
-
-3.  Continental Climate: Characterized by cold winters and warm summers, with high scarcity due to frequent damage from frost or hail.
+1.  What is Fortification?: A method of increasing the alcohol content by adding high-concentration distilled spirits like brandy to wine. (Usually around 15-22% ABV)
+2.  Sherry (Spain):
+    - Timing: Fortified 'after' fermentation is complete. (Mainly dry styles)
+    - Style: Ranges from fresh styles like Fino to heavy styles with almond aromas.
+3.  Port (Portugal):
+    - Timing: Fortified 'during' fermentation. (Always sweet styles)
+    - Style: Ruby Port with intense black fruit aromas, Tawny Port with nutty aromas.
+4.  Service: Due to the high alcohol, they are served in smaller quantities in glasses slightly smaller than regular wine glasses, and are highly popular as dessert wines.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "Burgundy wine always uses blending."
-Burgundy is the sacred ground for 'Single Variety' purity.
-[Tip]: In an exam, if words like 'Pinot Noir', 'Chardonnay', and 'Burgundy' appear, always select the 'Continental Climate' and 'Terroir-driven' keywords.
-The voice of the land is heard loudest in Burgundy.
+[Trap]: Thinking "All fortified wines have alcohol mixed in after fermentation is complete" is incorrect. 
+The fact that Port is mixed 'during' fermentation to maintain sweetness is a core, frequent exam question.
+[Tip]: In the exam, if 'Fortified' and 'Spain' appear, choose 'Sherry'. If 'Sweet' and 'Portugal' appear, choose 'Port'!
 
 ---
 
@@ -54,26 +50,26 @@ The voice of the land is heard loudest in Burgundy.
 
 ### Threads Post
 [Hook]
-If 'Bourgogne' or 'Burgundy' is written on a wine label, you are facing the sincerity of the most sensitive grapes on the planet.
+Mixing brandy into wine? It's not a corrupted liquor, but the story of the sweetest and most intense temptation in the world: 'Fortified Wine'.
 
 [Twist]
-Burgundy leaves the stage to 'just one protagonist.' Pinot Noir for red, Chardonnay for white! They don't blend, but quietly prove only the soil and sunshine of the plot where they grew. The reason prices jump millions of won between just one village or Grand Cru block is that the magic given by the land is that different. Tonight, feel the pure elegance of Burgundy blooming in your glass.
+In the past, the British started adding extra alcohol to prevent wine from spoiling during long voyages, which was the beginning of these great wines.
+1. Port from Portugal: Brandy dropped in during fermentation! It preserves the natural sweetness of the grape and boosts the ABV to 20 degrees, the king of desserts.
+2. Sherry from Spain: Flavor added to a dry wine that has finished fermentation. The aromas of almonds and freshly baked bread are superb.
+An intensity that warms your whole body with just one glass! Tonight, how about a glass of Port wine as a sweet period to perfectly conclude your day?
 
 [Reason]
-WSET Level 1 Burgundy Formula:
-
-1. Single Variety = Pinot Noir (Red), Chardonnay (White).
-
-2. Plot Rating = Grand Cru is the absolute pinnacle.
-
-3. Signature Aroma: Strawberry (Red), Apple and Butter (White).
+WSET Level 1 Fortification Formula:
+1. Port = Fortified during fermentation = Sweetness (Portugal)
+2. Sherry = Fortified after fermentation = Mainly dry (Spain)
+3. Characteristics: High alcohol (15-22%), excellent preservability.
 
 [Tip]
-Remember that Chablis is also part of the Burgundy region and is made from 100% Chardonnay!
+Port wine truly shines when paired with chocolate desserts!
 
 ### YouTube Shorts Script
-(0-3s) The home of the most expensive wines in the world! The secret of Burgundy!
-(3-15s) WSET Level 1 High-Score Formula! Burgundy, France! Rejects blending! Red wine is Pinot Noir, white wine is Chardonnay – they compete as single varieties! The ultimate terroir where ratings are divided by the location of the plots!
-(15-25s) Question! What is the highest quality rating in Burgundy? 1. Village, 2. Premier Cru, 3. Grand Cru.
-(25-35s) The answer is 3! The masterpiece of masterpieces from the best plots!
-(35-45s) Martyr-like purity, the philosophy of Burgundy! Subscribe and get that perfect score!
+(0-3s) The thrilling encounter of wine and hard liquor! Fortified wine!
+(3-15s) WSET Level 1 High-Score Formula! Sherry and Port wines! Brandy is mixed into wine to increase the ABV to 15-22 degrees! The point is that sweet Port is mixed during fermentation, and dry Sherry is mixed after fermentation!
+(15-25s) Question! What is the representative Portuguese wine that adds alcohol during fermentation to maintain sweetness? 1. Sherry, 2. Port, 3. Mixing water to lower ABV.
+(25-35s) The answer is 2, Port! It's the epitome of a sweet and heavy dessert wine!
+(35-45s) The temptation of an intense sip, Fortified wine! Subscribe and get that perfect score!

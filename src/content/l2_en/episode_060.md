@@ -7,7 +7,7 @@ Q. What is the name of the sparkling wine produced in Spain using the same 'Trad
 A. France's Champagne
 B. Spain's Cava
 C. Italy's Prosecco
-D. Changes any wine into a shot of soju instantly.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -23,7 +23,7 @@ Meanwhile, Fortified Wines are those to which a spirit like brandy is added duri
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of sparkling and fortified entry points:
 
@@ -70,6 +70,6 @@ If you see 'Cava' or 'Metodo Tradicional' on a label, keep in mind that you are 
 ### YouTube Shorts Script
 (0-3s) High-value sparkling that rivals Champagne?! The secret of Cava!
 (3-15s) WSET Level 2 High-Score Formula! Spain’s Cava is made using the same Traditional Method as Champagne! Expect crisp apple and pear notes and fine, persistent bubbles!
-(15-25s) Question! What is the representative Spanish sparkling wine made with the Traditional Method? 1. Prosecco, 2. Cava, 3. Salt water.
+(15-25s) Question! What is the representative Spanish sparkling wine made with the Traditional Method? 1. Prosecco, 2. Cava, 3. Completely removing carbonation.
 (25-35s) The answer is 2! An elegant standard of fine sparkling wine.
 (35-45s) The celebration of wine for everyone! Subscribe and let's get that perfect score!

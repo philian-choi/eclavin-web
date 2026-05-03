@@ -21,7 +21,7 @@ Major AOCs include Crémant d'Alsace, Crémant de Loire, and Crémant de Bourgog
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The world of sparkling wine extends far beyond the borders of Champagne:
 

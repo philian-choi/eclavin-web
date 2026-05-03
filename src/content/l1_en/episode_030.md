@@ -1,49 +1,48 @@
-# Episode 030: Introduction to French Wine Regions (The Gold Standard) - Regions
+# Episode 030: Champagne (Sparkling Magic) - Regions
 
 ## [WSET L1 Practice Question]
 
-Q. What is the abbreviation for the official classification system (Appellation d'Origine Contrôlée) prescribed by the state to guarantee the quality and origin of French wine?
+Q. Which of the following is an accurate description of the most unique characteristic of sparkling wine produced in Champagne, France?
 
-A. IGP
-B. AOC (or AOP)
-C. DOCG
-D. VDP
+A. A very deep red, sweet red wine with added sugar.
+B. Undergoes a second fermentation in the bottle, with nutty/savory aromas like biscuit and toast.
+C. Produced in a warm climate, with artificially injected carbon dioxide gas.
+D. A typical non-alcoholic beverage with low acidity and low alcohol.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. AOC (or AOP)
+Answer: B. Undergoes a second fermentation in the bottle, with nutty/savory aromas like biscuit and toast.
 
-Explanation: AOC (Appellation d'Origine Contrôlée) is France's controlled designation of origin system.
+Explanation: Champagne is made using the 'Traditional Method.'
 
-This serves as a standard for protecting the quality and tradition of wine by strictly binding not only the geographical location where the wine is produced but also the variety, winemaking method, and cultivation techniques into sub-regulations.
-
-Since the EU integration, it is also written as AOP (Appellation d'Origine Protégée).
+It spends time with dead yeast (Lees) during the second fermentation and maturation period that takes place in the bottle, and this is the key to creating very savory flavors like biscuit or toast in addition to fresh lemon and apple aromas.
 
 ---
 
 ## [Expert Concept]
 
-France is the 'History and Textbook' of world wine:
+The king of bubbles, Champagne, is the result of 'the art of waiting':
 
-1.  Hierarchy:
-    - AOC / AOP: The highest grade. Origin prestige is maintained through strict annual inspections.
-    - IGP / Vin de Pays: Allows wider regions and free choice of varieties.
-    - Vin de France: The lowest level, made by blending grapes from across France without a specific designation.
+1.  Production Method: Uses the 'Traditional Method' where carbon dioxide bubbles are created directly inside the bottle.
 
-2.  Terroir: Even within France, the taste of wine varies completely depending on the soil, climate, and topography (e.g., the Maritime climate of Bordeaux vs. the Continental climate of Burgundy).
+2.  Varieties: The protagonists are Chardonnay, Pinot Noir, and Meunier.
 
-3.  Labeling: French wines usually list the name of the region (e.g., Champagne, Chablis, Bordeaux) on the label instead of the variety name.
+3.  Aroma Profile:
+    - Primary: Lemon, Apple, Peach (Refreshing fruit)
+    - Secondary: Biscuit, Brioche, Toast (Savory yeast notes)
+
+4.  Pairing: Shows a fantastic match with greasy fried food or salty cheeses.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "AOC wine is always expensive and delicious."
-AOC is merely a device to guarantee a minimum standard of tradition and quality; it does not guarantee that every producer's wine is the best.
-[Tip]: When the word 'Appellation' appears in an exam, always connect it to the 'Origin & Quality Controlled' keywords.
-The name itself is the pride.
+[Trap]: Avoid thinking that "Champagne is a very sweet wine."
+Most Champagnes are produced in a dry style called 'Brut.'
+[Tip]: In an exam, 'Champagne' and 'Biscuit/Toast' keywords are a pair!
+Remember the smell of savory bread!
 
 ---
 
@@ -51,26 +50,26 @@ The name itself is the pride.
 
 ### Threads Post
 [Hook]
-The 'complex French' written on a French wine bottle – the numbers hidden within are actually the quality grades.
+If you feel 'freshly baked bread and refreshing lemon' aromas at the same time as the bubbles pop, you're drinking the blessed wine, 'Champagne'.
 
 [Twist]
-Remember just three letters when picking French wine: A.O.C. It's a guarantee that "the state thoroughly supervised the origin and production method of this wine." Bordeaux, Chablis, Champagne... The reason these names are more important than variety names is that the French believe in the 'power of the land'. Did you find the word 'Appellation' at the bottom of the wine label you chose today? You're drinking the history and tradition of France.
+Why is Champagne expensive? It's because of the 'wait in the bottle.' It doesn't have artificial carbonation; it matures with yeast inside the bottle for years, creating very fine bubbles and savory biscuit aromas. A heavy savoriness hidden behind the freshness of lemon! In the most shining moments of life, a glass of Champagne will make your memories even more noble. How about a glass of Champagne for yourself today?
 
 [Reason]
-WSET Level 1 France Formula:
+WSET Level 1 Champagne Formula:
 
-1. AOC/AOP = Strict quality guarantee (highest grade).
+1. Limited to the Champagne region of France (Legal protection of name).
 
-2. Label Name = Origin name (not the grape name).
+2. Biscuit, Toast, Lemon aromas.
 
-3. Terroir = Harmony of land, weather, and people.
+3. Fine and long-lasting bubbles.
 
 [Tip]
-The more specific the region name on the label (e.g., Bordeaux < Pauillac), the more likely it is to be higher quality and more expensive.
+If 'Brut' is written on the label, it means it's a very refreshing and dry taste!
 
 ### YouTube Shorts Script
-(0-3s) How to read French wine labels! Done with just AOC!
-(3-15s) WSET Level 1 High-Score Formula! This is an overview of major French regions! AOC is the official quality guarantee mark managed by the state! France proves the value of wine through place names (Appellation), not grape names!
-(15-25s) Question! Which of the French wine grades is the most strict and highest? 1. IGP, 2. AOC, 3. Vdn.
-(25-35s) The answer is 2! A true French luxury only when this designation is attached!
-(35-45s) The place name IS the brand: French philosophy! Subscribe and get that perfect score!
+(0-3s) If Champagne smells like baking bread? The secret of luxury bubbles!
+(3-15s) WSET Level 1 essential concepts! Champagne! Perfect summary! Thanks to the traditional method of creating bubbles in the bottle, biscuit and toast aromas are the signatures!
+(15-25s) Question! Which of the following is NOT a typical yeast-matured flavor found in Champagne? 1. Biscuit, 2. Toasted bread, 3. Grape jam.
+(25-35s) The answer is 3! A savory bread scent is the protagonist!
+(35-45s) The symbol of celebration, Champagne! Subscribe and let's get that perfect score!

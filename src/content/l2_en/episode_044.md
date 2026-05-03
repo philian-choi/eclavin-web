@@ -23,7 +23,7 @@ This makes it ideal for premium spirits like Single Malt Scotch and Cognac, whic
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Distillation is the 'art of concentration' based on the boiling point of alcohol versus water:
 

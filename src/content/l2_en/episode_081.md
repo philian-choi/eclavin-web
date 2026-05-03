@@ -7,7 +7,7 @@ Q. What is the most common latitude range in both the Northern and Southern Hemi
 A. Directly above the Equator (0–10 degrees)
 B. Between 30 and 50 degrees latitude
 C. Around the Arctic and Antarctic (70–80 degrees)
-D. Instantly changes any latitude into a shot of salt water.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -23,7 +23,7 @@ It is essential to understand that in cool climates, high acidity and green appl
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of how climate and latitude define wine style:
 
@@ -72,6 +72,6 @@ If you see 'High Altitude' or 'Coastal' on a label, remember that this wine is a
 ### YouTube Shorts Script
 (0-3s) The place where grapevines are happiest?! The secret of the Golden Latitude!
 (3-15s) WSET Level 2 High-Score Formula! Grape growing is most successful between 30 and 50 degrees North and South! Expect crisp apple scents in cool areas and explosive pineapple flavors in hot ones! High altitude or seaside locations also provide refreshing acidity!
-(15-25s) Question! What is the common latitude range for global high-quality wine production? 1. Equator 0°, 2. 30–50°, 3. Salt water.
+(15-25s) Question! What is the common latitude range for global high-quality wine production? 1. Equator 0°, 2. 30–50°, 3. Blending various grape varieties.
 (25-35s) The answer is 2! The place where fine wines elegantly drench your palate.
 (35-45s) The map of wine that only tastes better when you know! Subscribe and let's get that perfect score!

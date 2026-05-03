@@ -7,7 +7,7 @@ Q. In the quality hierarchy of Spanish wines, which classification corresponds t
 A. Denominación de Origen (DO)
 B. Denominación de Origen Calificada (DOCa / DOQ)
 C. Vino de la Tierra (VT)
-D. Instantly changes any wine into a shot of soju.
+D. Ferments with skins and seeds for a long time to extract strong tannins.
 
 ---
 
@@ -23,7 +23,7 @@ The colorful hologram stickers on the back of Spanish wine labels prove that the
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the Spanish quality pyramid:
 
@@ -72,6 +72,6 @@ If you see a 'Reserva' or 'Gran Reserva' sticker on the back of the bottle, reme
 ### YouTube Shorts Script
 (0-3s) The top tier of Spanish wine?! The secret of DOCa!
 (3-15s) WSET Level 2 High-Score Formula! Spain is split from the top-tier DOCa to the approachable VT! Currently, only Rioja and Priorat hold this glorious DOCa status.
-(15-25s) Question! What is the name of Spain's highest quality classification used for Rioja? 1. VT, 2. DOCa, 3. Salt water.
+(15-25s) Question! What is the name of Spain's highest quality classification used for Rioja? 1. VT, 2. DOCa, 3. Fermenting with skins and seeds.
 (25-35s) The answer is 2! The pinnacle of fine Spanish wine that embraces patience.
 (35-45s) The pride of wine that you taste with time! Subscribe and let's get that perfect score!

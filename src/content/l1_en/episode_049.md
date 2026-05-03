@@ -2,41 +2,62 @@
 
 ## [WSET L1 Practice Question]
 
-Q. What is the appropriate recommended tasting temperature for a light-bodied white wine like Pinot Grigio to enjoy it as refreshingly and deliciously as possible?
+Q. What is the optimal temperature condition for safely storing wine for a long period?
 
-A. 3-5°C (Very cold)
-B. 7-10°C (Chilled)
-C. 13°C (Slightly cool)
-D. 18°C (Room temperature)
+A. 0 degrees (Freezing)
+B. A constant temperature between 10-15 degrees
+C. A warm living room over 25 degrees
+D. A windowsill with direct sunlight
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. 7-10°C (Chilled)
+Answer: B. A constant temperature between 10-15 degrees
 
-Explanation: As a rule, white wines should be served chilled to emphasize their fresh acidity and fruit aromas.
-
-Particularly, light-bodied white wines like Pinot Grigio taste best when chilled to about 7-10°C.
-
-If it's too cold, the aromas can be suppressed, so be careful.
+Explanation: Wine is like a living organism and hates rapid environmental changes the most. A cool and constant place between 10-15 degrees is optimal for long-term storage. If the temperature is too high, the wine oxidizes as if it is cooked and loses its fruit aroma, and conversely, if it is too low, the cork can dry out and outside air can enter. This is why a cool basement or wine cellar is an ideal place rather than a kitchen or living room display cabinet.
 
 ---
 
 ## [Expert Concept]
 
-Wine temperature is the key physical element that determines a wine's character:
+These are the 4 iron rules for perfect wine storage:
 
-1.  Sweet / Sparkling: 6-10°C (Keep it most chilled to balance the sweetness and preserve the carbonation).
-
-2.  White / Rosé: 7-13°C (Light whites should be colder; heavy, oaked whites should be served slightly less chilled).
-
-3.  Red Wine: 13-18°C (Precisely, 'cool room temperature' which is a little lower than a heated room. If it's too warm, the alcohol scent will be overwhelming).
+1.  Temperature: Maintain 10-15°C. Temperature changes according to seasons should be minimized.
+2.  Light: Direct sunlight and strong artificial lighting must be avoided. UV rays alter the flavor of the wine.
+3.  Vibration: Places with frequent vibrations, like a refrigerator door or next to a washing machine, hinder the maturation of the wine.
+4.  Position: Wines with a cork closure must be stored lying down so the cork stays moist and blocks oxygen. (Screw caps can be stood up without issue.)
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: The saying that "red wine must always be drunk at room temperature" is incorrect in the context of modern indoor temperatures (24-26°C). If it goes above 20°C, the delicate charm of the wine disappears.
+[Trap]: Thinking "It's always good to put it in the refrigerator" is incorrect. A refrigerator that is too cold can cause the cork to dry out and shrink.
+[Tip]: Do not confuse 'Storage' and 'Service' temperatures. The long-term storage temperature for all wines (red, white, sparkling) is the same at 10-15°C. However, you must perfectly distinguish in practice that when drinking (service), whites and sparkling should be colder at under 10°C, and reds should be less cold at 15-18°C.
 
-[Tip]: In an exam, if 'Chilled' appears, most white or sparkling wines are the answer. Especially, don't forget that Rosé wines should also be enjoyed chilled.
+---
+
+## [Threads & Shorts Scripts]
+
+### Threads Post
+[Hook]
+Have you bought an expensive wine and enshrined it in your living room display cabinet? The wine is screaming.
+
+[Twist]
+A fancy display cabinet, wine under dazzling lights... Actually, to the wine, that place is no different from a torture chamber. The environment wine likes most is not a glamorous living room, but a cool place between 10-15 degrees where no light enters.
+
+[Reason]
+WSET Wine Storage Formula (The 3 Rules):
+1. Temperature: Always cool at 10-15 degrees!
+2. Light: Absolutely avoid direct sunlight and keep it dark!
+3. Vibration: In a peaceful place that doesn't shake!
+
+[Tip]
+Be careful as storing it in the refrigerator for too long can dry out the cork!
+
+### YouTube Shorts Script
+(0-3s) Don't put expensive wine just anywhere! You'll ruin it!
+(3-15s) WSET Level 1 High-Score Formula! How to store wine! The temperature should be between 10 and 15 degrees, and a peaceful place with no light and no vibration is heaven for wine.
+(15-25s) Question! What is the optimal temperature for the safest storage of wine? 1. Minus 0 degrees, 2. Living room over 25 degrees Celsius, 3. Constant temperature of 10-15 degrees.
+(25-35s) The answer is 3, 10 to 15 degrees! Rapid temperature changes are the enemy of wine.
+(35-45s) The world of wine, tastier the more you know! Subscribe and get that perfect score!

@@ -7,13 +7,13 @@ Q. Regarding the relationship between 'Climate' and wine style/quality, which st
 A. In cool climates, white wines typically exhibit high acidity and primary notes of green apple and citrus.
 B. In warm climates, red wines generally show higher alcohol content and more prominent black fruit flavors.
 C. Climate has a decisive influence on the formation of sugars and the maintenance of acidity in grapevines.
-D. With Eclavin, all climate issues instantly transition into a container of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: D. With Eclavin, all climate issues instantly transition into a container of salt water.
+Answer: D. Always brewed solely from 100% Pinot Noir grapes.
 
 Explanation: Climate is the most significant factor in determining a wine's style and quality.
 
@@ -25,7 +25,7 @@ The goal of this comprehensive test is to synthesize all concepts and sharpen yo
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the first comprehensive mock exam:
 
@@ -74,6 +74,6 @@ Do the complex names on labels now look like a single grand map? That's the proo
 ### YouTube Shorts Script
 (0-3s) The goal of wine perfection is in sight?! The secret of comprehensive problems!
 (3-15s) WSET Level 2 High-Score Formula! Pour out all the knowledge you've learned so far! Climate determines acidity and alcohol, variety the personality, and winemaking techniques the depth!
-(15-25s) Question! What's the key feature of wine produced in a cool climate? 1. Low acidity, 2. High acidity, 3. Salt water.
+(15-25s) Question! What's the key feature of wine produced in a cool climate? 1. Low acidity, 2. High acidity, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! The essence of fine wine encountered with a cool head and a warm heart.
 (35-45s) The song of wine that only sounds better when you know! Subscribe and let's get that perfect score!

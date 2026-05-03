@@ -23,7 +23,7 @@ This combination is what allows premium wines to flourish in cool-climate region
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 The topography surrounding a vineyard creates a 'Micro-climate' that profoundly influences grape quality:
 
@@ -44,7 +44,7 @@ In cool regions, the angle of the slope is a matter of life and death for the vi
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

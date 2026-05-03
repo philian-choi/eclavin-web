@@ -1,50 +1,39 @@
-# Episode 012: Storage & Temperatures (The Guardian) - Keeping Wine Safe
+# Episode 012: Red Winemaking (The Power of Skins) - Process Mastery
 
 ## [WSET L1 Practice Question]
 
-Q. To store wine safely for a long period, which of the following environmental factors should be avoided at all costs?
+Q. In red winemaking, why is it essential to ferment the juice in contact with the grape skins?
 
-A. Moderate humidity, darkness, and a constant temperature.
-B. Intense sunlight (Light), extreme temperature fluctuations (Heat), and significant vibrations.
-C. Decorative wine racks, soft music, and clean glasses.
-D. Horizontal storage, cork closures, and cool basements.
+A. To make the wine taste like white wine.
+B. To extract color and tannins from the skins into the wine.
+C. To prevent the alcohol from forming.
+D. To make the wine smell like lemon.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Intense sunlight (Light), extreme temperature fluctuations (Heat), and significant vibrations.
+Answer: B. To extract color and tannins from the skins into the wine.
 
-Explanation: Wine is like a living organism.
-
-Intense light can spoil the wine's delicate aromas, and rapid temperature changes can cause premature oxidation or push the cork out.
-
-Additionally, heavy vibrations can disturb the delicate components of the wine.
-
-Therefore, the standard is to store wine in a place that is dark, vibration-free, and maintained at a cool, constant temperature.
+Explanation: Red wine gets its identity from the skins. By fermenting the juice together with the skins (Maceration), the heat and alcohol extract the deep color and structure-providing tannins. Once fermentation is complete, the wine is pressed to separate it from the solids.
 
 ---
 
 ## [Expert Concept]
 
-These are the golden rules of wine storage and service to preserve its value:
+Red Winemaking Steps:
 
-1.  Storage Temperature: A constant and cool temperature between 10–15°C is ideal. High temperatures over 25°C must be avoided.
-
-2.  Horizontal Storage: Wines sealed with a natural cork should be stored on their side to keep the cork moist and prevent air from leaking in.
-
-3.  Service Temperature (White & Rosé): Serve these chilled (7–13°C) to highlight their crispness and fresh fruit flavors. (Sparkling wines should be served even colder, at 6–10°C!)
-
-4.  Service Temperature (Red): A 'slightly cool room temperature' (15–18°C) is ideal. If it's too warm, the alcohol can feel overpowering on the nose and palate.
+1.  Crushing: Breaking the skins.
+2.  Fermentation: Juice and skins stay together to extract color and tannin.
+3.  Pressing: Separating the new wine from the skins *after* fermentation.
+4.  Maturation: Often in oak to soften tannins.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Do not think that "Red wine is best served at hot room temperatures (over 25°C)." In old Europe, 'room temperature' was much cooler than it is today. 18°C is about where red wine tastes its most elegant.
-[Tip]: In the exam, if you spot the words 'Light & Heat' or 'Constant', immediately link them with the 'Storage' keyword.
-
-Think of wine as a sleeping princess—it loves dark and quiet places.
+[Trap]: Remember, red wine is pressed *after* fermentation, unlike white wine which is pressed *before*.
+[Tip]: If the question mentions 'Skin contact during fermentation,' it's Red Winemaking.
 
 ---
 
@@ -52,26 +41,14 @@ Think of wine as a sleeping princess—it loves dark and quiet places.
 
 ### Threads Post
 [Hook]
-Are you standing that expensive bottle of wine you just bought next to your kitchen stove?
+Where does red wine get its bold color? 🍷🎨
 
 [Twist]
-Wine is a 'lifeform in a glass bottle' that is extremely sensitive to light and heat. Keeping it under bright fluorescent lights or on a balcony with fluctuating temperatures is like torture for wine. Especially for corked wines, please store them on their side. If the cork dries out, air can get in and turn your wine into vinegar! Tonight, why not relocate your precious bottles to the darkest and coolest spot in your home?
-
-[Reason]
-WSET Level 1 Storage Formula:
-
-1. Temperature: 10–15°C (Maintaining a constant temperature is vital).
-
-2. Light: Dark places (Protection from UV rays).
-
-3. Position: On its side (Keeping the cork moist).
-
-[Tip]
-If you don't have a wine fridge, the back of a deep closet or under your bed can be surprisingly great spots—they're dark and have the most stable temperatures!
+It's all in the skins! During fermentation, the juice 'soaks' with the skins to pull out all that beautiful color and grippy tannin. It’s like brewing a very strong tea. Without the skins, your red wine would just be a pale white!
 
 ### YouTube Shorts Script
-(0-3s) Want a quick way to turn wine into vinegar? Just leave it in the sunlight!
-(3-15s) WSET Level 1 High-Score Formula! Wine storage! The enemies of wine are Light and Heat, along with Vibration! Corked wines must be stored on their side to keep the air out!
-(15-25s) Question! What is the best serving temperature for white wine to taste its best? 1. Hot, 2. Chilled, 3. Frozen.
-(25-35s) The answer is 2, Chilled! That's how you bring out those crisp fruit flavors!
-(35-45s) The technology to protect wine's value! Subscribe and get that perfect score!
+(0-3s) Why is red wine red? 🍷
+(3-15s) WSET Level 1 Formula! Red wine is fermented with the skins to extract color and tannin!
+(15-25s) Question! When is red wine pressed? 1. Before fermentation, 2. After fermentation.
+(25-35s) The answer is 2! Give it time to soak up that color!
+(40-50s) The power of skins! Subscribe for more!

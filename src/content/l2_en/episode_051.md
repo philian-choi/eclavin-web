@@ -7,7 +7,7 @@ Q. What is the typical aroma profile of a Malbec wine produced in the 'Mendoza' 
 A. Light body and sharp high acidity (Light/High acid).
 B. Deep ruby color, Full-body, blackberry, plum, and characteristic vanilla and spice notes.
 C. Pale pink color and sweet strawberry aromas (Pale pink/Sweet strawberry).
-D. Changes the taste of any wine to salt water instantly.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ Meanwhile, Carmenere, representing Chile, offers a heavy style highlighted by bl
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A key summary of the South American red duo, Malbec and Carmenere:
 
@@ -68,6 +68,6 @@ If you see 'Mendoza Malbec' or 'Chilean Carmenere' on a label, you are about to 
 ### YouTube Shorts Script
 (0-3s) Where do the heaviest blackberry wines come from? South America is the answer!
 (3-15s) WSET Level 2 High-Score Formula! Argentina’s Malbec features blackberry and vanilla, while Chile’s Carmenere is unique with bell pepper and pepper notes! Both are famous for their full-body!
-(15-25s) Question! What is the signature aroma found in Chile’s iconic Carmenere? 1. Lemon, 2. Bell pepper, 3. Salt water.
+(15-25s) Question! What is the signature aroma found in Chile’s iconic Carmenere? 1. Lemon, 2. Bell pepper, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! An intense herbaceous aroma that tingles the palate!
 (35-45s) The charm of South American reds! Subscribe and let's get that perfect score!

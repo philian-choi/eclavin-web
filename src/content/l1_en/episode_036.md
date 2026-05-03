@@ -2,12 +2,12 @@
 
 ## [WSET L1 Practice Question]
 
-Q. What is the most appropriate temperature for tasting a full-bodied red wine like Cabernet Sauvignon?
+Q. What is the most appropriate temperature to taste a full-bodied red wine like Cabernet Sauvignon?
 
-A. Well chilled (6-10°C).
+A. Very cold (6-10°C).
 B. Room temperature (15-18°C).
-C. Heated hot (above 40°C).
-D. With ice cubes (0°C).
+C. Heated hot (over 40°C).
+D. With ice floating in it (0°C).
 
 ---
 
@@ -15,37 +15,34 @@ D. With ice cubes (0°C).
 
 Answer: B. Room temperature (15-18°C).
 
-Explanation: Full-bodied red wines can feel unpleasantly tannic/astringent and their aromas become muted if they are served too cold.
+Explanation: If a full-bodied red wine is too cold, the tannins feel astringent and the aromas become closed. 
 
-Therefore, when tasted at a light room temperature of around 15–18°C, the wine's rich aromas and structure are best expressed.
+Therefore, the rich aromas and structure of the wine are best brought to life when tasted at a light room temperature of about 15-18°C. 
 
-In contrast, white wines or sparkling wines highlight their refreshing qualities at lower temperatures.
+On the other hand, the crispness of white wines or sparkling wines is emphasized at lower temperatures.
 
 ---
 
 ## [Expert Concept]
 
-Wine temperature determines the 'perfection of taste':
+The temperature of a wine determines its 'perfection of taste'.
 
-1.  Sparkling & Sweet Wines (6-10°C): Keep them well chilled to maintain the freshness of the carbonation and the balance of sweetness.
-
-2.  White Wines (7-13°C): 
-    - Light-bodied White: Chilled (7-10°C) to emphasize refreshing acidity.
-    - Oaked/Full-bodied White: Slightly less chilled (10-13°C) to bring out complex aromas.
-
-3.  Red Wines (13-18°C): 
-    - Light-bodied Red (Gamay, Pinot Noir): Slightly cool (13°C).
-    - Full-bodied Red (Cabernet Sauvignon, Syrah): Room temperature (15-18°C).
-
-4.  Important Rule: If the temperature is too high, the unpleasant heat of alcohol rises; if it's too low, the beautiful aromas of the wine remain hidden.
+1.  Sparkling & Sweet Wines (6-10°C): Keep very cold to maintain the balance of refreshing carbonation and sweetness.
+2.  White Wines (7-13°C):
+    - Light white: Cold (7-10°C). Emphasizes crisp acidity.
+    - Oaked white: Slightly less cold (10-13°C). Brings out complex aromas.
+3.  Red Wines (13-18°C):
+    - Light red (Gamay, Pinot Noir): Slightly cool (13°C).
+    - Full-bodied red (Cabernet Sauvignon, Syrah): Room temperature (15-18°C).
+4.  Important Rule: If the temperature is too high, the unpleasant heat of alcohol rises, and if it is too low, the beautiful aromas of the wine hide.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "all red wines must be served warm."
-High indoor temperatures in summer can ruin the taste of the wine, so even red wine is better when slightly cool.
-[Tip]: In an exam, connect 'Sparkling' with 'Well Chilled' and 'Full-bodied Red' with 'Room Temperature' keywords!
+[Trap]: Thinking "All red wines must be drunk warm" is incorrect. 
+High indoor temperatures in the summer can ruin the taste of wine, so it's good for red wines to be slightly cool as well.
+[Tip]: In the exam, connect 'Sparkling' with 'Well Chilled', and 'Full-bodied Red' with the 'Room Temperature' keyword!
 
 ---
 
@@ -53,27 +50,25 @@ High indoor temperatures in summer can ruin the taste of the wine, so even red w
 
 ### Threads Post
 [Hook]
-If you bought an expensive wine but it didn't taste good, could you have missed the 'temperature'?
+If you bought an expensive wine but it didn't taste good, could it be that you missed the 'temperature'?
 
 [Twist]
-Wine shows a completely different face depending on the temperature.
-- White/Sparkling: Chilled as if just taken out of the fridge (7-10 degrees)! The refreshing carbonation and crisp acidity explode.
-- Red Wine: It becomes bitter and astringent if it's too cold. A temperature around a pleasant autumn breeze (15-18 degrees) emits the most elegant fragrance.
-Summer room temperature is too hot for wine. Try putting your red wine in the fridge for 15 minutes before drinking. That subtle difference will completely change your wine life. How about a perfect glass at the optimal temperature tonight?
+Wine shows completely different faces depending on the temperature.
+- White/Sparkling: Cold as if just taken out of the fridge (7-10 degrees)! The refreshing feeling of bubbles and crisp acidity explode.
+- Red wine: If it's too cold, it becomes bitter and astringent. A pleasant autumn breeze temperature (15-18 degrees) exudes the most elegant aromas.
+Summer room temperatures are too hot for wine. Try putting red wine in the fridge for just 15 minutes before drinking. That subtle difference will completely change your wine life. Tonight, how about a perfect glass at the optimal temperature?
 
 [Reason]
 WSET Level 1 Service Temperature Formula:
-
-1. Refreshing White/Sparkling = Chilled.
-
-2. Heavy Red = Room Temperature (15-18 degrees).
+1. Refreshing White/Sparkling = Chilled
+2. Heavy Red = Room Temperature (15-18 degrees)
 
 [Tip]
-If red wine is too lukewarm, the alcohol scent becomes too strong and it doesn't taste good. Enjoy it slightly cool!
+If a red wine is too lukewarm, only the alcohol aroma becomes strong and it tastes bad. Enjoy it slightly cool!
 
 ### YouTube Shorts Script
-(0-3s) Bad tasting wine? The answer is temperature!
-(3-15s) WSET Level 1 essential concepts! Perfect summary of wine tasting temperatures! Whites and bubbles should be cold like a fridge! Red wine tastes best at a breezy room temperature!
-(15-25s) Question! What is the optimal tasting temperature for full-bodied red wine? 1. 0°C, 2. 15-18°C, 3. 40°C.
-(25-35s) The answer is 2, 15-18°C! The right temperature wakes up the wine's aroma!
-(35-45s) The secret of taste, temperature magic! Subscribe and let's get that perfect score!
+(0-3s) Bad tasting wine? The problem is the temperature!
+(3-15s) WSET Level 1 essential concepts! Perfect summary of wine tasting temperatures! Whites and bubbles should be as cold as a fridge! Red wine tastes best at a cool room temperature!
+(15-25s) Question! What is the optimal tasting temperature for a full-bodied red wine? 1. 0 degrees, 2. 15-18 degrees, 3. 40 degrees.
+(25-35s) The answer is 2, 15-18 degrees! The right temperature wakes up the wine's aroma!
+(35-45s) The secret of taste, temperature magic! Subscribe and get that perfect score!

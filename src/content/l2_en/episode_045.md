@@ -23,7 +23,7 @@ Varieties like Reposado or Añejo are aged in oak to add notes of vanilla, caram
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Global spirits are a masterclass in raw material expression and aging:
 

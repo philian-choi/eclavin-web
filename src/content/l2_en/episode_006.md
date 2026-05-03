@@ -23,7 +23,7 @@ Conversely, strong winds are considered a threat that can damage leaves, inhibit
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A grapevine is a living organism that requires five core elements to flourish and bear healthy fruit:
 
@@ -48,7 +48,7 @@ This scientific link is the key to understanding ripening.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

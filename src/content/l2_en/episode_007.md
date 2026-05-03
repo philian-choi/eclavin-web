@@ -25,7 +25,7 @@ In contrast, jammy or black fruit flavours are signatures of warmer climates whe
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Climate refers to the long-term average weather conditions of a region and is a decisive factor in determining wine style. WSET categorizes wine-growing climates into three main tiers:
 
@@ -46,7 +46,7 @@ Weather refers to the temporary conditions of a specific year (Vintage), which c
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

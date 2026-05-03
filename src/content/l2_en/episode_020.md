@@ -25,7 +25,7 @@ This is the most visual evidence of the maturation process.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Bottle ageing is the process where a wine transcends its youthful fruit and transforms into a work of 'Liquid Art' through time:
 
@@ -48,7 +48,7 @@ Only a small percentage of the world's premium wines benefit from decades of bot
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

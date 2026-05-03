@@ -1,50 +1,50 @@
-# Episode 009: White Winemaking (The Fresh & Pure Approach) - Process
+# Episode 009: Wine Styles (The Scale of Sugar) - Dry, Medium, & Sweet
 
 ## [WSET L1 Practice Question]
 
-Q. In the white winemaking process, which key step must occur *before* fermentation begins to ensure a clear color and maintain freshness?
+Q. When all the sugar in the grape juice has been fermented into alcohol, leaving almost no perceptible sweetness, what is the correct term to describe the style of the wine?
 
-A. Boiled with the grape skins
-B. Pressing to remove the skins
-C. Drying in intense sunlight
-D. Mature for 10 years in oak barrels
+A. Sweet
+B. Medium
+C. Dry
+D. Off-dry
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Pressing to remove the skins
+Answer: C. Dry
 
-Explanation: White wine is made by fermenting only clear grape juice.
+Explanation: During the winemaking process, if the yeast consumes all the sugar in the juice and converts it into alcohol, the remaining wine contains almost no sweetness and is described as 'Dry'.
 
-Therefore, it is essential to undergo the Pressing (Pressing) process immediately after crushing (Crushing) but before fermentation starts.
-
-If the juice is fermented with its skins, color and tannins will be extracted as in red wine, causing it to lose its transparency and crisp profile.
+Conversely, if fermentation is stopped early, leaving some sugar behind, the wine is classified as Off-dry, Medium, or Sweet based on the level of that residual sugar.
 
 ---
 
 ## [Expert Concept]
 
-The key keywords for white winemaking are 'separation' and 'cool temperatures':
+The sweetness of a wine is determined by the amount of sugar left after fermentation, called 'Residual Sugar':
 
-1.  Pressing: Before fermentation, the skins and seeds are removed to leave only the clear 'free-run' juice.
+1.  Dry: Contains very little to no sugar, leaving a clean and crisp sensation on the palate. Most table wines belong to this category.
 
-2.  Cool Fermentation: Fermentation typically occurs at cool temperatures (12–22°C) to preserve delicate fruit and floral aromas.
+2.  Off-dry: Has a very slight, pleasant hint of sweetness that can be felt at the tip of the tongue.
 
-3.  Vessels: Stainless steel tanks are mainly used to emphasize freshness, although oak barrels may be used for a richer texture. (e.g., Chardonnay)
+3.  Medium: Possesses a clear sweetness that balances well with fresh fruit flavors. (e.g., some German Rieslings)
 
-4.  Grapes: Generally made from white grapes, but white wine can also be produced from red grapes if the skins are removed immediately.
+4.  Sweet: These are dessert wines with intense sweetness, like honey or jam, filling the mouth. (e.g., Sauternes, Port)
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Do not think that "White wine must only be made from white grapes." White wine (Blanc de Noirs) can be made from red grapes as long as the skins are removed promptly.
+[Trap]: Do not say "This wine is sweet because it smells like fruit." Fruit aromas (strawberries, peaches) do not provide actual sweetness.
 
-The key is the contact with the skins.
-[Tip]: In the exam, if the phrase 'Pressing before Fermentation' appears, it 100% refers to 'White Wine' production.
+If there is no physical sugar, the wine is technically Dry.
 
-Remember the order: Press first, Ferment later!
+Do not confuse aroma with taste.
+[Tip]: In the exam, if you spot the phrase 'Residual Sugar', immediately think of the 'Sweetness' keyword.
+
+The amount of surviving sugar is the only criteria for the answer.
 
 ---
 
@@ -52,26 +52,26 @@ Remember the order: Press first, Ferment later!
 
 ### Threads Post
 [Hook]
-Why is white wine so much more transparent and refreshing than red wine?
+"This wine is so sweet!" Is it actually because of sugar, or is it just the aroma?
 
 [Twist]
-The secret lies in the timing of the 'Pressing'. White wine says goodbye to its skins even before fermentation begins. By selecting only the clear grape juice and fermenting it at very cool temperatures, the wine is able to fully retain that thirst-quenching crispness and floral fruitiness. Within that transparency is the winemaker's decisive move to discard the skins.
+To a wine expert, 'Dry' means there is zero sugar. Even if a wine smells intensely of strawberries, if there's no sugar, it's still dry! Don't let your nose fool you—true sweetness comes from the stickiness and weight felt on the tip of your tongue. Tonight, check if your wine is sweet because of sugar or simply 'sweet' because of its lovely fruit aromas.
 
 [Reason]
-WSET Level 1 White Winemaking Formula:
+WSET Level 1 Sweetness Formula:
 
-1. Pressing: Remove skins before fermentation (The secret to transparency).
+1. Dry: Zero sugar, very clean (The standard for dinner wines).
 
-2. Cool Fermentation: Aromas preserved (12–22°C).
+2. Off-dry: Slightly sweet (Perfect with spicy Thai or Korean food).
 
-3. Style: Refreshing freshness (Briskness is key).
+3. Sweet: Definitely sweet (Indulgent dessert wines).
 
 [Tip]
-While fuller-bodied white wines like Chardonnay may have vanilla aromas from oak aging, most white wines preserve their purity in stainless steel tanks.
+Instead of just asking for "a sweet wine" at a wine shop, try asking, "Do you have something in an Off-dry style?" Your wine expertise will instantly level up.
 
 ### YouTube Shorts Script
-(0-3s) Ever wondered why white wine is transparent? Here's the 30-second answer!
-(3-15s) WSET Level 1 High-Score Formula! White winemaking! The key is Pressing! You must discard the skins before fermentation to get that clear color and crisp taste! It's the opposite order of red wine!
-(15-25s) Question! At what point are the skins separated when making white wine? 1. Before fermentation, 2. After fermentation, 3. Just before drinking.
-(25-35s) The answer is 1, Before fermentation! An essential step for transparency!
-(35-45s) White wine as pure as it gets! Subscribe and get that perfect score!
+(0-3s) Is this wine sweet? Sugar, or just your imagination?
+(3-15s) WSET Level 1 High-Score Formula! It's Sweetness! If all sugar turns to alcohol, it's Dry. If any sugar is left, it's Off-dry or Sweet!
+(15-25s) Question! What is the name of a clean wine with no sugar remaining? 1. Dry, 2. Medium, 3. Sweet.
+(25-35s) The answer is 1, Dry! Pay attention to the texture on your tongue.
+(35-45s) The secret of sweet wine, Residual Sugar! Subscribe and get that perfect score!

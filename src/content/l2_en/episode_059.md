@@ -7,7 +7,7 @@ Q. In the 'Traditional Method' of making 'Champagne', what characteristic flavor
 A. Fresh green apple and lemon (Green apple/Lemon)
 B. Biscuit, bread, brioche, and toasted nut flavors
 C. Zesty bell pepper and cut grass (Bell pepper/Grass)
-D. Instantly changes any wine into a shot of soju.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -23,7 +23,7 @@ The blending of Chardonnay, Pinot Noir, and Pinot Meunier, combined with long le
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the Champagne production core:
 
@@ -70,6 +70,6 @@ If you see 'Champagne' on a label, keep in mind that you are tasting a masterpie
 ### YouTube Shorts Script
 (0-3s) Why does Champagne smell like fresh bread?! The magic of yeast!
 (3-15s) WSET Level 2 High-Score Formula! Champagne spends years aging with yeast after its second fermentation in the bottle! This creates aromas of biscuit, bread, and toast. Plus, fine bubbles and high acidity—the peak of elegance!
-(15-25s) Question! What savory aroma is gained through lees aging in Champagne? 1. Lemon, 2. Biscuit and Bread, 3. Salt water.
+(15-25s) Question! What savory aroma is gained through lees aging in Champagne? 1. Lemon, 2. Biscuit and Bread, 3. Blending various grape varieties.
 (25-35s) The answer is 2! A legendary standard for premium sparkling wines.
 (35-45s) The celebration of wine with technical mastery! Subscribe and let's get that perfect score!

@@ -25,7 +25,7 @@ It also typically features a spicy note of black pepper and vanilla from oak mat
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Zinfandel (USA) and Primitivo (Italy) are genetically identical but offer distinct regional expressions of power and fruit intensity:
 
@@ -48,7 +48,7 @@ Zinfandel (USA) and Primitivo (Italy) are genetically identical but offer distin
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

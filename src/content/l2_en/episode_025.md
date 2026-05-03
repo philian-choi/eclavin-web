@@ -23,7 +23,7 @@ In South Africa, it has a long history and is widely referred to by its local na
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Chenin Blanc, Semillon, and Furmint share a common bond: 'High Acidity and Extraordinary Ageing Potential.'
 
@@ -47,7 +47,7 @@ Chenin Blanc, Semillon, and Furmint share a common bond: 'High Acidity and Extra
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

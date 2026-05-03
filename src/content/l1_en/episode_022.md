@@ -1,51 +1,48 @@
-# Episode 022: Sauvignon Blanc (The Aromatic Breeze) - White Grape Variety
+# Episode 022: Sauvignon Blanc (The Aromatic Breeze)
 
 ## [WSET L1 Practice Question]
 
-Q. Which of the following is the most accurate description of the typical characteristics of the Sauvignon Blanc grape?
+Q. Which of the following is the most accurate description of the typical characteristics of the Sauvignon Blanc variety?
 
-A. Very low acidity and high tannin, and a heavy-bodied red wine.
-B. High acidity and intense aromatic character, with flavors of grass and bell pepper.
-C. Almost no aroma, and produced locally in the warm Bordeaux region only as a sweet dessert wine.
-D. High sugar content, and always produces very strong butter and oak aromas.
+A. It is a red wine with very low acidity, high tannin, and a heavy body.
+B. It has high acidity and intense aromas, featuring flavors of grass and bell pepper.
+C. It has almost no aroma and is always produced exclusively as a sweet dessert wine in the warm Bordeaux region.
+D. It has high sugar content and always has very strong butter and oak aromas.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. High acidity and intense aromatic character, with flavors of grass and bell pepper.
+Answer: B. It has high acidity and intense aromas, featuring flavors of grass and bell pepper.
 
-Explanation: Sauvignon Blanc is known as the 'Explosion of Aroma' because its fragance is so distinct.
+Explanation: Sauvignon Blanc is a variety with aromas so distinct that it is called an 'explosion of aroma'. 
 
-Its high acidity gives it an extremely fresh and crisp sensation on the palate, and it is characterized by herbaceous aromas like cut grass, bell pepper, and asparagus.
+Thanks to its high acidity, it gives a very fresh and clean feeling in the mouth, and is characterized by herbaceous aromas such as freshly cut grass, bell pepper, and asparagus. 
 
-As it moves to warmer regions, tropical fruit aromas such as passion fruit are added.
+As it moves to more moderate regions, tropical fruit aromas like passion fruit are added.
 
 ---
 
 ## [Expert Concept]
 
-Sauvignon Blanc is synonymous with 'Freshness and Herbal Aromas':
+Sauvignon Blanc is synonymous with 'Freshness and Herbal Aromas'.
 
 1.  High Acidity: Stimulates the salivary glands and provides a refreshing finish.
-
 2.  Aromatic Profile:
     - Green Fruit: Green apple, Gooseberry
     - Herbaceous: Cut grass, Bell pepper, Asparagus
     - Tropical: Passion fruit (New Zealand style)
-
-3.  Unoaked Style: To preserve its fresh aromas and acidity, it is usually fermented in stainless steel tanks, and oak maturation is rarely used.
-
-4.  Major Regions: Marlborough (New Zealand), Loire Valley (Sancerre, Pouilly-Fumé, France), Chile, etc.
+3.  Unoaked Style: To preserve the grape's unique fresh aromas and acidity, it is mainly fermented in stainless steel tanks, and oak maturation is rarely used.
+4.  Major Regions: Marlborough (New Zealand), Loire (Sancerre, Pouilly-Fumé, France), Chile, etc.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid the assumption that "All Sauvignon Blanc is sweet."
-Most Sauvignon Blanc is produced in a very crisp, Dry style.
-[Tip]: If the words 'Cut Grass' or 'High Acidity' appear in the exam, always choose 'Sauvignon Blanc.'
-That fresh feeling, as if you're rolling on a grassy field, is the privilege of Sauvignon Blanc.
+[Trap]: Thinking "All Sauvignon Blanc is sweet" is incorrect. 
+Most Sauvignon Blanc is a very clean, Dry style.
+[Tip]: In the exam, if words like 'Cut Grass' or 'High Acidity' appear, always choose 'Sauvignon Blanc'. 
+The refreshing feeling of rolling around on a lawn is the privilege of Sauvignon Blanc.
 
 ---
 
@@ -53,26 +50,23 @@ That fresh feeling, as if you're rolling on a grassy field, is the privilege of 
 
 ### Threads Post
 [Hook]
-If you feel a 'grassy field' unfolding just by bringing your wine glass near your nose, it's the magic of Sauvignon Blanc.
+If bringing a wine glass near your nose unfolds a 'grassy field', that is the magic of Sauvignon Blanc.
 
 [Twist]
-Sauvignon Blanc is the most honest wine in the world. The freshness of cut grass, crunchy bell peppers, and an acidity that explodes in your mouth! This grape doesn't hide its fragrance, it pours it out like a storm. A refreshing glass like the blue sea of New Zealand! When you're thinking of a refreshingly crisp salad or hot summer days, this is the reason you should choose Sauvignon Blanc.
+Sauvignon Blanc is the most honest wine in the world. The freshness of freshly cut grass, crisp bell peppers, and a crisp acidity that explodes your salivary glands! This grape does not hide its aroma but spews it out like a storm. A glass as refreshing as the blue seas of New Zealand! This is why, when you think of a hot summer or a fresh salad, you should choose Sauvignon Blanc without hesitation.
 
 [Reason]
 WSET Level 1 Sauv-Blanc Formula:
-
-1. High Acidity = Refreshing sensation in the mouth.
-
-2. Signature Aroma: Grass & Bell Pepper (The standard for herbs).
-
-3. Perfect Pairing: Seafood, salads, and goat cheese.
+1. High acidity = Refreshing feeling in the mouth
+2. Signature aroma: Grass, Bell pepper (The standard for herbs)
+3. Perfect Pairing: Seafood, salads, goat cheese
 
 [Tip]
-If the label says 'Sauvignon Blanc,' chill it well and enjoy the freshness!
+If the label says 'Sauvignon Blanc', chill it cold and enjoy its crispness!
 
 ### YouTube Shorts Script
-(0-3s) A freshness that pierces your nose! The identity of Sauvignon Blanc!
-(3-15s) WSET Level 1 High-Score Formula! Sauvignon Blanc! High acidity and explosive aroma! The icon of white wine characterized by the smell of cut grass and bell pepper! The star of refreshing mouth-cleansing!
-(15-25s) Question! What is the typical aroma found in New Zealand Sauvignon Blanc? 1. Vanilla, 2. Passion fruit (Tropical fruit), 3. Chocolate.
-(25-35s) The answer is 2! A combination of freshness and sweetness!
-(35-45s) Capturing a grassy field in a glass, Sauvignon Blanc! Subscribe and get that perfect score!
+(0-3s) The freshness that pierces your nose! The identity of Sauvignon Blanc!
+(3-15s) WSET Level 1 High-Score Formula! It's Sauvignon Blanc! High acidity and explosive aromas! Featuring freshly cut grass and bell pepper scents, it's the symbol of white wine! The protagonist of insane refreshment that washes your mouth!
+(15-25s) Question! What is the typical aroma felt in New Zealand Sauvignon Blanc? 1. Vanilla, 2. Passion fruit (Tropical fruit), 3. Chocolate.
+(25-35s) The answer is 2, Passion fruit! The harmony of crispness and sweetness!
+(35-45s) Putting the scent of the lawn in a glass, Sauvignon Blanc! Subscribe and get that perfect score!

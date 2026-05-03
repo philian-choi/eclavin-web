@@ -7,7 +7,7 @@ Q. When producing 'Bourbon' whiskey in Kentucky, USA, what are the legal require
 A. 100% Barley and maturation in neutral oak barrels.
 B. Minimum 51% Corn and maturation in New charred oak barrels.
 C. 100% Rye and maturation in stainless steel tanks.
-D. Instantly changes any whiskey into a shot of soju.
+D. Fully ferments the grape sugar to always produce a dry wine.
 
 ---
 
@@ -25,7 +25,7 @@ Irish Whiskey is typically lighter and smoother, enchanting whiskey fans worldwi
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of Whisk(e)y styles:
 
@@ -72,6 +72,6 @@ If you see 'Single Malt' or 'Bourbon' on a label, enjoy the unique heritage of t
 ### YouTube Shorts Script
 (0-3s) Why does whiskey taste like vanilla?! The secret of Bourbon!
 (3-15s) WSET Level 2 High-Score Formula! American Bourbon whiskey offers grand vanilla aromas from corn and new oak barrels, while Scotch Whisky is unique for its barley and peat smoke scents! Grain's deep pride inside a 40% ABV spirit!
-(15-25s) Question! Which whiskey uses 51% or more corn and ages in new oak barrels? 1. Scotch, 2. Bourbon, 3. Salt water.
+(15-25s) Question! Which whiskey uses 51% or more corn and ages in new oak barrels? 1. Scotch, 2. Bourbon, 3. Fermenting all sugar to make it dry.
 (25-35s) The answer is 2! An elegant standard of fine spirits.
 (35-45s) The world of whiskey that you taste! Subscribe and let's get that perfect score!

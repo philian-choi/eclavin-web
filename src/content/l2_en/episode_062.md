@@ -7,7 +7,7 @@ Q. What is the characteristic flavor and color profile of 'Tawny Port' from the 
 A. Deep ruby color and fresh strawberry flavors (Deep ruby/Fresh strawberry)
 B. Tawny color, walnut, toffee, caramel, and prune (dried fruit) flavors
 C. Pale green color and zesty lime flavors (Pale green/Lime)
-D. Changes any wine into a shot of soju instantly.
+D. Mixes a large amount of water to lower the ABV below 5%.
 
 ---
 
@@ -25,7 +25,7 @@ Conversely, Tawny Port undergoes deliberate oxidative aging in smaller oak barre
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of Port wine styles:
 
@@ -74,6 +74,6 @@ If you see '20 Years Old Tawny' on a label, keep in mind that you are tasting a 
 ### YouTube Shorts Script
 (0-3s) Walnut and chocolate aromas in a wine?! The magic of Port!
 (3-15s) WSET Level 2 High-Score Formula! Portuguese Port is split into fruit-forward Ruby and nutty, caramel-rich Tawny! Fortified mid-fermentation to provide a powerful 20% ABV charisma and persistent sweetness!
-(15-25s) Question! Which Port style is brown in color and nutty in profile due to oxidative aging? 1. Ruby Port, 2. Tawny Port, 3. Salt water.
+(15-25s) Question! Which Port style is brown in color and nutty in profile due to oxidative aging? 1. Ruby Port, 2. Tawny Port, 3. Adding water to lower ABV.
 (25-35s) The answer is 2! An elegant standard for fine dessert wines.
 (35-45s) The majesty of wine that you taste with time! Subscribe and let's get that perfect score!

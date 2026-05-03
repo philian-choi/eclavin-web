@@ -23,7 +23,7 @@ Its signature profile includes ripe Red Plum and Strawberry, often accompanied b
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Grenache is defined by its 'generous warmth and plush body':
 

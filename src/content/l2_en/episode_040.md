@@ -25,7 +25,7 @@ Because the yeast stops working, the natural grape sugars that haven't been conv
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Fortified wines are defined by 'when the spirit is added' and how they are matured:
 

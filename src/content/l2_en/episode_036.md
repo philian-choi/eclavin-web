@@ -23,7 +23,7 @@ It is the key variety in the Douro and Dão regions for producing premium dry re
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Other European reds are defined by 'resilience and intense personality':
 

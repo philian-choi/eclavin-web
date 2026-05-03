@@ -21,7 +21,7 @@ For Muscat-based VdN, this process beautifully captures the primary aromatics of
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Beyond Sherry and Port, the world offers several other legendary fortified styles:
 

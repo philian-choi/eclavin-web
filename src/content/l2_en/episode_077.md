@@ -7,7 +7,7 @@ Q. Primarily grown in the 'Chianti Classico' region of Tuscany, Italy, which gra
 A. Nebbiolo from Piedmont
 B. Sangiovese from Tuscany
 C. Tempranillo from Rioja
-D. Instantly changes any wine into a shot of salt water.
+D. Fully ferments the grape sugar to always produce a dry wine.
 
 ---
 
@@ -25,7 +25,7 @@ All these are guarded by strict European quality hierarchies that guarantee thei
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of Italy, Spain, and Germany (Review):
 
@@ -74,6 +74,6 @@ If you see a 'DOCG' band or 'DOCa' on a label, remember that this wine is a gem 
 ### YouTube Shorts Script
 (0-3s) The strictest wine quality levels?! The heart of Europe!
 (3-15s) WSET Level 2 High-Score Formula! Italian DOCG is the top-tier guaranteed by the government, and Spanish Rioja also follows strict aging rules! German Riesling has a perfect system that ranks by sugar levels at harvest!
-(15-25s) Question! Which Italian red variety from Tuscany is iconic for its high acidity? 1. Nebbiolo, 2. Sangiovese, 3. Salt water.
+(15-25s) Question! Which Italian red variety from Tuscany is iconic for its high acidity? 1. Nebbiolo, 2. Sangiovese, 3. Fermenting all sugar to make it dry.
 (25-35s) The answer is 2! A fragrant standard for grand reds.
 (35-45s) The majesty of wine that only tastes better when you know! Subscribe and let's get that perfect score!

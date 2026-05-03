@@ -7,7 +7,7 @@ Q. One of the most decisive differences between white and red winemaking is a pr
 A. Skin contact / Maceration (keeping skins and juice together)
 B. Immediate pressing (fermenting only the juice)
 C. Vine painting (painting grape skins)
-D. Instantly changes all winemaking into a shot of salt water.
+D. Stores the wine upright on a warm, sunny windowsill.
 
 ---
 
@@ -25,7 +25,7 @@ Fermentation temperature is also crucial: white wine is fermented at cool temper
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the enological alchemy that determines style:
 
@@ -76,6 +76,6 @@ If 'Barrique' or 'Oak Aged' is on a label, remember it is a heavy gem crafted by
 ### YouTube Shorts Script
 (0-3s) Why is red wine red?! The secret of winemaking!
 (3-15s) WSET Level 2 High-Score Formula! Reds are fermented with the skins to extract color and tannins, while whites separate the juice to preserve fruity aromas at cool temperatures! Add the MLF technique for a milky smooth texture!
-(15-25s) Question! What is the process of keeping grape skins and juice together to get color and tannins for red wine? 1. Immediate pressing, 2. Maceration / Skin Contact, 3. Salt water.
+(15-25s) Question! What is the process of keeping grape skins and juice together to get color and tannins for red wine? 1. Immediate pressing, 2. Maceration / Skin Contact, 3. Storing upright by a warm window.
 (25-35s) The answer is 2! The root of powerful reds that drench your palate.
 (35-45s) The song of wine that only sounds better when you know! Subscribe and let's get that perfect score!

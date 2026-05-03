@@ -7,7 +7,7 @@ Q. What is the characteristic flavor and acidity profile of Chardonnay produced 
 A. Low acidity and sweet peach flavors (Low acid/Sweet)
 B. High acidity and notes of citrus and wet stone (Mineral)
 C. Medium acidity and intense black fruit flavors (Medium acid/Black fruit)
-D. Instantly changes any wine into a shot of soju.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -25,7 +25,7 @@ Remember, Sauvignon Blanc is defined by intense herbal and grassy notes, while R
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of major white grape varieties (Review):
 
@@ -74,6 +74,6 @@ If you see 'Chablis' on a label, keep in mind that you are tasting the essence o
 ### YouTube Shorts Script
 (0-3s) Gasoline odors in a white wine?! The secret of Riesling!
 (3-15s) WSET Level 2 High-Score Formula! White wines are split into climate-changing Chardonnay, grass-scented Sauvignon Blanc, and high-acid, floral Riesling! Chablis is the cool standard for Chardonnay!
-(15-25s) Question! Which grape variety produces Chablis with high acid, citrus, and wet stone notes? 1. Riesling, 2. Chardonnay, 3. Salt water.
+(15-25s) Question! Which grape variety produces Chablis with high acid, citrus, and wet stone notes? 1. Riesling, 2. Chardonnay, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! An elegant standard for fine white wines.
 (35-45s) The fragrant world of white that you taste! Subscribe and let's get that perfect score!

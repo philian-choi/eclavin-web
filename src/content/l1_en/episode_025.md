@@ -1,9 +1,9 @@
-# Episode 025: Other Notable White Varieties (The Aromatic Specialists) - White Grape Varieties
+# Episode 025: Other Notable White Varieties (The Aromatic Specialists)
 
 ## [WSET L1 Practice Question]
 
-Q. Which of the following white wine varieties matches this description? 
-"It has low acidity and high alcohol, and exhibits very intense aromas of lychee, rose, and ginger."
+Q. Which white wine variety possesses the following characteristics?
+"It has low acidity, high alcohol, and very intense aromas such as Lychee, Rose, and Ginger."
 
 A. Viognier
 B. Albariño
@@ -16,38 +16,36 @@ D. Chardonnay
 
 Answer: C. Gewurztraminer
 
-Explanation: Gewurztraminer is the 'perfume' of the white wine world, with some of the most glamorous aromas.
+Explanation: Gewurztraminer is a 'perfume-like' variety with the most flamboyant aromas among white wines. 
 
-It is characterized by low acidity and high alcohol, and boasts explosive aromas of lychee, rose, and ginger.
+It features low acidity and high alcohol, boasting explosive aromas of lychee, rose, and ginger. 
 
-Viognier has strong peach and white flower scents, while Albariño is characterized by high acidity and citrus aromas.
+Viognier has strong peach and white flower aromas, while Albariño is characterized by high acidity and citrus aromas.
 
 ---
 
 ## [Expert Concept]
 
-These unique white varieties each have their own signature fragrances:
+These white varieties full of personality each have their own signature aromas.
 
 1.  Viognier:
-    - Characteristics: Low acid, High alcohol. (One of the heaviest whites)
+    - Characteristics: Low acid, High alcohol. (One of the heaviest white wines)
     - Aroma: Peach, Apricot, Honeysuckle.
-
 2.  Albariño:
     - Characteristics: High acidity, Dry. (The cool sea breeze of Spain)
     - Aroma: Lemon, Grapefruit, Peach.
-
 3.  Gewurztraminer:
     - Characteristics: Low acidity, High alcohol, Full body.
-    - Aroma: Lychee, Rose, Ginger. (A mysterious, oriental fragrance)
+    - Aroma: Lychee, Rose, Ginger. (A mysterious, oriental scent)
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "Strong aroma always means high acidity."
-Viognier and Gewurztraminer have very strong aromas but naturally low acidity.
-[Tip]: If the words 'Lychee' or 'Rose' appear in the exam, always choose 'Gewurztraminer.'
-The sensation of taking a bite of a lychee is the correct answer.
+[Trap]: Thinking "If the aroma is strong, the acidity must be high" is incorrect. 
+Viognier and Gewurztraminer have strong aromas but low acidity.
+[Tip]: In the exam, if words like 'Lychee' or 'Rose' appear, always choose 'Gewurztraminer'. 
+The feeling of taking a bite out of a lychee is the answer.
 
 ---
 
@@ -55,26 +53,23 @@ The sensation of taking a bite of a lychee is the correct answer.
 
 ### Threads Post
 [Hook]
-If you feel the fragrance of 'lychee' and a 'bouquet of roses' at the same time in your wine glass, is it magic?
+If a wine glass simultaneously smells of 'Lychee' and a 'Bouquet of Roses', is it wine or magic?
 
 [Twist]
-No, it's the magic of Gewurztraminer, a variety with a name that's even hard to say. This wine boasts a glamour reminiscent of an entire bottle of perfume. With its low acidity and high alcohol, it also has a heavy, viscous texture. When you're bored with ordinary white wines, meet these aromatic wines that will stimulate your nose.
+No, it's the magic of this variety with a difficult name, Gewurztraminer. This wine boasts a flamboyance as if an entire bottle of perfume was poured into it. Its low acidity and high alcohol provide a superb oily texture that fills the mouth heavily. When you are tired of ordinary white wines, meet these aromatic wines full of personality that will stimulate your nose.
 
 [Reason]
-WSET Level 1 Aromatic Variety Formula:
-
-1. Gewurztraminer: Lychee, Rose (Oriental glamour).
-
-2. Viognier: Peach, Apricot (Heavy elegance).
-
-3. Albariño: Lemon, Grapefruit (Refreshing sensation).
+WSET Level 1 Notable Varieties Formula:
+1. Gewurztraminer: Lychee, Rose (Oriental flamboyance)
+2. Viognier: Peach, Apricot (Heavy elegance)
+3. Albariño: Lemon, Grapefruit (Refreshing crispness)
 
 [Tip]
-These wines have very strong aromas, so they go great with spicy Indian or Thai food!
+These wines have strong aromas, so they pair exceptionally well with spicy Indian or Thai cuisine!
 
 ### YouTube Shorts Script
-(0-3s) A bouquet of roses exploding on the nose! The secret of Gewurztraminer!
-(3-15s) WSET Level 1 High-Score Formula! These are unique white varieties! Gewurztraminer with lychee and rose, Viognier with peach and white flowers, and Albariño with lemon and saltiness! Just remember their signature aromas!
-(15-25s) Question! Which heavy white variety is characterized by peach and apricot aromas? 1. Riesling, 2. Viognier, 3. Chardonnay.
-(25-35s) The answer is 2! An elegance that fills the mouth!
-(35-45s) The world of wine remembered by fragrance! Subscribe and get that perfect score!
+(0-3s) A bouquet of roses bursting at the tip of your nose! The secret of Gewurztraminer!
+(3-15s) WSET Level 1 High-Score Formula! White varieties full of personality! Gewurztraminer with lychee and rose scents, Viognier with peach and white flower scents, and Albariño with lemon and salty notes! Just remember their signature aromas and you're done!
+(15-25s) Question! Which heavy white variety features peach and apricot aromas? 1. Riesling, 2. Viognier, 3. Chardonnay.
+(25-35s) The answer is 2, Viognier! The elegance spreading fully in the mouth is superb!
+(35-45s) The world of wine remembered by scent! Subscribe and get that perfect score!

@@ -23,7 +23,7 @@ In contrast, Acidity makes the mouth water (mouth-watering), and Alcohol provide
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Palate assessment goes beyond mere taste; it is about mapping the 'physical structure' of the wine within the mouth:
 
@@ -52,7 +52,7 @@ Your salivary glands are the best proof of a wine’s structural character.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

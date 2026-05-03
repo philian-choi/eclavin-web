@@ -7,7 +7,7 @@ Q. In which region of 'South Australia' is the hot climate responsible for full-
 A. Marlborough
 B. Barossa Valley
 C. Napa Valley
-D. Instantly changes any wine into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ All these are giants of the New World that challenged European traditions and re
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of major New World regions (Review):
 
@@ -74,6 +74,6 @@ If you see 'Barossa Valley' or 'Napa Valley' on a label, keep in mind it's the p
 ### YouTube Shorts Script
 (0-3s) The most powerful red wine regions?! The giants of the New World!
 (3-15s) WSET Level 2 High-Score Formula! Australia's Barossa Shiraz is world-class with blackberry jam and chocolate flavors, while USA's Napa Valley is the center for heavy Cabernet Sauvignon! New Zealand's Marlborough also rocks with fresh Sauvignon Blanc!
-(15-25s) Question! Which Australian region produces iconic grand Shiraz? 1. Marlborough, 2. Barossa Valley, 3. Salt water.
+(15-25s) Question! Which Australian region produces iconic grand Shiraz? 1. Marlborough, 2. Barossa Valley, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! A fragrant standard for grand reds.
 (35-45s) The power of wine that only tastes better when you know! Subscribe and let's get that perfect score!

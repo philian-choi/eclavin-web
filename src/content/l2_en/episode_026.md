@@ -23,7 +23,7 @@ Its signature aromas are unmistakable: tropical lychee and fragrant rose, often 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 These 'Exotic Aromatics' offer unique sensory experiences, each with its own distinctive structure and bouquet:
 
@@ -48,7 +48,7 @@ These 'Exotic Aromatics' offer unique sensory experiences, each with its own dis
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

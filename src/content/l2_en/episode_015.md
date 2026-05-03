@@ -23,7 +23,7 @@ Crucially, the timing differs: White wines are typically pressed before fermenta
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Winemaking is a rigorous scientific experiment that transforms nature’s bounty into a refined beverage:
 
@@ -46,7 +46,7 @@ The key characteristic of red winemaking is that the juice and skins ferment tog
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]
@@ -70,6 +70,6 @@ If you see 'Free Run Juice' on a label, it means the wine was made from the pure
 ### YouTube Shorts Script
 (0-3s) Crushing vs. Pressing? The order changes everything! 
 (3-15s) WSET Level 2 Masterclass! Winemaking Science! Crushing breaks the skins, and Pressing separates the juice! Whites are pressed BEFORE fermentation; Reds are pressed AFTER! Remember this sequence! 
-(15-25s) Question! What energy is produced alongside alcohol during fermentation? 1. Cold air, 2. Heat, 3. Sound. 
+(15-25s) Question! What energy is produced alongside alcohol during fermentation? 1. Cold air, 2. Heat, 3. Storing upright by a warm window. 
 (25-35s) The answer is 2! Heat! Red wines use this heat to extract even deeper colour from the skins. 
 (35-45s) The aesthetic of the final drop! Subscribe and let's get that perfect score!

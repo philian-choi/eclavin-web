@@ -9,6 +9,8 @@ import { useSearchParams } from 'next/navigation';
 import { getTranslations, Language } from '@/constants/translations';
 import { useEpisodeQuiz } from '@/hooks/useEpisodeQuiz';
 
+import StoryShare from './StoryShare';
+
 export default function EpisodeClient({ episode, initialLang }: { episode: Episode, initialLang?: string }) {
   const { language: storedLang } = useStore();
   const searchParams = useSearchParams();
@@ -29,14 +31,17 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
   return (
     <article className="episode-container">
       <header className="episode-header">
-        <Link href={`/?lv=${episode.level}&lang=${lang}`}>
-           <button className="pill-btn" style={{ padding: '0.6rem 1.2rem', fontSize: '0.9rem', gap: '8px', border: 'none', backgroundColor: 'var(--bg-secondary)' }}>
-             <ArrowLeft size={16} /> {t.back}
-           </button>
-        </Link>
-        <span className="episode-badge">
-           L{episode.level} • Ep {episode.number}
-        </span>
+        <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
+          <Link href={`/?lv=${episode.level}&lang=${lang}`}>
+             <button className="pill-btn" style={{ padding: '0.6rem 1.2rem', fontSize: '0.9rem', gap: '8px', border: 'none', backgroundColor: 'var(--bg-secondary)' }}>
+               <ArrowLeft size={16} /> {t.back}
+             </button>
+          </Link>
+          <span className="episode-badge">
+             L{episode.level} • Ep {episode.number}
+          </span>
+        </div>
+        <StoryShare episode={episode} lang={lang} t={t} />
       </header>
 
       <div>
@@ -102,28 +107,23 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
                     </div>
                  )}
 
-                 {/* 3. Tip Section (Optional) */}
-                 {episode.tip && (
-                    <div style={{ 
-                      padding: '1.5rem', 
-                      backgroundColor: 'var(--bg-tertiary)', 
-                      borderRadius: '12px',
-                      border: '1px solid var(--border-light)'
-                    }}>
-                       <h4 className="font-heading" style={{ color: 'var(--text-primary)', marginBottom: '0.8rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                          {t.tip}
-                       </h4>
-                       <p style={{ opacity: 0.9, color: 'var(--text-primary)', fontSize: '1.05rem', lineHeight: '1.6' }}>{episode.tip}</p>
-                    </div>
-                 )}
+                  {/* 3. Tip Section (Optional) */}
+                  {episode.tip && (
+                     <div style={{ paddingTop: '2rem', borderTop: '1px solid var(--border-light)' }}>
+                        <h4 className="font-heading" style={{ color: 'var(--text-primary)', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                           {t.tip}
+                        </h4>
+                        <p style={{ color: 'var(--text-secondary)', fontSize: '1.05rem', lineHeight: '1.7' }}>{episode.tip}</p>
+                     </div>
+                  )}
               </div>
             
               {/* Sticky Bottom Navigation Bar */}
               <footer className="sticky-nav-bar animate-slide-up">
                  <div className="nav-container">
                     <Link href={hasPrev ? getUrl(episode.number - 1) : '#'}>
-                       <button className="pill-btn secondary" style={{ opacity: hasPrev ? 1 : 0.3, pointerEvents: hasPrev ? 'auto' : 'none' }}>
-                          <ArrowLeft size={18} /> {t.prev}
+                       <button className="pill-btn secondary" style={{ opacity: hasPrev ? 1 : 0.3, pointerEvents: hasPrev ? 'auto' : 'none', fontSize: '1.05rem' }}>
+                          <ArrowLeft size={20} /> {t.prev}
                        </button>
                     </Link>
                     {hasNext && (

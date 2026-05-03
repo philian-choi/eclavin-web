@@ -23,7 +23,7 @@ For instance, in regions like Mendoza, Argentina, establishing vineyards at high
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Latitude and altitude are the two fundamental geographical factors that dictate the average temperature of a vineyard:
 
@@ -44,7 +44,7 @@ A balance between sunlight and warmth is essential.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

@@ -7,7 +7,7 @@ Q. What winemaking method is commonly used to produce both French 'Champagne' an
 A. Tank Method (Charmat Method)
 B. Traditional Method
 C. Carbonation
-D. Instantly changes any bubble into a shot of soju.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ Conversely, Prosecco and Asti typically use the Tank Method, where second fermen
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of sparkling and fortified wine styles (Review):
 
@@ -74,6 +74,6 @@ If you see 'Traditional Method' and 'Vintage' on a label, keep in mind that you 
 ### YouTube Shorts Script
 (0-3s) Why does Champagne smell like bread?! The secret of bubbles!
 (3-15s) WSET Level 2 High-Score Formula! Traditional method Champagne is aged with yeast in the bottle for rich biscuit aromas, while tank-method Prosecco has fresh fruit scents! Don't forget the key difference between Sherry and Port!
-(15-25s) Question! Which method conducts second fermentation in the bottle to produce biscuit aromas? 1. Tank Method, 2. Traditional Method, 3. Salt water.
+(15-25s) Question! Which method conducts second fermentation in the bottle to produce biscuit aromas? 1. Tank Method, 2. Traditional Method, 3. Completely removing carbonation.
 (25-35s) The answer is 2! An elegant standard of grand bubbles.
 (35-45s) The thrilling world of bubbles that you taste! Subscribe and let's get that perfect score!

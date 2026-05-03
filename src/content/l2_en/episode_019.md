@@ -25,7 +25,7 @@ Conversely, Inert vessels like stainless steel completely block oxygen, with the
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Choosing a maturation vessel is like selecting the 'Cradle' that will shape the wine’s future identity:
 
@@ -45,7 +45,7 @@ Choosing a maturation vessel is like selecting the 'Cradle' that will shape the 
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

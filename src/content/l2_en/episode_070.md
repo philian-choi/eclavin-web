@@ -7,7 +7,7 @@ Q. In EU wine regulations, what is the common labeling term that corresponds to 
 A. PGI (Protected Geographical Indication)
 B. PDO (Protected Designation of Origin)
 C. Table Wine (Vino de Mesa)
-D. Instantly changes any wine into a shot of soju.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ Conversely, PGI is a category subject to slightly more relaxed regulations.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of major labeling terms by country:
 
@@ -79,6 +79,6 @@ Even if it's a wine you don't know, if you see 'Classico' or 'Reserve', assume i
 ### YouTube Shorts Script
 (0-3s) Hidden rank insignia on a wine label?! The identity of PDO!
 (3-15s) WSET Level 2 High-Score Formula! The EU wine regulation PDO is a top certification for following specific regions and strict rules! French AOC and Italian DOCG are the icons! Meanwhile, PGI is a more flexible and practical tier.
-(15-25s) Question! Which EU quality tier includes French AOC and Italian DOCG? 1. PGI, 2. PDO, 3. Salt water.
+(15-25s) Question! Which EU quality tier includes French AOC and Italian DOCG? 1. PGI, 2. PDO, 3. Completely removing carbonation.
 (25-35s) The answer is 2! The secret to having a sommelier's eye for picking masterpieces just by reading labels.
 (35-45s) The world of wine that looks different once you know! Subscribe and let's get that perfect score!

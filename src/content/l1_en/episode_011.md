@@ -1,46 +1,39 @@
-# Episode 011: Rosé Winemaking (The Delicate Pink Touch) - Process
+# Episode 011: White Winemaking (The Pure Juice) - Process Mastery
 
 ## [WSET L1 Practice Question]
 
-Q. To obtain the beautiful pink color of Rosé Wine, what is the most widely used winemaking method involving short contact between black grape skins and the juice?
+Q. What is the key difference in the early stages of white winemaking compared to red winemaking?
 
-A. Long Maturation
-B. Short Maceration
-C. High Heat Treatment
-D. Deep Freezing
+A. Grapes are fermented with their skins.
+B. Grapes are crushed and the juice is immediately separated from the skins before fermentation.
+C. White wine is always made by boiling the grapes.
+D. White wine is only made in total darkness.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Short Maceration
+Answer: B. Grapes are crushed and the juice is immediately separated from the skins before fermentation.
 
-Explanation: Rosé wine is made from black grapes, but the grape skins are only kept in contact with the juice for a very short time (typically a few hours to a day) to prevent the color from becoming too dark.
-
-This process is known as Maceration.
-
-Once the desired pink color is achieved, the skins are immediately removed, and the clear juice is fermented like a white wine.
+Explanation: To make white wine, we want to avoid the color and tannins found in the grape skins. Therefore, the grapes are crushed and then pressed right away to separate the clear juice from the skins. This juice is then fermented to create white wine. This process ensures the wine remains pale and low in tannin.
 
 ---
 
 ## [Expert Concept]
 
-Rosé winemaking is an art form that lies between red and white winemaking methods:
+White Winemaking Steps:
 
-1.  Short Maceration: Skins and juice are in temporary contact to extract only light colors such as Pink, Salmon, or Orange.
-
-2.  Removal of Skins: Once the desired color is reached, the skins are separated, and fermentation continues at cool temperatures, much like white wine production.
-
-3.  Direct Pressing: Sometimes grapes are pressed immediately without a maceration period, using only the tiny amount of color that naturally transfers from the skins. (Produces very pale rosé)
-
-4.  Blending (Exception): While forbidden in most of Europe, blending red and white wine to make rosé is allowed in certain special cases, such as in the production of Rosé Champagne.
+1.  Crushing: Breaking the skins.
+2.  Pressing: Immediately separating juice from skins.
+3.  Fermentation: Clear juice becomes wine (usually at lower temperatures to preserve aromas).
+4.  Maturation: Often in stainless steel to keep it fresh.
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Do not think that "All rosé wines are made by mixing red and white wine together." This is a common misconception and is generally prohibited in the majority of wine-producing regions, except for a few notable exceptions like Champagne.
-[Tip]: In the exam, if you spot the phrase 'Short Contact with Skins' and 'Pink Color', immediately select 'Rosé' and 'Short Maceration' as your answer.
+[Trap]: Don't think white wine can't be made from red grapes. It can, as long as you remove the skins immediately!
+[Tip]: If the exam asks about 'Pressing before fermentation,' it's referring to White Winemaking.
 
 ---
 
@@ -48,26 +41,14 @@ Rosé winemaking is an art form that lies between red and white winemaking metho
 
 ### Threads Post
 [Hook]
-Where does that elegant pink color of rosé wine actually come from? Is it just a mix of red and white?
+How does white wine stay so clear and bright? 🥂✨
 
 [Twist]
-Actually, the secret behind that color lies in 'a fleeting moment.' Rosé is a wine that almost became red. By keeping the black grape skins in contact with the juice for just a short period, we only extract that shy, delicate pink hue. The winemaker's precise 'timing'—to remove the skins the moment the desired color is reached—is the lifeblood of rosé. Behind every lovely pink glass is the art of waiting, down to the last minute and second.
-
-[Reason]
-WSET Level 1 Rosé Formula:
-
-1. Black Grapes: Made from the same material as red wine.
-
-2. Short Contact: A brief meeting between skins and juice (a few hours to a day).
-
-3. Pink Extraction: Separate immediately once the color is right!
-
-[Tip]
-Enjoy rosé wine chilled. It's the best way to keep those fresh floral and fruity aromas at their most vibrant.
+The secret is 'Immediate Pressing.' Winemakers separate the juice from the skins as fast as possible to prevent any color or tannin from leaking in. It’s all about the purity of the juice!
 
 ### YouTube Shorts Script
-(0-3s) A pink mix? Wrong! Rosé is all about the 'short date'!
-(3-15s) WSET Level 1 High-Score Formula! Rosé winemaking! The key is Short Maceration, keeping the black grape skins in contact with the juice for only a short while! You gotta yank those skins out once the pink color shows up!
-(15-25s) Question! What provides the pink color for rosé wine? 1. White grapes, 2. Black grape skins, 3. Artificial coloring.
-(25-35s) The answer is 2, Black grape skins! A short date with the skins is the secret!
-(35-45s) The symbol of elegance, the secret of Rosé! Subscribe and get that perfect score!
+(0-3s) White wine's secret to staying bright! 🥂
+(3-15s) WSET Level 1 Formula! For white wine, we press the grapes immediately to remove the skins before fermentation starts!
+(15-25s) Question! When are skins removed in white winemaking? 1. After fermentation, 2. Before fermentation.
+(25-35s) The answer is 2! Keep it pure, keep it white!
+(40-50s) The art of pressing! Subscribe for more!

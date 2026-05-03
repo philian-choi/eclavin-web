@@ -7,7 +7,7 @@ Q. In the 'Traditional Method' of making 'Champagne AOC', what is the characteri
 A. Fresh grape juice and apple aromas
 B. Biscuit, bread dough, and toasted bread flavors
 C. Intense strawberry and rose petal scents
-D. Instantly changes all bubbles into a shot of salt water.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ Furthermore, fortified wines like Sherry and Port, and spirits like Whisky and C
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A deep-dive summary into the Royal Collection of bubbles and flames:
 
@@ -76,6 +76,6 @@ If 'Metodo Classico' or 'Méthode Traditionnelle' is on a label, remember it is 
 ### YouTube Shorts Script
 (0-3s) The most brilliant drinks loved by royalty?! The secret of the Royal Collection!
 (3-15s) WSET Level 2 High-Score Formula! Champagne's biscuit scent is thanks to yeast aging in the bottle, and fortified wines like Sherry and Port are art born from time's waiting! Add the grand distillation of Whisky and Cognac to complete this perfect luxury!
-(15-25s) Question! What is the characteristic flavor from yeast aging in traditional method Champagne? 1. Fresh grape juice, 2. Biscuit and Bread, 3. Salt water.
+(15-25s) Question! What is the characteristic flavor from yeast aging in traditional method Champagne? 1. Fresh grape juice, 2. Biscuit and Bread, 3. Completely removing carbonation.
 (25-35s) The answer is 2! The pride of grand spirits and wines that will drench your palate.
 (35-45s) The world of royal drinks that only tastes better when you know! Subscribe and let's get that perfect score!

@@ -37,7 +37,7 @@ Sangiovese is the symbol of 'Freshness and Intensity':
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
 [Trap]: Avoid assuming that "Sangiovese is a soft and light red wine."
 This variety is a powerful style where 'High Tannin' and 'High Acidity' coexist.

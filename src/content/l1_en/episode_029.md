@@ -42,7 +42,7 @@ These individualistic red varieties each have their own signature aromas and str
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
 [Trap]: Avoid thinking that "Malbec is always light and soft."
 Malbec is a masculine style with a very deep color and heavy body.

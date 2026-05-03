@@ -25,7 +25,7 @@ In the prestigious Chianti Classico DOCG, oak ageing adds elegant layers of Eart
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Sangiovese is defined by 'structure and gastronomic harmony':
 

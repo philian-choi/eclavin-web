@@ -7,7 +7,7 @@ Q. Among 'Sherry', the fortified wines of Spain, which style is fortified to abo
 A. Oloroso
 B. Fino
 C. Pedro Ximénez (PX)
-D. Instantly changes all bubbles into a shot of salt water.
+D. Completely removes all carbonation generated during fermentation.
 
 ---
 
@@ -25,7 +25,7 @@ PX is celebrated for its extreme sweetness.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A core summary of Sparkling and Fortified wines:
 
@@ -74,6 +74,6 @@ If you see Cava labeled 'Reserva', remember it is a masterpiece with deep tradit
 ### YouTube Shorts Script
 (0-3s) Why does Champagne smell like biscuits?! The secret of the bubbles!
 (3-15s) WSET Level 2 High-Score Formula! Traditional method Champagne offers luxury aromas, while Tank method Prosecco delivers fruity freshness! Among fortified Sherries, Fino charms with fresh almond scents, and Port with sweet, heavy power!
-(15-25s) Question! Which Sherry is aged under a yeast layer (Flor) to produce almond flavors? 1. Oloroso, 2. Fino, 3. Salt water.
+(15-25s) Question! Which Sherry is aged under a yeast layer (Flor) to produce almond flavors? 1. Oloroso, 2. Fino, 3. Completely removing carbonation.
 (25-35s) The answer is 2! The essence of grand fortified wines that elegantly drench your palate.
 (35-45s) The thrilling world of bubbles and fortification that only tastes better when you know! Subscribe and let's get that perfect score!

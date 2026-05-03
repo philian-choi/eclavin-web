@@ -7,7 +7,7 @@ Q. When serving White Wine or Rosé Wine, what is the recommended temperature ra
 A. Room temperature (18–20°C)
 B. Chilled (7–10°C)
 C. Warm (50–60°C)
-D. Instantly changes any wine into a shot of soju.
+D. Blends various grape varieties to ensure a consistent taste every year.
 
 ---
 
@@ -25,7 +25,7 @@ Proper glassware is also essential for concentrating aromas and determining the 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of optimal service temperature formulas for different types of wine:
 
@@ -76,6 +76,6 @@ If you see 'Serve chilled' on a bottle label, remember that this wine is a jewel
 ### YouTube Shorts Script
 (0-3s) Red wine in ice water?! Service misunderstandings!
 (3-15s) WSET Level 2 High-Score Formula! White wine must be served chilled at 7-10°C for fresh fruit aromas, while red wine tastes most elegant at 15-18°C! Sparkling wine needs even more chilling to enjoy those fine bubbles!
-(15-25s) Question! What is the optimal service temperature for refreshing white wine? 1. Warm, 2. Chilled (7-10°C), 3. Salt water.
+(15-25s) Question! What is the optimal service temperature for refreshing white wine? 1. Warm, 2. Chilled (7-10°C), 3. Blending various grape varieties.
 (25-35s) The answer is 2! The secret to meeting fine wines that elegantly drench your palate.
 (35-45s) The magic of wine that tastes better when you know! Subscribe and let's get that perfect score!

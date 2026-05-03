@@ -25,7 +25,7 @@ Blending (mixing red and white wines) is strictly prohibited in most quality win
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Rosé winemaking is a masterclass in 'Timing':
 
@@ -46,7 +46,7 @@ Rosé is primarily a stand-alone style made from 'Red Grapes' with limited skin 
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

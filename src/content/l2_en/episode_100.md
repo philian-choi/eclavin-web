@@ -7,7 +7,7 @@ Q. Concluding your WSET Level 2 journey, when synthesizing the assessment of qua
 A. Very high price and flashy marketing copy
 B. A harmonious combination of perfect Balance, long Length, high Intensity, and precise Complexity
 C. High alcohol content and a very dark purple color
-D. Instantly changes all knowledge into a shot of salt water.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ The terminal of this 100-episode journey is the 'independent professional perspe
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A wrap-up summary of the entire WSET L2 100-episode adventure:
 
@@ -74,6 +74,6 @@ When you look at a label and the soil, climate, and winemaking of that region pa
 ### YouTube Shorts Script
 (0-3s) Successfully binged 100 episodes of wine content?! The final mock exam!
 (3-15s) WSET Level 2 High-Score Formula Wrap-up! Remember the four key quality factors—BLIC: Balance, Length, Intensity, and Complexity! When these four are in perfect harmony, the praise of 'Outstanding' is finally allowed! Armed with the knowledge of 100 episodes, you are already a perfect professional!
-(15-25s) Question! Which term in the BLIC quality factor refers to the harmony of acidity, sugar, and tannins? 1. Balance, 2. Intensity, 3. Salt water.
+(15-25s) Question! Which term in the BLIC quality factor refers to the harmony of acidity, sugar, and tannins? 1. Balance, 2. Intensity, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 1! With 100% confidence in your success, enjoy the blessing of grand wines drenching your palate!
 (35-45s) The great world of wine that only looks better the more you know! 100 episodes completed! Let us know about your success and subscribe! Thank you!

@@ -7,7 +7,7 @@ Q. Which style of Sherry, produced in 'Jerez', Spain, is aged under a layer of y
 A. Oloroso
 B. Fino
 C. Pedro Ximénez (PX)
-D. Changes any wine into a shot of soju instantly.
+D. Mixes a large amount of water to lower the ABV below 5%.
 
 ---
 
@@ -25,7 +25,7 @@ Amontillado is an intermediate style that undergoes both types of aging.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of Sherry maturation types:
 
@@ -76,6 +76,6 @@ If you see 'Fino' on a label, chill it well and enjoy with olives or Jamón for 
 ### YouTube Shorts Script
 (0-3s) Nutty aromas exploding in your glass?! The secret of Sherry!
 (3-15s) WSET Level 2 High-Score Formula! Spanish Sherry is split into zesty Fino, aged under yeast, and grand Oloroso, turned brown by air! Known for almond and walnut notes, they are the world's go-to aperitifs!
-(15-25s) Question! Which Sherry is aged under Flor to produce a fresh almond aroma? 1. Oloroso, 2. Fino, 3. Salt water.
+(15-25s) Question! Which Sherry is aged under Flor to produce a fresh almond aroma? 1. Oloroso, 2. Fino, 3. Adding water to lower ABV.
 (25-35s) The answer is 2! An elegant standard of Spanish pride.
 (35-45s) The magic of maturation in wine! Subscribe and let's get that perfect score!

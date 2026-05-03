@@ -7,7 +7,7 @@ Q. When storing a wine sealed with a natural 'Cork' for a long period, which of 
 A. Store the bottle upright (Vertical)
 B. Store the bottle on its side (Horizontal)
 C. Store the bottle upside down (Inverted)
-D. Instantly changes any wine into a shot of soju.
+D. Stores the wine upright on a warm, sunny windowsill.
 
 ---
 
@@ -25,7 +25,7 @@ Additionally, maintaining a constant, cool temperature (10-15°C), protecting fr
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the four key principles of wine storage:
 
@@ -72,6 +72,6 @@ For luxury wines labeled 'Aged in Oak', following these basic storage rules is t
 ### YouTube Shorts Script
 (0-3s) Storing wine upright can ruin it?! The betrayal of storage!
 (3-15s) WSET Level 2 High-Score Formula! Cork-sealed wines must be stored horizontally! If the cork dries out, air gets in and oxidizes the wine! Constant temperatures and dark spaces are essential!
-(15-25s) Question! What is the correct position to prevent a cork from drying out? 1. Upright, 2. Horizontal (Lying down), 3. Salt water.
+(15-25s) Question! What is the correct position to prevent a cork from drying out? 1. Upright, 2. Horizontal (Lying down), 3. Storing upright by a warm window.
 (25-35s) The answer is 2! The secret to protecting fine wines.
 (35-45s) The value of wine that you taste with knowledge! Subscribe and let's get that perfect score!

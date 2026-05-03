@@ -23,7 +23,7 @@ To protect these vibrant primary aromas from oxidation, winemakers typically emp
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Sauvignon Blanc is the essence of 'Freshness' and 'Primary Intensity':
 
@@ -45,7 +45,7 @@ Sauvignon Blanc is the essence of 'Freshness' and 'Primary Intensity':
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

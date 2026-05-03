@@ -23,7 +23,7 @@ A unique winemaking technique often used here, called Carbonic Maceration, gives
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Gamay is the icon of 'fresh fruitiness and pure enjoyment':
 

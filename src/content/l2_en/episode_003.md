@@ -23,7 +23,7 @@ In contrast, Primary Aromas come directly from the grapes and climate (fruit and
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Olfactory assessment is the stage where you read a wine’s background, winemaking techniques, and level of maturity:
 
@@ -47,7 +47,7 @@ These represent the winemaker’s touch.
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

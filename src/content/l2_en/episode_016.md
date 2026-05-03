@@ -21,7 +21,7 @@ Subsequently, to protect the delicate floral and fruity characteristics (Primary
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 White winemaking is an exercise in 'Purity' and 'Freshness':
 
@@ -42,7 +42,7 @@ White winemaking is an exercise in 'Purity' and 'Freshness':
 
 ---
 
-## [Threads & Shorts Scripts (Marketing Expert)]
+## [Threads & Shorts Scripts]
 
 ### Threads Post
 [Hook]

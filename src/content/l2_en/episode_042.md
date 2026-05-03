@@ -23,7 +23,7 @@ This concentrates the sugars and acids, resulting in the exotic aromas of Honey,
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Great sweet wines are masterpieces of concentration and water removal:
 

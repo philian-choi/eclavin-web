@@ -23,7 +23,7 @@ In prestigious Barolo DOCG, it offers complex aromas of Rose Petals, Tar, dried 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 Northern Italian Reds are united by 'high acidity and distinctive personality':
 

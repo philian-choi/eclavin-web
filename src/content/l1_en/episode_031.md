@@ -1,50 +1,45 @@
-# Episode 031: Bordeaux (The Art of Blending) - Regions
+# Episode 031: Cava & Prosecco (Sparkling Variations - Mastery)
 
 ## [WSET L1 Practice Question]
 
-Q. Which of the following is the most accurate description of the typical red wine style produced in Bordeaux, France?
+Q. Which of the following is the most accurate combination of the typical flavor characteristics and production method found in Prosecco, Italy's representative sparkling wine?
 
-A. Made using only a single variety, Pinot Noir, in a very light style.
-B. Made by blending Cabernet Sauvignon and Merlot, characterized by cedar aromas.
-C. Almost no aroma, and always a low-cost sparkling wine made by injecting carbon dioxide gas.
-D. High sugar content, and always made only from frozen grapes.
+A. It undergoes a second fermentation in the bottle, producing very strong biscuit and toast aromas.
+B. It undergoes a second fermentation in a tank (Tank Method), and is characterized by fresh green apple and floral aromas.
+C. It is made only from grapes grown in warm climates, and is always a very sweet red wine.
+D. It has high acidity and a very dark ink color.
 
 ---
 
 ## [Answer & Explanation]
 
-Answer: B. Made by blending Cabernet Sauvignon and Merlot, characterized by cedar aromas.
+Answer: B. It undergoes a second fermentation in a tank (Tank Method), and is characterized by fresh green apple and floral aromas.
 
-Explanation: Bordeaux is the world's largest fine wine region, renowned for what is called 'the art of blending.'
+Explanation: Prosecco is the refreshing pride of Italy. 
 
-Wines are typically made by blending Cabernet Sauvignon as the primary grape on the Left Bank and Merlot on the Right Bank.
-
-The signature profile includes black fruit aromas like blackcurrant, complemented by complex flavors such as cedar and graphite obtained through oak maturation.
+Because it undergoes a second fermentation in large tanks rather than in the bottle like Champagne, it is a light and crisp style where the natural fresh green apple, pear, and floral aromas of the grape are much more prominent than the savory yeast notes.
 
 ---
 
 ## [Expert Concept]
 
-Bordeaux represents the harmony of 'Structure and Long-term Aging':
+Cava and Prosecco are two attractive alternatives to sparkling wine.
 
-1.  Geography (Left Bank vs. Right Bank):
-    - Left Bank: Gravelly soil. Cabernet Sauvignon is the star. (e.g., Médoc, Margaux)
-    - Right Bank: Clay soil. Merlot is the star. (e.g., Saint-Émilion, Pomerol)
-
-2.  Appellation Hierarchy: The classification generally goes from Bordeaux AOC -> Bordeaux Supérieur -> Regional/Communal Appellations (e.g., Pauillac).
-
-3.  Aromatic Profile: Blackcurrant, Plum, Cedar, Tobacco box, Graphite.
-
-4.  Maritime Climate: Influenced by the Atlantic Ocean, the climate is moderate and humid, leading to distinct vintage variations.
+1.  Cava (Spain):
+    - Method: Uses the exact same 'Traditional Method' (second fermentation in the bottle) as Champagne.
+    - Aroma: Subtle toasted bread flavors are felt along with green apple and lemon aromas.
+2.  Prosecco (Italy):
+    - Method: Uses the 'Tank Method'.
+    - Aroma: Crisp fruit aromas like very fresh green apple, white flowers, and melon are the protagonists.
+3.  Difference: If you want savory and heavy bubbles, Cava is the answer. If you want crisp and light bubbles, Prosecco is the answer!
 
 ---
 
-## [Exam Tip & Trap]
+## [Exam Traps & Success Tips]
 
-[Trap]: Avoid thinking that "Bordeaux wine is always made from a single grape variety."
-The core value of Bordeaux lies in 'Blending' the strengths of multiple varieties.
-[Tip]: In an exam, if words like 'Cedar', 'Cabernet Blend', and 'Bordeaux' appear, always select the 'Moderate Maritime Climate' and 'High Tannin' keywords.
-Classical taste begins in Bordeaux.
+[Trap]: Thinking "All sparkling wines ferment in the bottle" is incorrect. 
+Prosecco is loved by the masses through its economical and fresh 'Tank Method'.
+[Tip]: In the exam, if the keywords 'Italy' and 'Fresh Apple/Floral' appear, choose 'Prosecco'. If 'Spain' and 'Traditional Method' appear, choose 'Cava'!
 
 ---
 
@@ -52,26 +47,24 @@ Classical taste begins in Bordeaux.
 
 ### Threads Post
 [Hook]
-Have you seen the name 'Bordeaux' on a wine label? You are now facing the greatest promise in the world of wine.
+Are you looking for 'life's best value bubbles' that will be light on your wallet but delightful for your mouth, instead of expensive Champagne?
 
 [Twist]
-Bordeaux is a 'magical land' that binds two different personalities into one. The tough and strong character of Cabernet Sauvignon meets the soft and friendly Merlot to create the most perfect balance in the world. When luxurious oak scents like cedar and graphite are added, the 'Bordeaux Style' is finally complete. How about a glass of Bordeaux blend next to the meat dish on your table today?
+1. Sophisticated crispness, Prosecco: It is the everyday drink of Italians. The fresh green apple and floral aromas, like freshly squeezed grape juice from a tank, are charming. It's fantastic with brunch or a light salad.
+2. Elegant savoriness, Cava: Carefully made in Spain using the exact same method as Champagne. The price is kind, but it has all the subtle bread aromas and delicate bubbles.
+Which perfect bubbles will refreshingly open your weekend?
 
 [Reason]
-WSET Level 1 Bordeaux Formula:
-
-1. Blending = Cab Sauv + Merlot (The power of synergy).
-
-2. Signature Aroma: Blackcurrant, Cedar (Classic elegance).
-
-3. Perfect Pairing: Steak, lamb chops (Harmony with meat).
+WSET Level 1 Sparkling Alternative Formula:
+1. Prosecco = Tank method = Fresh apple, floral aromas (Italy)
+2. Cava = Traditional method = Savory bread, fruit aromas (Spain)
 
 [Tip]
-Remember that Left Bank wines (Médoc, etc.) are more masculine, while Right Bank wines (Saint-Émilion, etc.) are more feminine!
+When making the most popular sparkling wine cocktail, the 'Mimosa', a crisp Prosecco is the best match!
 
 ### YouTube Shorts Script
-(0-3s) The identity of the most famous wine in the world! Bordeaux Blend!
-(3-15s) WSET Level 1 High-Score Formula! Bordeaux, France! A fantastic blend of Cabernet Sauvignon and Merlot! It's the textbook region for red wine, characterized by blackcurrant and cedar aromas!
-(15-25s) Question! What is the typical oak maturation aroma felt in Bordeaux wines? 1. Banana, 2. Cedar, 3. Lychee.
-(25-35s) The answer is 2! It features a sophisticated scent like graphite!
-(35-45s) The art of blending, the magic of Bordeaux! Subscribe and get that perfect score!
+(0-3s) Value sparkling wines tastier than Champagne? Cava vs. Prosecco!
+(3-15s) WSET Level 1 essential concepts! Perfect summary of the differences between the two bubbles! Italian Prosecco is a crisp apple aroma made in a tank! Spanish Cava is a savory bread aroma made in a bottle!
+(15-25s) Question! What winemaking technique does Prosecco use to maintain its fresh fruit aroma? 1. Tank method, 2. Oak maturation, 3. Heated fermentation.
+(25-35s) The answer is 1, Tank method! It's the secret to trapping the freshness of the fruit aromas!
+(35-45s) The joy of bubbles, Cava and Prosecco! Subscribe and get that perfect score!

@@ -7,7 +7,7 @@ Q. When assessing the final quality of a wine according to the WSET Level 2 Syst
 A. Price, Bottle design, Marketing, Year of production
 B. Balance, Length, Intensity, Complexity
 C. Alcohol content, Glucose content, Yield, Oak aging period
-D. Instantly changes all assessments into a shot of salt water score.
+D. Always brewed solely from 100% Pinot Noir grapes.
 
 ---
 
@@ -23,7 +23,7 @@ This is the final gateway to looking at wine through the eyes of a professional.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A final summary cutting through the entire WSET L2 course:
 
@@ -72,6 +72,6 @@ Congratulations in advance on your success! You can now decode every value hidde
 ### YouTube Shorts Script
 (0-3s) The final gateway for a wine professional?! The secret of quality assessment!
 (3-15s) WSET Level 2 High-Score Formula! Remember the four key factors of quality—BLIC! Balance, Length, Intensity, and Complexity! Only when these four are in perfect harmony is the praise of 'Outstanding' allowed! How would you score your wine?!
-(15-25s) Question! Which is NOT included in the BLIC factors for assessing quality? 1. Length, 2. Bottle design, 3. Salt water.
+(15-25s) Question! Which is NOT included in the BLIC factors for assessing quality? 1. Length, 2. Bottle design, 3. Using 100% Pinot Noir exclusively.
 (25-35s) The answer is 2! The essence of a masterpiece is balance, not design.
 (35-45s) Completing your wine life intellectually! Watch all 100 episodes and win that perfect score! Thanks for subscribing!

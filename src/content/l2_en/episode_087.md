@@ -7,7 +7,7 @@ Q. Among spirits, what is the type of drink made from barley or grains, aged for
 A. French Cognac
 B. Whisky / Whiskey
 C. Fresh Mexican Tequila Silver
-D. Instantly changes any spirit into a shot of salt water.
+D. Ferments with skins and seeds for a long time to extract strong tannins.
 
 ---
 
@@ -25,7 +25,7 @@ Winemaking/distillation methods (Pot vs Column) and aging are the key keys that 
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 A summary of the core system of spirits:
 
@@ -76,6 +76,6 @@ Remember that Cognac labeled 'VSOP' or 'XO' is a grade of time, proving that the
 ### YouTube Shorts Script
 (0-3s) The hottest drinks in the world?! The secret of spirits!
 (3-15s) WSET Level 2 High-Score Formula! Whisky is a masterpiece of grain and oak aging, while Gin is iconic for its juniper forest scents! Cognac is the peak of brandy distilled from grapes, and Tequila is the vitality of agave itself!
-(15-25s) Question! Which representative spirit is flavored with juniper berries? 1. Vodka, 2. Gin, 3. Salt water.
+(15-25s) Question! Which representative spirit is flavored with juniper berries? 1. Vodka, 2. Gin, 3. Fermenting with skins and seeds.
 (25-35s) The answer is 2! A fragrant standard for grand, hot spirits.
 (35-45s) The shift in the world of spirits that only tastes better when you know! Subscribe and let's get that perfect score!

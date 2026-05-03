@@ -27,7 +27,7 @@ The path toward Level 3 will be even deeper and more richly flavored.
 
 ---
 
-## [Expert Concept]
+## [Core Theory Master]
 
 These are the three treasures you have gained through these 50 episodes:
 
