@@ -355,15 +355,16 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       {/* Interactive quiz UI */}
       <EpisodeClient episode={episode} initialLang={lang} />
 
-      {/* Visible 2026 AI Search Engine Optimization (GEO) & E-E-A-T Summary Card */}
-      <section className="animate-slide-up" style={{
-        maxWidth: '650px',
-        margin: '2rem auto 2rem',
-        padding: '1.5rem',
-        borderRadius: '16px',
-        backgroundColor: 'var(--bg-secondary)',
-        border: '1px solid rgba(131, 45, 50, 0.2)',
-        boxShadow: '0 8px 30px rgba(0, 0, 0, 0.05)',
+      {/* AI Search Engine Optimization (GEO) & E-E-A-T Summary Card - Rendered off-screen for humans to prevent spoiling the quiz, but fully visible to AI crawlers & SEO bots */}
+      <section style={{
+        position: 'absolute',
+        width: '1px',
+        height: '1px',
+        padding: '0',
+        margin: '-1px',
+        overflow: 'hidden',
+        clip: 'rect(0, 0, 0, 0)',
+        border: '0',
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '1rem' }}>
           <span style={{
