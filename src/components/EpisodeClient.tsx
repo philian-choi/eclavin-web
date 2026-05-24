@@ -147,21 +147,118 @@ export default function EpisodeClient({ episode, initialLang }: { episode: Episo
 
 function AppPromoCard({ t }: { t: any }) {
   return (
-    <div className="app-promo-card">
+    <div className="app-promo-card-premium">
+      <div className="promo-badge">RECOMMENDED</div>
+      <div className="promo-body">
+        <div className="promo-icon-wrapper">
+          <svg viewBox="0 0 384 512" width={28} height={28} fill="currentColor">
+            <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/>
+          </svg>
+        </div>
+        <div className="promo-text">
+          <h4>{t.promo_main}</h4>
+          <p className="promo-tagline">
+            {t.promo_desc || (t.lang === 'en' 
+              ? "Get 1,800+ mock exam questions, mistake analysis, and Level 3 master notes." 
+              : "1,800개 이상의 적중 기출문제, 오답 분석, Level 3 완벽 지원 모의고사 수록!")}
+          </p>
+        </div>
+      </div>
       <a 
         href="https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139" 
         target="_blank" 
         rel="noopener noreferrer" 
-        style={{ display: 'inline-flex', alignItems: 'center', gap: '12px', color: 'var(--text-primary)', textDecoration: 'none', width: '100%', justifyContent: 'center' }}
+        className="promo-action-btn"
       >
-        <svg viewBox="0 0 384 512" width={24} height={24} fill="currentColor">
-          <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/>
-        </svg>
-        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
-          <span style={{ fontSize: '0.7rem', fontWeight: 500, opacity: 0.7, marginBottom: '2px' }}>{t.promo_sub}</span>
-          <span style={{ fontSize: '1.05rem', fontWeight: 700 }}>{t.promo_main}</span>
-        </div>
+        <span>{t.banner_download}</span>
       </a>
+
+      <style jsx>{`
+        .app-promo-card-premium {
+          margin-top: 1.5rem;
+          margin-bottom: 2rem;
+          padding: 1.75rem;
+          border-radius: 24px;
+          background: linear-gradient(135deg, #1c1c1b 0%, #10100f 100%);
+          border: 1.5px solid rgba(131, 45, 50, 0.4);
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+          display: flex;
+          flex-direction: column;
+          gap: 1.25rem;
+        }
+        [data-theme='light'] .app-promo-card-premium {
+          background: linear-gradient(135deg, #fdfcf8 0%, #f7f6f0 100%);
+          border-color: rgba(131, 45, 50, 0.25);
+        }
+        .promo-badge {
+          position: absolute;
+          top: 0;
+          right: 0;
+          background: #832d32;
+          color: white;
+          font-size: 0.65rem;
+          font-weight: 800;
+          letter-spacing: 0.15em;
+          padding: 4px 14px;
+          border-bottom-left-radius: 12px;
+          text-transform: uppercase;
+        }
+        .promo-body {
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+        }
+        .promo-icon-wrapper {
+          width: 52px;
+          height: 52px;
+          border-radius: 14px;
+          background: rgba(131, 45, 50, 0.1);
+          color: #832d32;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-shrink: 0;
+        }
+        .promo-text {
+          flex: 1;
+        }
+        .promo-text h4 {
+          margin: 0 0 4px 0;
+          font-size: 1.15rem;
+          font-weight: 800;
+          color: var(--text-accent);
+          letter-spacing: -0.02em;
+        }
+        .promo-tagline {
+          margin: 0;
+          font-size: 0.9rem;
+          color: var(--text-secondary);
+          line-height: 1.5;
+        }
+        .promo-action-btn {
+          width: 100%;
+          padding: 0.9rem;
+          border-radius: 12px;
+          background-color: var(--text-primary);
+          color: var(--bg-primary);
+          font-weight: 750;
+          font-size: 0.95rem;
+          text-align: center;
+          transition: all 0.2s ease;
+          display: block;
+          border: 1px solid var(--text-primary);
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        }
+        .promo-action-btn:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 6px 18px rgba(131, 45, 50, 0.25);
+          background-color: #832d32;
+          color: white;
+          border-color: #832d32;
+        }
+      `}</style>
     </div>
   );
 }

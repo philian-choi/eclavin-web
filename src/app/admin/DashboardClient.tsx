@@ -19,6 +19,7 @@ export default function DashboardClient({ l1_ko, l1_en, l2_ko, l2_en }: Dashboar
           <p>Manage your wine quiz database</p>
         </div>
         <div className="header-actions">
+          <Link href="/admin/marketing" className="btn-secondary" style={{ border: '1px solid var(--accent-primary, #722f37)', color: 'var(--accent-primary, #722f37)' }}>📢 SNS Marketing</Link>
           <Link href="/admin/stats" className="btn-secondary">Analytics</Link>
           <Link href="/" className="btn-secondary">View Site</Link>
           <form action={logoutAction}>

@@ -16,6 +16,8 @@ export interface Episode {
   theory: string;
   tip: string;
   lang: Language;
+  threadsPost?: string;
+  shortsScript?: string;
 }
 
 export interface EpisodeLight {
@@ -92,6 +94,37 @@ function parseQuestionData(rawSection: string) {
   };
 }
 
+/**
+ * Extracts Threads and Shorts scripts from raw markdown content.
+ */
+function extractMarketing(content: string): { threads: string; shorts: string } {
+  const normalizedContent = content.normalize('NFC');
+  const sectionMatch = normalizedContent.match(/##\s*\[Threads\s*&\s*Shorts\s*Scripts\]([\s\S]*)/i);
+  if (!sectionMatch) return { threads: "", shorts: "" };
+  
+  const sectionContent = sectionMatch[1];
+  const parts = sectionContent.split(/###\s*/);
+  
+  let threads = "";
+  let shorts = "";
+  
+  parts.forEach(part => {
+    const lines = part.split('\n');
+    if (lines.length === 0) return;
+    const title = lines[0].toLowerCase().trim();
+    if (title.includes('threads')) {
+      threads = lines.slice(1).join('\n').trim();
+    } else if (title.includes('shorts') || title.includes('youtube')) {
+      shorts = lines.slice(1).join('\n').trim();
+    }
+  });
+  
+  return {
+    threads,
+    shorts
+  };
+}
+
 export const getAllEpisodes = cache((level: number, lang: Language = 'ko'): Episode[] => {
   const cacheKey = `L${level}_${lang}`;
   if (process.env.NODE_ENV === 'production' && episodeCache[cacheKey]) return episodeCache[cacheKey];
@@ -114,6 +147,7 @@ export const getAllEpisodes = cache((level: number, lang: Language = 'ko'): Epis
       const explanation = extractSection(content, ['정답', '해설', 'answer', 'explanation']);
       const theory = extractSection(content, ['핵심', '이론', 'expert', 'concept']);
       const tip = extractSection(content, ['팁', '함정', 'tip', 'trap']);
+      const marketing = extractMarketing(content);
 
       // Robust answer extraction (A, B, C, or D)
       const answerMatch = content.match(/(?:정답|Answer):\s*([A-D])/i);
@@ -131,6 +165,8 @@ export const getAllEpisodes = cache((level: number, lang: Language = 'ko'): Epis
         explanation,
         theory,
         tip,
+        threadsPost: marketing.threads,
+        shortsScript: marketing.shorts,
       };
     })
     .sort((a, b) => a.number - b.number);
