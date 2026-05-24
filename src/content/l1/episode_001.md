@@ -1,6 +1,6 @@
 # Still, Sparkling, Fortified - The Three Pillars of Wine
 
-## [WSET L2 실전 문제]
+## [WSET L1 실전 문제]
 
 Q. 알콜 도수를 높이고 보존성을 강화하기 위해 별도의 주정을 첨가하여 만든 와인은?
 
@@ -19,7 +19,7 @@ D. 헤비 와인 (Heavy Wine)
 
 ---
 
-## [핵심 이론 마스터]
+## [전문가 컨셉 - Expert Concept]
 
 WSET Level 1에서 분류하는 와인의 3가지 핵심 유형은 다음과 같습니다.
 

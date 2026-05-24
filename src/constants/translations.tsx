@@ -42,6 +42,13 @@ export const translations = {
     next: '다음',
     swipeHint: '← 스와이프하여 이동 →',
     keyHint: '1~4 답안 선택 · ← → 이동',
+    banner_badge: 'MOBILE APP',
+    banner_title: '에클라뱅 앱으로 완성하는 와인 마스터',
+    banner_desc: '언제 어디서나 스마트폰으로 1,800개 이상의 WSET 실전 기출문제와 상세 해설을 만나보세요.',
+    banner_feature1: 'Level 1, 2, 3 전 과정 완벽 지원',
+    banner_feature2: '오답 노트 및 기출 오답 패턴 분석',
+    banner_feature3: '시험 적중률 높은 실전 모의고사',
+    banner_download: 'App Store에서 다운로드',
   },
   en: {
     title: (
@@ -76,6 +83,13 @@ export const translations = {
     next: 'Next',
     swipeHint: '← Swipe to navigate →',
     keyHint: 'Press 1~4 to answer · ← → to navigate',
+    banner_badge: 'MOBILE APP',
+    banner_title: 'Master Wine with Eclavin App',
+    banner_desc: 'Access 1,800+ WSET practice questions and detailed explanations on your smartphone, anytime.',
+    banner_feature1: 'Full support for Level 1, 2 & 3',
+    banner_feature2: 'Smart study notes & error analysis',
+    banner_feature3: 'High-yield mock exam simulator',
+    banner_download: 'Download on the App Store',
   },
 } as const;
 

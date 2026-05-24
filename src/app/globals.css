@@ -806,3 +806,86 @@ button {
     padding-bottom: calc(1rem + var(--safe-area-inset-bottom));
   }
 }
+
+/* Editorial Eclavin App Notice */
+.premium-app-banner {
+  position: relative;
+  margin: 5rem auto 3rem;
+  padding: 3rem 1.5rem;
+  border-top: 1px solid var(--border-light);
+  border-bottom: 1px solid var(--border-light);
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.5rem;
+  transition: opacity 0.3s ease;
+}
+
+.premium-banner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  max-width: 500px;
+}
+
+.premium-banner-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
+.premium-banner-title {
+  font-size: clamp(1.25rem, 1.1rem + 0.8vw, 1.6rem) !important;
+  color: var(--text-accent) !important;
+  line-height: 1.3;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.03em;
+}
+
+.premium-banner-desc {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+  max-width: 440px;
+  font-weight: 400;
+  word-break: keep-all;
+}
+
+.premium-banner-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.premium-app-store-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--text-primary);
+  color: var(--bg-primary);
+  padding: 0.8rem 2rem;
+  border-radius: 9999px; /* Pill shape matches the theme */
+  font-weight: 700;
+  font-size: 0.95rem;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1.2px solid var(--text-primary);
+}
+
+.premium-app-store-btn:hover {
+  background-color: transparent;
+  color: var(--text-primary);
+  transform: translateY(-2px);
+}
+
+.premium-app-store-btn svg {
+  flex-shrink: 0;
+  fill: currentColor;
+}

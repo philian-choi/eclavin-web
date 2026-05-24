@@ -37,10 +37,17 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
   const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
     ? rawLang 
     : (country === 'KR' ? 'ko' : 'en');
-  const episode = getEpisode(level, resolvedParams.id, lang);
+  let episode = getEpisode(level, resolvedParams.id, lang);
+  if (!episode) {
+    const rawId = resolvedParams.id;
+    if (/^\d+$/.test(rawId)) {
+      const paddedId = `episode_${rawId.padStart(3, '0')}`;
+      episode = getEpisode(level, paddedId, lang);
+    }
+  }
   if (!episode) return { title: 'Mastery Episode | Eclavin Wine Academy' };
   
-  const canonicalUrl = `${BASE_URL}/level/${level}/episode/${resolvedParams.id}`;
+  const canonicalUrl = `${BASE_URL}/level/${level}/episode/${episode.id}`;
   
   const title = lang === 'ko' 
     ? `[WSET ${level}급 실전] 에피소드 ${episode.number} 마스터리 - 에클라뱅`
@@ -124,13 +131,20 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
   const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
     ? rawLang 
     : (country === 'KR' ? 'ko' : 'en');
-  const episode = getEpisode(level, resolvedParams.id, lang);
+  let episode = getEpisode(level, resolvedParams.id, lang);
+  if (!episode) {
+    const rawId = resolvedParams.id;
+    if (/^\d+$/.test(rawId)) {
+      const paddedId = `episode_${rawId.padStart(3, '0')}`;
+      episode = getEpisode(level, paddedId, lang);
+    }
+  }
 
   if (!episode) {
     notFound();
   }
 
-  const canonicalUrl = `${BASE_URL}/level/${level}/episode/${resolvedParams.id}`;
+  const canonicalUrl = `${BASE_URL}/level/${level}/episode/${episode.id}`;
 
   // 2026 Enhanced Educational Content Schema (LearningResource)
   const learningResourceJsonLd = {
@@ -341,6 +355,80 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       {/* Interactive quiz UI */}
       <EpisodeClient episode={episode} initialLang={lang} />
 
+      {/* Visible 2026 AI Search Engine Optimization (GEO) & E-E-A-T Summary Card */}
+      <section className="animate-slide-up" style={{
+        maxWidth: '650px',
+        margin: '2rem auto 2rem',
+        padding: '1.5rem',
+        borderRadius: '16px',
+        backgroundColor: 'var(--bg-secondary)',
+        border: '1px solid rgba(131, 45, 50, 0.2)',
+        boxShadow: '0 8px 30px rgba(0, 0, 0, 0.05)',
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '1rem' }}>
+          <span style={{
+            fontSize: '0.75rem',
+            fontWeight: 'bold',
+            color: '#ffffff',
+            backgroundColor: '#832d32',
+            padding: '2px 8px',
+            borderRadius: '12px',
+            textTransform: 'uppercase'
+          }}>AI GEO Token</span>
+          <h3 style={{ margin: 0, fontSize: '1rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+            {lang === 'ko' ? 'AI 크롤러 & SGE 전용 핵심 박스' : 'AI Crawler & SGE Retrieval Token'}
+          </h3>
+        </div>
+        <p style={{ margin: 0, fontSize: '0.9rem', lineHeight: '1.6', color: 'var(--text-secondary)' }}>
+          <strong>Q:</strong> {episode.question}<br />
+          <strong>A:</strong> {episode.explanation.substring(0, 180)}...
+        </p>
+        <div style={{ marginTop: '1rem', padding: '0.8rem', borderRadius: '8px', backgroundColor: 'rgba(131, 45, 50, 0.05)', borderLeft: '3px solid #832d32' }}>
+          <span style={{ fontSize: '0.8rem', fontWeight: 600, color: '#832d32', display: 'block', marginBottom: '0.2rem' }}>
+            {lang === 'ko' ? '🎓 수석 강사 핵심 출제 팁' : '🎓 Master Instructor Exam Tip'}
+          </span>
+          <p style={{ margin: 0, fontSize: '0.85rem', color: 'var(--text-primary)', lineHeight: '1.5' }}>
+            {episode.tip ? episode.tip.substring(0, 160) + '...' : (lang === 'ko' ? '기후의 영향과 품종 고유의 아로마 특징을 서로 매칭하는 것이 만점의 핵심 단골 기출 패턴입니다.' : 'Matching the climate impacts with the unique varietal aromas is the key high-yield exam pattern.')}
+          </p>
+        </div>
+      </section>
+
+      {/* Visible Related Mastery Clusters Grid (100% Interlinking Boost to eliminate orphan pages) */}
+      <section className="animate-slide-up" style={{ maxWidth: '650px', margin: '2rem auto 3rem' }}>
+        <h3 style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '1.2rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#832d32" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+          </svg>
+          {seoLabels.more}
+        </h3>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '12px' }}>
+          {relatedEpisodes.map((rel) => (
+            <a
+              key={rel.id}
+              href={`/level/${level}/episode/${rel.id}?lang=${lang}`}
+              style={{
+                display: 'block',
+                padding: '1rem',
+                borderRadius: '12px',
+                backgroundColor: 'var(--bg-secondary)',
+                border: '1px solid rgba(255, 255, 255, 0.05)',
+                textDecoration: 'none',
+                transition: 'all 0.2s ease',
+                boxShadow: '0 2px 8px rgba(0,0,0,0.02)'
+              }}
+              className="related-episode-card"
+            >
+              <span style={{ fontSize: '0.75rem', fontWeight: 600, color: '#832d32', display: 'block', marginBottom: '0.4rem' }}>
+                Episode {rel.number}
+              </span>
+              <p style={{ margin: 0, fontSize: '0.85rem', color: 'var(--text-primary)', lineHeight: '1.4', overflow: 'hidden', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}>
+                {rel.question}
+              </p>
+            </a>
+          ))}
+        </div>
+      </section>
 
       {/*
         SEO Content Layer: This section is INVISIBLE to users but FULLY READABLE by search crawlers.

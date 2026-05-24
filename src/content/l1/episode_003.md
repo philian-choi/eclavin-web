@@ -1,6 +1,6 @@
 # What a Grape Needs (The 4 Essentials) - Growing Requirements
 
-## [WSET L2 실전 문제]
+## [WSET L1 실전 문제]
 
 Q. 포도가 성공적으로 자라나고 알맞게 익기 위해 반드시 필요로 하는 4가지 핵심 요소가 아닌 것은?
 
@@ -22,7 +22,7 @@ D. 물 (Water)
 
 ---
 
-## [핵심 이론 마스터]
+## [전문가 컨셉 - Expert Concept]
 
 포도나무는 매우 까다로운 생명체입니다. 완벽한 와인을 위해 다음 4가지가 조화를 이루어야 합니다.
 
