@@ -394,42 +394,7 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
         </div>
       </section>
 
-      {/* Visible Related Mastery Clusters Grid (100% Interlinking Boost to eliminate orphan pages) */}
-      <section className="animate-slide-up" style={{ maxWidth: '650px', margin: '2rem auto 3rem' }}>
-        <h3 style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '1.2rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#832d32" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
-            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
-          </svg>
-          {seoLabels.more}
-        </h3>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '12px' }}>
-          {relatedEpisodes.map((rel) => (
-            <a
-              key={rel.id}
-              href={`/level/${level}/episode/${rel.id}?lang=${lang}`}
-              style={{
-                display: 'block',
-                padding: '1rem',
-                borderRadius: '12px',
-                backgroundColor: 'var(--bg-secondary)',
-                border: '1px solid rgba(255, 255, 255, 0.05)',
-                textDecoration: 'none',
-                transition: 'all 0.2s ease',
-                boxShadow: '0 2px 8px rgba(0,0,0,0.02)'
-              }}
-              className="related-episode-card"
-            >
-              <span style={{ fontSize: '0.75rem', fontWeight: 600, color: '#832d32', display: 'block', marginBottom: '0.4rem' }}>
-                Episode {rel.number}
-              </span>
-              <p style={{ margin: 0, fontSize: '0.85rem', color: 'var(--text-primary)', lineHeight: '1.4', overflow: 'hidden', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}>
-                {rel.question}
-              </p>
-            </a>
-          ))}
-        </div>
-      </section>
+
 
       {/*
         SEO Content Layer: This section is INVISIBLE to users but FULLY READABLE by search crawlers.
