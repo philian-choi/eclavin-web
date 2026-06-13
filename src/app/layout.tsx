@@ -4,6 +4,8 @@ import './globals.css';
 import Script from 'next/script';
 import AnalyticsTracker from '@/components/AnalyticsTracker';
 import { Suspense } from 'react';
+import { PostHogProvider } from '@/providers/PostHogProvider';
+import PostHogPageView from '@/providers/PostHogPageView';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -14,7 +16,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'https://www.eclavin.com'),
   title: '에클라뱅(Eclavin) - WSET 와인 자격증 합격을 위한 가장 완벽한 퀴즈 가이드',
-  description: 'WSET Level 1, 2, 3 자격증 만점 합격을 위한 가장 완벽한 대비 플랫폼 에클라뱅. 500개 이상의 엄선된 연습 문제, 전문가 핵심 이론, 그리고 시험에 나오는 함정 팁까지 모든 와인 지식을 정복하세요.',
+  description: 'WSET Level 1, 2, 3 자격증 만점 합격을 위한 가장 완벽한 대비 플랫폼 에클라뱅. 500개 엄선된 연습 문제, 전문가 핵심 이론, 그리고 시험에 나오는 함정 팁까지 모든 와인 지식을 정복하세요.',
   keywords: ['WSET', '와인 교육', 'WSET 레벨 2', 'WSET 레벨 3', '와인 퀴즈', '에클라뱅', '와인 공부법', 'Wine Education', 'Eclavin'],
   openGraph: {
     title: '에클라뱅(Eclavin) - WSET 자격증 만점 합격의 지름길, 프리미엄 와인 퀴즈 가이드',
@@ -130,9 +132,14 @@ export default function RootLayout({
         <Suspense fallback={null}>
           <AnalyticsTracker />
         </Suspense>
-        <div id="app-wrapper">
-          {children}
-        </div>
+        <PostHogProvider>
+          <Suspense fallback={null}>
+            <PostHogPageView />
+          </Suspense>
+          <div id="app-wrapper">
+            {children}
+          </div>
+        </PostHogProvider>
       </body>
     </html>
   );

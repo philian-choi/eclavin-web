@@ -77,7 +77,7 @@ function BarChart({ data, max }: { data: { label: string; value: number }[]; max
 
 function DonutChart({ segments }: { segments: { label: string; value: number; color: string }[] }) {
   const total = segments.reduce((s, d) => s + d.value, 0);
-  if (total === 0) return <div className="donut-empty">No data</div>;
+  if (total === 0) return <div className="donut-empty">데이터가 없습니다</div>;
   let offset = 0;
   const r = 40;
   const circ = 2 * Math.PI * r;
@@ -138,8 +138,8 @@ export default function StatsClient({
 
   const langSegments = [
     { label: '한국어', value: langs.find((l) => l.lang === 'ko')?.unique_visitors ?? 0, color: '#722f37' },
-    { label: 'English', value: langs.find((l) => l.lang === 'en')?.unique_visitors ?? 0, color: '#C5903A' },
-    { label: 'Unknown', value: langs.find((l) => l.lang === 'unknown')?.unique_visitors ?? 0, color: '#B0ADA8' },
+    { label: '영어', value: langs.find((l) => l.lang === 'en')?.unique_visitors ?? 0, color: '#C5903A' },
+    { label: '기타/알 수 없음', value: langs.find((l) => l.lang === 'unknown')?.unique_visitors ?? 0, color: '#B0ADA8' },
   ].filter((s) => s.value > 0);
 
   const topPages = pages.slice(0, 10);
@@ -160,44 +160,44 @@ export default function StatsClient({
     <div className="sa-layout">
       <header className="sa-header">
         <div className="sa-header-left">
-          <Link href="/admin" className="sa-back">← Admin</Link>
-          <h1 className="sa-title">Analytics</h1>
-          <p className="sa-subtitle">Eclavin Quiz — Real-time visitor & engagement tracking</p>
+          <Link href="/admin" className="sa-back">← 관리자 홈</Link>
+          <h1 className="sa-title">접속 통계</h1>
+          <p className="sa-subtitle">에클라뱅 퀴즈 — 실시간 방문자 및 학습 참여 흐름 추적</p>
         </div>
         <div className="sa-header-right">
           <div className="sa-live-dot" />
-          <span className="sa-live-label">Live</span>
+          <span className="sa-live-label">실시간 작동중</span>
         </div>
       </header>
 
       {/* KPI Bar */}
       <div className="sa-kpi-grid">
         <KpiCard
-          label="Total Visitors (All Time)"
+          label="누적 고유 방문자수"
           value={totalVisitors}
-          sub="Unique fingerprints"
+          sub="고유 기기 식별자 기준"
           spark={<Sparkline data={visitorData} color="#722f37" />}
           accent="#722f37"
         />
         <KpiCard
-          label="Total Quizzes Solved"
+          label="누적 푼 퀴즈 수"
           value={totalQuizzes}
-          sub="All quiz attempts"
+          sub="총 퀴즈 풀이 시도 횟수"
           spark={<Sparkline data={quizData} color="#C5903A" />}
           accent="#C5903A"
         />
         <KpiCard
-          label="Today's Visitors"
+          label="오늘의 방문자수"
           value={todayVisitors}
-          sub="Unique today (KST)"
+          sub="당일 고유 접속자 (KST)"
           accent="#1F6F4C"
         />
         <KpiCard
-          label="Engagement Rate"
+          label="참여 몰입도"
           value={engagementRate}
-          sub="Quizzes per visitor"
+          sub="방문자당 퀴즈 풀이 수"
           accent="#5B5AE0"
-          suffix="q/v"
+          suffix="개"
         />
       </div>
 
@@ -209,7 +209,7 @@ export default function StatsClient({
             className={`sa-tab ${tab === t ? 'active' : ''}`}
             onClick={() => setTab(t)}
           >
-            {t === 'overview' ? '📊 Overview' : t === 'pages' ? '📄 Pages' : '📅 History'}
+            {t === 'overview' ? '📊 종합 개요' : t === 'pages' ? '📄 페이지 분석' : '📅 일별 이력'}
           </button>
         ))}
       </div>
@@ -219,14 +219,14 @@ export default function StatsClient({
         <div className="sa-section-grid">
           {/* Language Distribution */}
           <div className="sa-card">
-            <h2 className="sa-card-title">Language Distribution</h2>
+            <h2 className="sa-card-title">선호 언어 분포</h2>
             <DonutChart segments={langSegments} />
           </div>
 
           {/* Drop-off Analysis */}
           <div className="sa-card">
-            <h2 className="sa-card-title">Drop-off Analysis</h2>
-            <p className="sa-card-desc">Pages with least visits (relative to homepage)</p>
+            <h2 className="sa-card-title">이탈 및 접근성 분석 (Drop-off)</h2>
+            <p className="sa-card-desc">홈화면 대비 유입 또는 조회가 저조한 상세 페이지 비율</p>
             {dropoffPages.length > 0 ? (
               <div className="dropoff-list">
                 {dropoffPages.map((p) => (
@@ -236,19 +236,19 @@ export default function StatsClient({
                       <div className="dropoff-bar" style={{ width: `${100 - p.dropoff_pct}%` }} />
                     </div>
                     <span className="dropoff-pct" style={{ color: p.dropoff_pct > 70 ? '#A31B12' : 'var(--text-secondary)' }}>
-                      {p.dropoff_pct}% less
+                      {p.dropoff_pct}% 이탈
                     </span>
                   </div>
                 ))}
               </div>
             ) : (
-              <p className="sa-empty">Not enough data yet</p>
+              <p className="sa-empty">데이터 수집량이 아직 충분하지 않습니다</p>
             )}
           </div>
 
           {/* Daily Trend Mini Chart */}
           <div className="sa-card sa-card-wide">
-            <h2 className="sa-card-title">30-Day Visitor Trend</h2>
+            <h2 className="sa-card-title">최근 30일간 방문 추이</h2>
             <MiniLineChart daily={daily} />
           </div>
         </div>
@@ -256,7 +256,7 @@ export default function StatsClient({
 
       {tab === 'pages' && (
         <div className="sa-card sa-card-full">
-          <h2 className="sa-card-title">Top Pages by Traffic</h2>
+          <h2 className="sa-card-title">트래픽 상위 페이지</h2>
           <BarChart
             data={topPages.map((p) => ({ label: p.page_path, value: p.visit_count }))}
             max={maxPageVisits}
@@ -266,16 +266,16 @@ export default function StatsClient({
 
       {tab === 'history' && (
         <div className="sa-card sa-card-full">
-          <h2 className="sa-card-title">Daily History — Last 30 Days</h2>
+          <h2 className="sa-card-title">일별 상세 데이터 (최근 30일)</h2>
           <div className="sa-table-wrap">
             <table className="sa-table">
               <thead>
                 <tr>
-                  <th>Date (KST)</th>
-                  <th>Unique Visitors</th>
-                  <th>Quizzes Solved</th>
-                  <th>Engagement</th>
-                  <th>Trend</th>
+                  <th>날짜 (KST)</th>
+                  <th>고유 방문자수</th>
+                  <th>푼 퀴즈 수</th>
+                  <th>평균 풀이율</th>
+                  <th>추이 그래프</th>
                 </tr>
               </thead>
               <tbody>
@@ -288,11 +288,11 @@ export default function StatsClient({
                     <tr key={row.report_date} className={isToday ? 'row-today' : ''}>
                       <td className="td-date">
                         {row.report_date}
-                        {isToday && <span className="today-badge">Today</span>}
+                        {isToday && <span className="today-badge">오늘</span>}
                       </td>
-                      <td className="td-num">{row.visitor_count}</td>
-                      <td className="td-num">{row.quiz_solved_count}</td>
-                      <td className="td-num">{rate} q/v</td>
+                      <td className="td-num">{row.visitor_count}명</td>
+                      <td className="td-num">{row.quiz_solved_count}개</td>
+                      <td className="td-num">{rate}개/인</td>
                       <td>
                         <div className="inline-bar">
                           <div
@@ -306,7 +306,7 @@ export default function StatsClient({
                 })}
                 {daily.length === 0 && (
                   <tr>
-                    <td colSpan={5} className="td-empty">No data yet — events will appear here as visitors arrive</td>
+                    <td colSpan={5} className="td-empty">데이터가 없습니다. 새로운 사용자가 방문하면 기록이 시작됩니다.</td>
                   </tr>
                 )}
               </tbody>
@@ -707,7 +707,7 @@ function KpiCard({
 
 function MiniLineChart({ daily }: { daily: DailyRow[] }) {
   const rows = [...daily].reverse().slice(-14); // last 14 days
-  if (rows.length < 2) return <p className="sa-empty">Collecting data…</p>;
+  if (rows.length < 2) return <p className="sa-empty">데이터를 수집하는 중입니다…</p>;
 
   const maxV = Math.max(...rows.map((r) => r.visitor_count), 1);
   const maxQ = Math.max(...rows.map((r) => r.quiz_solved_count), 1);
@@ -773,8 +773,8 @@ function MiniLineChart({ daily }: { daily: DailyRow[] }) {
         })}
       </svg>
       <div style={{ display: 'flex', gap: '1.5rem', marginTop: '0.75rem' }}>
-        <span style={{ fontSize: '0.8rem', color: '#722f37', fontWeight: 700 }}>━ Visitors</span>
-        <span style={{ fontSize: '0.8rem', color: '#C5903A', fontWeight: 700 }}>╌ Quizzes Solved</span>
+        <span style={{ fontSize: '0.8rem', color: '#722f37', fontWeight: 700 }}>━ 방문자수</span>
+        <span style={{ fontSize: '0.8rem', color: '#C5903A', fontWeight: 700 }}>╌ 푼 퀴즈 수</span>
       </div>
     </div>
   );
