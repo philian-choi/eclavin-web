@@ -5,11 +5,13 @@ import { PostHogProvider as PHProvider } from 'posthog-js/react';
 
 if (typeof window !== 'undefined') {
   const phKey = process.env.NEXT_PUBLIC_POSTHOG_KEY;
-  const phHost = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com';
+  // Use reverse proxy path to bypass adblockers
+  const phHost = '/ingest';
   
   if (phKey) {
     posthog.init(phKey, {
       api_host: phHost,
+      ui_host: 'https://us.posthog.com',
       person_profiles: 'identified_only', // or 'always' to create profiles for anonymous users as well
       capture_pageview: false, // Disable automatic pageview capture, as we capture manually
     });
