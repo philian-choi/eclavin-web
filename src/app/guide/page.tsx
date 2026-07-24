@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import { GUIDES } from '@/lib/guidesConfig';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -20,20 +21,7 @@ export const metadata: Metadata = {
   twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
 };
 
-const guides = [
-  {
-    slug: 'wset-level-1-vs-level-2',
-    tag: 'Comparison',
-    title: 'WSET Level 1 vs Level 2',
-    blurb: 'Format, difficulty, study time, and who each level is for.',
-  },
-  {
-    slug: 'how-to-pass-wset-level-2',
-    tag: 'Study plan',
-    title: 'How to Pass WSET Level 2',
-    blurb: 'A practical study plan and the traps that cost most candidates marks.',
-  },
-];
+const guides = GUIDES;
 
 export default function GuidesIndex() {
   const itemListJsonLd = {
@@ -96,6 +84,7 @@ export default function GuidesIndex() {
             <Link href="/practice">All WSET practice exams</Link>
             <Link href="/practice/wset-level-1">Level 1 practice</Link>
             <Link href="/practice/wset-level-2">Level 2 practice</Link>
+            <Link href="/glossary">Wine &amp; WSET glossary</Link>
           </div>
         </section>
       </article>

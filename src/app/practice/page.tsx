@@ -149,6 +149,15 @@ export default function PracticeHub() {
             </details>
           ))}
         </section>
+
+        <section className={styles.related}>
+          <h2>Study guides &amp; terms</h2>
+          <div className={styles.relatedLinks}>
+            <Link href="/guide">All study guides</Link>
+            <Link href="/guide/how-to-pass-wset-level-2">How to pass Level 2</Link>
+            <Link href="/glossary">Wine &amp; WSET glossary</Link>
+          </div>
+        </section>
       </article>
     </main>
   );
