@@ -11,7 +11,7 @@ export default function robots(): MetadataRoute.Robots {
       },
       {
         // 2026: Explicitly allow major AI web crawlers for GEO/LLM indexing
-        userAgent: ['GPTBot', 'ClaudeBot', 'PerplexityBot', 'Googlebot-Extended', 'anthropic-ai', 'cohere-ai', 'YouBot', 'Diffbot'],
+        userAgent: ['GPTBot', 'ClaudeBot', 'PerplexityBot', 'OAI-SearchBot', 'ChatGPT-User', 'Claude-SearchBot', 'Claude-Web', 'Google-Extended', 'anthropic-ai', 'cohere-ai', 'YouBot', 'Diffbot'],
         allow: '/',
       },
     ],

@@ -1,23 +1,46 @@
 import { Episode } from './episodes';
 
+const BASE_URL = 'https://www.eclavin.com';
+
 /**
- * 2026 Semantic SEO Engine for Eclavin Platform
- * Generates Course and Quiz JSON-LD for maximum search visibility
+ * Homepage JSON-LD: Organization, WebSite, Course, Breadcrumb.
+ * Per-episode Quiz markup lives on each episode page, not here.
  */
 export function generateSchema(lang: 'ko' | 'en', l1Full: Episode[], l2Full: Episode[]) {
   const isKo = lang === 'ko';
-  
+
+  const organizationJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    'name': 'Eclavin',
+    'alternateName': '에클라뱅',
+    'url': BASE_URL,
+    'logo': `${BASE_URL}/icon-512x512.png`,
+    'sameAs': [
+      'https://apps.apple.com/kr/app/eclavin/id6757098139',
+    ],
+  };
+
+  const webSiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    'name': 'Eclavin',
+    'alternateName': '에클라뱅',
+    'url': BASE_URL,
+    'inLanguage': isKo ? 'ko-KR' : 'en-US',
+  };
+
   const courseJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Course',
-    'name': isKo ? 'WSET 와인 자격증 마스터 클래스' : 'WSET Wine Certification Masterclass',
-    'description': isKo 
-      ? '와인 초보부터 전문가까지, WSET L1 & L2 레벨을 위한 완벽한 기출 문제 및 해설 강의'
-      : 'Complete WSET L1 & L2 practice questions and expert explanations for wine students.',
+    'name': isKo ? 'WSET 와인 자격증 연습문제 코스' : 'WSET Wine Certification Practice Course',
+    'description': isKo
+      ? `와인 초보부터 전문가까지, WSET Level 1 & 2 대비 연습문제 ${l1Full.length + l2Full.length}개와 전문가 해설`
+      : `${l1Full.length + l2Full.length} WSET Level 1 & 2 practice questions with expert explanations for wine students.`,
     'provider': {
       '@type': 'Organization',
-      'name': 'Eclavin Education',
-      'sameAs': 'https://winel2app.vercel.app'
+      'name': 'Eclavin',
+      'sameAs': BASE_URL,
     },
     'courseCode': 'WSET-L1-L2',
     'hasCourseInstance': [
@@ -25,47 +48,9 @@ export function generateSchema(lang: 'ko' | 'en', l1Full: Episode[], l2Full: Epi
         '@type': 'CourseInstance',
         'courseMode': 'online',
         'courseWorkload': 'PT20H',
-        'instructor': {
-          '@type': 'Person',
-          'name': 'Eclavin Expert Team'
-        }
-      }
-    ]
+      },
+    ],
   };
-
-  const l1Quiz = l1Full.map(e => ({
-    '@type': 'Quiz',
-    'name': isKo ? `WSET Level 1 - 에피소드 ${e.number}` : `WSET Level 1 - Episode ${e.number}`,
-    'about': {
-      '@type': 'Thing',
-      'name': e.question
-    },
-    'hasPart': {
-      '@type': 'Question',
-      'name': e.question,
-      'acceptedAnswer': {
-        '@type': 'Answer',
-        'text': '전문가 해설 및 정답은 상세 페이지에서 확인 가능합니다.'
-      }
-    }
-  }));
-
-  const l2Quiz = l2Full.map(e => ({
-    '@type': 'Quiz',
-    'name': isKo ? `WSET Level 2 - 에피소드 ${e.number}` : `WSET Level 2 - Episode ${e.number}`,
-    'about': {
-      '@type': 'Thing',
-      'name': e.question
-    },
-    'hasPart': {
-      '@type': 'Question',
-      'name': e.question,
-      'acceptedAnswer': {
-        '@type': 'Answer',
-        'text': '전문가 해설 및 정답은 상세 페이지에서 확인 가능합니다.'
-      }
-    }
-  }));
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
@@ -75,22 +60,14 @@ export function generateSchema(lang: 'ko' | 'en', l1Full: Episode[], l2Full: Epi
         '@type': 'ListItem',
         'position': 1,
         'name': isKo ? '홈' : 'Home',
-        'item': 'https://winel2app.vercel.app'
+        'item': BASE_URL,
       },
-      {
-        '@type': 'ListItem',
-        'position': 2,
-        'name': 'WSET Tutorials',
-        'item': 'https://winel2app.vercel.app'
-      }
-    ]
+    ],
   };
 
   return {
     courseJsonLd,
-    l1Quiz,
-    l2Quiz,
     breadcrumbJsonLd,
-    allJsonLd: [courseJsonLd, ...l1Quiz, ...l2Quiz, breadcrumbJsonLd]
+    allJsonLd: [organizationJsonLd, webSiteJsonLd, courseJsonLd, breadcrumbJsonLd],
   };
 }

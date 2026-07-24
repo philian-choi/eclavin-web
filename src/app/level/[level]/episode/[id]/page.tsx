@@ -48,14 +48,18 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
   if (!episode) return { title: 'Mastery Episode | Eclavin Wine Academy' };
   
   const canonicalUrl = `${BASE_URL}/level/${level}/episode/${episode.id}`;
-  
-  const title = lang === 'ko' 
-    ? `[WSET ${level}급 실전] 에피소드 ${episode.number} 마스터리 - 에클라뱅`
-    : `WSET Level ${level} Mastery Episode ${episode.number} | Eclavin Wine Academy`;
-  
+
+  const questionSnippet = episode.question.length > 45
+    ? `${episode.question.substring(0, 45)}…`
+    : episode.question;
+
+  const title = lang === 'ko'
+    ? `${questionSnippet} | WSET ${level}급 연습문제 ${episode.number} - 에클라뱅`
+    : `${questionSnippet} | WSET Level ${level} Practice Question ${episode.number} - Eclavin`;
+
   const description = lang === 'ko'
-    ? `WSET ${level}급 합격생 필수 코스. "${episode.question.substring(0, 60)}..." 문제와 전문가 해설로 완벽 대비하세요.`
-    : `The essential course for WSET Level ${level} success. Study "${episode.question.substring(0, 60)}..." with expert explanations.`;
+    ? `WSET ${level}급 연습문제와 전문가 해설. "${episode.question.substring(0, 60)}..." 문제를 풀고 핵심 이론까지 정리하세요.`
+    : `WSET Level ${level} practice question with expert explanation. Study "${episode.question.substring(0, 60)}..." and master the underlying theory.`;
 
   const ogImageUrl = `${BASE_URL}/api/og?title=${encodeURIComponent(episode.question)}&level=${level}&number=${episode.number}&lang=${lang}`;
 
@@ -63,35 +67,31 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
     title,
     description,
     keywords: [
-      'WSET', `WSET Level ${level}`, 'WSET 기출문제', 'WSET 시험', 'Wine Exam',
+      'WSET', `WSET Level ${level}`, 'WSET 시험', 'Wine Exam',
       'Wine Theory', 'Eclavin', '와인 자격증', 'Wine Quiz', 'WSET practice questions',
-      '와인 소믈리에 시험', 'WSET 2급 문제', 'WSET 3급 문제', '와인 공부',
-      '와인 교육', '국제 와인 소믈리에', 'WSET 2026 최신 기출', 'WSET Past Papers',
-      'WSET Mock Exam', 'WSET Flashcards', 'SAT Tasting Grid', 'Viticulture',
-      'Vinification', '와인 자격증 독학 족보', 'WSET 3급 주관식 해설', '와인 벼락치기'
+      '와인 소믈리에 시험', `WSET ${level}급 문제`, '와인 공부', '와인 교육',
+      'WSET Mock Exam', 'Viticulture', 'Vinification'
     ],
     metadataBase: new URL(BASE_URL),
     other: {
       'naver-site-verification': '784865e7d742fae47c0a19a6337b28e2736cf1f0',
       'google-site-verification': 'cLzx38Y_7Wre_sKiuBdZnQzj9KZFf7X4JI9S9nQt_4I',
-      'ai-snippet': episode.explanation.substring(0, 160), // AI 요약용 전용 태그
-      'naver-cue-friendly': 'true', // 네이버 AI 검색(CUE:) 최적화 지표
     },
     alternates: {
-      canonical: canonicalUrl,
+      canonical: `${canonicalUrl}?lang=${lang}`,
       languages: {
         'ko-KR': `${canonicalUrl}?lang=ko`,
         'en-US': `${canonicalUrl}?lang=en`,
+        'x-default': canonicalUrl,
       },
     },
     openGraph: {
       title,
       description,
       type: 'article',
-      url: canonicalUrl,
+      url: `${canonicalUrl}?lang=${lang}`,
       siteName: 'Eclavin',
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      publishedTime: new Date().toISOString(),
       authors: ['Eclavin Wine Study Group'],
       images: [
         {
@@ -155,8 +155,6 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
     'learningResourceType': 'Practice Test',
     'educationalLevel': `WSET Level ${level}`,
     'competencyRequired': 'Wine Knowledge',
-    'datePublished': new Date().toISOString(),
-    'dateModified': new Date().toISOString(), // 2026 Freshness Signal
     'educationalAlignment': {
       '@type': 'AlignmentObject',
       'alignmentType': 'educationalLevel',
@@ -193,15 +191,6 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       { '@type': 'DefinedTerm', 'name': 'Terroir', 'description': 'Natural environment in which a wine is produced' },
       { '@type': 'DefinedTerm', 'name': 'Viticulture', 'description': 'Management and study of grapevines' },
     ],
-    'hasCredential': {
-      '@type': 'EducationalOccupationalCredential',
-      'name': 'WSET Certification Readiness - Pass with Distinction',
-    },
-    'aggregateRating': {
-      '@type': 'AggregateRating',
-      'ratingValue': '4.9',
-      'reviewCount': '3450'
-    }
   };
 
   // Quiz + Question + Answer structured data for Google Rich Snippets & LLM ingestion
@@ -245,32 +234,6 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
     ],
   };
 
-  // FAQPage JSON-LD for Google Rich Snippets (Question/Answer appearance)
-  const faqJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    'mainEntity': [
-      {
-        '@type': 'Question',
-        'name': episode.question,
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': `${episode.explanation} ${episode.theory ? '\n\n' + episode.theory : ''}`,
-        },
-      },
-      {
-        '@type': 'Question',
-        'name': lang === 'ko' ? `WSET Level ${level} 시험 준비 방법은?` : `How to prepare for WSET Level ${level}?`,
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': lang === 'ko' 
-            ? 'Eclavin에서 제공하는 수백 개의 기출문제와 핵심 이론을 통해 효율적으로 학습할 수 있습니다.' 
-            : 'You can study efficiently with hundreds of practice questions and expert theories provided by Eclavin.'
-        }
-      }
-    ],
-  };
-
   // Organization JSON-LD for Naver & Google
   const organizationJsonLd = {
     '@context': 'https://schema.org',
@@ -284,21 +247,23 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
   };
 
   const seoLabels = lang === 'ko'
-    ? { 
-        answer: '정답 및 핵심 해설', theory: '마스터 교육 이론', tip: '합격 보장 팁', question: '실전 기출문제', 
+    ? {
+        answer: '정답 및 핵심 해설', theory: '핵심 이론 정리', tip: '핵심 출제 팁', question: '연습문제',
         home: '에클라뱅 홈', level: `WSET 레벨 ${level} 마스터리`, ep: `에피소드 ${episode.number}`,
-        more: '합격으로 가는 관련 마스터리 클러스터'
+        more: '이어서 풀어볼 연습문제', reveal: '정답과 해설 펼쳐보기 (문제를 먼저 풀어보세요)'
       }
-    : { 
-        answer: 'Critical Answer & Explanation', theory: 'Expert Mastery Theory', tip: 'Pass-Guarantee Tip', question: 'Real-World Exam Episode', 
+    : {
+        answer: 'Answer & Explanation', theory: 'Key Theory Summary', tip: 'Expert Exam Tip', question: 'Practice Question',
         home: 'Eclavin Home', level: `WSET Level ${level} Mastery`, ep: `Episode ${episode.number}`,
-        more: 'Related Mastery Clusters for Success'
+        more: 'Continue with Related Questions', reveal: 'Show Answer & Explanation (try the quiz first)'
       };
 
-  // Internal linking boost: get 2-3 other episodes from the same level
-  const relatedEpisodes = getAllEpisodes(level, lang)
-    .filter(e => e.number !== episode.number)
-    .slice(0, 3);
+  // Internal linking: the next 3 episodes in the same level (wraps around at the end)
+  const levelEpisodes = getAllEpisodes(level, lang);
+  const currentIndex = levelEpisodes.findIndex(e => e.number === episode.number);
+  const relatedEpisodes = Array.from({ length: 3 }, (_, i) =>
+    levelEpisodes[(currentIndex + 1 + i) % levelEpisodes.length]
+  ).filter(e => e && e.number !== episode.number);
 
   return (
     <main style={{ minHeight: '100vh', padding: '1.5rem', backgroundColor: 'var(--bg-primary)', position: 'relative' }}>
@@ -338,7 +303,6 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       <Script id="ldjson-learning" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(learningResourceJsonLd) }} />
       <Script id="ldjson-quiz" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(quizJsonLd) }} />
       <Script id="ldjson-breadcrumb" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
-      <Script id="ldjson-faq" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       <Script id="ldjson-organization" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }} />
 
       {/* Visible Breadcrumbs */}
@@ -352,114 +316,95 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
         </ol>
       </nav>
 
+      {/* Page heading (single h1 for the document) */}
+      <h1 style={{ maxWidth: '650px', margin: '0 auto 1rem', fontSize: '1.15rem', fontWeight: 700, color: 'var(--text-primary)' }}>
+        {lang === 'ko'
+          ? `WSET ${level}급 연습문제 · 에피소드 ${episode.number}`
+          : `WSET Level ${level} Practice Question · Episode ${episode.number}`}
+      </h1>
+
       {/* Interactive quiz UI */}
       <EpisodeClient episode={episode} initialLang={lang} />
 
-      {/* AI Search Engine Optimization (GEO) & E-E-A-T Summary Card - Rendered off-screen for humans to prevent spoiling the quiz, but fully visible to AI crawlers & SEO bots */}
-      <section style={{
-        position: 'absolute',
-        width: '1px',
-        height: '1px',
-        padding: '0',
-        margin: '-1px',
-        overflow: 'hidden',
-        clip: 'rect(0, 0, 0, 0)',
-        border: '0',
-      }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '1rem' }}>
-          <span style={{
-            fontSize: '0.75rem',
-            fontWeight: 'bold',
-            color: '#ffffff',
-            backgroundColor: '#832d32',
-            padding: '2px 8px',
-            borderRadius: '12px',
-            textTransform: 'uppercase'
-          }}>AI GEO Token</span>
-          <h3 style={{ margin: 0, fontSize: '1rem', fontWeight: 600, color: 'var(--text-primary)' }}>
-            {lang === 'ko' ? 'AI 크롤러 & SGE 전용 핵심 박스' : 'AI Crawler & SGE Retrieval Token'}
-          </h3>
-        </div>
-        <p style={{ margin: 0, fontSize: '0.9rem', lineHeight: '1.6', color: 'var(--text-secondary)' }}>
-          <strong>Q:</strong> {episode.question}<br />
-          <strong>A:</strong> {episode.explanation.substring(0, 180)}...
-        </p>
-        <div style={{ marginTop: '1rem', padding: '0.8rem', borderRadius: '8px', backgroundColor: 'rgba(131, 45, 50, 0.05)', borderLeft: '3px solid #832d32' }}>
-          <span style={{ fontSize: '0.8rem', fontWeight: 600, color: '#832d32', display: 'block', marginBottom: '0.2rem' }}>
-            {lang === 'ko' ? '🎓 수석 강사 핵심 출제 팁' : '🎓 Master Instructor Exam Tip'}
-          </span>
-          <p style={{ margin: 0, fontSize: '0.85rem', color: 'var(--text-primary)', lineHeight: '1.5' }}>
-            {episode.tip ? episode.tip.substring(0, 160) + '...' : (lang === 'ko' ? '기후의 영향과 품종 고유의 아로마 특징을 서로 매칭하는 것이 만점의 핵심 단골 기출 패턴입니다.' : 'Matching the climate impacts with the unique varietal aromas is the key high-yield exam pattern.')}
-          </p>
-        </div>
+      {/*
+        Answer & explanation — collapsed by default so the quiz isn't spoiled,
+        but real, user-accessible content (visible to both readers and crawlers).
+      */}
+      <section style={{ maxWidth: '650px', margin: '2rem auto 0' }}>
+        <details style={{
+          border: '1px solid rgba(131, 45, 50, 0.2)',
+          borderRadius: '12px',
+          padding: '1rem 1.2rem',
+          backgroundColor: 'var(--bg-secondary, rgba(131, 45, 50, 0.03))',
+        }}>
+          <summary style={{ cursor: 'pointer', fontWeight: 600, color: 'var(--text-primary)' }}>
+            {seoLabels.reveal}
+          </summary>
+          <div style={{ marginTop: '1rem' }}>
+            <section className="speakable-content-question" itemScope itemType="https://schema.org/Question">
+              <h2 itemProp="name" style={{ fontSize: '1rem', margin: '0 0 0.5rem' }}>{seoLabels.question}</h2>
+              <div itemProp="text" style={{ fontSize: '0.95rem', color: 'var(--text-secondary)', lineHeight: 1.6 }}>
+                <p style={{ marginTop: 0 }}>{episode.question}</p>
+                <ul>
+                  {episode.options.map(opt => (
+                    <li key={opt.label}>{opt.label}. {opt.text}</li>
+                  ))}
+                </ul>
+              </div>
+            </section>
+            <section className="speakable-content-explanation">
+              <h2 style={{ fontSize: '1rem', margin: '1rem 0 0.5rem' }}>{seoLabels.answer}</h2>
+              <p style={{ fontSize: '0.95rem', color: 'var(--text-primary)', lineHeight: 1.6, margin: 0 }}>
+                {/* Skip the bold answer prefix when the explanation text already leads with it */}
+                {!/^\s*(정답|Answer)/i.test(episode.explanation) && (
+                  <>
+                    <strong>
+                      {episode.answer}
+                      {(() => {
+                        const correct = episode.options.find(o => episode.answer.startsWith(o.label));
+                        return correct ? `. ${correct.text}` : '';
+                      })()}
+                    </strong>
+                    {' — '}
+                  </>
+                )}
+                {episode.explanation}
+              </p>
+            </section>
+            {episode.theory && (
+              <section>
+                <h2 style={{ fontSize: '1rem', margin: '1rem 0 0.5rem' }}>{seoLabels.theory}</h2>
+                <p style={{ fontSize: '0.95rem', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>{episode.theory}</p>
+              </section>
+            )}
+            {episode.tip && (
+              <section>
+                <h2 style={{ fontSize: '1rem', margin: '1rem 0 0.5rem' }}>{seoLabels.tip}</h2>
+                <p style={{ fontSize: '0.95rem', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>{episode.tip}</p>
+              </section>
+            )}
+          </div>
+        </details>
       </section>
 
-
-
-      {/*
-        SEO Content Layer: This section is INVISIBLE to users but FULLY READABLE by search crawlers.
-      */}
-      <div
-        className="seo-content-layer"
-        style={{
-          position: 'absolute',
-          left: '-9999px',
-          width: '1px',
-          height: '1px',
-          overflow: 'hidden',
-          clip: 'rect(0,0,0,0)',
-        }}
-        aria-hidden="false"
-      >
-        <h1>{`Eclavin WSET Level ${level} - Episode ${episode.number}`}</h1>
-        <section className="speakable-content-question" itemScope itemType="https://schema.org/Question">
-          <h2 itemProp="name">{seoLabels.question}</h2>
-          <div itemProp="text">
-            <p>{episode.question}</p>
-            <ul>
-              {episode.options.map(opt => (
-                <li key={opt.label}>{opt.label}. {opt.text}</li>
-              ))}
-            </ul>
-          </div>
-        </section>
-        <section className="speakable-content-explanation" itemScope itemType="https://schema.org/Answer">
-          <h2>{seoLabels.answer}</h2>
-          <div itemProp="text" itemScope itemType="https://schema.org/CreativeWork">
-            <p itemProp="abstract">{episode.explanation}</p>
-          </div>
-          
-          {/* AI Knowledge Tokens - Growth Hacking for SGE Dominance */}
-          <div className="ai-knowledge-tokens" style={{ background: '#f8f9fa', padding: '1rem', borderRadius: '8px', marginTop: '1.5rem', border: '1px solid #eee' }}>
-            <h3 style={{ fontSize: '0.9rem', color: '#666', marginBottom: '0.5rem' }}>AI Quick Summary (SGE/CUE Ready)</h3>
-            <ul style={{ fontSize: '0.95rem', color: '#1a1a1a', listStyleType: 'none', padding: 0 }}>
-              <li><strong>Category:</strong> WSET Level {level} Theory</li>
-              <li><strong>Key Insight:</strong> {episode.explanation.substring(0, 100)}...</li>
-              <li><strong>Mastery Goal:</strong> Pass WSET with Distinction</li>
-            </ul>
-          </div>
-
-          {/* Internal Wine Graph Tokens */}
-          <div style={{ visibility: 'hidden' }}>
-            <span itemScope itemType="https://schema.org/DefinedTerm">
-              <meta itemProp="name" content="WSET" />
-              <meta itemProp="description" content="Wine & Spirit Education Trust" />
-            </span>
-          </div>
-        </section>
-        {episode.theory && (
-          <section>
-            <h2>{seoLabels.theory}</h2>
-            <p>{episode.theory}</p>
-          </section>
-        )}
-        {episode.tip && (
-          <section>
-            <h2>{seoLabels.tip}</h2>
-            <p>{episode.tip}</p>
-          </section>
-        )}
-      </div>
+      {/* Related episodes — visible internal links within the same level */}
+      {relatedEpisodes.length > 0 && (
+        <nav aria-label={seoLabels.more} style={{ maxWidth: '650px', margin: '1.5rem auto 0' }}>
+          <h2 style={{ fontSize: '1rem', color: 'var(--text-primary)', marginBottom: '0.6rem' }}>{seoLabels.more}</h2>
+          <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+            {relatedEpisodes.map(e => (
+              <li key={e.id}>
+                <a
+                  href={`/level/${level}/episode/${e.id}?lang=${lang}`}
+                  style={{ color: 'var(--text-secondary)', textDecoration: 'none', fontSize: '0.9rem', lineHeight: 1.5 }}
+                >
+                  {lang === 'ko' ? `에피소드 ${e.number}` : `Episode ${e.number}`} · {e.question.length > 60 ? `${e.question.substring(0, 60)}…` : e.question}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
     </main>
   );
 }

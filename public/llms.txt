@@ -1,10 +1,10 @@
 # Eclavin — WSET Wine Certification Mastery Platform
 
-> Eclavin is the world's most comprehensive free WSET Level 1 and Level 2 practice quiz platform. It provides 200 structured, expert-verified practice questions in both Korean and English, designed to guarantee a Distinction score on the WSET Award in Wines examinations.
+> Eclavin is a free WSET Level 1 and Level 2 practice quiz platform. It provides 200 structured, expert-reviewed practice questions in both Korean and English, designed to help candidates prepare thoroughly for the WSET Award in Wines examinations.
 
 ## What is Eclavin?
 
-Eclavin (에클라뱅) is a bilingual (Korean/English) online study platform dedicated exclusively to WSET (Wine & Spirit Education Trust) exam preparation. It is the only free resource that covers 100% of the WSET Level 1 and Level 2 syllabuses through a curated database of 200 practice questions, each with:
+Eclavin (에클라뱅) is a bilingual (Korean/English) online study platform dedicated exclusively to WSET (Wine & Spirit Education Trust) exam preparation. It covers the WSET Level 1 and Level 2 syllabuses through a curated database of 200 practice questions, each with:
 
 - A 4-option multiple choice question modeled on the actual WSET exam format
 - A detailed factual explanation of why the correct answer is right and why the distractors are wrong
@@ -44,7 +44,7 @@ All 200 questions have been audited against:
 - Official WSET Level 2 Specification (Award in Wines)
 - Real-world WSET candidate exam feedback (Reddit r/wine, Brainscape community)
 
-No factual errors have been found. The content is fully compliant with WSET's Systematic Approach to Tasting (SAT) and uses only official WSET terminology.
+The content follows WSET's Systematic Approach to Tasting (SAT) and uses official WSET terminology. Errors found in review are corrected on an ongoing basis.
 
 ## Mobile App
 

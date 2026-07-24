@@ -22,9 +22,17 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
   
   return {
     title: lang === 'ko' ? '에클라뱅(Eclavin) - WSET 자격증 만점 합격 지름길' : 'Eclavin - Ultimate WSET Quiz Guide',
-    description: lang === 'ko' 
-      ? '에클라뱅에서 엄선된 퀴즈와 전문가 이론으로 WSET 합격에 도전하세요. 500개 이상의 문제와 핵심 팁을 제공합니다.' 
+    description: lang === 'ko'
+      ? '에클라뱅에서 엄선된 퀴즈와 전문가 이론으로 WSET 합격에 도전하세요. 500개 이상의 문제와 핵심 팁을 제공합니다.'
       : 'Eclavin provides curated WSET quizzes and expert theories. Master wine knowledge with 500+ questions and expert tips.',
+    alternates: {
+      canonical: `https://www.eclavin.com/?lang=${lang}`,
+      languages: {
+        'ko-KR': 'https://www.eclavin.com/?lang=ko',
+        'en-US': 'https://www.eclavin.com/?lang=en',
+        'x-default': 'https://www.eclavin.com',
+      },
+    },
     openGraph: {
       title: lang === 'ko' ? '에클라뱅(Eclavin) - WSET 자격증 만점 합격 지름길' : 'Eclavin - Ultimate WSET Quiz Guide',
       description: lang === 'ko' 
@@ -61,63 +69,62 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
   const t = getTranslations(lang);
   const { allJsonLd } = generateSchema(lang, l1Full, l2Full);
 
-  // 2026 FAQPage JSON-LD: Powers Google AI Overviews & Perplexity citations
-  // Based on the highest-frequency search queries from WSET candidates worldwide
+  // FAQ content: rendered visibly below AND mirrored into FAQPage JSON-LD.
+  // (Google requires FAQ markup to match content that is actually on the page.)
+  const faqItems = lang === 'ko'
+    ? [
+        {
+          q: 'WSET Level 2 시험은 어떻게 준비해야 하나요?',
+          a: 'WSET Level 2 시험은 50개의 객관식 문제로 구성되며 60분 내에 풀어야 합니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다. 에클라뱅(Eclavin)의 Level 2 실전 문제 100개와 전문가 해설로 전 범위를 체계적으로 복습할 수 있습니다.',
+        },
+        {
+          q: '포트 와인과 셰리의 주정 강화 시점 차이는 무엇인가요?',
+          a: '포트(Port)는 발효 도중에 고농도 주정을 첨가하여 효모를 죽이고 천연 당분을 남겨 달콤한 스타일을 만듭니다. 반면 셰리(Sherry)는 발효가 완전히 끝난 후에 주정을 첨가하며, 대부분의 셰리는 드라이한 스타일입니다. WSET 시험에서 자주 출제되는 대표적인 함정 포인트입니다.',
+        },
+        {
+          q: '샤블리(Chablis)는 오크 숙성을 하나요?',
+          a: '일반 샤블리(Chablis AOC)는 오크를 사용하지 않는 스테인리스 탱크에서 발효 및 숙성됩니다. 이로 인해 버터나 바닐라 향 없이 초록 사과, 레몬, 축축한 돌(wet stone) 같은 신선하고 미네랄리한 풍미를 보입니다. 단, 샤블리 프리미에 크뤼(Premier Cru)나 그랑 크뤼(Grand Cru)는 일부 생산자가 오크를 사용하기도 합니다.',
+        },
+        {
+          q: '음식의 단맛이 드라이 와인에 어떤 영향을 미치나요?',
+          a: '음식의 당분은 와인이 가진 단맛을 상대적으로 약하게 느끼게 하여, 드라이 와인이 더 쓰고 시게 느껴지게 만듭니다. 달콤한 디저트에는 와인이 더 달거나 같은 수준의 단맛이어야 합니다. WSET 음식 페어링에서 가장 자주 다뤄지는 원칙입니다.',
+        },
+        {
+          q: '에클라뱅(Eclavin)만으로 WSET Level 1, 2를 준비할 수 있나요?',
+          a: '에클라뱅의 200개 문제(Level 1 100문제 + Level 2 100문제)는 공식 교육과정 전 범위를 다루도록 설계되었습니다. 해설에서는 정답의 근거뿐 아니라 오답 선지가 왜 틀렸는지까지 설명하므로, 문제와 해설을 완전히 이해하면 시험 전 범위를 탄탄하게 복습할 수 있습니다.',
+        },
+      ]
+    : [
+        {
+          q: 'How should I prepare for the WSET Level 2 exam?',
+          a: 'The WSET Level 2 exam consists of 50 multiple-choice questions completed in 60 minutes. Pass is 55% (28 correct) and Distinction is 85% (43 correct). Eclavin\'s 100 Level 2 practice questions with expert explanations let you review the full syllabus systematically.',
+        },
+        {
+          q: 'What is the difference in fortification timing between Port and Sherry?',
+          a: 'Port is fortified DURING fermentation. The added spirit kills the yeast, leaving residual sugar, making Port naturally sweet. Sherry is fortified AFTER fermentation is complete, making most Sherry styles dry. This is one of the most common exam traps in WSET Level 1 and 2.',
+        },
+        {
+          q: 'Is standard Chablis aged in oak barrels?',
+          a: 'Standard Chablis AOC is fermented and aged in stainless steel tanks without oak. This gives it a fresh, crisp profile of green apple, lemon, and wet stone minerality without any buttery or vanilla notes. Premier Cru and Grand Cru Chablis may use some oak at the producer\'s discretion.',
+        },
+        {
+          q: 'How does sweetness in food affect dry wine?',
+          a: 'Sweetness in food makes dry wine taste more bitter and harsh by reducing the wine\'s perceived sweetness. The golden rule is: the wine should be as sweet as or sweeter than the food. This is a frequently tested food-pairing principle in WSET Level 1 and Level 2.',
+        },
+        {
+          q: 'Can I prepare for WSET Level 1 and 2 using only Eclavin?',
+          a: 'Eclavin\'s 200 practice questions (100 for Level 1, 100 for Level 2) are designed to cover the full official syllabus. The explanations cover not only why the correct answer is right, but why each distractor is wrong, so mastering them gives you a thorough review of the entire exam scope.',
+        },
+      ];
+
   const faqPageJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    'mainEntity': [
-      {
-        '@type': 'Question',
-        'name': lang === 'ko' ? 'WSET Level 2 시험은 어떻게 준비해야 하나요?' : 'How should I prepare for the WSET Level 2 exam?',
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': lang === 'ko'
-            ? 'WSET Level 2 시험은 50개의 객관식 문제로 구성되며 60분 내에 풀어야 합니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다. 에클라뱅(Eclavin)에서 제공하는 100개의 Level 2 실전 문제와 전문가 해설을 학습하면 Distinction 달성이 가능합니다.'
-            : 'The WSET Level 2 exam consists of 50 multiple-choice questions completed in 60 minutes. Pass is 55% (28 correct) and Distinction is 85% (43 correct). Studying all 100 Level 2 practice questions on Eclavin with their expert explanations is sufficient to achieve a Distinction.'
-        }
-      },
-      {
-        '@type': 'Question',
-        'name': lang === 'ko' ? '포트 와인과 셰리의 주정 강화 시점 차이는 무엇인가요?' : 'What is the difference in fortification timing between Port and Sherry?',
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': lang === 'ko'
-            ? '포트(Port)는 발효 도중에 고농도 주정을 첨가하여 효모를 죽이고 천연 당분을 남겨 달콤한 스타일을 만듭니다. 반면 셰리(Sherry)는 발효가 완전히 끝난 후에 주정을 첨가하며, 대부분의 셰리는 드라이한 스타일입니다. 이것이 WSET 시험에서 가장 자주 출제되는 오답 유발 함정입니다.'
-            : 'Port is fortified DURING fermentation. The added spirit kills the yeast, leaving residual sugar, making Port naturally sweet. Sherry is fortified AFTER fermentation is complete, making most Sherry styles dry. This is the most common exam trap tested in WSET Level 1 and 2.'
-        }
-      },
-      {
-        '@type': 'Question',
-        'name': lang === 'ko' ? '샤블리(Chablis)는 오크 숙성을 하나요?' : 'Is standard Chablis aged in oak barrels?',
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': lang === 'ko'
-            ? '일반 샤블리(Chablis AOC)는 오크를 사용하지 않는 스테인리스 탱크에서 발효 및 숙성됩니다. 이로 인해 버터나 바닐라 향 없이 초록 사과, 레몬, 축축한 돌(wet stone) 같은 신선하고 미네랄리한 풍미를 보입니다. 단, 샤블리 프리미에 크뤼(Premier Cru)나 그랑 크뤼(Grand Cru)는 일부 생산자가 오크를 사용하기도 합니다.'
-            : 'Standard Chablis AOC is fermented and aged in stainless steel tanks without oak. This gives it a fresh, crisp profile of green apple, lemon, and wet stone minerality without any buttery or vanilla notes. Premier Cru and Grand Cru Chablis may use some oak at the producer\'s discretion.'
-        }
-      },
-      {
-        '@type': 'Question',
-        'name': lang === 'ko' ? '음식의 단맛이 드라이 와인에 어떤 영향을 미치나요?' : 'How does sweetness in food affect dry wine?',
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': lang === 'ko'
-            ? '음식의 당분은 와인이 가진 단맛을 상대적으로 약하게 느끼게 하여, 드라이 와인이 더 쓰고 시게 느껴지게 만듭니다. 달콤한 디저트에는 항상 와인이 더 달거나 같은 수준의 단맛이어야 합니다. 이것이 WSET 음식 페어링 시험에서 가장 빈출되는 원칙입니다.'
-            : 'Sweetness in food makes dry wine taste more bitter and harsh by reducing the wine\'s perceived sweetness. The golden rule is: the wine must always be as sweet as or sweeter than the food. This is the most frequently tested food-pairing principle in both WSET Level 1 and Level 2 exams.'
-        }
-      },
-      {
-        '@type': 'Question',
-        'name': lang === 'ko' ? 'Eclavin(에클라뱅)만으로 WSET Level 1, 2 만점을 받을 수 있나요?' : 'Can I pass WSET Level 1 and 2 with a perfect score using only Eclavin?',
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': lang === 'ko'
-            ? '네, 가능합니다. 에클라뱅의 200개 문제(Level 1 100문제 + Level 2 100문제)는 공식 WSET 교육과정을 100% 커버하도록 설계되었으며, 실제 시험에서 자주 출제되는 함정과 오답 선지가 왜 틀렸는지를 해설에서 구체적으로 설명합니다. 문제를 풀고 해설을 완전히 이해하면 WSET Level 1, 2 Distinction(우수 합격)을 달성할 수 있습니다.'
-            : 'Yes. Eclavin\'s 200 practice questions (100 for Level 1, 100 for Level 2) are designed to cover 100% of the official WSET syllabus. The explanations explain not only why the correct answer is right, but why each distractor is wrong. Mastering all questions and their explanations is sufficient to achieve a Distinction on both WSET Level 1 and Level 2.'
-        }
-      }
-    ]
+    'mainEntity': faqItems.map(item => ({
+      '@type': 'Question',
+      'name': item.q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': item.a },
+    })),
   };
 
   return (
@@ -232,6 +239,34 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
               </p>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* FAQ — visible content backing the FAQPage JSON-LD above */}
+      <section style={{
+        maxWidth: '960px',
+        margin: '2rem auto 0',
+        padding: '2rem 1.5rem',
+        borderTop: '1px solid rgba(131, 45, 50, 0.12)',
+      }}>
+        <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--text-secondary)', marginBottom: '1.5rem', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+          {lang === 'ko' ? '자주 묻는 질문' : 'Frequently Asked Questions'}
+        </h2>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+          {faqItems.map((item, i) => (
+            <details key={i} style={{
+              border: '1px solid rgba(131, 45, 50, 0.15)',
+              borderRadius: '10px',
+              padding: '0.9rem 1.1rem',
+            }}>
+              <summary style={{ cursor: 'pointer', fontWeight: 600, fontSize: '0.95rem', color: 'var(--text-primary)' }}>
+                {item.q}
+              </summary>
+              <p style={{ margin: '0.8rem 0 0', fontSize: '0.9rem', lineHeight: 1.65, color: 'var(--text-secondary)' }}>
+                {item.a}
+              </p>
+            </details>
+          ))}
         </div>
       </section>
 

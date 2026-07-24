@@ -55,13 +55,6 @@ export const metadata: Metadata = {
       { url: '/apple-touch-icon.png?v=6', sizes: '180x180', type: 'image/png' },
     ],
   },
-  alternates: {
-    canonical: 'https://www.eclavin.com',
-    languages: {
-      'ko-KR': 'https://www.eclavin.com/?lang=ko',
-      'en-US': 'https://www.eclavin.com/?lang=en',
-    },
-  },
   robots: {
     index: true,
     follow: true,
