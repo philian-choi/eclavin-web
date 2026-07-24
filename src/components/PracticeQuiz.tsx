@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { usePostHog } from 'posthog-js/react';
-import styles from '@/app/practice/wset-level-2/practice.module.css';
+import styles from '@/app/practice/practice.module.css';
 
 export interface PracticeQuestion {
   number: number;
