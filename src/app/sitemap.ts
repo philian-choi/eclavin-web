@@ -53,7 +53,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const contentPages = [
     { url: `${baseUrl}/practice`, priority: 0.9 },
     ...PRACTICE_SLUGS.map((slug) => ({ url: `${baseUrl}/practice/${slug}`, priority: 0.9 })),
+    { url: `${baseUrl}/guide`, priority: 0.7 },
     { url: `${baseUrl}/guide/wset-level-1-vs-level-2`, priority: 0.7 },
+    { url: `${baseUrl}/guide/how-to-pass-wset-level-2`, priority: 0.7 },
   ].map((p) => ({
     url: p.url,
     lastModified: contentAdded,
