@@ -1,3 +1,5 @@
+export type PracticeLang = 'en' | 'ko';
+
 export interface ExamFact {
   value: string;
   label: string;
@@ -8,25 +10,36 @@ export interface FaqItem {
   a: string;
 }
 
-export interface PracticeLevelConfig {
-  slug: string; // URL segment, e.g. "wset-level-2"
-  levelNum: number; // 1 | 2 (matches content folder l{n}_en)
-  levelLabel: string; // "Level 2"
-  bankSize: number; // total questions in the app bank for this level
+export interface LevelCopy {
   metaTitle: string;
   metaDescription: string;
   h1: string;
   subtitle: string;
   /** Plain factual lead sentence, ends before the "sample" clause. */
   shortAnswerLead: string;
-  facts: ExamFact[];
+  factLabels: string[]; // labels for the shared fact values, in order
   coverage: string[];
   faqItems: FaqItem[];
 }
 
-const DISCLAIMER_FAQ: FaqItem = {
-  q: 'Is Eclavin an official WSET product?',
-  a: 'No. Eclavin is an independent study app and is not affiliated with, endorsed by, or connected to WSET. It is a third-party practice tool designed to help candidates revise for the exam.',
+export interface PracticeLevelConfig {
+  slug: string; // URL segment, e.g. "wset-level-2"
+  levelNum: number; // 1 | 2 (matches content folder l{n} / l{n}_en)
+  levelLabel: string; // "Level 2"
+  bankSize: number; // total questions in the app bank for this level
+  factValues: string[]; // shared across languages, in order
+  copy: Record<PracticeLang, LevelCopy>;
+}
+
+const DISCLAIMER_FAQ: Record<PracticeLang, FaqItem> = {
+  en: {
+    q: 'Is Eclavin an official WSET product?',
+    a: 'No. Eclavin is an independent study app and is not affiliated with, endorsed by, or connected to WSET. It is a third-party practice tool designed to help candidates revise for the exam.',
+  },
+  ko: {
+    q: '에클라뱅은 WSET 공식 앱인가요?',
+    a: '아닙니다. 에클라뱅은 독립적으로 만든 학습 앱이며 WSET과 제휴하거나 공인받은 관계가 없습니다. 시험 복습을 돕는 제3자 연습 도구입니다.',
+  },
 };
 
 export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
@@ -35,44 +48,79 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
     levelNum: 1,
     levelLabel: 'Level 1',
     bankSize: 100,
-    metaTitle: 'WSET Level 1 Practice Questions — Free Mock Exam with Answers (2026)',
-    metaDescription:
-      'Free WSET Level 1 practice questions with answers and clear explanations. Test yourself on wine styles, common grapes, storage and service, then master all 100 questions in the Eclavin app.',
-    h1: 'WSET Level 1 Practice Questions',
-    subtitle: 'A free mock exam with answers and beginner-friendly explanations. Updated 2026.',
-    shortAnswerLead:
-      'The WSET Level 1 Award in Wines exam is 30 multiple-choice questions in 45 minutes, with a 70% pass mark (21 correct).',
-    facts: [
-      { value: '30', label: 'questions' },
-      { value: '45', label: 'minutes' },
-      { value: '70%', label: 'to pass' },
-      { value: '~6h', label: 'typical study' },
-    ],
-    coverage: [
-      'Main types of wine (still, sparkling, fortified)',
-      'Common grape varieties and their flavours',
-      'How wine is stored and served',
-      'Simple food-and-wine pairing',
-    ],
-    faqItems: [
-      {
-        q: 'How many questions are on the WSET Level 1 exam?',
-        a: 'The WSET Level 1 Award in Wines exam has 30 multiple-choice questions to be completed in 45 minutes. You need 70% (21 correct) to pass. There is no Distinction grade at Level 1.',
+    factValues: ['30', '45', '70%', '~6h'],
+    copy: {
+      en: {
+        metaTitle: 'WSET Level 1 Practice Questions — Free Mock Exam with Answers (2026)',
+        metaDescription:
+          'Free WSET Level 1 practice questions with answers and clear explanations. Test yourself on wine styles, common grapes, storage and service, then master all 100 questions in the Eclavin app.',
+        h1: 'WSET Level 1 Practice Questions',
+        subtitle: 'A free mock exam with answers and beginner-friendly explanations. Updated 2026.',
+        shortAnswerLead:
+          'The WSET Level 1 Award in Wines exam is 30 multiple-choice questions in 45 minutes, with a 70% pass mark (21 correct).',
+        factLabels: ['questions', 'minutes', 'to pass', 'typical study'],
+        coverage: [
+          'Main types of wine (still, sparkling, fortified)',
+          'Common grape varieties and their flavours',
+          'How wine is stored and served',
+          'Simple food-and-wine pairing',
+        ],
+        faqItems: [
+          {
+            q: 'How many questions are on the WSET Level 1 exam?',
+            a: 'The WSET Level 1 Award in Wines exam has 30 multiple-choice questions to be completed in 45 minutes. You need 70% (21 correct) to pass. There is no Distinction grade at Level 1.',
+          },
+          {
+            q: 'Is WSET Level 1 hard?',
+            a: 'Level 1 is the entry point and the most approachable of the WSET wine qualifications. It is usually taught as a one-day course with around 6 hours of study.',
+          },
+          {
+            q: 'Are these WSET Level 1 practice questions free?',
+            a: 'Yes. The questions on this page are a free sample with full answers and explanations. The complete set of 100 Level 1 questions, plus mock exams and a wrong-answer review notebook, is in the Eclavin app.',
+          },
+          {
+            q: 'What does WSET Level 1 cover?',
+            a: 'Level 1 introduces the main types of wine, common grape varieties and their flavours, basic storage and service, and simple food pairing. It is designed for beginners.',
+          },
+          DISCLAIMER_FAQ.en,
+        ],
       },
-      {
-        q: 'Is WSET Level 1 hard?',
-        a: 'Level 1 is the entry point and the most approachable of the WSET wine qualifications. It is usually taught as a one-day course with around 6 hours of study. Practising real questions is the fastest way to feel ready.',
+      ko: {
+        metaTitle: 'WSET 1급(Level 1) 기출·연습문제 — 무료 모의고사와 해설 (2026)',
+        metaDescription:
+          'WSET 1급(Level 1) 무료 연습문제를 해설과 함께 풀어보세요. 와인 종류, 대표 품종, 보관과 서비스를 점검하고, 에클라뱅 앱에서 100문제 전체를 정복하세요.',
+        h1: 'WSET 1급 연습문제',
+        subtitle: '무료 모의고사와 초보자용 해설. 2026년 최신.',
+        shortAnswerLead:
+          'WSET 1급(Level 1) 시험은 45분 동안 4지선다 30문제를 풉니다. 합격 기준은 70%(21문제)입니다.',
+        factLabels: ['문제', '분', '합격 기준', '권장 학습'],
+        coverage: [
+          '와인의 기본 종류(스틸·스파클링·주정강화)',
+          '대표 포도 품종과 향미',
+          '와인 보관과 서비스',
+          '간단한 음식 페어링',
+        ],
+        faqItems: [
+          {
+            q: 'WSET 1급 시험은 몇 문제인가요?',
+            a: 'WSET 1급(Level 1) 시험은 45분 동안 4지선다 30문제를 풉니다. 70%(21문제)를 맞히면 합격입니다. 1급에는 우수 합격(Distinction) 등급이 없습니다.',
+          },
+          {
+            q: 'WSET 1급은 어렵나요?',
+            a: '1급은 입문 단계로 WSET 와인 자격증 중 가장 쉽습니다. 보통 하루 과정으로 진행되며 약 6시간 정도 공부합니다.',
+          },
+          {
+            q: '이 1급 연습문제는 무료인가요?',
+            a: '네. 이 페이지의 문제는 해설이 포함된 무료 샘플입니다. 1급 100문제 전체와 모의고사, 오답 복습 노트는 에클라뱅 앱에 있습니다.',
+          },
+          {
+            q: 'WSET 1급은 무엇을 다루나요?',
+            a: '1급은 와인의 기본 종류, 대표 품종과 향미, 기본 보관과 서비스, 간단한 음식 페어링을 다룹니다. 초보자를 위한 과정입니다.',
+          },
+          DISCLAIMER_FAQ.ko,
+        ],
       },
-      {
-        q: 'Are these WSET Level 1 practice questions free?',
-        a: 'Yes. The questions on this page are a free sample with full answers and explanations. The complete set of 100 Level 1 questions, plus mock exams and a wrong-answer review notebook, is in the Eclavin app.',
-      },
-      {
-        q: 'What does WSET Level 1 cover?',
-        a: 'Level 1 introduces the main types of wine, common grape varieties and their flavours, basic storage and service, and simple food pairing. It is designed for beginners and people new to wine in a professional setting.',
-      },
-      DISCLAIMER_FAQ,
-    ],
+    },
   },
 
   'wset-level-2': {
@@ -80,45 +128,81 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
     levelNum: 2,
     levelLabel: 'Level 2',
     bankSize: 100,
-    metaTitle: 'WSET Level 2 Practice Questions — Free Mock Exam with Answers (2026)',
-    metaDescription:
-      'Free WSET Level 2 practice questions with answers and expert explanations. Test yourself on grape varieties, wine styles, and food pairing, then master all 100 questions in the Eclavin app.',
-    h1: 'WSET Level 2 Practice Questions',
-    subtitle: 'A free mock exam with answers and expert explanations. Updated 2026.',
-    shortAnswerLead:
-      'The WSET Level 2 Award in Wines exam is 50 multiple-choice questions in 60 minutes, with a 55% pass mark (85% for a Distinction).',
-    facts: [
-      { value: '50', label: 'questions' },
-      { value: '60', label: 'minutes' },
-      { value: '55%', label: 'to pass' },
-      { value: '~28h', label: 'typical study' },
-    ],
-    coverage: [
-      'Principal grape varieties and their characteristics',
-      'Major wine regions of the world',
-      'Wine styles and how they are made',
-      'Sparkling, sweet and fortified wines',
-      'Food-and-wine pairing principles',
-    ],
-    faqItems: [
-      {
-        q: 'How many questions are on the WSET Level 2 exam?',
-        a: 'The WSET Level 2 Award in Wines exam has 50 multiple-choice questions to be completed in 60 minutes. You need 55% (28 correct) to pass and 85% (43 correct) for a Distinction.',
+    factValues: ['50', '60', '55%', '~28h'],
+    copy: {
+      en: {
+        metaTitle: 'WSET Level 2 Practice Questions — Free Mock Exam with Answers (2026)',
+        metaDescription:
+          'Free WSET Level 2 practice questions with answers and expert explanations. Test yourself on grape varieties, wine styles, and food pairing, then master all 100 questions in the Eclavin app.',
+        h1: 'WSET Level 2 Practice Questions',
+        subtitle: 'A free mock exam with answers and expert explanations. Updated 2026.',
+        shortAnswerLead:
+          'The WSET Level 2 Award in Wines exam is 50 multiple-choice questions in 60 minutes, with a 55% pass mark (85% for a Distinction).',
+        factLabels: ['questions', 'minutes', 'to pass', 'typical study'],
+        coverage: [
+          'Principal grape varieties and their characteristics',
+          'Major wine regions of the world',
+          'Wine styles and how they are made',
+          'Sparkling, sweet and fortified wines',
+          'Food-and-wine pairing principles',
+        ],
+        faqItems: [
+          {
+            q: 'How many questions are on the WSET Level 2 exam?',
+            a: 'The WSET Level 2 Award in Wines exam has 50 multiple-choice questions to be completed in 60 minutes. You need 55% (28 correct) to pass and 85% (43 correct) for a Distinction.',
+          },
+          {
+            q: 'How hard is the WSET Level 2 exam?',
+            a: 'Most candidates find WSET Level 2 manageable with structured study of about 28 hours. The most-missed topics are grape-variety characteristics and food-and-wine pairing rules, which is why active recall practice matters.',
+          },
+          {
+            q: 'Are these WSET Level 2 practice questions free?',
+            a: 'Yes. The questions on this page are a free sample with full answers and explanations. The complete set of 100 Level 2 questions, plus mock exams and a wrong-answer review notebook, is available in the Eclavin app.',
+          },
+          {
+            q: 'What topics does WSET Level 2 cover?',
+            a: 'Level 2 covers the principal grape varieties, the major wine regions of the world, wine styles and how they are made, sparkling and fortified wines, wine with food, and label terminology.',
+          },
+          DISCLAIMER_FAQ.en,
+        ],
       },
-      {
-        q: 'How hard is the WSET Level 2 exam?',
-        a: 'Most candidates find WSET Level 2 manageable with structured study of about 28 hours. The most-missed topics are grape-variety characteristics and food-and-wine pairing rules, which is why active recall practice matters.',
+      ko: {
+        metaTitle: 'WSET 2급(Level 2) 기출·연습문제 — 무료 모의고사와 해설 (2026)',
+        metaDescription:
+          'WSET 2급(Level 2) 무료 연습문제를 전문가 해설과 함께 풀어보세요. 포도 품종, 와인 스타일, 음식 페어링을 점검하고, 에클라뱅 앱에서 100문제 전체를 정복하세요.',
+        h1: 'WSET 2급 연습문제',
+        subtitle: '무료 모의고사와 전문가 해설. 2026년 최신.',
+        shortAnswerLead:
+          'WSET 2급(Level 2) 시험은 60분 동안 4지선다 50문제를 풉니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다.',
+        factLabels: ['문제', '분', '합격 기준', '권장 학습'],
+        coverage: [
+          '대표 포도 품종과 특징',
+          '세계 주요 와인 산지',
+          '와인 스타일과 만드는 방법',
+          '스파클링·스위트·주정강화 와인',
+          '음식 페어링 원칙',
+        ],
+        faqItems: [
+          {
+            q: 'WSET 2급 시험은 몇 문제인가요?',
+            a: 'WSET 2급(Level 2) 시험은 60분 동안 4지선다 50문제를 풉니다. 55%(28문제)를 맞히면 합격이고, 85%(43문제)면 우수 합격(Distinction)입니다.',
+          },
+          {
+            q: 'WSET 2급은 얼마나 어렵나요?',
+            a: '대부분 약 28시간을 체계적으로 공부하면 합격할 수 있습니다. 가장 많이 틀리는 부분은 품종별 특징과 음식 페어링 규칙이라, 반복해서 문제로 익히는 것이 중요합니다.',
+          },
+          {
+            q: '이 2급 연습문제는 무료인가요?',
+            a: '네. 이 페이지의 문제는 해설이 포함된 무료 샘플입니다. 2급 100문제 전체와 모의고사, 오답 복습 노트는 에클라뱅 앱에 있습니다.',
+          },
+          {
+            q: 'WSET 2급은 무엇을 다루나요?',
+            a: '2급은 대표 품종, 세계 주요 산지, 와인 스타일과 제조법, 스파클링·주정강화 와인, 음식 페어링, 라벨 용어를 다룹니다.',
+          },
+          DISCLAIMER_FAQ.ko,
+        ],
       },
-      {
-        q: 'Are these WSET Level 2 practice questions free?',
-        a: 'Yes. The questions on this page are a free sample with full answers and explanations. The complete set of 100 Level 2 questions, plus mock exams and a wrong-answer review notebook, is available in the Eclavin app.',
-      },
-      {
-        q: 'What topics does WSET Level 2 cover?',
-        a: 'Level 2 covers the principal grape varieties, the major wine regions of the world, wine styles and how they are made, sparkling and fortified wines, wine with food, and label terminology.',
-      },
-      DISCLAIMER_FAQ,
-    ],
+    },
   },
 };
 
@@ -126,4 +210,8 @@ export const PRACTICE_SLUGS = Object.keys(PRACTICE_LEVELS);
 
 export function getPracticeConfig(slug: string): PracticeLevelConfig | undefined {
   return PRACTICE_LEVELS[slug];
+}
+
+export function getFacts(cfg: PracticeLevelConfig, lang: PracticeLang): ExamFact[] {
+  return cfg.factValues.map((value, i) => ({ value, label: cfg.copy[lang].factLabels[i] }));
 }

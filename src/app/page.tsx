@@ -161,7 +161,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         </p>
         <p style={{ marginTop: '0.9rem' }}>
           <a
-            href="/practice"
+            href={`/practice?lang=${lang}`}
             style={{
               display: 'inline-flex',
               alignItems: 'center',

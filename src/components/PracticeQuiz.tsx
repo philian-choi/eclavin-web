@@ -12,12 +12,32 @@ export interface PracticeQuestion {
   explanation: string;
 }
 
+export interface QuizLabels {
+  answered: string;
+  correct: string;
+  correctMark: string;
+  answerPrefix: string; // followed by the correct option letter
+}
+
+const DEFAULT_LABELS: QuizLabels = {
+  answered: 'Answered',
+  correct: 'Correct',
+  correctMark: '✓ Correct',
+  answerPrefix: 'Answer:',
+};
+
 /**
  * Interactive practice quiz. Questions are rendered server-side (text is present
  * in the initial HTML for crawlers and AI engines); the client layer only adds
  * answer selection, instant scoring, and explanation reveal.
  */
-export default function PracticeQuiz({ questions }: { questions: PracticeQuestion[] }) {
+export default function PracticeQuiz({
+  questions,
+  labels = DEFAULT_LABELS,
+}: {
+  questions: PracticeQuestion[];
+  labels?: QuizLabels;
+}) {
   const posthog = usePostHog();
   const [picked, setPicked] = useState<Record<number, string>>({});
 
@@ -37,10 +57,10 @@ export default function PracticeQuiz({ questions }: { questions: PracticeQuestio
     <div className={styles.quiz}>
       <div className={styles.scoreBar} aria-live="polite">
         <span>
-          Answered <strong>{answeredCount}</strong> / {questions.length}
+          {labels.answered} <strong>{answeredCount}</strong> / {questions.length}
         </span>
         <span>
-          Correct <strong>{correctCount}</strong>
+          {labels.correct} <strong>{correctCount}</strong>
         </span>
       </div>
 
@@ -81,7 +101,9 @@ export default function PracticeQuiz({ questions }: { questions: PracticeQuestio
                 hidden={!isAnswered}
               >
                 <p className={styles.explanationVerdict}>
-                  {isAnswered && chosen === q.answer ? '✓ Correct' : `Answer: ${q.answer}`}
+                  {isAnswered && chosen === q.answer
+                    ? labels.correctMark
+                    : `${labels.answerPrefix} ${q.answer}`}
                 </p>
                 <p className={styles.explanationText}>{q.explanation}</p>
               </div>
