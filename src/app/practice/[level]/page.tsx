@@ -16,7 +16,7 @@ import styles from '../practice.module.css';
 const BASE_URL = 'https://www.eclavin.com';
 const APP_STORE_URL =
   'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
-const SAMPLE_COUNT = 12;
+const SAMPLE_COUNT = 20;
 
 interface UiStrings {
   home: string;

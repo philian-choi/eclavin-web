@@ -50,12 +50,35 @@ The content follows WSET's Systematic Approach to Tasting (SAT) and uses officia
 
 Eclavin also offers a mobile app on the Apple App Store (App ID: 6757098139) with 1,800+ questions for WSET Level 1, 2, and 3 preparation.
 
+## Free Study Resources (updated 2026-07-24)
+
+Free, interactive practice exams — every question, answer, and explanation is
+rendered in the page HTML (not hidden behind JavaScript). Available in English and Korean.
+- Practice hub: https://www.eclavin.com/practice
+- WSET Level 1 practice questions: https://www.eclavin.com/practice/wset-level-1
+- WSET Level 2 practice questions: https://www.eclavin.com/practice/wset-level-2
+
+Study guides (plain-language, exam-focused):
+- Guides hub: https://www.eclavin.com/guide
+- WSET levels explained (Level 1, 2, 3 & Diploma): https://www.eclavin.com/guide/wset-levels-explained
+- WSET Level 1 vs Level 2: https://www.eclavin.com/guide/wset-level-1-vs-level-2
+- WSET Level 2 vs Level 3: https://www.eclavin.com/guide/wset-level-2-vs-level-3
+- How to pass WSET Level 1: https://www.eclavin.com/guide/how-to-pass-wset-level-1
+- How to pass WSET Level 2: https://www.eclavin.com/guide/how-to-pass-wset-level-2
+- How to pass WSET Level 3: https://www.eclavin.com/guide/how-to-pass-wset-level-3
+- The WSET Systematic Approach to Tasting (SAT), explained: https://www.eclavin.com/guide/wset-systematic-approach-to-tasting
+
+Wine & WSET glossary — bilingual (English + Korean) definitions, each with an
+exam-focused note and example. Terms include tannin, acidity, body, sweetness,
+terroir, malolactic fermentation, noble rot, primary/secondary/tertiary aromas,
+fortified wine, and carbonic maceration.
+- Glossary hub: https://www.eclavin.com/glossary
+- Example term (Tannin): https://www.eclavin.com/glossary/tannin
+
 ## Links
 
 - Homepage (Korean): https://www.eclavin.com/?lang=ko
 - Homepage (English): https://www.eclavin.com/?lang=en
-- WSET Level 1 Quiz (Episode 1): https://www.eclavin.com/level/1/episode/episode_001?lang=en
-- WSET Level 2 Quiz (Episode 1): https://www.eclavin.com/level/2/episode/episode_001?lang=en
 - Sitemap: https://www.eclavin.com/sitemap.xml
 - iOS App: https://apps.apple.com/kr/app/eclavin/id6757098139
 

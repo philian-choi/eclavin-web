@@ -57,6 +57,8 @@ export default function HowToPassLevel2Guide() {
     author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
     publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
     mainEntityOfPage: PAGE_URL,
+    datePublished: '2026-07-24',
+    dateModified: '2026-07-24',
     inLanguage: 'en',
   };
 
