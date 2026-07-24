@@ -39,6 +39,12 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'A practical study plan and the traps that cost most candidates marks.',
   },
   {
+    slug: 'how-to-pass-wset-level-3',
+    tag: 'Study plan',
+    title: 'How to Pass WSET Level 3',
+    blurb: 'How to prepare for the two units: written theory and blind tasting.',
+  },
+  {
     slug: 'wset-systematic-approach-to-tasting',
     tag: 'Tasting',
     title: 'The WSET Systematic Approach to Tasting (SAT)',
