@@ -159,6 +159,24 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         <p className="main-description">
           {t.desc}
         </p>
+        <p style={{ marginTop: '0.9rem' }}>
+          <a
+            href="/practice"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '0.4rem',
+              fontSize: '0.95rem',
+              fontWeight: 600,
+              color: '#832d32',
+              textDecoration: 'none',
+              borderBottom: '1px solid rgba(131,45,50,0.4)',
+              paddingBottom: '2px',
+            }}
+          >
+            {lang === 'ko' ? '무료 WSET 연습문제 풀기 →' : 'Try free WSET practice exams →'}
+          </a>
+        </p>
       </header>
 
       <EpisodeGridClient allEpisodes={allEpisodes} initialLang={lang} />

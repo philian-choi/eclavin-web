@@ -1,11 +1,13 @@
 import { MetadataRoute } from 'next';
 import { getAllEpisodes } from '@/lib/episodes';
+import { PRACTICE_SLUGS } from '@/lib/practiceConfig';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.eclavin.com';
   // Date of the last real content/markup change — update when content actually changes.
   // (A fake "always now" lastModified teaches crawlers to ignore the field.)
   const contentUpdated = new Date('2026-07-22');
+  const contentAdded = new Date('2026-07-24');
 
   // Standard routes
   const routes = [
@@ -47,5 +49,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...routes, ...l1_ko, ...l1_en, ...l2_ko, ...l2_en];
+  // English SEO content: practice hub, per-level practice pages, guides.
+  const contentPages = [
+    { url: `${baseUrl}/practice`, priority: 0.9 },
+    ...PRACTICE_SLUGS.map((slug) => ({ url: `${baseUrl}/practice/${slug}`, priority: 0.9 })),
+    { url: `${baseUrl}/guide/wset-level-1-vs-level-2`, priority: 0.7 },
+  ].map((p) => ({
+    url: p.url,
+    lastModified: contentAdded,
+    changeFrequency: 'weekly' as const,
+    priority: p.priority,
+  }));
+
+  return [...routes, ...contentPages, ...l1_ko, ...l1_en, ...l2_ko, ...l2_en];
 }
