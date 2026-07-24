@@ -275,6 +275,51 @@
   color: var(--text-secondary);
 }
 
+.prose {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: var(--text-primary);
+}
+.prose p {
+  margin: 0 0 1.1rem;
+  color: var(--text-secondary);
+}
+.prose p strong {
+  color: var(--text-primary);
+}
+
+.tableWrap {
+  overflow-x: auto;
+  margin: 1.5rem 0 2rem;
+}
+.compareTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  min-width: 460px;
+}
+.compareTable th,
+.compareTable td {
+  text-align: left;
+  padding: 0.7rem 0.9rem;
+  border-bottom: 1px solid var(--border-light);
+  vertical-align: top;
+}
+.compareTable thead th {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-tertiary);
+}
+.compareTable tbody th {
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+.compareTable td {
+  color: var(--text-secondary);
+}
+
 .levelCards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
