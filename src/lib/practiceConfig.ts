@@ -18,6 +18,8 @@ export interface LevelCopy {
   /** Plain factual lead sentence, ends before the "sample" clause. */
   shortAnswerLead: string;
   factLabels: string[]; // labels for the shared fact values, in order
+  /** 2-3 paragraphs of unique supporting copy about the exam (SEO depth). */
+  about: string[];
   coverage: string[];
   faqItems: FaqItem[];
 }
@@ -59,6 +61,11 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
         shortAnswerLead:
           'The WSET Level 1 Award in Wines exam is 30 multiple-choice questions in 45 minutes, with a 70% pass mark (21 correct).',
         factLabels: ['questions', 'minutes', 'to pass', 'typical study'],
+        about: [
+          'The WSET Level 1 Award in Wines is the entry point to formal wine study. The exam is a single closed-book paper of 30 multiple-choice questions in 45 minutes, and you pass at 70%. It is usually taught in one day, so it rewards a clear grasp of the basics rather than deep detail.',
+          'The questions test the main types of wine, a handful of common grape varieties and their flavours, how wine is stored and served, and simple food-and-wine pairing. If you can recognise these confidently, you are ready.',
+          'Use this page to practise under real conditions. Answer each question before you reveal the explanation, and read the explanation even when you are right, so the reasoning sticks.',
+        ],
         coverage: [
           'Main types of wine (still, sparkling, fortified)',
           'Common grape varieties and their flavours',
@@ -94,6 +101,11 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
         shortAnswerLead:
           'WSET 1급(Level 1) 시험은 45분 동안 4지선다 30문제를 풉니다. 합격 기준은 70%(21문제)입니다.',
         factLabels: ['문제', '분', '합격 기준', '권장 학습'],
+        about: [
+          'WSET 1급(Level 1)은 와인 공부의 입문 단계입니다. 시험은 45분 동안 4지선다 30문제를 푸는 한 장짜리 시험이고, 70%를 맞히면 합격입니다. 보통 하루 과정이라 깊은 지식보다 기본을 또렷이 아는 것이 중요합니다.',
+          '문제는 와인의 기본 종류, 대표 품종 몇 가지와 그 향미, 보관과 서비스, 간단한 음식 페어링을 다룹니다. 이것들을 자신 있게 알아보면 준비가 된 것입니다.',
+          '이 페이지에서 실제처럼 연습하세요. 해설을 열기 전에 먼저 답하고, 맞았을 때도 해설을 읽어 근거를 몸에 익히세요.',
+        ],
         coverage: [
           '와인의 기본 종류(스틸·스파클링·주정강화)',
           '대표 포도 품종과 향미',
@@ -139,6 +151,11 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
         shortAnswerLead:
           'The WSET Level 2 Award in Wines exam is 50 multiple-choice questions in 60 minutes, with a 55% pass mark (85% for a Distinction).',
         factLabels: ['questions', 'minutes', 'to pass', 'typical study'],
+        about: [
+          'The WSET Level 2 Award in Wines goes deeper than Level 1. The exam is 50 multiple-choice questions in 60 minutes, closed book, and you pass at 55%, with a Distinction at 85%. Most candidates study around 28 hours.',
+          'It tests the principal grape varieties and why they taste as they do, the major wine regions, how wine styles are made, sparkling and fortified wines, and food-and-wine pairing. The most-missed areas are grape characteristics and pairing rules.',
+          'Use this page for active recall. Work through the questions, read every explanation, and note the ones you miss so you can come back to them. That habit, repeated, is what turns study hours into a pass.',
+        ],
         coverage: [
           'Principal grape varieties and their characteristics',
           'Major wine regions of the world',
@@ -175,6 +192,11 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
         shortAnswerLead:
           'WSET 2급(Level 2) 시험은 60분 동안 4지선다 50문제를 풉니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다.',
         factLabels: ['문제', '분', '합격 기준', '권장 학습'],
+        about: [
+          'WSET 2급(Level 2)은 1급보다 깊이 들어갑니다. 시험은 60분 동안 4지선다 50문제이고, 책을 보지 않고 풉니다. 55%면 합격, 85%면 우수 합격입니다. 대개 약 28시간을 공부합니다.',
+          '대표 품종과 그 맛의 이유, 주요 산지, 와인 스타일을 만드는 법, 스파클링·주정강화 와인, 음식 페어링을 다룹니다. 가장 많이 틀리는 곳은 품종 특징과 페어링 규칙입니다.',
+          '이 페이지로 인출 연습을 하세요. 문제를 풀고 해설을 다 읽고, 틀린 것은 표시해 다시 보세요. 이 습관을 반복하는 것이 공부 시간을 합격으로 바꿉니다.',
+        ],
         coverage: [
           '대표 포도 품종과 특징',
           '세계 주요 와인 산지',

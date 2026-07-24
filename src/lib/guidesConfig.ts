@@ -56,6 +56,42 @@ export const GUIDES: GuideMeta[] = [
     title: 'The WSET Systematic Approach to Tasting (SAT)',
     blurb: 'The step-by-step method for describing a wine, explained in plain language.',
   },
+  {
+    slug: 'wset-exam-facts',
+    tag: 'Reference',
+    title: 'WSET Exam Facts: Format, Hours & Pass Marks',
+    blurb: 'Every level’s question count, time, pass mark, and study hours in one table.',
+  },
+  {
+    slug: 'how-many-hours-to-study-for-wset',
+    tag: 'Reference',
+    title: 'How Many Hours to Study for WSET',
+    blurb: 'The recommended study hours for Level 1, 2, and 3, and how to plan them.',
+  },
+  {
+    slug: 'is-wset-worth-it',
+    tag: 'Advice',
+    title: 'Is WSET Worth It?',
+    blurb: 'An honest look at the cost, time, and payoff of the WSET wine qualifications.',
+  },
+  {
+    slug: 'wset-food-and-wine-pairing',
+    tag: 'Topic',
+    title: 'WSET Food & Wine Pairing Rules',
+    blurb: 'How sweetness, acidity, salt, and more in food change the taste of wine.',
+  },
+  {
+    slug: 'wset-level-3-blind-tasting-tips',
+    tag: 'Tasting',
+    title: 'WSET Level 3 Blind Tasting Tips',
+    blurb: 'How to work the tasting method under exam pressure and reach a conclusion.',
+  },
+  {
+    slug: 'old-world-vs-new-world-wine',
+    tag: 'Topic',
+    title: 'Old World vs New World Wine',
+    blurb: 'The label styles, tastes, and regions behind wine’s biggest divide.',
+  },
 ];
 
 export const GUIDE_SLUGS = GUIDES.map((g) => g.slug);

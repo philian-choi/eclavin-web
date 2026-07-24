@@ -29,6 +29,7 @@ interface UiStrings {
   ctaTitle: (bank: number, label: string) => string;
   ctaBody: (label: string) => string;
   ctaButton: string;
+  aboutTitle: string;
   coverageTitle: string;
   faqTitle: string;
   moreTitle: string;
@@ -52,6 +53,7 @@ const UI: Record<PracticeLang, UiStrings> = {
     ctaBody: (label) =>
       `Eclavin has the full ${label} bank, realistic mock exams, and a wrong-answer notebook that resurfaces the questions you miss until you own them.`,
     ctaButton: 'Download Eclavin on the App Store',
+    aboutTitle: 'About this exam',
     coverageTitle: 'What this level covers',
     faqTitle: 'Frequently asked questions',
     moreTitle: 'More practice',
@@ -73,6 +75,7 @@ const UI: Record<PracticeLang, UiStrings> = {
     ctaBody: (label) =>
       `에클라뱅에는 ${label} 문제 전체와 실전 모의고사, 그리고 틀린 문제를 반복해서 다시 보여주는 오답 노트가 있습니다.`,
     ctaButton: '앱스토어에서 에클라뱅 받기',
+    aboutTitle: '이 시험에 대해',
     coverageTitle: '이 급수에서 다루는 내용',
     faqTitle: '자주 묻는 질문',
     moreTitle: '더 풀어보기',
@@ -257,6 +260,13 @@ export default async function PracticeLevelPage({
             </svg>
             <span>{t.ctaButton}</span>
           </TrackedAppStoreLink>
+        </section>
+
+        <section className={styles.prose} style={{ marginTop: '2.5rem' }}>
+          <h2 className={styles.sectionTitle} style={{ marginTop: 0 }}>{t.aboutTitle}</h2>
+          {copy.about.map((p, i) => (
+            <p key={i}>{p}</p>
+          ))}
         </section>
 
         <section className={styles.related}>
