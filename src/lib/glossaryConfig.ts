@@ -293,6 +293,190 @@ export const GLOSSARY: GlossaryTerm[] = [
       },
     },
   },
+  {
+    slug: 'oak-ageing',
+    copy: {
+      en: {
+        term: 'Oak Ageing',
+        short: 'Maturing wine in oak barrels, adding vanilla and spice.',
+        definition:
+          'Oak ageing is maturing wine in oak barrels. It adds aromas of vanilla, toast, and spice, a smoother texture, and a little tannin. Newer barrels give stronger flavours; older barrels add less.',
+        whyItMatters:
+          'Oak is a common source of secondary aromas in the WSET tasting method and a clue to a wine’s style and price.',
+        example: 'An oak-aged Chardonnay often shows vanilla and buttery notes.',
+      },
+      ko: {
+        term: '오크 숙성',
+        short: '오크통에서 숙성시켜 바닐라·향신료 향을 더하는 것.',
+        definition:
+          '오크 숙성은 와인을 오크통에서 익히는 것입니다. 바닐라, 토스트, 향신료 향과 부드러운 질감, 약간의 타닌을 더합니다. 새 통일수록 향이 강하고 오래 쓴 통은 영향이 적습니다.',
+        whyItMatters:
+          'WSET 시음에서 오크는 2차 향의 흔한 원천이며 와인의 스타일과 가격을 짐작하는 단서입니다.',
+        example: '오크 숙성한 샤르도네는 흔히 바닐라와 버터 같은 향이 납니다.',
+      },
+    },
+  },
+  {
+    slug: 'fermentation',
+    copy: {
+      en: {
+        term: 'Fermentation',
+        short: 'Yeast turning grape sugar into alcohol.',
+        definition:
+          'Fermentation is when yeast turns the sugar in grape juice into alcohol and carbon dioxide. It is the core step that turns juice into wine. If all the sugar converts the wine is dry; stopping early leaves sweetness.',
+        whyItMatters:
+          'Fermentation is the starting point of every wine and decides its sweetness and style, a foundation across the WSET syllabus.',
+        example: 'Stopping fermentation early leaves sugar behind, making a sweet wine.',
+      },
+      ko: {
+        term: '발효',
+        short: '효모가 포도의 당을 알코올로 바꾸는 과정.',
+        definition:
+          '발효는 효모가 포도즙의 당을 알코올과 이산화탄소로 바꾸는 과정입니다. 포도즙을 와인으로 만드는 핵심 단계입니다. 당이 다 바뀌면 드라이해지고, 일찍 멈추면 단맛이 남습니다.',
+        whyItMatters:
+          '발효는 모든 와인의 출발점이며 당도와 스타일을 정하는 기본으로, WSET 전 범위의 바탕입니다.',
+        example: '발효를 일찍 멈추면 당이 남아 단맛이 있는 와인이 됩니다.',
+      },
+    },
+  },
+  {
+    slug: 'vintage',
+    copy: {
+      en: {
+        term: 'Vintage',
+        short: 'The year the grapes were harvested.',
+        definition:
+          'Vintage is the year the grapes were harvested. The year printed on the label points to that year’s growing-season weather, and good or difficult years affect a wine’s quality and style.',
+        whyItMatters:
+          'Alongside region and climate, vintage is a clue WSET students use to read a wine’s likely quality and character.',
+        example: 'In Bordeaux, 2015 is widely regarded as a good vintage.',
+      },
+      ko: {
+        term: '빈티지',
+        short: '포도를 수확한 해.',
+        definition:
+          '빈티지는 포도를 수확한 해입니다. 라벨에 적힌 연도가 그해 재배 시기의 날씨를 알려주며, 좋은 해와 어려운 해가 와인의 품질과 스타일에 영향을 줍니다.',
+        whyItMatters:
+          'WSET 학습자는 산지와 기후와 함께 빈티지로 와인의 품질과 개성을 짐작합니다.',
+        example: '보르도에서 2015년은 좋은 빈티지로 널리 평가됩니다.',
+      },
+    },
+  },
+  {
+    slug: 'appellation',
+    copy: {
+      en: {
+        term: 'Appellation',
+        short: 'A legally defined place name for a wine.',
+        definition:
+          'An appellation is a legally defined place name for wine. To use the name, the wine must come from that area and follow set rules on grapes and winemaking. France’s system of controlled origin names is the best known.',
+        whyItMatters:
+          'Appellations are the key to reading a European wine label and predicting its style, a core WSET Level 2 and 3 topic.',
+        example: 'Chablis is one of the appellations of Burgundy.',
+      },
+      ko: {
+        term: '원산지 명칭',
+        short: '와인이 난 곳을 법으로 정한 이름.',
+        definition:
+          '원산지 명칭은 와인이 난 곳을 법으로 정한 이름입니다. 그 이름을 쓰려면 정해진 지역에서 정해진 품종과 방법으로 만들어야 합니다. 프랑스의 원산지 통제 명칭이 가장 잘 알려져 있습니다.',
+        whyItMatters:
+          '원산지 명칭은 유럽 와인 라벨을 읽고 스타일을 짐작하는 열쇠로, WSET 2급과 3급의 핵심 주제입니다.',
+        example: '샤블리는 부르고뉴의 원산지 명칭 중 하나입니다.',
+      },
+    },
+  },
+  {
+    slug: 'lees-ageing',
+    copy: {
+      en: {
+        term: 'Lees Ageing',
+        short: 'Resting wine on dead yeast for bready, creamy notes.',
+        definition:
+          'Lees ageing keeps wine in contact with the dead yeast cells (the lees) after fermentation. It adds bready or biscuity aromas and a creamier texture. It is common in Champagne and some white wines.',
+        whyItMatters:
+          'Lees ageing is a source of secondary aromas in the WSET method and a signature of traditional-method sparkling wine.',
+        example: 'The bready aroma in Champagne comes from lees ageing.',
+      },
+      ko: {
+        term: '리 숙성',
+        short: '죽은 효모와 함께 두어 빵·크림 향을 더하는 것.',
+        definition:
+          '리 숙성은 발효가 끝난 뒤 죽은 효모 찌꺼기(리)와 와인을 함께 두는 것입니다. 빵이나 비스킷 같은 향과 더 크리미한 질감을 더합니다. 샴페인과 일부 화이트와인에 흔합니다.',
+        whyItMatters:
+          'WSET 시음에서 리 숙성은 2차 향의 원천이며 전통 방식 스파클링 와인의 특징입니다.',
+        example: '샴페인의 빵 같은 향은 리 숙성에서 옵니다.',
+      },
+    },
+  },
+  {
+    slug: 'cork-taint',
+    copy: {
+      en: {
+        term: 'Cork Taint',
+        short: 'A fault making wine smell of wet cardboard.',
+        definition:
+          'Cork taint is a fault where a chemical called TCA, usually from the cork, makes a wine smell of wet cardboard, damp basement, or musty must. It is a closure problem, not a flaw in the wine itself.',
+        whyItMatters:
+          'Cork taint is the classic example of a faulty wine in the WSET tasting method’s condition check, and a frequent exam point.',
+        example: 'A smell of wet newspaper is a sign of cork taint.',
+      },
+      ko: {
+        term: '코르크 오염',
+        short: '젖은 판지 냄새가 나게 하는 결함.',
+        definition:
+          '코르크 오염은 대개 코르크에서 나오는 화학물질(TCA) 때문에 와인에서 젖은 판지, 축축한 지하실, 곰팡이 같은 냄새가 나는 결함입니다. 마개 문제이지 와인 자체의 잘못이 아닙니다.',
+        whyItMatters:
+          'WSET 시음의 상태 점검에서 결함 와인의 대표 예이며 자주 나오는 시험 포인트입니다.',
+        example: '젖은 신문지 냄새가 나면 코르크 오염을 의심합니다.',
+      },
+    },
+  },
+  {
+    slug: 'finish',
+    copy: {
+      en: {
+        term: 'Finish',
+        short: 'How long the flavour lingers after you swallow.',
+        definition:
+          'The finish is how long a wine’s taste and aroma linger after you swallow. A short finish fades quickly; a long finish stays for many seconds. A longer finish is usually a sign of higher quality.',
+        whyItMatters:
+          'Finish (or length) is the last thing you assess on the palate in the WSET method and a key clue to quality.',
+        example: 'A fine wine keeps its aroma going long after you swallow.',
+      },
+      ko: {
+        term: '피니시',
+        short: '삼킨 뒤 맛과 향이 남는 정도.',
+        definition:
+          '피니시는 와인을 삼킨 뒤 맛과 향이 얼마나 오래 남는지입니다. 짧으면 금방 사라지고, 길면 여러 초 동안 남습니다. 대체로 피니시가 길수록 품질이 높다는 신호입니다.',
+        whyItMatters:
+          'WSET 시음에서 피니시(여운)는 팔레트의 마지막 평가 항목이며 품질을 가르는 중요한 단서입니다.',
+        example: '좋은 와인은 삼킨 뒤에도 향이 오래 이어집니다.',
+      },
+    },
+  },
+  {
+    slug: 'old-world-new-world',
+    copy: {
+      en: {
+        term: 'Old World vs New World',
+        short: 'Europe’s tradition-led wines versus the riper New World style.',
+        definition:
+          'Old World vs New World splits the wine world in two. Old World means Europe (France, Italy, Spain and more), leaning on tradition and place names. New World means everywhere else (USA, Australia, Chile and more), leaning on grape names and riper, fruitier styles.',
+        whyItMatters:
+          'This split is a basic frame WSET uses to explain label styles and taste differences between regions.',
+        example: 'Burgundy in France is Old World; California in the USA is New World.',
+      },
+      ko: {
+        term: '구세계와 신세계',
+        short: '전통 중심의 유럽 와인과 잘 익은 신세계 스타일.',
+        definition:
+          '구세계와 신세계는 와인 세계를 크게 둘로 나눈 말입니다. 구세계는 유럽(프랑스, 이탈리아, 스페인 등)으로 전통과 산지 이름을 중시합니다. 신세계는 그 밖(미국, 호주, 칠레 등)으로 품종 이름과 잘 익은 과일 향을 중시합니다.',
+        whyItMatters:
+          '이 구분은 WSET가 라벨 스타일과 지역별 맛 차이를 설명하는 기본 틀입니다.',
+        example: '프랑스 부르고뉴는 구세계, 미국 캘리포니아는 신세계입니다.',
+      },
+    },
+  },
 ];
 
 export const GLOSSARY_SLUGS = GLOSSARY.map((t) => t.slug);

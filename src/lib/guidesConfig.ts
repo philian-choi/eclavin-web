@@ -15,6 +15,12 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'What each WSET wine qualification covers, how hard it is, and who it is for.',
   },
   {
+    slug: 'best-wset-study-apps',
+    tag: 'Comparison',
+    title: 'Best WSET Study Apps & Tools (2026)',
+    blurb: 'An honest guide to the types of WSET study tools and how to pick one.',
+  },
+  {
     slug: 'wset-level-1-vs-level-2',
     tag: 'Comparison',
     title: 'WSET Level 1 vs Level 2',
