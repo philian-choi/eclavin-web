@@ -5,7 +5,6 @@ import LanguageToggle from '@/components/LanguageToggle';
 import { Suspense } from 'react';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import Script from 'next/script';
 import { headers } from 'next/headers';
 
 export async function generateStaticParams() {
@@ -300,10 +299,20 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
 
       <div style={{ height: '4rem' }} /> {/* Spacer for fixed header */}
 
-      <Script id="ldjson-learning" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(learningResourceJsonLd) }} />
-      <Script id="ldjson-quiz" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(quizJsonLd) }} />
-      <Script id="ldjson-breadcrumb" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
-      <Script id="ldjson-organization" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }} />
+      {/* Server-rendered JSON-LD (native <script> so AI/search crawlers see it without running JS) */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([
+            learningResourceJsonLd,
+            quizJsonLd,
+            breadcrumbJsonLd,
+            organizationJsonLd,
+          ])
+            .replace(/</g, '\\u003c')
+            .replace(/>/g, '\\u003e'),
+        }}
+      />
 
       {/* Visible Breadcrumbs */}
       <nav aria-label="Breadcrumb" className="animate-slide-up" style={{ maxWidth: '650px', margin: '0.5rem auto 1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>

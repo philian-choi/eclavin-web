@@ -1,5 +1,4 @@
 import { Suspense } from 'react';
-import Script from 'next/script';
 import { Metadata } from 'next';
 import { headers } from 'next/headers';
 import { getAllEpisodes } from '@/lib/episodes';
@@ -129,18 +128,13 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
 
   return (
     <main className="main-container">
-      <Script
-        id="ldjson-home"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ 
-          __html: JSON.stringify(allJsonLd).replace(/</g, '\\u003c').replace(/>/g, '\\u003e') 
-        }}
-      />
-      <Script
-        id="ldjson-faq-home"
+      {/* Server-rendered JSON-LD (native <script> so AI/search crawlers see it without running JS) */}
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqPageJsonLd).replace(/</g, '\\u003c').replace(/>/g, '\\u003e')
+          __html: JSON.stringify([...allJsonLd, faqPageJsonLd])
+            .replace(/</g, '\\u003c')
+            .replace(/>/g, '\\u003e'),
         }}
       />
 
