@@ -92,7 +92,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko" suppressHydrationWarning className={inter.variable}>
-      <head>
+      <head suppressHydrationWarning>
         {/* External Assets */}
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
@@ -103,7 +103,7 @@ export default function RootLayout({
           crossOrigin="anonymous" 
         />
       </head>
-      <body>
+      <body suppressHydrationWarning>
         <Script src="/theme.js" strategy="beforeInteractive" id="theme-init" />
         {/* Speculation Rules - Keep as plain script with hydration suppression */}
         <script

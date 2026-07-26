@@ -25,7 +25,12 @@ export const logEvent = async (event: AnalyticsEvent) => {
       payload: event.payload || {},
       user_fingerprint: fingerprint,
     });
-    if (error) console.error('Analytics error:', error);
+    if (error) {
+      const errorMsg = error.message || error.code || (Object.keys(error).length > 0 ? JSON.stringify(error) : '');
+      if (errorMsg) {
+        console.error('Analytics error:', errorMsg);
+      }
+    }
   } catch (err) {
     console.error('Failed to log event:', err);
   }

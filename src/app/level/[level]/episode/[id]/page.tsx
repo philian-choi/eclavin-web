@@ -182,7 +182,8 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       'cssSelector': ['.speakable-content-question', '.speakable-content-explanation']
     },
     'about': [
-      { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust' },
+      { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust (WSET)', 'sameAs': 'https://www.wikidata.org/wiki/Q1812975' },
+      { '@type': 'Thing', 'name': 'Wine', 'sameAs': 'https://www.wikidata.org/wiki/Q282' },
       { '@type': 'Course', 'name': `WSET Level ${level} Specification` }
     ],
     'mentions': [
@@ -198,7 +199,7 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
     '@type': 'Quiz',
     'name': `Eclavin - WSET Level ${level} Episode ${episode.number}`,
     'description': episode.question,
-    'about': { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust (WSET)' },
+    'about': { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust (WSET)', 'sameAs': 'https://www.wikidata.org/wiki/Q1812975' },
     'educationalLevel': `WSET Level ${level}`,
     'inLanguage': lang === 'ko' ? 'ko-KR' : 'en-US',
     'provider': { '@type': 'Organization', 'name': 'Eclavin', 'url': BASE_URL },

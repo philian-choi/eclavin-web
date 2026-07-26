@@ -17,7 +17,8 @@ export function generateSchema(lang: 'ko' | 'en', l1Full: Episode[], l2Full: Epi
     'url': BASE_URL,
     'logo': `${BASE_URL}/icon-512x512.png`,
     'sameAs': [
-      'https://apps.apple.com/kr/app/eclavin/id6757098139',
+      'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139',
+      'https://www.wikidata.org/wiki/Q1812975'
     ],
   };
 
@@ -42,6 +43,10 @@ export function generateSchema(lang: 'ko' | 'en', l1Full: Episode[], l2Full: Epi
       'name': 'Eclavin',
       'sameAs': BASE_URL,
     },
+    'about': [
+      { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust (WSET)', 'sameAs': 'https://www.wikidata.org/wiki/Q1812975' },
+      { '@type': 'Thing', 'name': 'Wine', 'sameAs': 'https://www.wikidata.org/wiki/Q282' }
+    ],
     'courseCode': 'WSET-L1-L2',
     'hasCourseInstance': [
       {

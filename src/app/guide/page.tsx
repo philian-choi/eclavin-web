@@ -86,6 +86,7 @@ export default function GuidesIndex() {
             <Link href="/practice/wset-level-2">Level 2 practice</Link>
             <Link href="/glossary">Wine &amp; WSET glossary</Link>
             <Link href="/grape">Grape varieties</Link>
+            <Link href="/region">Wine regions</Link>
           </div>
         </section>
       </article>

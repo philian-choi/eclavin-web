@@ -4,6 +4,7 @@ import { PRACTICE_SLUGS } from '@/lib/practiceConfig';
 import { GUIDE_SLUGS } from '@/lib/guidesConfig';
 import { GLOSSARY_SLUGS } from '@/lib/glossaryConfig';
 import { GRAPE_SLUGS } from '@/lib/grapeConfig';
+import { REGION_SLUGS } from '@/lib/regionConfig';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.eclavin.com';
@@ -62,6 +63,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...GLOSSARY_SLUGS.map((slug) => ({ url: `${baseUrl}/glossary/${slug}`, priority: 0.5 })),
     { url: `${baseUrl}/grape`, priority: 0.7 },
     ...GRAPE_SLUGS.map((slug) => ({ url: `${baseUrl}/grape/${slug}`, priority: 0.6 })),
+    { url: `${baseUrl}/region`, priority: 0.7 },
+    ...REGION_SLUGS.map((slug) => ({ url: `${baseUrl}/region/${slug}`, priority: 0.6 })),
   ].map((p) => ({
     url: p.url,
     lastModified: contentAdded,

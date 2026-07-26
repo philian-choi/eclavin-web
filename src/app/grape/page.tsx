@@ -91,6 +91,7 @@ export default function GrapeHub() {
         <section className={styles.related}>
           <h2>Keep studying</h2>
           <div className={styles.relatedLinks}>
+            <Link href="/region">Wine regions</Link>
             <Link href="/practice">Free WSET practice exams</Link>
             <Link href="/glossary">Wine &amp; WSET glossary</Link>
             <Link href="/guide">Study guides</Link>
