@@ -1,22 +1,29 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { getGuide } from '@/lib/guidesConfig';
+import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/wset-levels-explained`;
+const GUIDE = getGuide('wset-levels-explained')!;
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang=\"en\">).
+export const dynamic = 'force-static';
 const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+  'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
   title: 'WSET Levels Explained: Level 1, 2, 3 & Diploma (2026)',
   description:
-    'A simple overview of the WSET wine qualifications from Level 1 to the Level 4 Diploma: what each covers, how hard it is, study hours, and how to choose where to start.',
+    'A simple overview of the WSET wine qualifications from Level 1 to the Diploma: what each covers, how hard it is, study hours, and where to start.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'WSET Levels Explained: Level 1, 2, 3 & Diploma (2026)',
     description:
-      'A simple overview of the WSET wine qualifications from Level 1 to the Level 4 Diploma: what each covers, how hard it is, study hours, and how to choose where to start.',
+      'A simple overview of the WSET wine qualifications from Level 1 to the Diploma: what each covers, how hard it is, study hours, and where to start.',
     type: 'article',
     url: PAGE_URL,
     images: [`${BASE_URL}/og-image.png`],
@@ -80,12 +87,12 @@ export default function WsetLevelsExplainedGuide() {
     '@type': 'Article',
     headline: 'WSET Levels Explained: Level 1, 2, 3 & Diploma',
     description:
-      'A simple overview of the WSET wine qualifications from Level 1 to the Level 4 Diploma: what each covers, how hard it is, study hours, and how to choose where to start.',
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+      'A simple overview of the WSET wine qualifications from Level 1 to the Diploma: what each covers, how hard it is, study hours, and where to start.',
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: PAGE_URL,
-    datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    datePublished: GUIDE.datePublished,
+    dateModified: GUIDE.dateModified,
     inLanguage: 'en',
   };
 
@@ -109,9 +116,7 @@ export default function WsetLevelsExplainedGuide() {
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -125,7 +130,7 @@ export default function WsetLevelsExplainedGuide() {
 
         <h1 className={styles.h1}>WSET Levels Explained</h1>
         <p className={styles.subtitle}>
-          What each wine qualification covers and who it is for. Updated 2026.
+          What each wine qualification covers and who it is for. Updated {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®

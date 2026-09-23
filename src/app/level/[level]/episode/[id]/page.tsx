@@ -6,6 +6,17 @@ import { Suspense } from 'react';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { headers } from 'next/headers';
+import {
+  BASE_URL,
+  ORGANIZATION,
+  ORG_REF,
+  WSET_ENTITY,
+  WINE_ENTITY,
+  languageAlternates,
+  resolveLang,
+  jsonLd,
+} from '@/lib/site';
+import { episodeTitle, episodeDescription, episodeHeading } from '@/lib/episodeSeo';
 
 export async function generateStaticParams() {
   const params: { level: string; id: string }[] = [];
@@ -25,17 +36,11 @@ interface EpisodePageProps {
   searchParams: Promise<{ lang?: string }>;
 }
 
-const BASE_URL = 'https://www.eclavin.com';
 
 export async function generateMetadata({ params, searchParams }: EpisodePageProps): Promise<Metadata> {
   const [resolvedParams, resolvedSearchParams, headerList] = await Promise.all([params, searchParams, headers()]);
   const level = parseInt(resolvedParams.level);
-  const country = headerList.get('x-vercel-ip-country') || 'US';
-  
-  const rawLang = resolvedSearchParams.lang;
-  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
-    ? rawLang 
-    : (country === 'KR' ? 'ko' : 'en');
+  const lang: Language = resolveLang(resolvedSearchParams.lang, headerList.get('x-vercel-ip-country'));
   let episode = getEpisode(level, resolvedParams.id, lang);
   if (!episode) {
     const rawId = resolvedParams.id;
@@ -44,45 +49,19 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
       episode = getEpisode(level, paddedId, lang);
     }
   }
-  if (!episode) return { title: 'Mastery Episode | Eclavin Wine Academy' };
-  
+  if (!episode) return { title: 'WSET practice question | Eclavin' };
+
   const canonicalUrl = `${BASE_URL}/level/${level}/episode/${episode.id}`;
-
-  const questionSnippet = episode.question.length > 45
-    ? `${episode.question.substring(0, 45)}…`
-    : episode.question;
-
-  const title = lang === 'ko'
-    ? `${questionSnippet} | WSET ${level}급 연습문제 ${episode.number} - 에클라뱅`
-    : `${questionSnippet} | WSET Level ${level} Practice Question ${episode.number} - Eclavin`;
-
-  const description = lang === 'ko'
-    ? `WSET ${level}급 연습문제와 전문가 해설. "${episode.question.substring(0, 60)}..." 문제를 풀고 핵심 이론까지 정리하세요.`
-    : `WSET Level ${level} practice question with expert explanation. Study "${episode.question.substring(0, 60)}..." and master the underlying theory.`;
-
+  const title = episodeTitle(episode, level, lang);
+  const description = episodeDescription(episode, level, lang);
   const ogImageUrl = `${BASE_URL}/api/og?title=${encodeURIComponent(episode.question)}&level=${level}&number=${episode.number}&lang=${lang}`;
 
   return {
     title,
     description,
-    keywords: [
-      'WSET', `WSET Level ${level}`, 'WSET 시험', 'Wine Exam',
-      'Wine Theory', 'Eclavin', '와인 자격증', 'Wine Quiz', 'WSET practice questions',
-      '와인 소믈리에 시험', `WSET ${level}급 문제`, '와인 공부', '와인 교육',
-      'WSET Mock Exam', 'Viticulture', 'Vinification'
-    ],
-    metadataBase: new URL(BASE_URL),
-    other: {
-      'naver-site-verification': '784865e7d742fae47c0a19a6337b28e2736cf1f0',
-      'google-site-verification': 'cLzx38Y_7Wre_sKiuBdZnQzj9KZFf7X4JI9S9nQt_4I',
-    },
     alternates: {
       canonical: `${canonicalUrl}?lang=${lang}`,
-      languages: {
-        'ko-KR': `${canonicalUrl}?lang=ko`,
-        'en-US': `${canonicalUrl}?lang=en`,
-        'x-default': canonicalUrl,
-      },
+      languages: languageAlternates(canonicalUrl),
     },
     openGraph: {
       title,
@@ -91,15 +70,7 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
       url: `${canonicalUrl}?lang=${lang}`,
       siteName: 'Eclavin',
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      authors: ['Eclavin Wine Study Group'],
-      images: [
-        {
-          url: ogImageUrl,
-          width: 1200,
-          height: 630,
-          alt: title,
-        }
-      ],
+      images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }],
     },
     twitter: {
       card: 'summary_large_image',
@@ -107,29 +78,13 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
       description,
       images: [ogImageUrl],
     },
-    robots: {
-      index: true,
-      follow: true,
-      googleBot: {
-        index: true,
-        follow: true,
-        'max-video-preview': -1,
-        'max-image-preview': 'large',
-        'max-snippet': -1,
-      },
-    },
   };
 }
 
 export default async function EpisodePage({ params, searchParams }: EpisodePageProps) {
   const [resolvedParams, resolvedSearchParams, headerList] = await Promise.all([params, searchParams, headers()]);
   const level = parseInt(resolvedParams.level);
-  const country = headerList.get('x-vercel-ip-country') || 'US';
-  
-  const rawLang = resolvedSearchParams.lang;
-  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
-    ? rawLang 
-    : (country === 'KR' ? 'ko' : 'en');
+  const lang: Language = resolveLang(resolvedSearchParams.lang, headerList.get('x-vercel-ip-country'));
   let episode = getEpisode(level, resolvedParams.id, lang);
   if (!episode) {
     const rawId = resolvedParams.id;
@@ -145,104 +100,49 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
 
   const canonicalUrl = `${BASE_URL}/level/${level}/episode/${episode.id}`;
 
-  // 2026 Enhanced Educational Content Schema (LearningResource)
-  const learningResourceJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'LearningResource',
-    'name': `WSET Level ${level} - ${episode.question.substring(0, 50)}...`,
-    'description': episode.explanation,
-    'learningResourceType': 'Practice Test',
-    'educationalLevel': `WSET Level ${level}`,
-    'competencyRequired': 'Wine Knowledge',
-    'educationalAlignment': {
-      '@type': 'AlignmentObject',
-      'alignmentType': 'educationalLevel',
-      'educationalFramework': 'WSET Global',
-      'targetName': `Level ${level}`,
-    },
-    'author': {
-      '@type': 'Organization',
-      'name': 'Eclavin Wine Study Center',
-      'description': 'Professional Wine Education Content Team',
-      'url': BASE_URL,
-      'sameAs': [
-        'https://apps.apple.com/kr/app/eclavin/id6757098139',
-        // Add LinkedIn or Professional Profile Page for maximum E-E-A-T
-      ]
-    },
-    'publisher': {
-      '@type': 'Organization',
-      'name': 'Eclavin',
-      'logo': { '@type': 'ImageObject', 'url': `${BASE_URL}/icon.png` },
-      'areaServed': 'Worldwide',
-    },
-    'inLanguage': lang === 'ko' ? 'ko-KR' : 'en-US',
-    'speakable': {
-      '@type': 'SpeakableSpecification',
-      'cssSelector': ['.speakable-content-question', '.speakable-content-explanation']
-    },
-    'about': [
-      { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust (WSET)', 'sameAs': 'https://www.wikidata.org/wiki/Q1812975' },
-      { '@type': 'Thing', 'name': 'Wine', 'sameAs': 'https://www.wikidata.org/wiki/Q282' },
-      { '@type': 'Course', 'name': `WSET Level ${level} Specification` }
-    ],
-    'mentions': [
-      { '@type': 'DefinedTerm', 'name': 'Wine tasting', 'termCode': 'SAT' },
-      { '@type': 'DefinedTerm', 'name': 'Terroir', 'description': 'Natural environment in which a wine is produced' },
-      { '@type': 'DefinedTerm', 'name': 'Viticulture', 'description': 'Management and study of grapevines' },
-    ],
-  };
+  const pageUrl = `${canonicalUrl}?lang=${lang}`;
+  const levelHubUrl = `${BASE_URL}/level/${level}?lang=${lang}`;
+  const heading = episodeHeading(episode, level, lang);
 
-  // Quiz + Question + Answer structured data for Google Rich Snippets & LLM ingestion
+  // One Quiz node (Quiz is itself a LearningResource) with the question, the
+  // correct answer and the other options, all of which are on the page.
   const quizJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Quiz',
-    'name': `Eclavin - WSET Level ${level} Episode ${episode.number}`,
-    'description': episode.question,
-    'about': { '@type': 'Thing', 'name': 'Wine & Spirit Education Trust (WSET)', 'sameAs': 'https://www.wikidata.org/wiki/Q1812975' },
-    'educationalLevel': `WSET Level ${level}`,
-    'inLanguage': lang === 'ko' ? 'ko-KR' : 'en-US',
-    'provider': { '@type': 'Organization', 'name': 'Eclavin', 'url': BASE_URL },
-    'mainEntityOfPage': {
-      '@type': 'WebPage',
-      '@id': canonicalUrl,
-    },
-    'hasPart': {
+    '@id': pageUrl,
+    name: heading,
+    url: pageUrl,
+    inLanguage: lang,
+    educationalLevel: `WSET Level ${level}`,
+    learningResourceType: 'Practice question',
+    about: [WSET_ENTITY, WINE_ENTITY],
+    isPartOf: { '@id': levelHubUrl },
+    provider: ORG_REF,
+    publisher: ORG_REF,
+    hasPart: {
       '@type': 'Question',
-      'name': episode.question,
-      'text': episode.question,
-      'answerCount': episode.options.length,
-      'acceptedAnswer': {
+      eduQuestionType: 'Multiple choice',
+      name: episode.question,
+      text: episode.question,
+      answerCount: episode.options.length,
+      acceptedAnswer: {
         '@type': 'Answer',
-        'text': `${episode.answer}. ${episode.explanation}`,
+        text: `${episode.answer}. ${episode.explanation}`,
       },
-      'suggestedAnswer': episode.options.map(opt => ({
+      suggestedAnswer: episode.options.map(opt => ({
         '@type': 'Answer',
-        'text': `${opt.label}. ${opt.text}`,
+        text: `${opt.label}. ${opt.text}`,
       })),
     },
   };
 
-  // Breadcrumb for Naver SearchAdvisor & Google
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    'itemListElement': [
-      { '@type': 'ListItem', 'position': 1, 'name': 'Eclavin', 'item': BASE_URL },
-      { '@type': 'ListItem', 'position': 2, 'name': `WSET Level ${level}`, 'item': `${BASE_URL}/?lv=${level}` },
-      { '@type': 'ListItem', 'position': 3, 'name': `Episode ${episode.number}`, 'item': canonicalUrl },
-    ],
-  };
-
-  // Organization JSON-LD for Naver & Google
-  const organizationJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    'name': 'Eclavin',
-    'url': BASE_URL,
-    'logo': `${BASE_URL}/favicon.ico`,
-    'sameAs': [
-      // Add social links here if any
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: lang === 'ko' ? '홈' : 'Home', item: `${BASE_URL}/?lang=${lang}` },
+      { '@type': 'ListItem', position: 2, name: lang === 'ko' ? `WSET ${level}급 문제` : `WSET Level ${level} questions`, item: levelHubUrl },
+      { '@type': 'ListItem', position: 3, name: lang === 'ko' ? `${episode.number}번 문제` : `Question ${episode.number}`, item: pageUrl },
     ],
   };
 
@@ -304,33 +204,28 @@ export default async function EpisodePage({ params, searchParams }: EpisodePageP
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify([
-            learningResourceJsonLd,
+          __html: jsonLd([
             quizJsonLd,
             breadcrumbJsonLd,
-            organizationJsonLd,
-          ])
-            .replace(/</g, '\\u003c')
-            .replace(/>/g, '\\u003e'),
+            { '@context': 'https://schema.org', ...ORGANIZATION },
+          ]),
         }}
       />
 
       {/* Visible Breadcrumbs */}
       <nav aria-label="Breadcrumb" className="animate-slide-up" style={{ maxWidth: '650px', margin: '0.5rem auto 1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
         <ol style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', gap: '8px' }}>
-          <li><a href={`/?lang=${lang}`} style={{ color: 'inherit', textDecoration: 'none' }}>{seoLabels.home}</a></li>
+          <li><a href={`/?lang=${lang}`} style={{ color: 'inherit', textDecoration: 'none' }}>{lang === 'ko' ? '홈' : 'Home'}</a></li>
           <li>/</li>
-          <li><a href={`/?lv=${level}&lang=${lang}`} style={{ color: 'inherit', textDecoration: 'none' }}>Level {level}</a></li>
+          <li><a href={`/level/${level}?lang=${lang}`} style={{ color: 'inherit', textDecoration: 'none' }}>{lang === 'ko' ? `${level}급 문제` : `Level ${level} questions`}</a></li>
           <li>/</li>
-          <li style={{ color: 'var(--text-primary)', fontWeight: 500 }}>Episode {episode.number}</li>
+          <li style={{ color: 'var(--text-primary)', fontWeight: 500 }}>{lang === 'ko' ? `${episode.number}번 문제` : `Question ${episode.number}`}</li>
         </ol>
       </nav>
 
       {/* Page heading (single h1 for the document) */}
       <h1 style={{ maxWidth: '650px', margin: '0 auto 1rem', fontSize: '1.15rem', fontWeight: 700, color: 'var(--text-primary)' }}>
-        {lang === 'ko'
-          ? `WSET ${level}급 연습문제 · 에피소드 ${episode.number}`
-          : `WSET Level ${level} Practice Question · Episode ${episode.number}`}
+        {heading}
       </h1>
 
       {/* Interactive quiz UI */}

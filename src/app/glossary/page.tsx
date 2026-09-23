@@ -2,9 +2,9 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { headers } from 'next/headers';
 import { GLOSSARY, GlossaryLang } from '@/lib/glossaryConfig';
+import { BASE_URL, ORG_REF, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
-const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/glossary`;
 
 interface Ui {
@@ -24,14 +24,14 @@ interface Ui {
 
 const UI: Record<GlossaryLang, Ui> = {
   en: {
-    metaTitle: 'Wine & WSET Glossary — Key Terms Explained (2026)',
+    metaTitle: 'Wine & WSET Glossary: 20 Key Terms Explained Simply',
     metaDescription:
-      'A plain-language glossary of the wine terms WSET students look up most: tannin, acidity, body, terroir, malolactic fermentation, and more, each with an exam-focused explanation.',
+      'Plain-language definitions of the wine terms WSET students look up most, from tannin and acidity to terroir and malolactic fermentation, with exam notes.',
     home: 'Home',
     disclaimer: 'Unofficial study resource · not affiliated with or endorsed by WSET®',
     h1: 'Wine & WSET Glossary',
     subtitle:
-      'The terms WSET students look up most, in plain language, each with why it matters for the exam. Updated 2026.',
+      'The terms WSET students look up most, in plain language, each with why it matters for the exam. Updated 24 July 2026.',
     tag: 'Term',
     read: 'Read definition →',
     moreTitle: 'Put the terms to work',
@@ -40,14 +40,14 @@ const UI: Record<GlossaryLang, Ui> = {
     allGuides: 'All study guides',
   },
   ko: {
-    metaTitle: '와인·WSET 용어 사전 — 핵심 용어 풀이 (2026)',
+    metaTitle: '와인·WSET 용어 사전: 핵심 용어 20개 쉬운 풀이',
     metaDescription:
       'WSET 학습자가 가장 많이 찾는 와인 용어를 쉬운 말로 풀었습니다. 타닌, 산도, 바디, 떼루아, 젖산 발효 등 각 용어를 시험 관점에서 설명합니다.',
     home: '홈',
     disclaimer: '비공식 학습 자료 · WSET과 무관하며 공인받지 않았습니다',
     h1: '와인·WSET 용어 사전',
     subtitle:
-      'WSET 학습자가 가장 많이 찾는 용어를 쉬운 말로, 시험에서 왜 중요한지와 함께 정리했습니다. 2026년 최신.',
+      'WSET 학습자가 가장 많이 찾는 용어를 쉬운 말로, 시험에서 왜 중요한지와 함께 정리했습니다. 2026년 7월 24일 업데이트.',
     tag: '용어',
     read: '뜻 보기 →',
     moreTitle: '배운 용어 써먹기',
@@ -57,11 +57,9 @@ const UI: Record<GlossaryLang, Ui> = {
   },
 };
 
-async function resolveLang(searchParams: Promise<{ lang?: string }>): Promise<GlossaryLang> {
+async function pageLang(searchParams: Promise<{ lang?: string }>): Promise<GlossaryLang> {
   const sp = await searchParams;
-  if (sp.lang === 'ko' || sp.lang === 'en') return sp.lang;
-  const country = (await headers()).get('x-vercel-ip-country') || 'US';
-  return country === 'KR' ? 'ko' : 'en';
+  return resolveLang(sp.lang, (await headers()).get('x-vercel-ip-country'));
 }
 
 export async function generateMetadata({
@@ -69,24 +67,20 @@ export async function generateMetadata({
 }: {
   searchParams: Promise<{ lang?: string }>;
 }): Promise<Metadata> {
-  const lang = await resolveLang(searchParams);
+  const lang = await pageLang(searchParams);
   const t = UI[lang];
   return {
     title: t.metaTitle,
     description: t.metaDescription,
     alternates: {
       canonical: `${PAGE_URL}?lang=${lang}`,
-      languages: {
-        'en-US': `${PAGE_URL}?lang=en`,
-        'ko-KR': `${PAGE_URL}?lang=ko`,
-        'x-default': PAGE_URL,
-      },
+      languages: languageAlternates(PAGE_URL),
     },
     openGraph: {
       title: t.metaTitle,
       description: t.metaDescription,
       type: 'website',
-      url: PAGE_URL,
+      url: `${PAGE_URL}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
       images: [`${BASE_URL}/og-image.png`],
     },
@@ -99,7 +93,7 @@ export default async function GlossaryHub({
 }: {
   searchParams: Promise<{ lang?: string }>;
 }) {
-  const lang = await resolveLang(searchParams);
+  const lang = await pageLang(searchParams);
   const t = UI[lang];
   const langQuery = `?lang=${lang}`;
 
@@ -107,13 +101,14 @@ export default async function GlossaryHub({
     '@context': 'https://schema.org',
     '@type': 'DefinedTermSet',
     name: 'Eclavin Wine & WSET Glossary',
-    url: PAGE_URL,
-    inLanguage: lang === 'ko' ? 'ko-KR' : 'en-US',
+    url: `${PAGE_URL}${langQuery}`,
+    inLanguage: lang,
+    publisher: ORG_REF,
     hasDefinedTerm: GLOSSARY.map((term) => ({
       '@type': 'DefinedTerm',
       name: term.copy[lang].term,
       description: term.copy[lang].short,
-      url: `${BASE_URL}/glossary/${term.slug}`,
+      url: `${BASE_URL}/glossary/${term.slug}${langQuery}`,
     })),
   };
 
@@ -121,14 +116,12 @@ export default async function GlossaryHub({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t.home, item: BASE_URL },
-      { '@type': 'ListItem', position: 2, name: 'Glossary', item: PAGE_URL },
+      { '@type': 'ListItem', position: 1, name: t.home, item: `${BASE_URL}/${langQuery}` },
+      { '@type': 'ListItem', position: 2, name: lang === 'ko' ? '용어 사전' : 'Glossary', item: `${PAGE_URL}${langQuery}` },
     ],
   };
 
-  const ld = JSON.stringify([definedTermSetJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([definedTermSetJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">

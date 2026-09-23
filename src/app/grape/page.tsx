@@ -1,15 +1,19 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { GRAPES } from '@/lib/grapeConfig';
+import { jsonLd } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
+
+// English-only and identical for every visitor: prerender it (and keep <html lang="en">).
+export const dynamic = 'force-static';
 const PAGE_URL = `${BASE_URL}/grape`;
 
 export const metadata: Metadata = {
   title: 'Grape Varieties Explained: Taste, Style & Regions (2026)',
   description:
-    'A plain-language guide to the principal wine grape varieties for WSET students: how Cabernet Sauvignon, Pinot Noir, Chardonnay, Riesling, and more taste, where they grow, and what to pair.',
+    'The principal wine grapes for WSET students in plain language: how Cabernet Sauvignon, Pinot Noir, Chardonnay and more taste, where they grow, what to pair.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'Grape Varieties Explained: Taste, Style & Regions',
@@ -47,9 +51,7 @@ export default function GrapeHub() {
     ],
   };
 
-  const ld = JSON.stringify([itemListJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([itemListJsonLd, breadcrumbJsonLd]);
 
   const renderCards = (list: typeof GRAPES) => (
     <div className={styles.levelCards}>
@@ -76,7 +78,7 @@ export default function GrapeHub() {
         <h1 className={styles.h1}>Grape Varieties Explained</h1>
         <p className={styles.subtitle}>
           How the principal wine grapes taste, where they grow, and what to pair. Written for WSET
-          students. Updated 2026.
+          students. Updated 24 July 2026.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®

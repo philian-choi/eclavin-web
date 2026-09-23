@@ -1,0 +1,40 @@
+.footer {
+  max-width: 960px;
+  margin: 4rem auto 0;
+  padding: 2rem 1.5rem 3rem;
+  border-top: 1px solid var(--border-color, rgba(131, 45, 50, 0.12));
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.35rem 1.25rem;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.nav a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.disclaimer {
+  margin: 0 0 0.6rem;
+}
+
+.meta {
+  margin: 0;
+  opacity: 0.8;
+}
+
+.meta a {
+  color: inherit;
+}

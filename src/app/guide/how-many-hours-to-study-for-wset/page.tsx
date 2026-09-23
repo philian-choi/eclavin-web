@@ -1,12 +1,19 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { getGuide } from '@/lib/guidesConfig';
+import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/how-many-hours-to-study-for-wset`;
+const GUIDE = getGuide('how-many-hours-to-study-for-wset')!;
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang=\"en\">).
+export const dynamic = 'force-static';
 const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+  'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
   title: 'How Many Hours to Study for WSET (Level 1, 2 & 3) (2026)',
@@ -56,11 +63,11 @@ export default function HowManyHoursToStudyGuide() {
     headline: 'How Many Hours to Study for WSET',
     description:
       'The recommended study hours for WSET Level 1, 2, and 3, and how to plan them into a realistic revision schedule.',
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: PAGE_URL,
-    datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    datePublished: GUIDE.datePublished,
+    dateModified: GUIDE.dateModified,
     inLanguage: 'en',
   };
 
@@ -84,9 +91,7 @@ export default function HowManyHoursToStudyGuide() {
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -100,7 +105,7 @@ export default function HowManyHoursToStudyGuide() {
 
         <h1 className={styles.h1}>How Many Hours to Study for WSET</h1>
         <p className={styles.subtitle}>
-          The recommended hours for each level, and how to plan them. Updated 2026.
+          The recommended hours for each level, and how to plan them. Updated {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®

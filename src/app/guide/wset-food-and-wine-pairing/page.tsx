@@ -1,12 +1,19 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { getGuide } from '@/lib/guidesConfig';
+import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/wset-food-and-wine-pairing`;
+const GUIDE = getGuide('wset-food-and-wine-pairing')!;
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang=\"en\">).
+export const dynamic = 'force-static';
 const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+  'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
   title: 'WSET Food & Wine Pairing Rules Explained (2026)',
@@ -78,11 +85,11 @@ export default function FoodAndWinePairingGuide() {
     headline: 'WSET Food & Wine Pairing Rules',
     description:
       'How the WSET method explains food and wine pairing: how sweetness, umami, salt, acid, and chilli in food change the taste of wine, with the golden rule.',
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: PAGE_URL,
-    datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    datePublished: GUIDE.datePublished,
+    dateModified: GUIDE.dateModified,
     inLanguage: 'en',
   };
 
@@ -106,9 +113,7 @@ export default function FoodAndWinePairingGuide() {
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -122,7 +127,7 @@ export default function FoodAndWinePairingGuide() {
 
         <h1 className={styles.h1}>WSET Food &amp; Wine Pairing Rules</h1>
         <p className={styles.subtitle}>
-          How components in food change the taste of wine. Updated 2026.
+          How components in food change the taste of wine. Updated {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®

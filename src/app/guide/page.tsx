@@ -1,15 +1,20 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { GUIDES } from '@/lib/guidesConfig';
+import { jsonLd, formatDateEn } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide`;
+const LATEST = GUIDES.map((g) => g.dateModified).sort().at(-1)!;
+
+// English-only and identical for every visitor: prerender it (and keep <html lang="en">).
+export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
-  title: 'WSET Study Guides — Wine Exam Tips & Comparisons (2026)',
+  title: 'WSET Study Guides: Wine Exam Tips, Study Plans & Comparisons',
   description:
-    'Plain-language WSET study guides: how to pass each level, how the exams differ, and how to prepare efficiently. Written for candidates by the team behind the Eclavin study app.',
+    'Plain-language WSET study guides: how to pass each level, how the exams differ, and how to prepare efficiently, from the team behind the Eclavin app.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'WSET Study Guides — Wine Exam Tips & Comparisons',
@@ -45,9 +50,7 @@ export default function GuidesIndex() {
     ],
   };
 
-  const ld = JSON.stringify([itemListJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([itemListJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -61,7 +64,7 @@ export default function GuidesIndex() {
         <h1 className={styles.h1}>WSET Study Guides</h1>
         <p className={styles.subtitle}>
           Plain-language help for wine exam candidates: how to pass, how the levels differ, and how to
-          prepare efficiently. Updated 2026.
+          prepare efficiently. Updated {formatDateEn(LATEST)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®

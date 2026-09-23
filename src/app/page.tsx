@@ -8,39 +8,40 @@ import LanguageToggle from '@/components/LanguageToggle';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { generateSchema } from '@/lib/seo';
 import { getTranslations, Language } from '@/constants/translations';
+import { BASE_URL, APP_STORE_URL, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
 
 export async function generateMetadata({ searchParams }: { searchParams: Promise<{ lang?: string }> }): Promise<Metadata> {
   const resolvedSearchParams = await searchParams;
   const headerList = await headers();
-  const country = headerList.get('x-vercel-ip-country') || 'US';
-  
-  const rawLang = resolvedSearchParams.lang;
-  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
-    ? rawLang 
-    : (country === 'KR' ? 'ko' : 'en');
-  
+  const lang: Language = resolveLang(resolvedSearchParams.lang, headerList.get('x-vercel-ip-country'));
+
+  const title = lang === 'ko'
+    ? 'WSET 1급·2급 무료 연습문제와 해설 | 에클라뱅(Eclavin)'
+    : 'WSET Level 1 & 2 Practice Questions with Answers | Eclavin';
+  const description = lang === 'ko'
+    ? 'WSET 1급과 2급 연습문제 200개를 정답과 해설로 무료로 풀어 보세요. 가입은 필요 없습니다. 공부 안내 글과 와인 용어 사전도 함께 볼 수 있습니다.'
+    : '200 free WSET Level 1 and Level 2 practice questions, each with the answer and a full explanation. No sign-up. Plus study guides and a wine glossary.';
+
   return {
-    title: lang === 'ko' ? '에클라뱅(Eclavin) - WSET 자격증 만점 합격 지름길' : 'Eclavin - Ultimate WSET Quiz Guide',
-    description: lang === 'ko'
-      ? '에클라뱅에서 엄선된 퀴즈와 전문가 이론으로 WSET 합격에 도전하세요. 500개 이상의 문제와 핵심 팁을 제공합니다.'
-      : 'Eclavin provides curated WSET quizzes and expert theories. Master wine knowledge with 500+ questions and expert tips.',
+    title,
+    description,
     alternates: {
-      canonical: `https://www.eclavin.com/?lang=${lang}`,
-      languages: {
-        'ko-KR': 'https://www.eclavin.com/?lang=ko',
-        'en-US': 'https://www.eclavin.com/?lang=en',
-        'x-default': 'https://www.eclavin.com',
-      },
+      canonical: `${BASE_URL}/?lang=${lang}`,
+      languages: languageAlternates(`${BASE_URL}/`),
     },
     openGraph: {
-      title: lang === 'ko' ? '에클라뱅(Eclavin) - WSET 자격증 만점 합격 지름길' : 'Eclavin - Ultimate WSET Quiz Guide',
-      description: lang === 'ko' 
-        ? '에클라뱅에서 엄선된 퀴즈와 전문가 이론으로 WSET 합격에 도전하세요.' 
-        : 'Master wine knowledge with Eclavin\'s curated WSET quizzes.',
+      title,
+      description,
+      url: `${BASE_URL}/?lang=${lang}`,
+      siteName: 'Eclavin',
+      locale: lang === 'ko' ? 'ko_KR' : 'en_US',
+      type: 'website',
       images: ['https://www.eclavin.com/og-image.png'],
     },
     twitter: {
       card: 'summary_large_image',
+      title,
+      description,
       images: ['https://www.eclavin.com/og-image.png'],
     }
   };
@@ -49,13 +50,8 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
 export default async function Home({ searchParams }: { searchParams: Promise<{ lang?: string }> }) {
   const resolvedSearchParams = await searchParams;
   const headerList = await headers();
-  const country = headerList.get('x-vercel-ip-country') || 'US';
-  
-  const rawLang = resolvedSearchParams.lang;
-  const lang: Language = (rawLang === 'ko' || rawLang === 'en') 
-    ? rawLang 
-    : (country === 'KR' ? 'ko' : 'en');
-  
+  const lang: Language = resolveLang(resolvedSearchParams.lang, headerList.get('x-vercel-ip-country'));
+
   // Data Fetching
   const l1Full = getAllEpisodes(1, lang);
   const l2Full = getAllEpisodes(2, lang);
@@ -74,7 +70,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
     ? [
         {
           q: 'WSET Level 2 시험은 어떻게 준비해야 하나요?',
-          a: 'WSET Level 2 시험은 50개의 객관식 문제로 구성되며 60분 내에 풀어야 합니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다. 에클라뱅(Eclavin)의 Level 2 실전 문제 100개와 전문가 해설로 전 범위를 체계적으로 복습할 수 있습니다.',
+          a: 'WSET Level 2 시험은 50개의 객관식 문제로 구성되며 60분 내에 풀어야 합니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다. 에클라뱅에는 해설이 달린 Level 2 무료 연습문제 100개가 있어 시험 전에 주제별로 점검할 수 있습니다.',
         },
         {
           q: '포트 와인과 셰리의 주정 강화 시점 차이는 무엇인가요?',
@@ -90,13 +86,13 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         },
         {
           q: '에클라뱅(Eclavin)만으로 WSET Level 1, 2를 준비할 수 있나요?',
-          a: '에클라뱅의 200개 문제(Level 1 100문제 + Level 2 100문제)는 공식 교육과정 전 범위를 다루도록 설계되었습니다. 해설에서는 정답의 근거뿐 아니라 오답 선지가 왜 틀렸는지까지 설명하므로, 문제와 해설을 완전히 이해하면 시험 전 범위를 탄탄하게 복습할 수 있습니다.',
+          a: '에클라뱅의 무료 문제 200개(Level 1 100문제, Level 2 100문제)는 시험의 주요 주제를 다룹니다. 해설은 정답의 근거와 오답이 틀린 이유를 함께 설명합니다. 다만 공식 교재를 대신하지는 않습니다. 교재로 공부하고 문제로 확인하는 방식이 가장 좋습니다.',
         },
       ]
     : [
         {
           q: 'How should I prepare for the WSET Level 2 exam?',
-          a: 'The WSET Level 2 exam consists of 50 multiple-choice questions completed in 60 minutes. Pass is 55% (28 correct) and Distinction is 85% (43 correct). Eclavin\'s 100 Level 2 practice questions with expert explanations let you review the full syllabus systematically.',
+          a: 'The WSET Level 2 exam consists of 50 multiple-choice questions completed in 60 minutes. Pass is 55% (28 correct) and Distinction is 85% (43 correct). Eclavin has 100 free Level 2 practice questions, each with a full explanation, so you can check every topic before the exam.',
         },
         {
           q: 'What is the difference in fortification timing between Port and Sherry?',
@@ -112,8 +108,29 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         },
         {
           q: 'Can I prepare for WSET Level 1 and 2 using only Eclavin?',
-          a: 'Eclavin\'s 200 practice questions (100 for Level 1, 100 for Level 2) are designed to cover the full official syllabus. The explanations cover not only why the correct answer is right, but why each distractor is wrong, so mastering them gives you a thorough review of the entire exam scope.',
+          a: 'Eclavin\'s 200 free questions (100 for Level 1, 100 for Level 2) cover the main topics of both exams, and each explanation says why the right answer is right and why the others are wrong. They are not a replacement for the official study materials: study the topic, then use the questions to check yourself.',
         },
+      ];
+
+  const q = `?lang=${lang}`;
+  const hubLinks = lang === 'ko'
+    ? [
+        { href: `/level/1${q}`, label: 'WSET 1급 문제 100개', desc: '1급 연습문제 전체 목록. 모든 문제에 정답과 해설이 있습니다.' },
+        { href: `/level/2${q}`, label: 'WSET 2급 문제 100개', desc: '2급 연습문제 전체 목록. 모든 문제에 정답과 해설이 있습니다.' },
+        { href: `/practice${q}`, label: '무료 모의고사', desc: '급수별 20문제를 바로 채점하며 풀어 봅니다.' },
+        { href: `/glossary${q}`, label: '와인 용어 사전', desc: '타닌, 산도, 바디 같은 시험 용어를 쉬운 말로 풀었습니다.' },
+        { href: '/guide', label: '공부 안내 글 (영어)', desc: '급수 비교, 합격 공부법, 시험 형식과 합격 기준.' },
+        { href: '/grape', label: '포도 품종 (영어)', desc: '주요 품종 12가지의 맛, 산지, 시험 포인트.' },
+        { href: '/region', label: '와인 산지 (영어)', desc: '보르도, 부르고뉴 등 주요 산지 12곳의 특징.' },
+      ]
+    : [
+        { href: `/level/1${q}`, label: 'All 100 WSET Level 1 questions', desc: 'Every Level 1 practice question on one page, each with the answer and explanation.' },
+        { href: `/level/2${q}`, label: 'All 100 WSET Level 2 questions', desc: 'Every Level 2 practice question on one page, each with the answer and explanation.' },
+        { href: `/practice${q}`, label: 'Free WSET mock exams', desc: 'A 20-question sample for each level with instant marking.' },
+        { href: `/glossary${q}`, label: 'Wine & WSET glossary', desc: 'Tannin, acidity, body and other exam terms in plain English.' },
+        { href: '/guide', label: 'Study guides', desc: 'Level comparisons, study plans, exam format and pass marks.' },
+        { href: '/grape', label: 'Grape varieties', desc: 'How the 12 principal grapes taste, where they grow, and what to pair.' },
+        { href: '/region', label: 'Wine regions', desc: 'Bordeaux, Burgundy and 10 more regions, with exam-relevant facts.' },
       ];
 
   const faqPageJsonLd = {
@@ -132,9 +149,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify([...allJsonLd, faqPageJsonLd])
-            .replace(/</g, '\\u003c')
-            .replace(/>/g, '\\u003e'),
+          __html: jsonLd([...allJsonLd, faqPageJsonLd]),
         }}
       />
 
@@ -184,7 +199,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         </div>
         <div className="premium-banner-actions">
           <TrackedAppStoreLink 
-            href="https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139" 
+            href={APP_STORE_URL}
             className="premium-app-store-btn"
           >
             <svg viewBox="0 0 384 512" width={16} height={16}>
@@ -195,63 +210,29 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         </div>
       </section>
 
-      {/* 2026 E-E-A-T Expert Section — Google Search Quality Signal */}
+      {/* Where to go next: crawlable links to every content hub */}
       <section style={{
         maxWidth: '960px',
         margin: '2rem auto 0',
         padding: '2rem 1.5rem',
         borderTop: '1px solid rgba(131, 45, 50, 0.12)',
       }}>
-        <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--text-secondary)', marginBottom: '1.5rem', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-          {lang === 'ko' ? '전문가 검증 플랫폼' : 'Expert-Verified Platform'}
+        <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--text-secondary)', marginBottom: '1rem', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+          {lang === 'ko' ? '무엇을 볼 수 있나요' : 'Study resources'}
         </h2>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '1.5rem' }}>
-          <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
-            <div style={{ width: '44px', height: '44px', borderRadius: '50%', backgroundColor: 'rgba(131,45,50,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#832d32" strokeWidth="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            </div>
-            <div>
-              <p style={{ margin: 0, fontWeight: 600, fontSize: '0.95rem', color: 'var(--text-primary)' }}>
-                {lang === 'ko' ? '공식 WSET 교재 기반' : 'Aligned to Official WSET Specification'}
-              </p>
-              <p style={{ margin: '4px 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
-                {lang === 'ko'
-                  ? '모든 문제와 해설은 WSET Level 1 & 2 공식 교육 사양서에 근거하여 작성되었습니다.'
-                  : 'All questions and explanations are based on the official WSET Level 1 & 2 Award in Wines specifications.'}
-              </p>
-            </div>
-          </div>
-          <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
-            <div style={{ width: '44px', height: '44px', borderRadius: '50%', backgroundColor: 'rgba(131,45,50,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#832d32" strokeWidth="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
-            </div>
-            <div>
-              <p style={{ margin: 0, fontWeight: 600, fontSize: '0.95rem', color: 'var(--text-primary)' }}>
-                {lang === 'ko' ? '400개 파일 100% 구조 검증' : '400 Files Structurally Verified'}
-              </p>
-              <p style={{ margin: '4px 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
-                {lang === 'ko'
-                  ? '자동화 검증 스크립트를 통해 모든 콘텐츠의 구조적 정확성과 중복 여부를 검증하였습니다.'
-                  : 'All 400 content files passed automated structural integrity and duplication checks with zero errors found.'}
-              </p>
-            </div>
-          </div>
-          <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
-            <div style={{ width: '44px', height: '44px', borderRadius: '50%', backgroundColor: 'rgba(131,45,50,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#832d32" strokeWidth="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-            </div>
-            <div>
-              <p style={{ margin: 0, fontWeight: 600, fontSize: '0.95rem', color: 'var(--text-primary)' }}>
-                {lang === 'ko' ? '한국어 · 영어 이중 언어 지원' : 'Korean & English Bilingual'}
-              </p>
-              <p style={{ margin: '4px 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
-                {lang === 'ko'
-                  ? '동일한 내용을 한국어와 영어로 1:1 제공하여 전 세계 어느 WSET 수험생도 학습할 수 있습니다.'
-                  : 'All 200 episodes are available in both Korean and English with identical content depth for global WSET candidates.'}
-              </p>
-            </div>
-          </div>
-        </div>
+        <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '0.9rem 1.5rem' }}>
+          {hubLinks.map((h) => (
+            <li key={h.href}>
+              <a href={h.href} style={{ fontWeight: 600, fontSize: '0.95rem', color: '#832d32', textDecoration: 'none' }}>{h.label}</a>
+              <p style={{ margin: '4px 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>{h.desc}</p>
+            </li>
+          ))}
+        </ul>
+        <p style={{ margin: '1.5rem 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.6 }}>
+          {lang === 'ko'
+            ? '문제는 WSET 1급·2급 공개 교육과정의 주제에 맞춰 만들었고 모든 문제에 해설이 있습니다. 1급과 2급 문제 200개는 한국어와 영어로 같은 내용을 제공합니다. 에클라뱅은 WSET과 무관한 비공식 학습 자료입니다.'
+            : 'Questions follow the topics of the published WSET Level 1 and Level 2 syllabuses, and every question has a full explanation. All 200 questions are available in English and Korean. Eclavin is an independent study resource, not affiliated with WSET.'}
+        </p>
       </section>
 
       {/* FAQ — visible content backing the FAQPage JSON-LD above */}
@@ -282,19 +263,6 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         </div>
       </section>
 
-      <footer className="page-footer">
-        <div className="footer-content">
-          <p>© 2026 에클라뱅(Eclavin). Editorial Wine Education Platform.</p>
-          <p style={{ marginTop: '0.5rem', fontSize: '0.8rem', opacity: 0.6 }}>
-            {lang === 'ko'
-              ? 'AI 크롤러용 지식 베이스: '
-              : 'AI Crawler Knowledge Base: '}
-            <a href="/llms.txt" style={{ color: 'inherit', textDecoration: 'underline' }}>llms.txt</a>
-            {' · '}
-            <a href="/llms-full.txt" style={{ color: 'inherit', textDecoration: 'underline' }}>llms-full.txt</a>
-          </p>
-        </div>
-      </footer>
     </main>
   );
 }

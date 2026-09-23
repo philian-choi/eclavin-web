@@ -1,76 +1,71 @@
 import { MetadataRoute } from 'next';
 import { getAllEpisodes } from '@/lib/episodes';
-import { PRACTICE_SLUGS } from '@/lib/practiceConfig';
-import { GUIDE_SLUGS } from '@/lib/guidesConfig';
+import { PRACTICE_LEVELS } from '@/lib/practiceConfig';
+import { GUIDES } from '@/lib/guidesConfig';
 import { GLOSSARY_SLUGS } from '@/lib/glossaryConfig';
 import { GRAPE_SLUGS } from '@/lib/grapeConfig';
 import { REGION_SLUGS } from '@/lib/regionConfig';
+import { BASE_URL, SITEWIDE_UPDATED } from '@/lib/site';
+
+/**
+ * Only canonical addresses go in here. Bilingual pages canonicalise to
+ * ?lang=en / ?lang=ko, so both variants are listed (with each other as
+ * alternates) and the bare address, which is only the language-picking
+ * x-default, is not.
+ *
+ * lastmod is the later of the page's own content date and SITEWIDE_UPDATED.
+ * Content dates come from the registries (guides carry their own), so a new
+ * or edited page updates its entry without anyone touching this file.
+ */
+
+// Last change to the question text of the 400 question pages.
+const QUESTIONS_CONTENT = '2026-07-22';
+// First publication of the glossary, grape and region pages; unchanged since.
+const GLOSSARY_CONTENT = '2026-07-24';
+const GRAPES_CONTENT = '2026-07-24';
+const REGIONS_CONTENT = '2026-07-26';
+// Home, practice, level and about pages were rewritten on this date.
+const HUBS_CONTENT = '2026-09-23';
+
+function lastmod(contentDate: string): Date {
+  return new Date(contentDate > SITEWIDE_UPDATED ? contentDate : SITEWIDE_UPDATED);
+}
+
+function bilingual(path: string, contentDate: string): MetadataRoute.Sitemap {
+  const en = `${BASE_URL}${path}?lang=en`;
+  const ko = `${BASE_URL}${path}?lang=ko`;
+  const alternates = { languages: { en, ko } };
+  return [
+    { url: en, lastModified: lastmod(contentDate), alternates },
+    { url: ko, lastModified: lastmod(contentDate), alternates },
+  ];
+}
+
+function single(path: string, contentDate: string): MetadataRoute.Sitemap[number] {
+  return { url: `${BASE_URL}${path}`, lastModified: lastmod(contentDate) };
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.eclavin.com';
-  // Date of the last real content/markup change — update when content actually changes.
-  // (A fake "always now" lastModified teaches crawlers to ignore the field.)
-  const contentUpdated = new Date('2026-07-22');
-  const contentAdded = new Date('2026-07-24');
+  const levels = Object.values(PRACTICE_LEVELS);
 
-  // Standard routes
-  const routes = [
-    '',
-    '/?lang=ko',
-    '/?lang=en',
-  ].map((route) => ({
-    url: `${baseUrl}${route}`,
-    lastModified: contentUpdated,
-    changeFrequency: 'weekly' as const,
-    priority: 1,
-  }));
+  const questionPages = levels.flatMap((l) =>
+    getAllEpisodes(l.levelNum, 'en').flatMap((e) => bilingual(`/level/${l.levelNum}/episode/${e.id}`, QUESTIONS_CONTENT)),
+  );
 
-  const l1_ko = getAllEpisodes(1, 'ko').map(e => ({
-    url: `${baseUrl}/level/1/episode/${e.id}?lang=ko`,
-    lastModified: contentUpdated,
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }));
-
-  const l1_en = getAllEpisodes(1, 'en').map(e => ({
-    url: `${baseUrl}/level/1/episode/${e.id}?lang=en`,
-    lastModified: contentUpdated,
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }));
-
-  const l2_ko = getAllEpisodes(2, 'ko').map(e => ({
-    url: `${baseUrl}/level/2/episode/${e.id}?lang=ko`,
-    lastModified: contentUpdated,
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }));
-
-  const l2_en = getAllEpisodes(2, 'en').map(e => ({
-    url: `${baseUrl}/level/2/episode/${e.id}?lang=en`,
-    lastModified: contentUpdated,
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }));
-
-  // English SEO content: practice hub, per-level practice pages, guides.
-  const contentPages = [
-    { url: `${baseUrl}/practice`, priority: 0.9 },
-    ...PRACTICE_SLUGS.map((slug) => ({ url: `${baseUrl}/practice/${slug}`, priority: 0.9 })),
-    { url: `${baseUrl}/guide`, priority: 0.7 },
-    ...GUIDE_SLUGS.map((slug) => ({ url: `${baseUrl}/guide/${slug}`, priority: 0.7 })),
-    { url: `${baseUrl}/glossary`, priority: 0.6 },
-    ...GLOSSARY_SLUGS.map((slug) => ({ url: `${baseUrl}/glossary/${slug}`, priority: 0.5 })),
-    { url: `${baseUrl}/grape`, priority: 0.7 },
-    ...GRAPE_SLUGS.map((slug) => ({ url: `${baseUrl}/grape/${slug}`, priority: 0.6 })),
-    { url: `${baseUrl}/region`, priority: 0.7 },
-    ...REGION_SLUGS.map((slug) => ({ url: `${baseUrl}/region/${slug}`, priority: 0.6 })),
-  ].map((p) => ({
-    url: p.url,
-    lastModified: contentAdded,
-    changeFrequency: 'weekly' as const,
-    priority: p.priority,
-  }));
-
-  return [...routes, ...contentPages, ...l1_ko, ...l1_en, ...l2_ko, ...l2_en];
+  return [
+    ...bilingual('/', HUBS_CONTENT),
+    ...bilingual('/practice', HUBS_CONTENT),
+    ...levels.flatMap((l) => bilingual(`/practice/${l.slug}`, l.updated)),
+    ...levels.flatMap((l) => bilingual(`/level/${l.levelNum}`, HUBS_CONTENT)),
+    ...bilingual('/glossary', GLOSSARY_CONTENT),
+    ...GLOSSARY_SLUGS.flatMap((slug) => bilingual(`/glossary/${slug}`, GLOSSARY_CONTENT)),
+    single('/guide', GUIDES.map((g) => g.dateModified).sort().at(-1)!),
+    ...GUIDES.map((g) => single(`/guide/${g.slug}`, g.dateModified)),
+    single('/grape', GRAPES_CONTENT),
+    ...GRAPE_SLUGS.map((slug) => single(`/grape/${slug}`, GRAPES_CONTENT)),
+    single('/region', REGIONS_CONTENT),
+    ...REGION_SLUGS.map((slug) => single(`/region/${slug}`, REGIONS_CONTENT)),
+    single('/about', HUBS_CONTENT),
+    ...questionPages,
+  ];
 }

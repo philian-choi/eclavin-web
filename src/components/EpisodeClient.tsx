@@ -11,6 +11,7 @@ import { useEpisodeQuiz } from '@/hooks/useEpisodeQuiz';
 import { usePostHog } from 'posthog-js/react';
 
 import StoryShare from './StoryShare';
+import { APP_STORE_URL } from '@/lib/site';
 
 export default function EpisodeClient({ episode, initialLang }: { episode: Episode, initialLang?: string }) {
   const { language: storedLang } = useStore();
@@ -162,12 +163,12 @@ function AppPromoCard({ t }: { t: any }) {
           </div>
           <p className="promo-tagline">
             {t.promo_desc || (t.lang === 'en' 
-              ? "Get 1,800+ mock exam questions, mistake analysis, and Level 3 master notes." 
-              : "1,800개 이상의 적중 기출문제, 오답 분석, Level 3 완벽 지원 모의고사 수록!")}
+              ? "2,000+ questions across Levels 1, 2 and 3, with mock exams and a wrong-answer notebook."
+              : "1·2·3급 문제 2,000개 이상, 모의고사와 오답 노트가 들어 있습니다.")}
           </p>
         </div>
         <a 
-          href="https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139" 
+          href={APP_STORE_URL}
           target="_blank" 
           rel="noopener noreferrer" 
           className="promo-action-link"

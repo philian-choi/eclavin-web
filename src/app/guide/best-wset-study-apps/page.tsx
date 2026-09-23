@@ -1,18 +1,24 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { getGuide } from '@/lib/guidesConfig';
+import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/best-wset-study-apps`;
+const GUIDE = getGuide('best-wset-study-apps')!;
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang=\"en\">).
+export const dynamic = 'force-static';
 const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
-const UPDATED = '2026-07-24';
+  'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
   title: 'Best WSET Study Apps & Tools in 2026: An Honest Guide',
   description:
-    'An honest, non-promotional guide to the types of WSET study tools in 2026: official courses, practice-question apps, flashcards, free quizzes, and guides, with what each is best for and how to choose.',
+    'An honest guide to WSET study tools in 2026: official courses, practice-question apps, flashcards, free quizzes and guides, and what each is best for.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'Best WSET Study Apps & Tools in 2026: An Honest Guide',
@@ -83,11 +89,11 @@ export default function BestWsetAppsGuide() {
     headline: 'Best WSET Study Apps & Tools in 2026: An Honest Guide',
     description:
       'An honest guide to the types of WSET study tools in 2026 and how to choose one.',
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: PAGE_URL,
-    datePublished: UPDATED,
-    dateModified: UPDATED,
+    datePublished: GUIDE.datePublished,
+    dateModified: GUIDE.dateModified,
     inLanguage: 'en',
   };
 
@@ -111,9 +117,7 @@ export default function BestWsetAppsGuide() {
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -127,7 +131,7 @@ export default function BestWsetAppsGuide() {
 
         <h1 className={styles.h1}>Best WSET Study Apps & Tools in 2026</h1>
         <p className={styles.subtitle}>
-          An honest guide to the main types of tools, and how to pick one. Updated 2026.
+          An honest guide to the main types of tools, and how to pick one. Updated {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®

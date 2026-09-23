@@ -18,6 +18,10 @@ export type AnalyticsEvent = {
 };
 
 export const logEvent = async (event: AnalyticsEvent) => {
+  // Without a configured Supabase project every page view fired requests at the
+  // placeholder URL, which the CSP blocks, filling the console with errors.
+  // PostHog still records page views; this logger only runs when Supabase is set up.
+  if (!process.env.NEXT_PUBLIC_SUPABASE_URL) return;
   try {
     const fingerprint = getFingerprint();
     const { error } = await supabase.from('analytics_events').insert({

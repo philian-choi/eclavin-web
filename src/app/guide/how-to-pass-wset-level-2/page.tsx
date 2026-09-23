@@ -1,17 +1,24 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { getGuide } from '@/lib/guidesConfig';
+import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/how-to-pass-wset-level-2`;
+const GUIDE = getGuide('how-to-pass-wset-level-2')!;
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang=\"en\">).
+export const dynamic = 'force-static';
 const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+  'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
   title: 'How to Pass WSET Level 2: Study Plan & Tips (2026)',
   description:
-    'A practical study plan for the WSET Level 2 Award in Wines: how much time you need, which topics to focus on, the most common exam traps, and how to use practice questions to pass.',
+    'A practical study plan for WSET Level 2 in Wines: how much time you need, which topics to focus on, the common exam traps, and how to use practice questions.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'How to Pass WSET Level 2: Study Plan & Tips',
@@ -54,11 +61,11 @@ export default function HowToPassLevel2Guide() {
     headline: 'How to Pass WSET Level 2: Study Plan & Tips',
     description:
       'A practical study plan for the WSET Level 2 Award in Wines: time needed, focus topics, common traps, and how to use practice questions.',
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: PAGE_URL,
-    datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    datePublished: GUIDE.datePublished,
+    dateModified: GUIDE.dateModified,
     inLanguage: 'en',
   };
 
@@ -82,9 +89,7 @@ export default function HowToPassLevel2Guide() {
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -98,7 +103,7 @@ export default function HowToPassLevel2Guide() {
 
         <h1 className={styles.h1}>How to Pass WSET Level 2</h1>
         <p className={styles.subtitle}>
-          A practical study plan and the traps to watch for. Updated 2026.
+          A practical study plan and the traps to watch for. Updated {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®
@@ -151,9 +156,9 @@ export default function HowToPassLevel2Guide() {
         <section className={styles.cta}>
           <h2>Drill Level 2 questions now</h2>
           <p>
-            Start with free Level 2 practice questions, then get the full 100-question bank, mock
-            exams, and a wrong-answer notebook that keeps resurfacing your weak spots in the Eclavin
-            app.
+            Start with all 100 free Level 2 practice questions, then practise with the Eclavin app’s
+            2,000+ questions, mock exams, and a wrong-answer notebook that keeps resurfacing your weak
+            spots.
           </p>
           <TrackedAppStoreLink href={APP_STORE_URL} className={styles.ctaButton}>
             <svg viewBox="0 0 384 512" width={16} height={16} fill="currentColor" aria-hidden="true">

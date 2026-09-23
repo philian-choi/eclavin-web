@@ -3,12 +3,15 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getGrape, GRAPES, GRAPE_SLUGS } from '@/lib/grapeConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { BASE_URL, APP_STORE_URL, ORG_REF, clip, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
-const BASE_URL = 'https://www.eclavin.com';
-const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+// First published on this date; the page content has not changed since.
 const UPDATED = '2026-07-24';
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang="en">).
+export const dynamic = 'force-static';
 
 export function generateStaticParams() {
   return GRAPE_SLUGS.map((variety) => ({ variety }));
@@ -25,8 +28,8 @@ export async function generateMetadata({
   const url = `${BASE_URL}/grape/${g.slug}`;
   const title = `${g.name}: Taste, Style & Regions (2026)`;
   return {
-    title: `${title} | Eclavin`,
-    description: `${g.name} explained for WSET students: ${g.short} ${g.character}`.slice(0, 300),
+    title: title.length > 50 ? title : `${title} | Eclavin`,
+    description: clip(`${g.name} explained for WSET students: ${g.short} ${g.character}`, 158),
     alternates: { canonical: url },
     openGraph: {
       title,
@@ -49,7 +52,9 @@ export default async function GrapePage({
   if (!g) notFound();
 
   const pageUrl = `${BASE_URL}/grape/${g.slug}`;
-  const others = GRAPES.filter((x) => x.slug !== g.slug).slice(0, 6);
+  // The next six after this one, wrapping, so every page gets links from its neighbours.
+  const idx = GRAPES.findIndex((x) => x.slug === g.slug);
+  const others = Array.from({ length: Math.min(6, GRAPES.length - 1) }, (_, k) => GRAPES[(idx + 1 + k) % GRAPES.length]);
 
   const articleJsonLd = {
     '@context': 'https://schema.org',
@@ -57,8 +62,8 @@ export default async function GrapePage({
     headline: `${g.name}: Taste, Style & Regions`,
     description: g.short,
     about: { '@type': 'Thing', name: `${g.name} (grape variety)` },
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: pageUrl,
     datePublished: UPDATED,
     dateModified: UPDATED,
@@ -85,9 +90,7 @@ export default async function GrapePage({
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">

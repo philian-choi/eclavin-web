@@ -4,11 +4,8 @@ import { headers } from 'next/headers';
 import { notFound } from 'next/navigation';
 import { getGlossaryTerm, GLOSSARY, GLOSSARY_SLUGS, GlossaryLang } from '@/lib/glossaryConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { BASE_URL, APP_STORE_URL, ORG_REF, clip, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
-
-const BASE_URL = 'https://www.eclavin.com';
-const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
 
 interface Ui {
   home: string;
@@ -71,11 +68,19 @@ export function generateStaticParams() {
   return GLOSSARY_SLUGS.map((term) => ({ term }));
 }
 
-async function resolveLang(searchParams: Promise<{ lang?: string }>): Promise<GlossaryLang> {
+async function pageLang(searchParams: Promise<{ lang?: string }>): Promise<GlossaryLang> {
   const sp = await searchParams;
-  if (sp.lang === 'ko' || sp.lang === 'en') return sp.lang;
-  const country = (await headers()).get('x-vercel-ip-country') || 'US';
-  return country === 'KR' ? 'ko' : 'en';
+  return resolveLang(sp.lang, (await headers()).get('x-vercel-ip-country'));
+}
+
+/**
+ * The next six terms after this one, wrapping around. It used to be the first
+ * six terms of the list on every page, so those six got twenty inbound links
+ * and the other fourteen were reachable only from the glossary index.
+ */
+function neighbours(slug: string, count = 6) {
+  const i = GLOSSARY.findIndex((g) => g.slug === slug);
+  return Array.from({ length: Math.min(count, GLOSSARY.length - 1) }, (_, k) => GLOSSARY[(i + 1 + k) % GLOSSARY.length]);
 }
 
 export async function generateMetadata({
@@ -88,26 +93,27 @@ export async function generateMetadata({
   const { term } = await params;
   const t = getGlossaryTerm(term);
   if (!t) return {};
-  const lang = await resolveLang(searchParams);
+  const lang = await pageLang(searchParams);
   const c = t.copy[lang];
   const url = `${BASE_URL}/glossary/${t.slug}`;
   const title = lang === 'ko' ? `${c.term} 뜻 — 와인·WSET 용어` : `${c.term} — Wine & WSET Glossary`;
+  // The one-line summary alone was ~60 characters; add the exam angle so the
+  // result snippet says why the page is worth opening.
+  const description = lang === 'ko'
+    ? clip(`${c.term} 뜻: ${c.short} ${c.whyItMatters}`, 110)
+    : clip(`${c.term}: ${c.short} ${c.whyItMatters}`, 158);
   return {
     title: `${title} | Eclavin`,
-    description: c.short,
+    description,
     alternates: {
       canonical: `${url}?lang=${lang}`,
-      languages: {
-        'en-US': `${url}?lang=en`,
-        'ko-KR': `${url}?lang=ko`,
-        'x-default': url,
-      },
+      languages: languageAlternates(url),
     },
     openGraph: {
       title,
-      description: c.short,
+      description,
       type: 'article',
-      url,
+      url: `${url}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
       images: [`${BASE_URL}/og-image.png`],
     },
@@ -126,12 +132,12 @@ export default async function GlossaryTermPage({
   const t = getGlossaryTerm(term);
   if (!t) notFound();
 
-  const lang = await resolveLang(searchParams);
+  const lang = await pageLang(searchParams);
   const ui = UI[lang];
   const c = t.copy[lang];
   const langQuery = `?lang=${lang}`;
-  const pageUrl = `${BASE_URL}/glossary/${t.slug}`;
-  const others = GLOSSARY.filter((g) => g.slug !== t.slug).slice(0, 6);
+  const pageUrl = `${BASE_URL}/glossary/${t.slug}${langQuery}`;
+  const others = neighbours(t.slug);
 
   const definedTermJsonLd = {
     '@context': 'https://schema.org',
@@ -141,9 +147,10 @@ export default async function GlossaryTermPage({
     inDefinedTermSet: {
       '@type': 'DefinedTermSet',
       name: 'Eclavin Wine & WSET Glossary',
-      url: `${BASE_URL}/glossary`,
+      url: `${BASE_URL}/glossary${langQuery}`,
+      publisher: ORG_REF,
     },
-    inLanguage: lang === 'ko' ? 'ko-KR' : 'en-US',
+    inLanguage: lang,
     url: pageUrl,
   };
 
@@ -151,15 +158,13 @@ export default async function GlossaryTermPage({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: ui.home, item: BASE_URL },
-      { '@type': 'ListItem', position: 2, name: ui.glossary, item: `${BASE_URL}/glossary` },
+      { '@type': 'ListItem', position: 1, name: ui.home, item: `${BASE_URL}/${langQuery}` },
+      { '@type': 'ListItem', position: 2, name: ui.glossary, item: `${BASE_URL}/glossary${langQuery}` },
       { '@type': 'ListItem', position: 3, name: c.term, item: pageUrl },
     ],
   };
 
-  const ld = JSON.stringify([definedTermJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([definedTermJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">

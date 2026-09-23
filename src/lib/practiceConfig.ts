@@ -28,7 +28,8 @@ export interface PracticeLevelConfig {
   slug: string; // URL segment, e.g. "wset-level-2"
   levelNum: number; // 1 | 2 (matches content folder l{n} / l{n}_en)
   levelLabel: string; // "Level 2"
-  bankSize: number; // total questions in the app bank for this level
+  /** Date the page copy last changed, shown on the page and used as its sitemap lastmod. */
+  updated: string;
   factValues: string[]; // shared across languages, in order
   copy: Record<PracticeLang, LevelCopy>;
 }
@@ -49,15 +50,15 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
     slug: 'wset-level-1',
     levelNum: 1,
     levelLabel: 'Level 1',
-    bankSize: 100,
+    updated: '2026-09-23',
     factValues: ['30', '45', '70%', '~6h'],
     copy: {
       en: {
-        metaTitle: 'WSET Level 1 Practice Questions — Free Mock Exam with Answers (2026)',
+        metaTitle: 'WSET Level 1 Practice Questions: Free Mock Exam with Answers',
         metaDescription:
-          'Free WSET Level 1 practice questions with answers and clear explanations. Test yourself on wine styles, common grapes, storage and service, then master all 100 questions in the Eclavin app.',
+          'Free WSET Level 1 practice questions with answers and clear explanations. Test wine styles, common grapes, storage and service. 100 questions, all free.',
         h1: 'WSET Level 1 Practice Questions',
-        subtitle: 'A free mock exam with answers and beginner-friendly explanations. Updated 2026.',
+        subtitle: 'A free mock exam with answers and beginner-friendly explanations.',
         shortAnswerLead:
           'The WSET Level 1 Award in Wines exam is 30 multiple-choice questions in 45 minutes, with a 70% pass mark (21 correct).',
         factLabels: ['questions', 'minutes', 'to pass', 'typical study'],
@@ -83,7 +84,7 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
           },
           {
             q: 'Are these WSET Level 1 practice questions free?',
-            a: 'Yes. The questions on this page are a free sample with full answers and explanations. The complete set of 100 Level 1 questions, plus mock exams and a wrong-answer review notebook, is in the Eclavin app.',
+            a: 'Yes. All 100 Level 1 questions on Eclavin are free, each with the answer and a full explanation, and there is no sign-up. The Eclavin iOS app adds 2,000+ questions across Levels 1, 2 and 3, mock exams and a wrong-answer notebook.',
           },
           {
             q: 'What does WSET Level 1 cover?',
@@ -93,11 +94,11 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
         ],
       },
       ko: {
-        metaTitle: 'WSET 1급(Level 1) 기출·연습문제 — 무료 모의고사와 해설 (2026)',
+        metaTitle: 'WSET 1급 기출 유형 연습문제: 무료 모의고사와 해설',
         metaDescription:
-          'WSET 1급(Level 1) 무료 연습문제를 해설과 함께 풀어보세요. 와인 종류, 대표 품종, 보관과 서비스를 점검하고, 에클라뱅 앱에서 100문제 전체를 정복하세요.',
+          'WSET 1급(Level 1) 무료 연습문제를 해설과 함께 풀어 보세요. 와인 종류, 대표 품종, 보관과 서비스를 점검합니다. 1급 문제 100개가 모두 무료입니다.',
         h1: 'WSET 1급 연습문제',
-        subtitle: '무료 모의고사와 초보자용 해설. 2026년 최신.',
+        subtitle: '무료 모의고사와 초보자용 해설.',
         shortAnswerLead:
           'WSET 1급(Level 1) 시험은 45분 동안 4지선다 30문제를 풉니다. 합격 기준은 70%(21문제)입니다.',
         factLabels: ['문제', '분', '합격 기준', '권장 학습'],
@@ -123,7 +124,7 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
           },
           {
             q: '이 1급 연습문제는 무료인가요?',
-            a: '네. 이 페이지의 문제는 해설이 포함된 무료 샘플입니다. 1급 100문제 전체와 모의고사, 오답 복습 노트는 에클라뱅 앱에 있습니다.',
+            a: '네. 에클라뱅의 1급 문제 100개는 모두 무료이고 정답과 해설이 있습니다. 가입도 필요 없습니다. 에클라뱅 아이폰 앱에는 1·2·3급 문제 2,000개 이상과 모의고사, 오답 노트가 있습니다.',
           },
           {
             q: 'WSET 1급은 무엇을 다루나요?',
@@ -139,15 +140,15 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
     slug: 'wset-level-2',
     levelNum: 2,
     levelLabel: 'Level 2',
-    bankSize: 100,
+    updated: '2026-09-23',
     factValues: ['50', '60', '55%', '~28h'],
     copy: {
       en: {
-        metaTitle: 'WSET Level 2 Practice Questions — Free Mock Exam with Answers (2026)',
+        metaTitle: 'WSET Level 2 Practice Questions: Free Mock Exam with Answers',
         metaDescription:
-          'Free WSET Level 2 practice questions with answers and expert explanations. Test yourself on grape varieties, wine styles, and food pairing, then master all 100 questions in the Eclavin app.',
+          'Free WSET Level 2 practice questions with answers and full explanations. Test grape varieties, wine styles and food pairing. 100 questions, all free.',
         h1: 'WSET Level 2 Practice Questions',
-        subtitle: 'A free mock exam with answers and expert explanations. Updated 2026.',
+        subtitle: 'A free mock exam with answers and full explanations.',
         shortAnswerLead:
           'The WSET Level 2 Award in Wines exam is 50 multiple-choice questions in 60 minutes, with a 55% pass mark (85% for a Distinction).',
         factLabels: ['questions', 'minutes', 'to pass', 'typical study'],
@@ -174,7 +175,7 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
           },
           {
             q: 'Are these WSET Level 2 practice questions free?',
-            a: 'Yes. The questions on this page are a free sample with full answers and explanations. The complete set of 100 Level 2 questions, plus mock exams and a wrong-answer review notebook, is available in the Eclavin app.',
+            a: 'Yes. All 100 Level 2 questions on Eclavin are free, each with the answer and a full explanation, and there is no sign-up. The Eclavin iOS app adds 2,000+ questions across Levels 1, 2 and 3, mock exams and a wrong-answer notebook.',
           },
           {
             q: 'What topics does WSET Level 2 cover?',
@@ -184,11 +185,11 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
         ],
       },
       ko: {
-        metaTitle: 'WSET 2급(Level 2) 기출·연습문제 — 무료 모의고사와 해설 (2026)',
+        metaTitle: 'WSET 2급 기출 유형 연습문제: 무료 모의고사와 해설',
         metaDescription:
-          'WSET 2급(Level 2) 무료 연습문제를 전문가 해설과 함께 풀어보세요. 포도 품종, 와인 스타일, 음식 페어링을 점검하고, 에클라뱅 앱에서 100문제 전체를 정복하세요.',
+          'WSET 2급(Level 2) 무료 연습문제를 해설과 함께 풀어 보세요. 포도 품종, 와인 스타일, 음식 페어링을 점검합니다. 2급 문제 100개가 모두 무료입니다.',
         h1: 'WSET 2급 연습문제',
-        subtitle: '무료 모의고사와 전문가 해설. 2026년 최신.',
+        subtitle: '무료 모의고사와 해설.',
         shortAnswerLead:
           'WSET 2급(Level 2) 시험은 60분 동안 4지선다 50문제를 풉니다. 합격 기준은 55%(28문제), 우수 합격(Distinction)은 85%(43문제)입니다.',
         factLabels: ['문제', '분', '합격 기준', '권장 학습'],
@@ -215,7 +216,7 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
           },
           {
             q: '이 2급 연습문제는 무료인가요?',
-            a: '네. 이 페이지의 문제는 해설이 포함된 무료 샘플입니다. 2급 100문제 전체와 모의고사, 오답 복습 노트는 에클라뱅 앱에 있습니다.',
+            a: '네. 에클라뱅의 2급 문제 100개는 모두 무료이고 정답과 해설이 있습니다. 가입도 필요 없습니다. 에클라뱅 아이폰 앱에는 1·2·3급 문제 2,000개 이상과 모의고사, 오답 노트가 있습니다.',
           },
           {
             q: 'WSET 2급은 무엇을 다루나요?',

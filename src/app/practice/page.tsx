@@ -3,18 +3,15 @@ import Link from 'next/link';
 import { headers } from 'next/headers';
 import { PRACTICE_SLUGS, getPracticeConfig, PracticeLang } from '@/lib/practiceConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
 import styles from './practice.module.css';
 
-const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/practice`;
-const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+const UPDATED = '2026-09-23';
 
-async function resolveLang(searchParams: Promise<{ lang?: string }>): Promise<PracticeLang> {
+async function pageLang(searchParams: Promise<{ lang?: string }>): Promise<PracticeLang> {
   const sp = await searchParams;
-  if (sp.lang === 'ko' || sp.lang === 'en') return sp.lang;
-  const country = (await headers()).get('x-vercel-ip-country') || 'US';
-  return country === 'KR' ? 'ko' : 'en';
+  return resolveLang(sp.lang, (await headers()).get('x-vercel-ip-country'));
 }
 
 interface HubStrings {
@@ -42,14 +39,14 @@ interface HubStrings {
 
 const UI: Record<PracticeLang, HubStrings> = {
   en: {
-    metaTitle: 'Free WSET Practice Exams — Level 1 & 2 Questions with Answers (2026)',
+    metaTitle: 'Free WSET Practice Exams: Level 1 & 2 Questions with Answers',
     metaDescription:
-      'Free WSET practice questions for Level 1 and Level 2, each with worked answers and expert explanations. Test yourself online, then master every question in the Eclavin app.',
+      'Free WSET practice questions for Level 1 and Level 2, each with the answer and a worked explanation. 200 questions, no sign-up. Test yourself online now.',
     home: 'Home',
     disclaimer: 'Unofficial study resource · not affiliated with or endorsed by WSET®',
     h1: 'Free WSET Practice Exams',
     subtitle:
-      'Original practice questions with worked answers and expert explanations. Pick your level and test yourself. Updated 2026.',
+      'Original practice questions with worked answers and explanations. Pick your level and test yourself. Updated 23 September 2026.',
     useTitle: 'How to use these',
     useBody:
       'Each level below has a free set of sample questions you can answer online and check instantly. Read the explanation on every one, right or wrong. When you want the full bank, mock exams, and a notebook that keeps resurfacing your weak spots, continue in the Eclavin app.',
@@ -58,13 +55,13 @@ const UI: Record<PracticeLang, HubStrings> = {
     startCta: 'Start practising →',
     appTitle: 'Study the whole syllabus in one app',
     appBody:
-      'Eclavin combines Level 1 and Level 2 into one bilingual study app: 200 questions, expert explanations, mock exams, and a wrong-answer review notebook.',
+      `Eclavin's bilingual iOS app has ${APP_QUESTIONS.en} questions across Levels 1, 2 and 3, with explanations, mock exams, and a wrong-answer review notebook.`,
     appButton: 'Download Eclavin on the App Store',
     faqTitle: 'Frequently asked questions',
     faqItems: [
       {
         q: 'Where can I find free WSET practice questions?',
-        a: 'This page links to free WSET Level 1 and Level 2 practice exams. Each question comes with the correct answer and a worked explanation. The full 100-question banks per level, mock exams, and a wrong-answer notebook are in the Eclavin app.',
+        a: 'This page links to free WSET Level 1 and Level 2 practice exams. Each question comes with the correct answer and a worked explanation, and all 100 questions for each level are free on this site. The Eclavin iOS app adds 2,000+ questions across Levels 1, 2 and 3, mock exams and a wrong-answer notebook.',
       },
       {
         q: 'What is the difference between WSET Level 1 and Level 2?',
@@ -85,14 +82,14 @@ const UI: Record<PracticeLang, HubStrings> = {
     glossary: 'Wine & WSET glossary',
   },
   ko: {
-    metaTitle: '무료 WSET 연습문제 — 1급·2급 기출 유형과 해설 (2026)',
+    metaTitle: '무료 WSET 연습문제: 1급·2급 기출 유형과 해설',
     metaDescription:
-      'WSET 1급과 2급 무료 연습문제를 정답과 해설로 풀어보세요. 온라인으로 바로 점검하고, 에클라뱅 앱에서 전 문제를 정복하세요.',
+      'WSET 1급과 2급 무료 연습문제를 정답과 해설로 풀어 보세요. 문제 200개가 모두 무료이고 가입도 필요 없습니다. 온라인으로 바로 점검할 수 있습니다.',
     home: '홈',
     disclaimer: '비공식 학습 자료 · WSET과 무관하며 공인받지 않았습니다',
     h1: '무료 WSET 연습문제',
     subtitle:
-      '정답과 전문가 해설이 붙은 연습문제입니다. 급수를 골라 바로 풀어보세요. 2026년 최신.',
+      '정답과 해설이 붙은 연습문제입니다. 급수를 골라 바로 풀어 보세요. 2026년 9월 23일 업데이트.',
     useTitle: '이렇게 쓰세요',
     useBody:
       '아래 각 급수에는 온라인으로 바로 채점되는 무료 샘플 문제가 있습니다. 맞든 틀리든 해설을 꼭 읽어 보세요. 문제 전체와 모의고사, 약점을 반복해서 다시 보여주는 오답 노트가 필요하면 에클라뱅 앱에서 이어가세요.',
@@ -101,13 +98,13 @@ const UI: Record<PracticeLang, HubStrings> = {
     startCta: '풀기 시작 →',
     appTitle: '한 앱에서 전 범위 공부',
     appBody:
-      '에클라뱅은 1급과 2급을 하나의 이중언어 학습 앱에 담았습니다. 200문제, 전문가 해설, 실전 모의고사, 오답 복습 노트가 있습니다.',
+      `에클라뱅 이중언어 아이폰 앱에는 1·2·3급 문제 ${APP_QUESTIONS.ko}와 해설, 실전 모의고사, 오답 복습 노트가 있습니다.`,
     appButton: '앱스토어에서 에클라뱅 받기',
     faqTitle: '자주 묻는 질문',
     faqItems: [
       {
         q: '무료 WSET 연습문제는 어디서 풀 수 있나요?',
-        a: '이 페이지에서 WSET 1급과 2급 무료 연습문제로 이동할 수 있습니다. 각 문제에는 정답과 해설이 있습니다. 급수별 100문제 전체와 모의고사, 오답 노트는 에클라뱅 앱에 있습니다.',
+        a: '이 페이지에서 WSET 1급과 2급 무료 연습문제로 이동할 수 있습니다. 각 문제에는 정답과 해설이 있고 급수별 100문제가 모두 무료입니다. 에클라뱅 아이폰 앱에는 1·2·3급 문제 2,000개 이상과 모의고사, 오답 노트가 있습니다.',
       },
       {
         q: 'WSET 1급과 2급은 무엇이 다른가요?',
@@ -134,24 +131,20 @@ export async function generateMetadata({
 }: {
   searchParams: Promise<{ lang?: string }>;
 }): Promise<Metadata> {
-  const lang = await resolveLang(searchParams);
+  const lang = await pageLang(searchParams);
   const t = UI[lang];
   return {
     title: t.metaTitle,
     description: t.metaDescription,
     alternates: {
       canonical: `${PAGE_URL}?lang=${lang}`,
-      languages: {
-        'en-US': `${PAGE_URL}?lang=en`,
-        'ko-KR': `${PAGE_URL}?lang=ko`,
-        'x-default': PAGE_URL,
-      },
+      languages: languageAlternates(PAGE_URL),
     },
     openGraph: {
       title: t.metaTitle,
       description: t.metaDescription,
       type: 'website',
-      url: PAGE_URL,
+      url: `${PAGE_URL}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
       images: [`${BASE_URL}/og-image.png`],
     },
@@ -164,7 +157,7 @@ export default async function PracticeHub({
 }: {
   searchParams: Promise<{ lang?: string }>;
 }) {
-  const lang = await resolveLang(searchParams);
+  const lang = await pageLang(searchParams);
   const t = UI[lang];
   const langQuery = `?lang=${lang}`;
   const levels = PRACTICE_SLUGS.map((slug) => getPracticeConfig(slug)!);
@@ -173,11 +166,13 @@ export default async function PracticeHub({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: 'Free WSET Practice Exams',
+    dateModified: UPDATED,
+    publisher: ORG_REF,
     itemListElement: levels.map((cfg, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: `WSET ${cfg.levelLabel} Practice Questions`,
-      url: `${BASE_URL}/practice/${cfg.slug}`,
+      url: `${BASE_URL}/practice/${cfg.slug}${langQuery}`,
     })),
   };
 
@@ -195,14 +190,12 @@ export default async function PracticeHub({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: t.home, item: BASE_URL },
-      { '@type': 'ListItem', position: 2, name: 'Practice', item: PAGE_URL },
+      { '@type': 'ListItem', position: 1, name: t.home, item: `${BASE_URL}/${langQuery}` },
+      { '@type': 'ListItem', position: 2, name: lang === 'ko' ? '연습문제' : 'Practice', item: `${PAGE_URL}${langQuery}` },
     ],
   };
 
-  const ld = JSON.stringify([itemListJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([itemListJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -210,7 +203,7 @@ export default async function PracticeHub({
 
       <article className={styles.page}>
         <nav className={styles.breadcrumb} aria-label="Breadcrumb">
-          <Link href={`/${langQuery}`}>{t.home}</Link> / Practice
+          <Link href={`/${langQuery}`}>{t.home}</Link> / {lang === 'ko' ? '연습문제' : 'Practice'}
         </nav>
 
         <h1 className={styles.h1}>{t.h1}</h1>
@@ -261,9 +254,11 @@ export default async function PracticeHub({
         <section className={styles.related}>
           <h2>{t.moreTitle}</h2>
           <div className={styles.relatedLinks}>
+            <Link href={`/level/1${langQuery}`}>{lang === 'ko' ? '1급 문제 100개 전체' : 'All 100 Level 1 questions'}</Link>
+            <Link href={`/level/2${langQuery}`}>{lang === 'ko' ? '2급 문제 100개 전체' : 'All 100 Level 2 questions'}</Link>
             <Link href="/guide">{t.allGuides}</Link>
             <Link href="/guide/how-to-pass-wset-level-2">{t.howToL2}</Link>
-            <Link href="/glossary">{t.glossary}</Link>
+            <Link href={`/glossary${langQuery}`}>{t.glossary}</Link>
           </div>
         </section>
       </article>

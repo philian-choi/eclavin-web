@@ -12,7 +12,7 @@ export async function GET(req: NextRequest) {
     const lang = searchParams.get('lang') || 'ko';
 
     const labels = lang === 'ko' 
-      ? { title: 'WSET 기출문제', ep: '에피소드' }
+      ? { title: 'WSET 연습문제', ep: '에피소드' }
       : { title: 'WSET Practice', ep: 'Episode' };
 
     return new ImageResponse(

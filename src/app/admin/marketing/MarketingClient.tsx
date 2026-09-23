@@ -52,7 +52,7 @@ export default function MarketingClient({ l1_ko, l1_en, l2_ko, l2_en }: Marketin
     const isEn = selectedLang === 'en';
     const baseUrl = 'https://www.eclavin.com';
     const episodeUrl = `${baseUrl}/level/${selectedLevel}/episode/${activeEpisode.id}?lang=${selectedLang}`;
-    const appStoreUrl = 'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
+    const appStoreUrl = 'https://apps.apple.com/app/id6757098139';
 
     let contentToCopy = '';
 
@@ -60,17 +60,17 @@ export default function MarketingClient({ l1_ko, l1_en, l2_ko, l2_en }: Marketin
       const originalPost = activeEpisode.threadsPost || '';
       
       if (isEn) {
-        contentToCopy = `${originalPost}\n\n---\n👉 Read the full explanation and practice for FREE:\n${episodeUrl}\n\n🔥 Master WSET Exams from Level 1 to 3 with 1,800+ high-yield questions! Download Eclavin now on the App Store:\n${appStoreUrl}`;
+        contentToCopy = `${originalPost}\n\n---\n👉 Read the full explanation and practice for FREE:\n${episodeUrl}\n\n🔥 Practise WSET Levels 1 to 3 with 2,000+ questions in the Eclavin app:\n${appStoreUrl}`;
       } else {
-        contentToCopy = `${originalPost}\n\n---\n👉 이 문제의 전체 오답 분석과 상세 해설 무료로 보기:\n${episodeUrl}\n\n🔥 1,800개 이상의 적중 기출문제와 Level 3까지 완벽 마스터하려면? 에클라뱅 앱스토어 다운로드:\n${appStoreUrl}`;
+        contentToCopy = `${originalPost}\n\n---\n👉 이 문제의 전체 오답 분석과 상세 해설 무료로 보기:\n${episodeUrl}\n\n🔥 1·2·3급 문제 2,000개 이상은 에클라뱅 앱에서:\n${appStoreUrl}`;
       }
     } else {
       const originalShorts = activeEpisode.shortsScript || '';
       
       if (isEn) {
-        contentToCopy = `${originalShorts}\n\n---\n👉 Master WSET Exams for FREE at Eclavin Web: ${episodeUrl}\n👉 Download the full Eclavin App (1,800+ Questions): ${appStoreUrl}`;
+        contentToCopy = `${originalShorts}\n\n---\n👉 Master WSET Exams for FREE at Eclavin Web: ${episodeUrl}\n👉 Eclavin app (2,000+ questions): ${appStoreUrl}`;
       } else {
-        contentToCopy = `${originalShorts}\n\n---\n👉 WSET 1초 만에 무료 오답체크하기: ${episodeUrl}\n👉 1,800개 기출 족보 에클라뱅 앱스토어 바로가기: ${appStoreUrl}`;
+        contentToCopy = `${originalShorts}\n\n---\n👉 WSET 1초 만에 무료 오답체크하기: ${episodeUrl}\n👉 문제 2,000개 이상, 에클라뱅 앱스토어 바로가기: ${appStoreUrl}`;
       }
     }
 

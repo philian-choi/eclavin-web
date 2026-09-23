@@ -1,21 +1,28 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import { getGuide } from '@/lib/guidesConfig';
+import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/wset-exam-facts`;
+const GUIDE = getGuide('wset-exam-facts')!;
+const SOURCES_CHECKED = '2026-09-23';
+
+// English-only and identical for every visitor: prerender it. force-static also
+// keeps the root layout on its English default (<html lang=\"en\">).
+export const dynamic = 'force-static';
 const APP_STORE_URL =
-  'https://apps.apple.com/kr/app/eclavin-%EA%B5%AD%EC%A0%9C-%EC%99%80%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%EC%B9%98%ED%8A%B8%ED%82%A4/id6757098139';
-const UPDATED = '2026-07-24';
+  'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
-  title: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours (2026)',
+  title: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours',
   description:
-    'A single reference table of the WSET wine exam facts for every level: number of questions, time limit, pass mark, distinction, and recommended study hours. Free to cite with attribution.',
+    'One table of WSET wine exam facts for every level: number of questions, time limit, pass mark, distinction and study hours, with official sources.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
-    title: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours (2026)',
+    title: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours',
     description:
       'Every WSET wine level’s question count, time, pass mark, and study hours in one reference table.',
     type: 'article',
@@ -90,11 +97,11 @@ export default function WsetExamFactsPage() {
     headline: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours',
     description:
       'A reference table of WSET wine exam facts for every level: questions, time, pass mark, distinction, and study hours.',
-    author: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
-    publisher: { '@type': 'Organization', name: 'Eclavin', url: BASE_URL },
+    author: ORG_REF,
+    publisher: ORG_REF,
     mainEntityOfPage: PAGE_URL,
-    datePublished: UPDATED,
-    dateModified: UPDATED,
+    datePublished: GUIDE.datePublished,
+    dateModified: GUIDE.dateModified,
     inLanguage: 'en',
     isAccessibleForFree: true,
   };
@@ -119,9 +126,7 @@ export default function WsetExamFactsPage() {
     ],
   };
 
-  const ld = JSON.stringify([articleJsonLd, faqJsonLd, breadcrumbJsonLd])
-    .replace(/</g, '\\u003c')
-    .replace(/>/g, '\\u003e');
+  const ld = jsonLd([articleJsonLd, faqJsonLd, breadcrumbJsonLd]);
 
   return (
     <main className="main-container">
@@ -134,7 +139,7 @@ export default function WsetExamFactsPage() {
 
         <h1 className={styles.h1}>WSET Exam Facts</h1>
         <p className={styles.subtitle}>
-          Every level’s format, time, pass mark, and study hours in one table. Updated 2026.
+          Every level’s format, time, pass mark, and study hours in one table. Updated {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®
@@ -183,6 +188,13 @@ export default function WsetExamFactsPage() {
             You may cite this table with a link back to this page. The figures reflect the standard
             WSET Award in Wines exam formats; always confirm current details with an approved WSET
             provider before booking.
+          </p>
+          <p style={{ fontSize: '0.85rem', color: 'var(--text-tertiary)' }}>
+            Sources: the official WSET qualification pages for{' '}
+            <a href="https://www.wsetglobal.com/qualifications/wset-level-1-award-in-wines/" rel="noopener">Level 1</a>,{' '}
+            <a href="https://www.wsetglobal.com/qualifications/wset-level-2-award-in-wines/" rel="noopener">Level 2</a> and{' '}
+            <a href="https://www.wsetglobal.com/qualifications/wset-level-3-award-in-wines/" rel="noopener">Level 3</a>{' '}
+            (question counts, exam length and study hours), checked on {formatDateEn(SOURCES_CHECKED)}.
           </p>
 
           <h2 className={styles.sectionTitle}>How to read this</h2>
