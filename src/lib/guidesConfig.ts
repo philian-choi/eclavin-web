@@ -18,6 +18,14 @@ export interface GuideMeta {
 // this list, so adding a guide here (and its page file) wires it everywhere.
 export const GUIDES: GuideMeta[] = [
   {
+    slug: 'sweet-or-dry-wine-chart',
+    tag: 'Reference',
+    title: 'Sweet or Dry? Wine Sweetness Chart by Grape',
+    blurb: 'How sweet, full-bodied, acidic and tannic the 12 principal grapes usually are, and the label words for sweetness.',
+    datePublished: '2026-09-23',
+    dateModified: '2026-09-23',
+  },
+  {
     slug: 'wset-levels-explained',
     tag: 'Overview',
     title: 'WSET Levels Explained (1, 2, 3 & Diploma)',

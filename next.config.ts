@@ -39,6 +39,14 @@ const nextConfig: NextConfig = {
   turbopack: {
     // Enable turbopack build support with fallback for webpack plugins
   },
+  // Misspelt addresses Google picked up from elsewhere (seen in Search Console,
+  // 2026-09). They never existed; send them to the pages they meant.
+  async redirects() {
+    return [
+      { source: '/guide/is-wset-truth-it', destination: '/guide/is-wset-worth-it', permanent: true },
+      { source: '/guide/wset-level-1-vs-wset-level-2', destination: '/guide/wset-level-1-vs-level-2', permanent: true },
+    ];
+  },
   async rewrites() {
     return [
       {
