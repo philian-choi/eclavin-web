@@ -51,7 +51,7 @@ const faqItems = [
   },
   {
     q: 'Is Eclavin an official WSET product?',
-    a: 'No. Eclavin is an independent study app and is not affiliated with, endorsed by, or connected to WSET. It is a third-party practice tool for Level 1 and Level 2.',
+    a: 'No. Eclavin is an independent study app and is not affiliated with, endorsed by, or connected to WSET. It is a third-party practice tool for Levels 1, 2 and 3.',
   },
 ];
 
@@ -186,6 +186,8 @@ export default function HowToPassLevel2Guide() {
           <div className={styles.relatedLinks}>
             <Link href="/practice/wset-level-2">Level 2 practice questions</Link>
             <Link href="/guide/wset-level-1-vs-level-2">Level 1 vs Level 2</Link>
+            <Link href="/guide/wset-pass-merit-distinction">Pass, Merit and Distinction</Link>
+            <Link href="/guide/wset-level-2-cheat-sheet">Level 2 cheat sheet</Link>
             <Link href="/practice">All WSET practice exams</Link>
           </div>
         </section>

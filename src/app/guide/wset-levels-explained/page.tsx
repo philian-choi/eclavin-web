@@ -71,7 +71,7 @@ const rows: { level: string; who: string; exam: string; study: string }[] = [
   {
     level: 'Level 3',
     who: 'Serious students & trade',
-    exam: 'Theory (multiple choice + written) plus a blind tasting exam; 55% on each unit',
+    exam: 'Theory (multiple choice + written) plus a blind tasting exam; 55% in each part',
     study: '~84 hours',
   },
   {
@@ -190,7 +190,8 @@ export default function WsetLevelsExplainedGuide() {
           <p>
             A clear step up. You study how and why wines are the way they are, and the exam has two
             parts: a theory unit (multiple choice plus written answers) and a blind tasting unit. You
-            must pass both, at 55% each, and it takes around 84 hours.
+            must pass both, at 55% each (the multiple-choice and written papers count separately), and
+            it takes around 84 hours.
           </p>
 
           <h2 className={styles.sectionTitle}>Level 4: the Diploma</h2>
@@ -239,6 +240,7 @@ export default function WsetLevelsExplainedGuide() {
             <Link href="/practice">All WSET practice exams</Link>
             <Link href="/guide/wset-level-1-vs-level-2">Level 1 vs Level 2</Link>
             <Link href="/guide/wset-level-2-vs-level-3">Level 2 vs Level 3</Link>
+            <Link href="/guide/wset-pass-merit-distinction">Pass, Merit and Distinction</Link>
           </div>
         </section>
         <ChangeLog changes={GUIDE.changes} />

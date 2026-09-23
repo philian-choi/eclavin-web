@@ -15,7 +15,8 @@ export interface GrapeVariety {
   faq: GrapeFaq[];
 }
 
-// Principal WSET grape varieties. Facts are standard, exam-level descriptions.
+// The 8 principal WSET Level 2 grapes plus 4 regionally important ones (Grenache,
+// Sangiovese, Tempranillo, Malbec). Facts are standard, exam-level descriptions.
 export const GRAPES: GrapeVariety[] = [
   {
     slug: 'cabernet-sauvignon',

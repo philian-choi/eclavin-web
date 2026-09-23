@@ -163,6 +163,9 @@ export default async function GrapePage({
           <div className={styles.relatedLinks}>
             <Link href="/grape">All grape varieties</Link>
             <Link href="/guide/sweet-or-dry-wine-chart">Sweet or dry? Chart of all 12 grapes</Link>
+            {g.slug === 'pinot-grigio-gris' && (
+              <Link href="/guide/pinot-gris-vs-pinot-grigio">Pinot Gris vs Pinot Grigio compared</Link>
+            )}
             {others.map((x) => (
               <Link key={x.slug} href={`/grape/${x.slug}`}>
                 {x.name}

@@ -19,7 +19,7 @@ export const dynamic = 'force-static';
 
 const TITLE = 'Sweet or Dry? Wine Sweetness Chart for 12 Grapes | Eclavin';
 const DESCRIPTION =
-  'Is Merlot sweet? Is Chardonnay dry? One chart shows how sweet, full-bodied, acidic and tannic the 12 principal wine grapes usually are, plus the label words.';
+  'Is Merlot sweet? Is Chardonnay dry? One chart shows how sweet, full-bodied, acidic and tannic the 12 key WSET wine grapes usually are, plus the label words.';
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'Sweet or Dry? Wine Sweetness Chart by Grape',
-    description: 'How sweet, full-bodied, acidic and tannic the 12 principal wine grapes usually are.',
+    description: 'How sweet, full-bodied, acidic and tannic 12 key wine grapes usually are.',
     type: 'article',
     url: PAGE_URL,
     images: [ogImage(GUIDE.title, 'Wine reference chart')],
@@ -147,7 +147,8 @@ export default function SweetOrDryChartPage() {
 
         <h1 className={styles.h1}>Sweet or Dry? Wine Sweetness Chart by Grape</h1>
         <p className={styles.subtitle}>
-          The 12 principal WSET grapes at a glance. Updated {formatDateEn(GUIDE.dateModified)}.
+          The 8 principal WSET Level 2 grapes and 4 key regional grapes at a glance. Updated{' '}
+          {formatDateEn(GUIDE.dateModified)}.
         </p>
         <span className={styles.disclaimer}>
           Unofficial study resource · not affiliated with or endorsed by WSET®
@@ -156,7 +157,7 @@ export default function SweetOrDryChartPage() {
         <div className={styles.answerBox}>
           <h2>The short answer</h2>
           <p>
-            Wines from 11 of the 12 principal grapes are <strong>usually dry</strong>. The exception is{' '}
+            Wines from 11 of these 12 grapes are <strong>usually dry</strong>. The exception is{' '}
             <strong>Riesling</strong>, which is made in every style from bone dry to lusciously sweet.
             Fruity is not the same as sweet: ripe fruit, high alcohol and oak can make a dry wine taste
             sweet.
@@ -194,6 +195,12 @@ export default function SweetOrDryChartPage() {
         </div>
 
         <div className={styles.prose}>
+          <p style={{ fontSize: '0.85rem', color: 'var(--text-tertiary)' }}>
+            The WSET Level 2 specification names eight principal grapes: Cabernet Sauvignon, Merlot, Pinot
+            Noir, Syrah/Shiraz, Chardonnay, Sauvignon Blanc, Riesling and Pinot Grigio/Gris. Grenache,
+            Sangiovese, Tempranillo and Malbec are among its regionally important grapes.
+          </p>
+
           <h2 className={styles.sectionTitle}>Why a dry wine can taste sweet</h2>
           <p>
             Dry means that almost all the grape sugar was turned into alcohol during fermentation. Three

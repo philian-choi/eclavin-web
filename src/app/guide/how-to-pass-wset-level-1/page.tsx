@@ -51,7 +51,7 @@ const faqItems = [
   },
   {
     q: 'Is Eclavin an official WSET product?',
-    a: 'No. Eclavin is an independent study app and is not affiliated with, endorsed by, or connected to WSET. It is a third-party practice tool for Level 1 and Level 2.',
+    a: 'No. Eclavin is an independent study app and is not affiliated with, endorsed by, or connected to WSET. It is a third-party practice tool for Levels 1, 2 and 3.',
   },
 ];
 

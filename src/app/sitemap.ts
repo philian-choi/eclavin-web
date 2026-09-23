@@ -20,8 +20,9 @@ import { BASE_URL, SITEWIDE_UPDATED } from '@/lib/site';
 
 // Last change to the question text of the 400 question pages.
 const QUESTIONS_CONTENT = '2026-07-22';
-// First publication of the glossary, grape and region pages; unchanged since.
-const GLOSSARY_CONTENT = '2026-07-24';
+// Glossary: Korean synonyms (lees, 앙금, 말로락틱, 귀부병) added 2026-09-23.
+const GLOSSARY_CONTENT = '2026-09-23';
+// First publication of the grape and region pages; unchanged since.
 const GRAPES_CONTENT = '2026-07-24';
 const REGIONS_CONTENT = '2026-07-26';
 // Home, practice, level and about pages were rewritten on this date.

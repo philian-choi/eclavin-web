@@ -35,7 +35,7 @@ export const metadata: Metadata = {
 const faqItems = [
   {
     q: 'What is the pass mark for WSET Level 3?',
-    a: 'WSET Level 3 has two units, a theory unit and a tasting unit, and you need at least 55% on each. You must pass both to earn the qualification. If you pass one and fail the other, you resit only the unit you failed.',
+    a: 'WSET Level 3 has two units, a theory unit and a tasting unit, and you need at least 55% on each. Inside the theory unit, the multiple-choice paper and the written paper each need 55% on their own. You must pass both units to earn the qualification. If you pass one and fail the other, you resit only the unit you failed, and a resit caps your final grade at Pass with Merit.',
   },
   {
     q: 'How is WSET Level 3 different from Level 2?',
@@ -114,7 +114,8 @@ export default function HowToPassLevel3Guide() {
           <h2>The short answer</h2>
           <p>
             Level 3 has <strong>two units</strong>: a written theory unit and a blind tasting unit,
-            and you must pass <strong>both at 55%</strong>. Plan for about <strong>84 hours</strong> of
+            and you must pass <strong>both at 55%</strong> (the theory unit’s multiple-choice and written
+            papers count separately). Plan for about <strong>84 hours</strong> of
             study. Build theory with active recall, and practise the tasting method on real wines until
             the structure is automatic.
           </p>
@@ -186,6 +187,7 @@ export default function HowToPassLevel3Guide() {
             <Link href="/guide/wset-level-2-vs-level-3">Level 2 vs Level 3</Link>
             <Link href="/guide/wset-systematic-approach-to-tasting">Tasting method (SAT)</Link>
             <Link href="/practice/wset-level-2">Level 2 practice questions</Link>
+            <Link href="/guide/wset-pass-merit-distinction">Pass, Merit and Distinction</Link>
           </div>
         </section>
         <ChangeLog changes={GUIDE.changes} />

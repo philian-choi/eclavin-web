@@ -35,7 +35,7 @@ export const metadata: Metadata = {
 const faqItems = [
   {
     q: 'How much does WSET cost?',
-    a: 'Fees vary widely by provider and country, so check an approved provider near you for the current price. Budget for the course, the exam, and the study materials together.',
+    a: 'Each provider sets its own price. In 2026, Level 2 with the exam cost £465 to £630 at WSET School London, $699 online at Napa Valley Wine Academy in the US and ₩1,170,000 at Wine Vision Academy in Seoul. Level 1 costs less than half of that and Level 3 about one and a half to two times as much.',
   },
   {
     q: 'Which WSET level is worth it?',
@@ -129,9 +129,10 @@ export default function IsWsetWorthItGuide() {
 
           <h2 className={styles.sectionTitle}>The costs</h2>
           <p>
-            There are two: money and time. Course fees vary a lot by provider and country, so check an
-            approved provider near you for the current price. Time-wise, plan about 6 hours for Level 1,
-            28 for Level 2, and 84 for Level 3.
+            There are two: money and time. Each provider sets its own fee. In 2026, Level 2 with the exam
+            cost £465 to £630 in London, $699 online in the US and ₩1,170,000 in Seoul; see{' '}
+            <Link href="/guide/wset-cost">WSET cost by level</Link> for Levels 1 and 3 and the sources.
+            Time-wise, plan about 6 hours for Level 1, 28 for Level 2, and 84 for Level 3.
           </p>
 
           <h2 className={styles.sectionTitle}>Who it is worth it for</h2>
@@ -184,6 +185,7 @@ export default function IsWsetWorthItGuide() {
         <section className={styles.related}>
           <h2>Keep going</h2>
           <div className={styles.relatedLinks}>
+            <Link href="/guide/wset-cost">WSET cost by level</Link>
             <Link href="/guide/wset-levels-explained">WSET levels explained</Link>
             <Link href="/guide/wset-level-1-vs-level-2">Level 1 vs Level 2</Link>
             <Link href="/practice">Free practice exams</Link>

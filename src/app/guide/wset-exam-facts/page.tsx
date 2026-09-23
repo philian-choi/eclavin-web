@@ -3,7 +3,7 @@ import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
 import ChangeLog from '@/components/ChangeLog';
-import { EXAM_FACTS_CHECKED, ORG_REF, WSET_QUALIFICATION_PAGES, formatDateEn, jsonLd, ogImage } from '@/lib/site';
+import { EXAM_FACTS_CHECKED, ORG_REF, WSET_QUALIFICATION_PAGES, WSET_SPECIFICATIONS, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -19,7 +19,7 @@ const APP_STORE_URL =
 export const metadata: Metadata = {
   title: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours',
   description:
-    'One table of WSET wine exam facts for every level: number of questions, time limit, pass mark, distinction and study hours, with the official sources.',
+    'One table of WSET wine exam facts for every level: number of questions, time limit, pass mark, merit, distinction and study hours, with the official sources.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'WSET Exam Facts: Format, Time, Pass Marks & Study Hours',
@@ -35,11 +35,11 @@ export const metadata: Metadata = {
 const faqItems = [
   {
     q: 'What is the pass mark for each WSET wine level?',
-    a: 'WSET Level 1 requires 70% to pass, Level 2 requires 55% (with a Distinction at 85%), and Level 3 requires 55% on each of its two units, the theory unit and the tasting unit, with both needed to pass.',
+    a: 'WSET Level 1 requires 70% to pass. Level 2 requires 55%, with Merit at 70% and Distinction at 85%. Level 3 requires 55% in each part: the multiple-choice paper, the written paper and the blind tasting. Its Merit is 65% overall and its Distinction 80% overall with no paper below 65%.',
   },
   {
     q: 'How many questions are on the WSET exams?',
-    a: 'Level 1 has 30 multiple-choice questions in 45 minutes. Level 2 has 50 multiple-choice questions in 60 minutes. Level 3 has a theory unit (multiple-choice plus written short-answer questions) and a separate blind tasting exam of two wines.',
+    a: 'Level 1 has 30 multiple-choice questions in 45 minutes. Level 2 has 50 multiple-choice questions in 60 minutes. Level 3 has a two-hour theory paper (50 multiple-choice questions plus four written questions worth 25 marks each) and a separate 30-minute blind tasting of two wines.',
   },
   {
     q: 'How many hours should I study for each WSET level?',
@@ -55,12 +55,13 @@ const faqItems = [
   },
 ];
 
-const rows: { level: string; format: string; time: string; pass: string; distinction: string; hours: string }[] = [
+const rows: { level: string; format: string; time: string; pass: string; merit: string; distinction: string; hours: string }[] = [
   {
     level: 'Level 1',
     format: '30 multiple-choice questions',
     time: '45 minutes',
     pass: '70%',
+    merit: 'Not offered',
     distinction: 'Not offered',
     hours: '~6 hours',
   },
@@ -69,15 +70,17 @@ const rows: { level: string; format: string; time: string; pass: string; distinc
     format: '50 multiple-choice questions',
     time: '60 minutes',
     pass: '55%',
+    merit: '70%',
     distinction: '85%',
     hours: '~28 hours',
   },
   {
     level: 'Level 3',
-    format: 'Theory (multiple-choice + written) + blind tasting of 2 wines',
-    time: 'Split across two units',
-    pass: '55% on each unit, both required',
-    distinction: 'Merit & Distinction bands',
+    format: 'Theory: 50 multiple-choice + 4 written questions. Tasting: 2 wines blind',
+    time: 'Theory 2 hours, tasting 30 minutes',
+    pass: '55% in each part (multiple choice, written, tasting)',
+    merit: '65% overall',
+    distinction: '80% overall, no paper below 65%',
     hours: '~84 hours',
   },
   {
@@ -85,7 +88,8 @@ const rows: { level: string; format: string; time: string; pass: string; distinc
     format: 'Six units, written exams + coursework',
     time: 'Across the programme',
     pass: '55% to pass',
-    distinction: 'Merit & Distinction bands',
+    merit: 'Offered',
+    distinction: 'Offered',
     hours: 'Several hundred hours over ~2 years',
   },
 ];
@@ -150,8 +154,9 @@ export default function WsetExamFactsPage() {
           <p>
             The WSET Award in Wines runs from Level 1 to the Level 4 Diploma. Level 1 is{' '}
             <strong>30 questions in 45 minutes</strong> at a 70% pass. Level 2 is{' '}
-            <strong>50 questions in 60 minutes</strong> at 55% (85% for Distinction). Level 3 adds{' '}
-            <strong>written theory and a blind tasting</strong> of two wines, needing 55% on each unit.
+            <strong>50 questions in 60 minutes</strong> at 55% (70% Merit, 85% Distinction). Level 3 adds{' '}
+            <strong>written theory and a blind tasting</strong> of two wines, needing 55% in each part.
+            See <Link href="/guide/wset-pass-merit-distinction">all grade bands</Link>.
             The table below has the full breakdown.
           </p>
         </div>
@@ -164,6 +169,7 @@ export default function WsetExamFactsPage() {
                 <th scope="col">Format</th>
                 <th scope="col">Time</th>
                 <th scope="col">Pass</th>
+                <th scope="col">Merit</th>
                 <th scope="col">Distinction</th>
                 <th scope="col">Study</th>
               </tr>
@@ -175,6 +181,7 @@ export default function WsetExamFactsPage() {
                   <td>{r.format}</td>
                   <td>{r.time}</td>
                   <td>{r.pass}</td>
+                  <td>{r.merit}</td>
                   <td>{r.distinction}</td>
                   <td>{r.hours}</td>
                 </tr>
@@ -194,14 +201,19 @@ export default function WsetExamFactsPage() {
             <a href={WSET_QUALIFICATION_PAGES[1]} rel="noopener">Level 1</a>,{' '}
             <a href={WSET_QUALIFICATION_PAGES[2]} rel="noopener">Level 2</a> and{' '}
             <a href={WSET_QUALIFICATION_PAGES[3]} rel="noopener">Level 3</a>{' '}
-            (question counts, exam length and study hours), checked on {formatDateEn(EXAM_FACTS_CHECKED)}.
+            (question counts, exam length and study hours), and the official specifications for{' '}
+            <a href={WSET_SPECIFICATIONS[1].url} rel="noopener">Level 1</a>,{' '}
+            <a href={WSET_SPECIFICATIONS[2].url} rel="noopener">Level 2</a> and{' '}
+            <a href={WSET_SPECIFICATIONS[3].url} rel="noopener">Level 3</a> (pass marks and grades),
+            checked on {formatDateEn(EXAM_FACTS_CHECKED)}.
           </p>
 
           <h2 className={styles.sectionTitle}>How to read this</h2>
           <p>
             Levels 1 and 2 are single closed-book, multiple-choice papers. Level 3 is a bigger step: it
-            has two parts, a theory unit that adds written answers to the multiple choice, and a blind
-            tasting exam of two wines, and you must pass both. The Diploma is a professional-level
+            has two units, a theory unit that adds written answers to the multiple choice, and a blind
+            tasting exam of two wines. You must pass both, and inside the theory unit you need 55% on the
+            multiple choice and 55% on the written answers separately. The Diploma is a professional-level
             programme of six units taken over about two years.
           </p>
         </div>
@@ -235,6 +247,7 @@ export default function WsetExamFactsPage() {
         <section className={styles.related}>
           <h2>Related</h2>
           <div className={styles.relatedLinks}>
+            <Link href="/guide/wset-pass-merit-distinction">Pass, Merit and Distinction</Link>
             <Link href="/guide/wset-levels-explained">WSET levels explained</Link>
             <Link href="/guide/how-many-hours-to-study-for-wset">How many hours to study</Link>
             <Link href="/practice">Free WSET practice exams</Link>

@@ -47,7 +47,7 @@ const faqItems = [
   },
   {
     q: 'What is the Level 3 pass mark?',
-    a: 'You need 55% on each unit, theory and tasting, and you must pass both to earn the qualification.',
+    a: 'You need 55% on each unit, theory and tasting, and you must pass both to earn the qualification. Inside the theory unit, the multiple-choice paper and the written paper each need 55% on their own.',
   },
   {
     q: 'Is Eclavin an official WSET product?',
@@ -69,7 +69,7 @@ const rows: { label: string; level2: string; level3: string }[] = [
   {
     label: 'Pass mark',
     level2: '55% overall',
-    level3: '55% on each unit; you must pass both',
+    level3: '55% in each part (multiple choice, written, tasting); you must pass all',
   },
   {
     label: 'Written answers',
@@ -230,6 +230,7 @@ export default function Level2VsLevel3Guide() {
             <Link href="/practice/wset-level-2">Level 2 practice questions</Link>
             <Link href="/guide/wset-level-1-vs-level-2">Level 1 vs Level 2</Link>
             <Link href="/guide/wset-levels-explained">WSET levels explained</Link>
+            <Link href="/guide/wset-pass-merit-distinction">Pass, Merit and Distinction</Link>
           </div>
         </section>
         <ChangeLog changes={GUIDE.changes} />

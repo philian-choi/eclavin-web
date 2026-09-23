@@ -135,7 +135,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ l
         { href: `/practice${q}`, label: 'Free WSET mock exams', desc: 'A 20-question sample for each level with instant marking.' },
         { href: `/glossary${q}`, label: 'Wine & WSET glossary', desc: 'Tannin, acidity, body and other exam terms in plain English.' },
         { href: '/guide', label: 'Study guides', desc: 'Level comparisons, study plans, exam format and pass marks.' },
-        { href: '/grape', label: 'Grape varieties', desc: 'How the 12 principal grapes taste, where they grow, and what to pair.' },
+        { href: '/grape', label: 'Grape varieties', desc: 'How 12 key grapes taste, where they grow, and what to pair.' },
         { href: '/region', label: 'Wine regions', desc: 'Bordeaux, Burgundy and 10 more regions, with exam-relevant facts.' },
       ];
 

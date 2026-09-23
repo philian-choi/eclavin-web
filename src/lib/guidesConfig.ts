@@ -18,10 +18,42 @@ export interface GuideMeta {
 // this list, so adding a guide here (and its page file) wires it everywhere.
 export const GUIDES: GuideMeta[] = [
   {
+    slug: 'wset-level-2-cheat-sheet',
+    tag: 'Revision',
+    title: 'WSET Level 2 Cheat Sheet: The Syllabus on One Page',
+    blurb: 'How many questions each topic gets, the 8 principal grapes and their regions, labels, sparkling, fortified and food.',
+    datePublished: '2026-09-23',
+    dateModified: '2026-09-23',
+  },
+  {
+    slug: 'wset-cost',
+    tag: 'Reference',
+    title: 'How Much Does WSET Cost? Level 1, 2 and 3 Prices (2026)',
+    blurb: 'Real 2026 list prices from providers in London, the US and Seoul, and the costs people forget.',
+    datePublished: '2026-09-23',
+    dateModified: '2026-09-23',
+  },
+  {
+    slug: 'pinot-gris-vs-pinot-grigio',
+    tag: 'Comparison',
+    title: 'Pinot Gris vs Pinot Grigio: Same Grape, Two Styles',
+    blurb: 'Why one grape has two names, and how light Italian Pinot Grigio differs from fuller Alsace Pinot Gris.',
+    datePublished: '2026-09-23',
+    dateModified: '2026-09-23',
+  },
+  {
+    slug: 'wset-pass-merit-distinction',
+    tag: 'Reference',
+    title: 'WSET Pass, Merit and Distinction: Grade Bands by Level',
+    blurb: 'The official grade bands for Levels 1, 2 and 3, with how many correct answers each one takes.',
+    datePublished: '2026-09-23',
+    dateModified: '2026-09-23',
+  },
+  {
     slug: 'sweet-or-dry-wine-chart',
     tag: 'Reference',
     title: 'Sweet or Dry? Wine Sweetness Chart by Grape',
-    blurb: 'How sweet, full-bodied, acidic and tannic the 12 principal grapes usually are, and the label words for sweetness.',
+    blurb: 'How sweet, full-bodied, acidic and tannic 12 key grapes usually are, and the label words for sweetness.',
     datePublished: '2026-09-23',
     dateModified: '2026-09-23',
   },
@@ -31,7 +63,8 @@ export const GUIDES: GuideMeta[] = [
     title: 'WSET Levels Explained (1, 2, 3 & Diploma)',
     blurb: 'What each WSET wine qualification covers, how hard it is, and who it is for.',
     datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Level 3 pass rule made exact from the official specification: the multiple-choice and written theory papers each need 55%.' }],
   },
   {
     slug: 'best-wset-study-apps',
@@ -56,7 +89,8 @@ export const GUIDES: GuideMeta[] = [
     title: 'WSET Level 2 vs Level 3',
     blurb: 'The real jump between the two: theory, blind tasting, and study time.',
     datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Level 3 pass rule made exact from the official specification: the multiple-choice and written theory papers each need 55%.' }],
   },
   {
     slug: 'how-to-pass-wset-level-1',
@@ -65,7 +99,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'A simple plan for the entry-level wine exam, in about a day of study.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
-    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 100.' }],
+    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 100, and that the app covers Level 3 too.' }],
   },
   {
     slug: 'how-to-pass-wset-level-2',
@@ -74,7 +108,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'A practical study plan and the traps that cost most candidates marks.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
-    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 100.' }],
+    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 100, and that the app covers Level 3 too.' }],
   },
   {
     slug: 'how-to-pass-wset-level-3',
@@ -82,7 +116,8 @@ export const GUIDES: GuideMeta[] = [
     title: 'How to Pass WSET Level 3',
     blurb: 'How to prepare for the two units: written theory and blind tasting.',
     datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Level 3 pass rule made exact from the official specification: the multiple-choice and written theory papers each need 55%.' }],
   },
   {
     slug: 'wset-systematic-approach-to-tasting',
@@ -99,7 +134,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'Every level’s question count, time, pass mark, and study hours in one table.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
-    changes: [{ date: '2026-09-23', note: 'Added links to the official WSET qualification pages the figures come from.' }],
+    changes: [{ date: '2026-09-23', note: 'Added Merit bands and the exact Level 3 pass rule (55% in each theory paper and in tasting), with links to the official WSET specifications and qualification pages.' }],
   },
   {
     slug: 'how-many-hours-to-study-for-wset',
@@ -115,7 +150,8 @@ export const GUIDES: GuideMeta[] = [
     title: 'Is WSET Worth It?',
     blurb: 'An honest look at the cost, time, and payoff of the WSET wine qualifications.',
     datePublished: '2026-07-24',
-    dateModified: '2026-07-24',
+    dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Added real 2026 course prices from three providers, with a link to the full price table.' }],
   },
   {
     slug: 'wset-food-and-wine-pairing',

@@ -33,6 +33,12 @@ export const WSET_QUALIFICATION_PAGES: Record<number, string> = {
   2: 'https://www.wsetglobal.com/qualifications/wset-level-2-award-in-wines/',
   3: 'https://www.wsetglobal.com/qualifications/wset-level-3-award-in-wines/',
 };
+/** The official specification PDFs (grade bands, pass rules, resits), linked from those pages. */
+export const WSET_SPECIFICATIONS: Record<number, { url: string; issue: string }> = {
+  1: { url: 'https://www.wsetglobal.com/media/11682/wset_l1wines_spec_en_jun2022_issue12.pdf', issue: 'Issue 1.2, 2022' },
+  2: { url: 'https://www.wsetglobal.com/media/19132/wset_l2wines_specification_en_april2026_issue21.pdf', issue: 'Issue 2.1, 2026' },
+  3: { url: 'https://www.wsetglobal.com/media/11731/wset_l3wines_specification_en_highres_may2022_issue2.pdf', issue: 'Issue 2, 2022' },
+};
 
 /** Question counts. The app figure matches the App Store listing. */
 export const SITE_QUESTIONS_PER_LEVEL = 100;
