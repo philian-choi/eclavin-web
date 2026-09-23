@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
-import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
+import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -16,7 +16,7 @@ const APP_STORE_URL =
   'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
-  title: 'WSET Food & Wine Pairing Rules Explained (2026)',
+  title: 'WSET Food & Wine Pairing Rules Explained, with Examples',
   description:
     'How the WSET method explains food and wine pairing: how sweetness, umami, salt, acid, and chilli in food change the taste of wine, with the golden rule.',
   alternates: { canonical: PAGE_URL },
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
       'How sweetness, umami, salt, acid, and chilli in food change the taste of wine, with the WSET golden rule.',
     type: 'article',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage(GUIDE.title, 'WSET study guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage(GUIDE.title, 'WSET study guide')] },
 };
 
 const faqItems = [

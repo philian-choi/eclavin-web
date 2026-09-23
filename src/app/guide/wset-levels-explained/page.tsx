@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
-import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
+import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -18,7 +18,7 @@ const APP_STORE_URL =
 export const metadata: Metadata = {
   title: 'WSET Levels Explained: Level 1, 2, 3 & Diploma (2026)',
   description:
-    'A simple overview of the WSET wine qualifications from Level 1 to the Diploma: what each covers, how hard it is, study hours, and where to start.',
+    'A simple overview of the WSET wine qualifications from Level 1 to the Diploma: what each level covers, how hard it is, study hours, and where to start.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'WSET Levels Explained: Level 1, 2, 3 & Diploma (2026)',
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
       'A simple overview of the WSET wine qualifications from Level 1 to the Diploma: what each covers, how hard it is, study hours, and where to start.',
     type: 'article',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage(GUIDE.title, 'WSET study guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage(GUIDE.title, 'WSET study guide')] },
 };
 
 const faqItems = [

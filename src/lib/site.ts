@@ -99,11 +99,70 @@ export function formatDateEn(iso: string): string {
   return `${d} ${MONTHS[m - 1]} ${y}`;
 }
 
+/**
+ * Share image showing this page's own title. 96 pages used to share one
+ * generic picture, so every shared link looked the same.
+ */
+export function ogImage(title: string, kicker: string, lang: Lang = 'en') {
+  const q = new URLSearchParams({ title, kicker, lang });
+  return { url: `${BASE_URL}/api/og?${q.toString()}`, width: 1200, height: 630, alt: title };
+}
+
+/**
+ * First candidate whose length is inside [min, max] (the checklist's 50-60
+ * characters for titles). Otherwise the longest candidate that still fits
+ * under max, and as a last resort the first one cut down to max.
+ */
+export function fitTitle(candidates: string[], min = 50, max = 60): string {
+  const exact = candidates.find((c) => c.length >= min && c.length <= max);
+  if (exact) return exact;
+  const under = candidates.filter((c) => c.length <= max).sort((a, b) => b.length - a.length)[0];
+  return under ?? clip(candidates[0], max);
+}
+
+/**
+ * Description of 150-160 characters where the text allows: cut at the last
+ * word boundary that still leaves at least `min` characters. Text shorter than
+ * `min` is returned whole.
+ */
+export function clipBetween(text: string, min = 150, max = 160): string {
+  const clean = text.replace(/\s+/g, ' ').trim();
+  if (clean.length <= max) return clean;
+  const window = clean.slice(0, max - 1);
+  // Prefer ending on a full sentence if one ends inside the range.
+  const sentence = window.lastIndexOf('. ');
+  if (sentence + 1 >= min) return clean.slice(0, sentence + 1);
+  const cut = window.lastIndexOf(' ');
+  // Never end on a dangling little word ("...a quick clue to…").
+  const trimmed = clean
+    .slice(0, cut)
+    .replace(/(\s+(a|an|the|and|or|of|to|for|with|in|on|at|by|as|is|its|their|from))+$/i, '')
+    .replace(/[\s,;:.·-]+$/, '');
+  return `${trimmed}…`;
+}
+
+/**
+ * clipBetween() over several wordings of the same description; the first one
+ * that lands inside [min, max] wins. A long word straddling the cut point can
+ * leave one wording a few characters short, and a different lead-in or ending
+ * moves the cut to another word boundary.
+ */
+export function bestBetween(texts: string[], min = 150, max = 160): string {
+  // A wording that fits whole beats one that has to be cut mid-sentence.
+  const whole = texts.map((t) => t.replace(/\s+/g, ' ').trim()).find((t) => t.length >= min && t.length <= max);
+  if (whole) return whole;
+  const cut = texts.map((t) => clipBetween(t, min, max));
+  return cut.find((c) => c.length >= min && c.length <= max) ?? cut.filter((c) => c.length <= max).sort((a, b) => b.length - a.length)[0] ?? cut[0];
+}
+
 /** Cut text to at most `max` characters at a word boundary, adding an ellipsis. */
 export function clip(text: string, max: number): string {
   const clean = text.replace(/\s+/g, ' ').trim();
   if (clean.length <= max) return clean;
   const cut = clean.slice(0, max - 1);
   const space = cut.lastIndexOf(' ');
-  return `${(space > max * 0.6 ? cut.slice(0, space) : cut).replace(/[\s,;:.·-]+$/, '')}…`;
+  const kept = (space > max * 0.6 ? cut.slice(0, space) : cut)
+    .replace(/(\s+(a|an|the|and|or|of|to|for|with|in|on|at|by|as|is|its|their|from))+$/i, '')
+    .replace(/[\s,;:.·-]+$/, '');
+  return `${kept}…`;
 }

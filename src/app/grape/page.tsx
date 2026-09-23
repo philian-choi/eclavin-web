@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { GRAPES } from '@/lib/grapeConfig';
-import { jsonLd } from '@/lib/site';
+import { jsonLd, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -21,9 +21,9 @@ export const metadata: Metadata = {
       'How the principal wine grapes taste, where they grow, and what to pair, written for WSET students.',
     type: 'website',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage('Grape Varieties Explained', 'WSET grape guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage('Grape Varieties Explained', 'WSET grape guide')] },
 };
 
 export default function GrapeHub() {

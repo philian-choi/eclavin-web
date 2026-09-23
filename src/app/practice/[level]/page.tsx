@@ -11,7 +11,7 @@ import {
 } from '@/lib/practiceConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import PracticeQuiz, { PracticeQuestion, QuizLabels } from '@/components/PracticeQuiz';
-import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
+import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 import styles from '../practice.module.css';
 
 const SAMPLE_COUNT = 20;
@@ -126,9 +126,9 @@ export async function generateMetadata({
       type: 'article',
       url: `${url}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      images: [`${BASE_URL}/og-image.png`],
+      images: [ogImage(copy.h1, lang === 'ko' ? `무료 모의고사 · ${cfg.levelNum}급` : `Free mock exam · WSET ${cfg.levelLabel}`, lang)],
     },
-    twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+    twitter: { card: 'summary_large_image', images: [ogImage(copy.h1, lang === 'ko' ? `무료 모의고사 · ${cfg.levelNum}급` : `Free mock exam · WSET ${cfg.levelLabel}`, lang)] },
   };
 }
 

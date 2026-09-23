@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
-import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
+import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -18,7 +18,7 @@ const APP_STORE_URL =
 export const metadata: Metadata = {
   title: 'WSET Level 1 vs Level 2: Which Wine Course Should You Take?',
   description:
-    'A clear comparison of WSET Level 1 and Level 2 in Wines: exam format, difficulty, study time, cost, and who each level is for.',
+    'A clear comparison of WSET Level 1 and Level 2 in Wines: exam format, difficulty, study time, cost, and who each level is for, so you can choose well.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'WSET Level 1 vs Level 2: Which Should You Take?',
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
       'Compare WSET Level 1 and Level 2 in Wines: format, difficulty, study time, and who each is for.',
     type: 'article',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage(GUIDE.title, 'WSET study guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage(GUIDE.title, 'WSET study guide')] },
 };
 
 const faqItems = [

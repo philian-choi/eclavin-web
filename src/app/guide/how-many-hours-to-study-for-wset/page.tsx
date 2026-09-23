@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
-import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
+import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -18,7 +18,7 @@ const APP_STORE_URL =
 export const metadata: Metadata = {
   title: 'How Many Hours to Study for WSET (Level 1, 2 & 3) (2026)',
   description:
-    'The recommended study hours for WSET Level 1, 2, and 3, and how to plan them into a realistic revision schedule.',
+    'How many hours you need to study for WSET Level 1, 2 and 3, what counts toward the total, and how to turn those hours into a realistic weekly study plan.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'How Many Hours to Study for WSET (Level 1, 2 & 3)',
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
       'The recommended study hours for WSET Level 1, 2, and 3, and how to plan them into a realistic revision schedule.',
     type: 'article',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage(GUIDE.title, 'WSET study guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage(GUIDE.title, 'WSET study guide')] },
 };
 
 const faqItems = [

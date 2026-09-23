@@ -2,9 +2,11 @@ import { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Eclavin - WSET Exam Mastery',
+    // Same name and facts as everywhere else on the site (see src/lib/site.ts).
+    name: 'Eclavin',
     short_name: 'Eclavin',
-    description: 'The ultimate WSET exam preparation guide for Level 1, 2, and 3. Practice questions and expert theories.',
+    description:
+      'Free WSET Level 1 and Level 2 practice questions with answers and explanations. An independent, unofficial study resource.',
     start_url: '/',
     display: 'standalone',
     background_color: '#F8F5F2',

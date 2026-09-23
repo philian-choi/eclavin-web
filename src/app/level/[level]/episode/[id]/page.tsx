@@ -15,6 +15,7 @@ import {
   languageAlternates,
   resolveLang,
   jsonLd,
+  ogImage,
 } from '@/lib/site';
 import { episodeTitle, episodeDescription, episodeHeading } from '@/lib/episodeSeo';
 
@@ -54,7 +55,11 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
   const canonicalUrl = `${BASE_URL}/level/${level}/episode/${episode.id}`;
   const title = episodeTitle(episode, level, lang);
   const description = episodeDescription(episode, level, lang);
-  const ogImageUrl = `${BASE_URL}/api/og?title=${encodeURIComponent(episode.question)}&level=${level}&number=${episode.number}&lang=${lang}`;
+  const image = ogImage(
+    episode.question,
+    lang === 'ko' ? `WSET ${level}급 연습문제 ${episode.number}번` : `WSET Level ${level} · Question ${episode.number}`,
+    lang,
+  );
 
   return {
     title,
@@ -70,13 +75,13 @@ export async function generateMetadata({ params, searchParams }: EpisodePageProp
       url: `${canonicalUrl}?lang=${lang}`,
       siteName: 'Eclavin',
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }],
+      images: [image],
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: [ogImageUrl],
+      images: [image],
     },
   };
 }

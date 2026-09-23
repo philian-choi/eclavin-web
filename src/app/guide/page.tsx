@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { GUIDES } from '@/lib/guidesConfig';
-import { jsonLd, formatDateEn } from '@/lib/site';
+import { jsonLd, formatDateEn, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -14,16 +14,16 @@ export const dynamic = 'force-static';
 export const metadata: Metadata = {
   title: 'WSET Study Guides: Wine Exam Tips, Study Plans & Comparisons',
   description:
-    'Plain-language WSET study guides: how to pass each level, how the exams differ, and how to prepare efficiently, from the team behind the Eclavin app.',
+    'Plain-language WSET study guides: how to pass each level, how the exams differ, and how to prepare efficiently, written by the team behind the Eclavin app.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'WSET Study Guides — Wine Exam Tips & Comparisons',
     description: 'How to pass each WSET level, how the exams differ, and how to prepare efficiently.',
     type: 'website',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage('WSET Study Guides', 'Eclavin study guides')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage('WSET Study Guides', 'Eclavin study guides')] },
 };
 
 const guides = GUIDES;

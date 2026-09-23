@@ -13,6 +13,7 @@ import {
   SUPPORT_EMAIL,
   SITE_QUESTIONS_PER_LEVEL,
   jsonLd,
+  ogImage,
 } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
@@ -22,9 +23,9 @@ const PAGE_URL = `${BASE_URL}/about`;
 export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
-  title: 'About Eclavin: An Independent WSET Study Resource',
+  title: 'About Eclavin: An Independent WSET Exam Study Resource',
   description:
-    'What Eclavin is, what its free WSET practice questions and guides cover, how the content is written and corrected, and how to get in touch.',
+    'What Eclavin is, what its free WSET practice questions and study guides cover, how the content is written, checked and corrected, and how to contact us.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'About Eclavin',
@@ -32,9 +33,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: PAGE_URL,
     siteName: 'Eclavin',
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage('About Eclavin', 'Independent WSET study resource')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage('About Eclavin', 'Independent WSET study resource')] },
 };
 
 export default function AboutPage() {

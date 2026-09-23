@@ -4,7 +4,7 @@ import { headers } from 'next/headers';
 import { notFound } from 'next/navigation';
 import { getGlossaryTerm, GLOSSARY, GLOSSARY_SLUGS, GlossaryLang } from '@/lib/glossaryConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
-import { BASE_URL, APP_STORE_URL, ORG_REF, clip, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
+import { BASE_URL, APP_STORE_URL, ORG_REF, clip, bestBetween, fitTitle, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 interface Ui {
@@ -101,9 +101,22 @@ export async function generateMetadata({
   // result snippet says why the page is worth opening.
   const description = lang === 'ko'
     ? clip(`${c.term} 뜻: ${c.short} ${c.whyItMatters}`, 110)
-    : clip(`${c.term}: ${c.short} ${c.whyItMatters}`, 158);
+    : bestBetween([
+        `${c.term}: ${c.short} ${c.whyItMatters} ${c.example}`,
+        `${c.term} in wine: ${c.short} ${c.whyItMatters} ${c.example}`,
+        `What ${c.term.toLowerCase()} means in wine: ${c.short} ${c.whyItMatters} ${c.example}`,
+      ]);
+  const image = ogImage(`${c.term}: ${c.short}`, lang === 'ko' ? '와인·WSET 용어 사전' : 'Wine & WSET glossary', lang);
   return {
-    title: `${title} | Eclavin`,
+    title: lang === 'ko'
+      ? `${title} | Eclavin`
+      : fitTitle([
+          `${c.term} in Wine: Meaning & WSET Exam Notes | Eclavin`,
+          `${c.term} in Wine: Meaning, Exam Notes & Example | Eclavin`,
+          `${c.term}: Meaning in Wine & WSET Exam Notes | Eclavin`,
+          `${c.term} in Wine: Meaning & WSET Notes | Eclavin`,
+          `${title} | Eclavin`,
+        ]),
     description,
     alternates: {
       canonical: `${url}?lang=${lang}`,
@@ -115,9 +128,9 @@ export async function generateMetadata({
       type: 'article',
       url: `${url}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      images: [`${BASE_URL}/og-image.png`],
+      images: [image],
     },
-    twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+    twitter: { card: 'summary_large_image', images: [image] },
   };
 }
 

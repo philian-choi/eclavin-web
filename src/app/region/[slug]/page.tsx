@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getRegion, REGIONS, REGION_SLUGS } from '@/lib/regionConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
-import { BASE_URL, APP_STORE_URL, ORG_REF, clip, jsonLd } from '@/lib/site';
+import { BASE_URL, APP_STORE_URL, ORG_REF, bestBetween, fitTitle, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 // First published on this date; the page content has not changed since.
@@ -27,18 +27,27 @@ export async function generateMetadata({
   if (!r) return {};
   const url = `${BASE_URL}/region/${r.slug}`;
   const title = `${r.name}: Wine Style, Grapes & Facts (2026)`;
+  const image = ogImage(`${r.name}: ${r.short}`, `Wine region · ${r.country}`);
   return {
-    title: title.length > 50 ? title : `${title} | Eclavin`,
-    description: clip(`${r.name} explained for WSET students: ${r.short} ${r.character}`, 158),
+    title: fitTitle([
+      `${title} | Eclavin`,
+      title,
+      `${r.name} Wine Region: Style, Grapes & Exam Facts | Eclavin`,
+    ]),
+    description: bestBetween([
+      `${r.name} explained for WSET students: ${r.short} ${r.character} Key grapes: ${r.grapes}`,
+      `${r.name} (${r.country}) explained for WSET students: ${r.short} ${r.character} Key grapes: ${r.grapes}`,
+      `The ${r.name} wine region explained for WSET students: ${r.short} ${r.character} Key grapes: ${r.grapes}`,
+    ]),
     alternates: { canonical: url },
     openGraph: {
       title,
       description: r.short,
       type: 'article',
       url,
-      images: [`${BASE_URL}/og-image.png`],
+      images: [image],
     },
-    twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+    twitter: { card: 'summary_large_image', images: [image] },
   };
 }
 

@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { REGIONS } from '@/lib/regionConfig';
-import { jsonLd } from '@/lib/site';
+import { jsonLd, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -21,9 +21,9 @@ export const metadata: Metadata = {
       'The principal wine regions for WSET students: style, grapes, and exam-relevant facts.',
     type: 'website',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage('Wine Regions Explained', 'WSET region guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage('Wine Regions Explained', 'WSET region guide')] },
 };
 
 export default function RegionHub() {

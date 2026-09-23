@@ -146,7 +146,7 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
       en: {
         metaTitle: 'WSET Level 2 Practice Questions: Free Mock Exam with Answers',
         metaDescription:
-          'Free WSET Level 2 practice questions with answers and full explanations. Test grape varieties, wine styles and food pairing. 100 questions, all free.',
+          'Free WSET Level 2 practice questions with answers and full explanations. Test grape varieties, wine styles, regions and food pairing. 100 questions, all free.',
         h1: 'WSET Level 2 Practice Questions',
         subtitle: 'A free mock exam with answers and full explanations.',
         shortAnswerLead:

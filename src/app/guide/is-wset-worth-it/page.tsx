@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
-import { ORG_REF, formatDateEn, jsonLd } from '@/lib/site';
+import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -16,9 +16,9 @@ const APP_STORE_URL =
   'https://apps.apple.com/app/id6757098139';
 
 export const metadata: Metadata = {
-  title: 'Is WSET Worth It? An Honest Look (2026)',
+  title: 'Is WSET Worth It? An Honest Look at Cost, Time & Payoff',
   description:
-    'Is the WSET wine qualification worth the cost and time? An honest look at what you get, who benefits most, and who can skip it.',
+    'An honest look at whether WSET wine qualifications are worth it: what each level costs in money and time, what you get from it, and who benefits most.',
   alternates: { canonical: PAGE_URL },
   openGraph: {
     title: 'Is WSET Worth It? An Honest Look',
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
       'Is the WSET wine qualification worth the cost and time? An honest look at what you get, who benefits most, and who can skip it.',
     type: 'article',
     url: PAGE_URL,
-    images: [`${BASE_URL}/og-image.png`],
+    images: [ogImage(GUIDE.title, 'WSET study guide')],
   },
-  twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+  twitter: { card: 'summary_large_image', images: [ogImage(GUIDE.title, 'WSET study guide')] },
 };
 
 const faqItems = [

@@ -8,7 +8,7 @@ import LanguageToggle from '@/components/LanguageToggle';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { generateSchema } from '@/lib/seo';
 import { getTranslations, Language } from '@/constants/translations';
-import { BASE_URL, APP_STORE_URL, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
+import { BASE_URL, APP_STORE_URL, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 
 export async function generateMetadata({ searchParams }: { searchParams: Promise<{ lang?: string }> }): Promise<Metadata> {
   const resolvedSearchParams = await searchParams;
@@ -20,7 +20,13 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
     : 'WSET Level 1 & 2 Practice Questions with Answers | Eclavin';
   const description = lang === 'ko'
     ? 'WSET 1급과 2급 연습문제 200개를 정답과 해설로 무료로 풀어 보세요. 가입은 필요 없습니다. 공부 안내 글과 와인 용어 사전도 함께 볼 수 있습니다.'
-    : '200 free WSET Level 1 and Level 2 practice questions, each with the answer and a full explanation. No sign-up. Plus study guides and a wine glossary.';
+    : '200 free WSET Level 1 and Level 2 practice questions, each with the answer and a full explanation. No sign-up. Plus free study guides and a wine glossary.';
+
+  const image = ogImage(
+    lang === 'ko' ? 'WSET 1급·2급 무료 연습문제' : 'Free WSET Level 1 & 2 practice questions',
+    lang === 'ko' ? '문제 200개 · 정답과 해설' : '200 questions with answers and explanations',
+    lang,
+  );
 
   return {
     title,
@@ -36,13 +42,13 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
       siteName: 'Eclavin',
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
       type: 'website',
-      images: ['https://www.eclavin.com/og-image.png'],
+      images: [image],
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: ['https://www.eclavin.com/og-image.png'],
+      images: [image],
     }
   };
 }

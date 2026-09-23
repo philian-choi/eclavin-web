@@ -15,6 +15,7 @@ import {
   languageAlternates,
   resolveLang,
   jsonLd,
+  ogImage,
 } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
@@ -65,7 +66,7 @@ function copy(levelNum: number, lang: Language, questions: string, minutes: stri
   }
   return {
     title: `WSET Level ${levelNum} Practice Questions: All ${total} Free with Answers`,
-    description: `All ${total} free WSET Level ${levelNum} practice questions, each with the answer and a full explanation. The real exam: ${questions} questions, ${minutes} minutes, ${pass} to pass.`,
+    description: `All ${total} free WSET Level ${levelNum} practice questions on one page, each with the answer and a full explanation. The real exam: ${questions} questions, ${minutes} minutes, ${pass} to pass.`,
     h1: `WSET Level ${levelNum} Practice Questions`,
     lead: `These are all ${total} of Eclavin's free WSET Level ${levelNum} practice questions. Each one opens on its own page with the answer and a full explanation. The real Level ${levelNum} exam is ${questions} multiple-choice questions in ${minutes} minutes, and you pass with ${pass}.`,
     home: 'Home',
@@ -100,9 +101,9 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
       url: `${url}?lang=${lang}`,
       siteName: 'Eclavin',
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      images: [`${BASE_URL}/og-image.png`],
+      images: [ogImage(t.h1, lang === 'ko' ? `${total}문제 · 정답과 해설` : `All ${total} questions with answers`, lang)],
     },
-    twitter: { card: 'summary_large_image', title: t.title, description: t.description, images: [`${BASE_URL}/og-image.png`] },
+    twitter: { card: 'summary_large_image', title: t.title, description: t.description, images: [ogImage(t.h1, lang === 'ko' ? `${total}문제 · 정답과 해설` : `All ${total} questions with answers`, lang)] },
   };
 }
 

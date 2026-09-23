@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { headers } from 'next/headers';
 import { PRACTICE_SLUGS, getPracticeConfig, PracticeLang } from '@/lib/practiceConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
-import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
+import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 import styles from './practice.module.css';
 
 const PAGE_URL = `${BASE_URL}/practice`;
@@ -146,9 +146,9 @@ export async function generateMetadata({
       type: 'website',
       url: `${PAGE_URL}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      images: [`${BASE_URL}/og-image.png`],
+      images: [ogImage(t.h1, lang === 'ko' ? 'WSET 1급·2급 모의고사' : 'WSET Level 1 & 2 mock exams', lang)],
     },
-    twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+    twitter: { card: 'summary_large_image', images: [ogImage(t.h1, lang === 'ko' ? 'WSET 1급·2급 모의고사' : 'WSET Level 1 & 2 mock exams', lang)] },
   };
 }
 

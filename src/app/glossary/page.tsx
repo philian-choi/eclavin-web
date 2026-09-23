@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { headers } from 'next/headers';
 import { GLOSSARY, GlossaryLang } from '@/lib/glossaryConfig';
-import { BASE_URL, ORG_REF, languageAlternates, resolveLang, jsonLd } from '@/lib/site';
+import { BASE_URL, ORG_REF, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const PAGE_URL = `${BASE_URL}/glossary`;
@@ -82,9 +82,9 @@ export async function generateMetadata({
       type: 'website',
       url: `${PAGE_URL}?lang=${lang}`,
       locale: lang === 'ko' ? 'ko_KR' : 'en_US',
-      images: [`${BASE_URL}/og-image.png`],
+      images: [ogImage(t.h1, lang === 'ko' ? '에클라뱅 용어 사전' : 'Eclavin glossary', lang)],
     },
-    twitter: { card: 'summary_large_image', images: [`${BASE_URL}/og-image.png`] },
+    twitter: { card: 'summary_large_image', images: [ogImage(t.h1, lang === 'ko' ? '에클라뱅 용어 사전' : 'Eclavin glossary', lang)] },
   };
 }
 
