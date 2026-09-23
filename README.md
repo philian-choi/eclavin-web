@@ -58,7 +58,7 @@ Corrections and questions: support@eclavin.com.
 npm install
 npm run dev      # local development
 npm run build    # production build
-npm run deploy   # deploy to production on Vercel, then notify IndexNow search engines
+npm run deploy   # deploy to production on Vercel, then tell IndexNow search engines about new or changed pages
 ```
 
 Deploys are run by hand; pushing to GitHub does not deploy.

@@ -40,3 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env*.local
+
+# IndexNow: last submitted lastmod per URL (machine-local)
+scripts/.indexnow-state.json

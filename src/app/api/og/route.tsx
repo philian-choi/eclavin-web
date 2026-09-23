@@ -30,7 +30,12 @@ async function loadFont(text: string, weight: 400 | 700): Promise<ArrayBuffer | 
 }
 
 function clip(text: string, max: number): string {
-  const clean = text.replace(/\s+/g, ' ').trim();
+  // Noto Sans KR draws curly quotes full-width, which reads like a stray space.
+  const clean = text
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/\s+/g, ' ')
+    .trim();
   if (clean.length <= max) return clean;
   const cut = clean.slice(0, max - 1);
   const space = cut.lastIndexOf(' ');
