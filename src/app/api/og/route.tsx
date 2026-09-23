@@ -12,13 +12,13 @@ export const runtime = 'edge';
  *   and labels like "Level {level}" render as several text children, so the
  *   render threw after the headers were sent.
  * - The default font has no Hangul, so Korean titles could not be drawn.
- * Every element below holds a single string, and the font is Noto Sans KR,
- * fetched as a subset of just the characters on the card.
+ * Every element below holds a single string. Fonts are Noto Sans (Latin) and
+ * Noto Sans KR (Hangul), each fetched as a subset of the characters on the card.
  */
 
-async function loadFont(text: string, weight: 400 | 700): Promise<ArrayBuffer | null> {
+async function loadFont(family: string, text: string, weight: 400 | 700): Promise<ArrayBuffer | null> {
   try {
-    const url = `https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@${weight}&text=${encodeURIComponent(text)}`;
+    const url = `https://fonts.googleapis.com/css2?family=${family.replace(/ /g, '+')}:wght@${weight}&text=${encodeURIComponent(text)}`;
     const css = await (await fetch(url)).text();
     const src = css.match(/src: url\((.+?)\) format\('(opentype|truetype)'\)/);
     if (!src) return null;
@@ -58,11 +58,21 @@ export async function GET(req: NextRequest) {
   const footer = lang === 'ko' ? 'www.eclavin.com · 비공식 학습 자료' : 'www.eclavin.com · Unofficial study resource';
   const titleSize = title.length > 110 ? 40 : title.length > 70 ? 48 : 58;
 
+  // Latin text in Noto Sans, Hangul in Noto Sans KR. The Korean font alone
+  // gives Latin punctuation wide CJK spacing ("France's  great").
   const glyphs = `Eclavin${kicker}${title}${footer}`;
-  const [regular, bold] = await Promise.all([loadFont(glyphs, 400), loadFont(glyphs, 700)]);
+  const hangul = [...new Set(glyphs.match(/[\u1100-\u11FF\u3130-\u318F\uAC00-\uD7A3]/g) ?? [])].join('');
+  const [latin400, latin700, kr400, kr700] = await Promise.all([
+    loadFont('Noto Sans', glyphs, 400),
+    loadFont('Noto Sans', glyphs, 700),
+    hangul ? loadFont('Noto Sans KR', hangul, 400) : Promise.resolve(null),
+    hangul ? loadFont('Noto Sans KR', hangul, 700) : Promise.resolve(null),
+  ]);
   const fonts: { name: string; data: ArrayBuffer; weight: 400 | 700; style: 'normal' }[] = [];
-  if (regular) fonts.push({ name: 'Noto Sans KR', data: regular, weight: 400, style: 'normal' });
-  if (bold) fonts.push({ name: 'Noto Sans KR', data: bold, weight: 700, style: 'normal' });
+  if (latin400) fonts.push({ name: 'Noto Sans', data: latin400, weight: 400, style: 'normal' });
+  if (latin700) fonts.push({ name: 'Noto Sans', data: latin700, weight: 700, style: 'normal' });
+  if (kr400) fonts.push({ name: 'Noto Sans KR', data: kr400, weight: 400, style: 'normal' });
+  if (kr700) fonts.push({ name: 'Noto Sans KR', data: kr700, weight: 700, style: 'normal' });
 
   return new ImageResponse(
     (
@@ -75,7 +85,7 @@ export async function GET(req: NextRequest) {
           justifyContent: 'space-between',
           backgroundColor: '#F8F5F2',
           padding: '64px 80px',
-          fontFamily: fonts.length ? 'Noto Sans KR' : 'sans-serif',
+          fontFamily: fonts.length ? '"Noto Sans", "Noto Sans KR"' : 'sans-serif',
           position: 'relative',
         }}
       >
