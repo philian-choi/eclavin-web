@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { headers } from 'next/headers';
 import { PRACTICE_SLUGS, getPracticeConfig, PracticeLang } from '@/lib/practiceConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
+import ChangeLog from '@/components/ChangeLog';
 import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 import styles from './practice.module.css';
 
@@ -162,18 +163,25 @@ export default async function PracticeHub({
   const langQuery = `?lang=${lang}`;
   const levels = PRACTICE_SLUGS.map((slug) => getPracticeConfig(slug)!);
 
+  // A CollectionPage (a CreativeWork) can carry dates and a publisher; a bare ItemList cannot.
   const itemListJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'ItemList',
-    name: 'Free WSET Practice Exams',
+    '@type': 'CollectionPage',
+    '@id': `${PAGE_URL}${langQuery}`,
+    url: `${PAGE_URL}${langQuery}`,
+    name: t.h1,
+    inLanguage: lang,
     dateModified: UPDATED,
     publisher: ORG_REF,
-    itemListElement: levels.map((cfg, i) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      name: `WSET ${cfg.levelLabel} Practice Questions`,
-      url: `${BASE_URL}/practice/${cfg.slug}${langQuery}`,
-    })),
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: levels.map((cfg, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: `WSET ${cfg.levelLabel} Practice Questions`,
+        url: `${BASE_URL}/practice/${cfg.slug}${langQuery}`,
+      })),
+    },
   };
 
   const faqJsonLd = {
@@ -261,6 +269,15 @@ export default async function PracticeHub({
             <Link href={`/glossary${langQuery}`}>{t.glossary}</Link>
           </div>
         </section>
+        <ChangeLog
+          changes={[
+            {
+              date: UPDATED,
+              note: lang === 'ko' ? '앱 문제 수를 바로잡았습니다.' : 'Corrected the number of questions in the Eclavin app.',
+            },
+          ]}
+          lang={lang}
+        />
       </article>
     </main>
   );

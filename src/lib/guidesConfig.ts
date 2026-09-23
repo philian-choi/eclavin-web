@@ -7,6 +7,11 @@ export interface GuideMeta {
   datePublished: string;
   /** Change only when the page's content changes, never for a redeploy. */
   dateModified: string;
+  /**
+   * What changed and when, newest first, shown at the foot of the guide. Add
+   * an entry whenever dateModified moves, so readers can see why.
+   */
+  changes?: { date: string; note: string }[];
 }
 
 // Registry of published English guides. The /guide index and sitemap read from
@@ -35,6 +40,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'Format, difficulty, study time, and who each level is for.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 200.' }],
   },
   {
     slug: 'wset-level-2-vs-level-3',
@@ -51,6 +57,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'A simple plan for the entry-level wine exam, in about a day of study.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 100.' }],
   },
   {
     slug: 'how-to-pass-wset-level-2',
@@ -59,6 +66,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'A practical study plan and the traps that cost most candidates marks.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Corrected the number of questions in the Eclavin app: 2,000+ across Levels 1, 2 and 3, not 100.' }],
   },
   {
     slug: 'how-to-pass-wset-level-3',
@@ -83,6 +91,7 @@ export const GUIDES: GuideMeta[] = [
     blurb: 'Every level’s question count, time, pass mark, and study hours in one table.',
     datePublished: '2026-07-24',
     dateModified: '2026-09-23',
+    changes: [{ date: '2026-09-23', note: 'Added links to the official WSET qualification pages the figures come from.' }],
   },
   {
     slug: 'how-many-hours-to-study-for-wset',

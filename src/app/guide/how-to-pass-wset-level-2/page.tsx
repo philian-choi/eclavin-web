@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
+import ChangeLog from '@/components/ChangeLog';
 import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
@@ -188,6 +189,7 @@ export default function HowToPassLevel2Guide() {
             <Link href="/practice">All WSET practice exams</Link>
           </div>
         </section>
+        <ChangeLog changes={GUIDE.changes} />
       </article>
     </main>
   );

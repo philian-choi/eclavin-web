@@ -2,13 +2,13 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
-import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
+import ChangeLog from '@/components/ChangeLog';
+import { EXAM_FACTS_CHECKED, ORG_REF, WSET_QUALIFICATION_PAGES, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
 const PAGE_URL = `${BASE_URL}/guide/wset-exam-facts`;
 const GUIDE = getGuide('wset-exam-facts')!;
-const SOURCES_CHECKED = '2026-09-23';
 
 // English-only and identical for every visitor: prerender it. force-static also
 // keeps the root layout on its English default (<html lang=\"en\">).
@@ -191,10 +191,10 @@ export default function WsetExamFactsPage() {
           </p>
           <p style={{ fontSize: '0.85rem', color: 'var(--text-tertiary)' }}>
             Sources: the official WSET qualification pages for{' '}
-            <a href="https://www.wsetglobal.com/qualifications/wset-level-1-award-in-wines/" rel="noopener">Level 1</a>,{' '}
-            <a href="https://www.wsetglobal.com/qualifications/wset-level-2-award-in-wines/" rel="noopener">Level 2</a> and{' '}
-            <a href="https://www.wsetglobal.com/qualifications/wset-level-3-award-in-wines/" rel="noopener">Level 3</a>{' '}
-            (question counts, exam length and study hours), checked on {formatDateEn(SOURCES_CHECKED)}.
+            <a href={WSET_QUALIFICATION_PAGES[1]} rel="noopener">Level 1</a>,{' '}
+            <a href={WSET_QUALIFICATION_PAGES[2]} rel="noopener">Level 2</a> and{' '}
+            <a href={WSET_QUALIFICATION_PAGES[3]} rel="noopener">Level 3</a>{' '}
+            (question counts, exam length and study hours), checked on {formatDateEn(EXAM_FACTS_CHECKED)}.
           </p>
 
           <h2 className={styles.sectionTitle}>How to read this</h2>
@@ -240,6 +240,7 @@ export default function WsetExamFactsPage() {
             <Link href="/practice">Free WSET practice exams</Link>
           </div>
         </section>
+        <ChangeLog changes={GUIDE.changes} />
       </article>
     </main>
   );

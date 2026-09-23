@@ -4,7 +4,7 @@ import { headers } from 'next/headers';
 import { notFound } from 'next/navigation';
 import { getGlossaryTerm, GLOSSARY, GLOSSARY_SLUGS, GlossaryLang } from '@/lib/glossaryConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
-import { BASE_URL, APP_STORE_URL, ORG_REF, clip, bestBetween, fitTitle, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
+import { BASE_URL, APP_STORE_URL, ORG_REF, bestBetween, clipWidth, fitTitle, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
 interface Ui {
@@ -100,7 +100,7 @@ export async function generateMetadata({
   // The one-line summary alone was ~60 characters; add the exam angle so the
   // result snippet says why the page is worth opening.
   const description = lang === 'ko'
-    ? clip(`${c.term} 뜻: ${c.short} ${c.whyItMatters}`, 110)
+    ? clipWidth(`${c.term} 뜻: ${c.short} ${c.whyItMatters}`, 160)
     : bestBetween([
         `${c.term}: ${c.short} ${c.whyItMatters} ${c.example}`,
         `${c.term} in wine: ${c.short} ${c.whyItMatters} ${c.example}`,
@@ -161,9 +161,10 @@ export default async function GlossaryTermPage({
       '@type': 'DefinedTermSet',
       name: 'Eclavin Wine & WSET Glossary',
       url: `${BASE_URL}/glossary${langQuery}`,
+      // DefinedTerm has no inLanguage property; the set, a CreativeWork, does.
+      inLanguage: lang,
       publisher: ORG_REF,
     },
-    inLanguage: lang,
     url: pageUrl,
   };
 

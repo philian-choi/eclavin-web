@@ -58,10 +58,16 @@ Corrections and questions: support@eclavin.com.
 npm install
 npm run dev      # local development
 npm run build    # production build
-npm run deploy   # deploy to production on Vercel, then tell IndexNow search engines about new or changed pages
+npm run gate     # build, serve locally, and run the SEO checks on every page
+npm run deploy   # gate, then deploy to Vercel, tell IndexNow about new or changed pages, and re-check the live site
+npm run check:seo -- https://www.eclavin.com   # the checks alone, against any running copy
 ```
 
-Deploys are run by hand; pushing to GitHub does not deploy.
+Deploys are run by hand; pushing to GitHub does not deploy. The gate stops a deploy when a page
+answers an error, has a noindex, a canonical or `<html lang>` that does not match it, JSON-LD that
+does not parse or FAQ markup that differs from the text on screen, a duplicate or out-of-range
+English title (50-60 characters) or description (150-160), no share image, no not-affiliated
+notice, or a broken internal link. `SEO_GATE_SKIP=1 npm run deploy` skips it in an emergency.
 
 Environment variables (set in Vercel):
 

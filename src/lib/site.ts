@@ -23,6 +23,17 @@ export const WEBSITE_ID = `${BASE_URL}/#website`;
  */
 export const SITEWIDE_UPDATED = '2026-09-23';
 
+/**
+ * Exam formats (question counts, length, pass marks, study hours) were last
+ * checked against these official WSET pages on this date.
+ */
+export const EXAM_FACTS_CHECKED = '2026-09-23';
+export const WSET_QUALIFICATION_PAGES: Record<number, string> = {
+  1: 'https://www.wsetglobal.com/qualifications/wset-level-1-award-in-wines/',
+  2: 'https://www.wsetglobal.com/qualifications/wset-level-2-award-in-wines/',
+  3: 'https://www.wsetglobal.com/qualifications/wset-level-3-award-in-wines/',
+};
+
 /** Question counts. The app figure matches the App Store listing. */
 export const SITE_QUESTIONS_PER_LEVEL = 100;
 export const APP_QUESTIONS = { en: '2,000+', ko: '2,000개 이상' } as const;
@@ -77,12 +88,17 @@ export function resolveLang(param: string | null | undefined, country: string | 
   return country === 'KR' ? 'ko' : 'en';
 }
 
-/** hreflang map for a bilingual page whose variants differ only by ?lang. */
+/**
+ * hreflang map for a bilingual page whose variants differ only by ?lang.
+ * x-default is the English page: the bare address picks a language by country
+ * and canonicalises to one of the two, so it is not a page of its own and an
+ * annotation pointing at it can be ignored.
+ */
 export function languageAlternates(url: string) {
   return {
     en: `${url}?lang=en`,
     ko: `${url}?lang=ko`,
-    'x-default': url,
+    'x-default': `${url}?lang=en`,
   };
 }
 
@@ -97,6 +113,36 @@ const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 
 export function formatDateEn(iso: string): string {
   const [y, m, d] = iso.split('-').map(Number);
   return `${d} ${MONTHS[m - 1]} ${y}`;
+}
+
+/** "2026-07-24" → "2026년 7월 24일". */
+export function formatDateKo(iso: string): string {
+  const [y, m, d] = iso.split('-').map(Number);
+  return `${y}년 ${m}월 ${d}일`;
+}
+
+/**
+ * Display width with Hangul counted double, which is roughly how much room it
+ * takes in a search result next to Latin text. Korean titles and descriptions
+ * are sized with this instead of a plain character count.
+ */
+export function widthOf(text: string): number {
+  let w = 0;
+  for (const ch of text) w += /[\u1100-\u11FF\u3130-\u318F\uAC00-\uD7A3]/.test(ch) ? 2 : 1;
+  return w;
+}
+
+/** Cut text to at most `maxWidth` display width (see widthOf) at a word boundary. */
+export function clipWidth(text: string, maxWidth: number): string {
+  const clean = text.replace(/\s+/g, ' ').trim();
+  if (widthOf(clean) <= maxWidth) return clean;
+  let out = '';
+  for (const word of clean.split(' ')) {
+    const next = out ? `${out} ${word}` : word;
+    if (widthOf(next) + 1 > maxWidth) break;
+    out = next;
+  }
+  return `${out.replace(/[\s,;:.·-]+$/, '')}…`;
 }
 
 /**

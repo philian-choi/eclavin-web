@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { REGIONS } from '@/lib/regionConfig';
-import { jsonLd, ogImage } from '@/lib/site';
+import { ORG_REF, jsonLd, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -27,16 +27,24 @@ export const metadata: Metadata = {
 };
 
 export default function RegionHub() {
+  // A CollectionPage (a CreativeWork) can name its publisher; a bare ItemList cannot.
   const itemListJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'ItemList',
+    '@type': 'CollectionPage',
+    '@id': PAGE_URL,
+    url: PAGE_URL,
     name: 'Wine Regions',
-    itemListElement: REGIONS.map((r, i) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      name: r.name,
-      url: `${BASE_URL}/region/${r.slug}`,
-    })),
+    inLanguage: 'en',
+    publisher: ORG_REF,
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: REGIONS.map((r, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: r.name,
+        url: `${BASE_URL}/region/${r.slug}`,
+      })),
+    },
   };
 
   const breadcrumbJsonLd = {

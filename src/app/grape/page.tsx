@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { GRAPES } from '@/lib/grapeConfig';
-import { jsonLd, ogImage } from '@/lib/site';
+import { ORG_REF, jsonLd, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -30,16 +30,24 @@ export default function GrapeHub() {
   const reds = GRAPES.filter((g) => g.color === 'Red');
   const whites = GRAPES.filter((g) => g.color === 'White');
 
+  // A CollectionPage (a CreativeWork) can name its publisher; a bare ItemList cannot.
   const itemListJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'ItemList',
+    '@type': 'CollectionPage',
+    '@id': PAGE_URL,
+    url: PAGE_URL,
     name: 'Wine Grape Varieties',
-    itemListElement: GRAPES.map((g, i) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      name: g.name,
-      url: `${BASE_URL}/grape/${g.slug}`,
-    })),
+    inLanguage: 'en',
+    publisher: ORG_REF,
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: GRAPES.map((g, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: g.name,
+        url: `${BASE_URL}/grape/${g.slug}`,
+      })),
+    },
   };
 
   const breadcrumbJsonLd = {

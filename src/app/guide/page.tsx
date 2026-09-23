@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { GUIDES } from '@/lib/guidesConfig';
-import { jsonLd, formatDateEn, ogImage } from '@/lib/site';
+import { ORG_REF, jsonLd, formatDateEn, ogImage } from '@/lib/site';
 import styles from '../practice/practice.module.css';
 
 const BASE_URL = 'https://www.eclavin.com';
@@ -29,16 +29,25 @@ export const metadata: Metadata = {
 const guides = GUIDES;
 
 export default function GuidesIndex() {
+  // A CollectionPage (a CreativeWork) can name its publisher; a bare ItemList cannot.
   const itemListJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'ItemList',
+    '@type': 'CollectionPage',
+    '@id': PAGE_URL,
+    url: PAGE_URL,
     name: 'WSET Study Guides',
-    itemListElement: guides.map((g, i) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      name: g.title,
-      url: `${BASE_URL}/guide/${g.slug}`,
-    })),
+    inLanguage: 'en',
+    dateModified: LATEST,
+    publisher: ORG_REF,
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: guides.map((g, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: g.title,
+        url: `${BASE_URL}/guide/${g.slug}`,
+      })),
+    },
   };
 
   const breadcrumbJsonLd = {

@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
+import ChangeLog from '@/components/ChangeLog';
 import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
@@ -232,6 +233,7 @@ export default function BestWsetAppsGuide() {
             <Link href="/glossary">Wine &amp; WSET glossary</Link>
           </div>
         </section>
+        <ChangeLog changes={GUIDE.changes} />
       </article>
     </main>
   );

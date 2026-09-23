@@ -30,6 +30,8 @@ export interface PracticeLevelConfig {
   levelLabel: string; // "Level 2"
   /** Date the page copy last changed, shown on the page and used as its sitemap lastmod. */
   updated: string;
+  /** What changed on `updated` (and before), newest first, shown at the foot of the page. */
+  changes: { date: string; en: string; ko: string }[];
   factValues: string[]; // shared across languages, in order
   copy: Record<PracticeLang, LevelCopy>;
 }
@@ -51,6 +53,13 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
     levelNum: 1,
     levelLabel: 'Level 1',
     updated: '2026-09-23',
+    changes: [
+      {
+        date: '2026-09-23',
+        en: 'Corrected the number of questions in the Eclavin app and linked the full list of 100 free questions.',
+        ko: '앱 문제 수를 바로잡고 무료 문제 100개 전체 목록 링크를 달았습니다.',
+      },
+    ],
     factValues: ['30', '45', '70%', '~6h'],
     copy: {
       en: {
@@ -141,6 +150,13 @@ export const PRACTICE_LEVELS: Record<string, PracticeLevelConfig> = {
     levelNum: 2,
     levelLabel: 'Level 2',
     updated: '2026-09-23',
+    changes: [
+      {
+        date: '2026-09-23',
+        en: 'Corrected the number of questions in the Eclavin app and linked the full list of 100 free questions.',
+        ko: '앱 문제 수를 바로잡고 무료 문제 100개 전체 목록 링크를 달았습니다.',
+      },
+    ],
     factValues: ['50', '60', '55%', '~28h'],
     copy: {
       en: {

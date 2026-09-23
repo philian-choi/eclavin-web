@@ -11,7 +11,21 @@ import {
 } from '@/lib/practiceConfig';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import PracticeQuiz, { PracticeQuestion, QuizLabels } from '@/components/PracticeQuiz';
-import { BASE_URL, APP_STORE_URL, APP_QUESTIONS, ORG_REF, languageAlternates, resolveLang, jsonLd, ogImage } from '@/lib/site';
+import {
+  BASE_URL,
+  APP_STORE_URL,
+  APP_QUESTIONS,
+  EXAM_FACTS_CHECKED,
+  ORG_REF,
+  WSET_QUALIFICATION_PAGES,
+  formatDateEn,
+  formatDateKo,
+  languageAlternates,
+  resolveLang,
+  jsonLd,
+  ogImage,
+} from '@/lib/site';
+import ChangeLog from '@/components/ChangeLog';
 import styles from '../practice.module.css';
 
 const SAMPLE_COUNT = 20;
@@ -251,6 +265,15 @@ export default async function PracticeLevelPage({
               </span>
             ))}
           </div>
+          <p style={{ marginTop: '0.8rem', fontSize: '0.85rem', opacity: 0.8 }}>
+            {lang === 'ko' ? '시험 형식 출처: ' : 'Exam format source: '}
+            <a href={WSET_QUALIFICATION_PAGES[cfg.levelNum]} rel="noopener">
+              {lang === 'ko' ? `WSET 공식 ${cfg.levelNum}급 안내 페이지` : `the official WSET ${cfg.levelLabel} page`}
+            </a>
+            {lang === 'ko'
+              ? ` (${formatDateKo(EXAM_FACTS_CHECKED)} 확인)`
+              : `, checked on ${formatDateEn(EXAM_FACTS_CHECKED)}.`}
+          </p>
         </div>
 
         <h2 className={styles.sectionTitle}>{t.tryTitle(questions.length)}</h2>
@@ -311,6 +334,7 @@ export default async function PracticeLevelPage({
             })}
           </div>
         </section>
+        <ChangeLog changes={cfg.changes.map((c) => ({ date: c.date, note: c[lang] }))} lang={lang} />
       </article>
     </main>
   );

@@ -1,5 +1,5 @@
 import type { Episode, Language } from './episodes';
-import { bestBetween, clip, fitTitle } from './site';
+import { bestBetween, clip, clipWidth, fitTitle, widthOf } from './site';
 
 /**
  * Search-facing text for question pages.
@@ -25,7 +25,14 @@ export function episodeTitle(ep: Episode, level: number, lang: Language): string
 
 export function episodeDescription(ep: Episode, level: number, lang: Language): string {
   if (lang === 'ko') {
-    return `WSET ${level}급 연습문제 ${ep.number}번: ${clip(ep.question, 64)} 정답과 해설을 바로 확인하세요.`;
+    // Sized by display width (Hangul counts double): 100-170, like the English 150-160.
+    const tails = ['정답과 해설을 바로 확인하세요.', '네 개의 보기 중 답을 고른 뒤 정답과 해설을 바로 확인하세요.'];
+    for (const tail of tails) {
+      const lead = `WSET ${level}급 연습문제 ${ep.number}번:`;
+      const text = `${lead} ${clipWidth(ep.question, 170 - widthOf(lead) - widthOf(tail) - 2)} ${tail}`;
+      if (widthOf(text) >= 100) return text;
+    }
+    return `WSET ${level}급 연습문제 ${ep.number}번: ${ep.question} ${tails[1]}`;
   }
   const head = `WSET Level ${level} practice question ${ep.number}`;
   const tails = ['See the answer and a full explanation.', 'Answer and explanation included.', 'With the answer and a worked explanation.'];

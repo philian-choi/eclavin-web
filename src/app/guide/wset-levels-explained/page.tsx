@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import TrackedAppStoreLink from '@/components/TrackedAppStoreLink';
 import { getGuide } from '@/lib/guidesConfig';
+import ChangeLog from '@/components/ChangeLog';
 import { ORG_REF, formatDateEn, jsonLd, ogImage } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
@@ -240,6 +241,7 @@ export default function WsetLevelsExplainedGuide() {
             <Link href="/guide/wset-level-2-vs-level-3">Level 2 vs Level 3</Link>
           </div>
         </section>
+        <ChangeLog changes={GUIDE.changes} />
       </article>
     </main>
   );

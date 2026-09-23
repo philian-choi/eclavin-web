@@ -16,6 +16,10 @@ import {
   resolveLang,
   jsonLd,
   ogImage,
+  EXAM_FACTS_CHECKED,
+  WSET_QUALIFICATION_PAGES,
+  formatDateEn,
+  formatDateKo,
 } from '@/lib/site';
 import styles from '../../practice/practice.module.css';
 
@@ -165,6 +169,15 @@ export default async function LevelPage(props: Props) {
         <div className={styles.answerBox}>
           <h2>{t.shortAnswer}</h2>
           <p>{t.lead}</p>
+          <p style={{ marginTop: '0.8rem', fontSize: '0.85rem', opacity: 0.8 }}>
+            {lang === 'ko' ? '시험 형식 출처: ' : 'Exam format source: '}
+            <a href={WSET_QUALIFICATION_PAGES[levelNum]} rel="noopener">
+              {lang === 'ko' ? `WSET 공식 ${levelNum}급 안내 페이지` : `the official WSET Level ${levelNum} page`}
+            </a>
+            {lang === 'ko'
+              ? ` (${formatDateKo(EXAM_FACTS_CHECKED)} 확인)`
+              : `, checked on ${formatDateEn(EXAM_FACTS_CHECKED)}.`}
+          </p>
         </div>
 
         <p className={styles.sectionIntro}>
