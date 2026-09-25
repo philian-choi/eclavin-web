@@ -48,6 +48,11 @@ export const metadata: Metadata = {
       'Free WSET Level 1 and Level 2 practice questions with answers and explanations, plus study guides and a wine glossary.',
     images: ['https://www.eclavin.com/og-image.png'],
   },
+  // Smart App Banner: iPhone Safari shows a "Get the app" strip on every page,
+  // which turns into "Open" once the app is installed.
+  itunes: {
+    appId: '6757098139',
+  },
   appleWebApp: {
     capable: true,
     title: 'Eclavin',
